@@ -15,5 +15,8 @@ language: ro
 
 ← [[(59 II Corinteni 13.01) Avertizare suplimentară.md]] | [[(60 Galateni 01.01) Salutare.md]] →
 
+11. Deci, fraţilor, bucuraţi-vă! Desăvârşiţi-vă, mângâiaţi-vă, fiţi uniţi în cuget, trăiţi în pace şi Dumnezeul dragostei şi al păcii va fi cu voi.
+12. Îmbrăţişaţi-vă unii pe alţii cu sărutare sfântă. Sfinţii toţi vă îmbrăţişează.
+13. Harul Domnului nostru Iisus Hristos şi dragostea lui Dumnezeu şi împărtăşirea Sfântului Duh să fie cu voi cu toţi!
 
 ← [[(59 II Corinteni 13.01) Avertizare suplimentară.md]] | [[(60 Galateni 01.01) Salutare.md]] →

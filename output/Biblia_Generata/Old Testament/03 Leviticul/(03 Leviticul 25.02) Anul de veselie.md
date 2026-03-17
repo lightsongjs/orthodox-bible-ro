@@ -15,6 +15,24 @@ language: ro
 
 ← [[(03 Leviticul 25.01) Anul sabatic.md]] | [[(03 Leviticul 26.01) Răsplăți pentru ascultare.md]] →
 
+8. Să numeri apoi şapte ani de odihnă, adică de şapte ori câte şapte ani, ca să ai în cei de şapte ori câte şapte ani, patruzeci şi nouă de ani.
+9. Şi să trâmbiţezi cu trâmbiţa în luna a şaptea, în ziua a zecea a lunii; în ziua curăţirii să trâmbiţezi cu trâmbiţa în toată ţara voastră.
+10. Să sfinţiţi anul al cincizecilea şi să se vestească slobozenie pe pământul vostru pentru toţi locuitorii lui. Să vă fie acesta an de slobozenie, ca să se întoarcă fiecare la moşia sa; fiecare să se întoarcă la ogorul său.
+11. Anul al cincizecilea să vă fie an de slobozenie: să nu semănaţi, nici să seceraţi ceea ce va creşte de la sine pe pământ, şi să nu culegeţi poama de pe viţele netăiate,
+12. Că acesta e jubileu; sfânt să fie pentru voi; roadele de pe ogor să le mâncaţi.
+13. În anul jubileu să se întoarcă fiecare la moşia sa.
+14. De vei vinde ceva aproapelui tău sau de vei cumpăra ceva de la aproapele tău, să nu înşele nimeni pe aproapele său.
+15. După numărul anilor trecuţi de la cel din urmă jubileu să cumperi de la aproapele tău, şi după numărul anilor de cules să-ţi vândă el.
+16. Dacă au rămas ani mai mulţi până la jubileu, sporeşte preţul, iar dacă au rămas puţini ani, micşorează preţul, căci un anumit număr de secerişuri îţi vinde el.
+17. Să nu înşele nimeni pe aproapele său; teme-te de Domnul Dumnezeul tău; Eu sunt Domnul Dumnezeul vostru.
+18. Faceţi poruncile Mele şi toate hotărârile Mele; faceţi şi păziţi toate acestea şi veţi locui liniştiţi pe pământ.
+19. Pământul îşi va da rodul său, veţi mânca până la saţ şi veţi trăi liniştiţi pe el.
+20. Iar de veţi zice: Dar ce să mâncăm în anul al şaptelea, când nici nu vom semăna, nici nu vom aduna roadele noastre?
+21. Vă voi trimite binecuvântarea Mea în anul al şaselea şi va aduce roadele sale pentru trei ani.
+22. Şi veţi semăna în anul al optulea, dar de mâncat veţi mânca roadele cele vechi până la al nouălea an: până se vor coace roadele anului al optulea veţi mânca din cele vechi din anii trecuţi.
+23. Pământul să nu-l vindeţi de veci, că pământul este al Meu; iar voi sunteţi străini şi venetici înaintea Mea.
+24. În toate părţile stăpânirii voastre să îngăduiţi răscumpărarea pământului.
+25. Dacă fratele tău, care e cu tine, va sărăci şi va vinde din moştenirea sa, să vină ruda sa de aproape şi să cumpere ceea ce vinde fratele său.
 26. Dacă însă nu va avea cineva rudenie, ci îi va da lui mâna şi va găsi cât îi trebuie pentru răscumpărare,
 27. Atunci să numere anii vânzării sale, şi ce trece să întoarcă aceluia, căruia i-a vândut, şi se va întoarce la moşia sa.
 28. Iar dacă nu va găsi mâna lui cit îi trebuie să întoarcă aceluia, atunci pământul vândut de el va rămâne în mâinile cumpărătorului până la anul jubileu, şi în anul jubileu cumpărătorul va ieşi şi vânzătorul va intra în stăpânirea sa.

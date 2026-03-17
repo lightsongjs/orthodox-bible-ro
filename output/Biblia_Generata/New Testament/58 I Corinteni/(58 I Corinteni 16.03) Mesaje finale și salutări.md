@@ -15,6 +15,10 @@ language: ro
 
 ← [[(58 I Corinteni 16.02) Planuri de călătorie.md]] | [[(59 II Corinteni 01.01) Salutare.md]] →
 
+13. Privegheaţi, staţi tari în credinţă, îmbărbătaţi-vă, întăriţi-vă.
+14. Toate ale voastre cu dragoste să se facă.
+15. Vă îndemn însă, fraţilor, - ştiţi casa lui Ştefanas, că este pârga Ahaei şi că spre slujirea sfinţilor s-au rânduit pe ei înşişi S
+16. Ca şi voi să vă supuneţi unora ca aceştia şi oricui lucrează şi se osteneşte împreună cu ei.
 17. Mă bucur de venirea lui Ştefanas, a lui Fortunat şi a lui Ahaic, pentru că aceştia au împlinit lipsa voastră.
 18. Şi au liniştit duhul meu şi al vostru. Cunoaşteţi bine deci pe unii ca aceştia.
 19. Vă îmbrăţişează Bisericile Asiei. Vă îmbrăţişează mult, în Domnul, Acvila şi Priscila, împreună cu Biserica din casa lor.

@@ -15,6 +15,9 @@ language: ro
 
 ← [[(45 Solomon 14.01) Nebunia unui navigator care se roagă la un idol.md]] | [[(45 Solomon 15.01) Beneficiile închinării la Dumnezeul Adevărat.md]] →
 
+12. Gândul plăsmuirii de idoli a fost începutul aprinderii spre desfrâu, şi născocirea lor a fost pierderea vieţii.
+13. Fiindcă n-au fost de la început şi nu vor fi totdeauna.
+14. Prin deşarta mărire omenească au intrat în lume, astfel că apropiatul lor sfârşit este hotărât înaintea lui Dumnezeu.
 15. Un tată, întristându-se cu amară jale pentru copilul său răpit înainte de vreme, i-a făcut chipul şi pe cel care ieri încă nu era decât un om mort, îl cinsteşte acum ca pe un dumnezeu şi a rânduit celor din casa sa taine şi slujbe.
 16. După aceea, cu vremea, întărindu-se acest păgânesc obicei, s-a păzit ca o lege şi, din poruncile tiranilor, a ieşit cinstirea chipurilor cioplite.
 17. Când popoarele nu puteau să-i cinstească de faţă, pentru că locuiau departe, făceau o asemuire după chipul depărtat şi potriveau un chip văzut al împăratului preacinstit, aşa încât să dea celui ce nu era de faţă aceleaşi sârguincioase închinări ca şi cum ar fi de faţă.

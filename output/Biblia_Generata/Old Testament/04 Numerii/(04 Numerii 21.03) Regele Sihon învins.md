@@ -15,6 +15,7 @@ language: ro
 
 ← [[(04 Numerii 21.02) Călătoria spre Moab.md]] | [[(04 Numerii 21.04) Regele Og învins.md]] →
 
+21. De acolo a trimis Moise soli la Sihon, regele Amoreilor, cu veşti de pace, ca să i se spună:
 22. Dă-mi voie să trec prin ţara ta. Nu ne vom abate nici la ogorul tău, nici la via ta, nici apă din fântâna ta nu vom bea, ci vom trece de hotarele tale!
 23. Dar Sihon n-a îngăduit lui Israel să treacă prin ţara lui, ci şi-a adunat tot poporul său şi a păşit împotriva lui Israel în pustie, înaintând până la Iahaţ, unde s-a luptat cu Israel.
 24. Însă Israel l-a bătut, măcelărindu-l cu sabia, şi i-a cuprins ţara de la Arnon până la Iaboc, până la fiii lui Amon, căci hotarele Amoniţilor erau întărite.

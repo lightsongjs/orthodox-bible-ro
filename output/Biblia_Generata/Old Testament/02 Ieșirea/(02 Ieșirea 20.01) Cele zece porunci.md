@@ -35,5 +35,6 @@ language: ro
 19. Apoi a zis către Moise: "Vorbeşte tu cu noi şi vom asculta, dar Dumnezeu să nu grăiască cu noi, ca să nu murim".
 20. Zis-a Moise către popor: "Cutezaţi, că Dumnezeu a venit la voi, să vă pună la încercare pentru ca frica Lui să fie în voi, ca să nu greşiţi".
 21. Că în şase zile a făcut Domnul cerul şi pământul, marea şi toate cele ce sunt într-însele, iar în ziua a şaptea S-a odihnit. De aceea a binecuvântat Domnul ziua a şaptea şi a sfinţit-o.
+21. Şi a stat tot poporul departe, iar Moise s-a apropiat de întunericul unde era Dumnezeu.
 
 ← [[(02 Ieșirea 19.02) Poporul sfințit.md]] | [[(02 Ieșirea 20.02) Legea despre altar.md]] →

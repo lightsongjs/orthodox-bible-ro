@@ -25,6 +25,7 @@ language: ro
 9. Şi ca să trăiţi multă vreme în pământul acela pentru care Domnul S-a jurat părinţilor voştri să li-l dea lor şi seminţiei lor, în pământul unde curge miere şi lapte.
 10. Căci pământul la care mergi tu ca să-l stăpâneşti nu este ca pământul Egiptului din care ai ieşit, unde, semănând sămânţa, o udai cu ajutorul picioarelor tale, ca pe o grădină de legume.
 11. "Să iubeşti dar pe Domnul Dumnezeul tău şi să păzeşti în toate zilele cele ce ţi-a poruncit El să păzeşti: hotărârile Lui, legile Lui şi poruncile Lui.
+11. Ci pământul în care treceţi ca să-l stăpâniţi este o ţară cu munţi şi cu văi şi se adapă cu apă din ploaia cerului.
 12. Este ţara de care poartă grijă Domnul Dumnezeul tău; ochii Domnului Dumnezeului tău sunt necontenit asupra ei, de la începutul anului până la sfârşitul lui.
 13. De veţi asculta poruncile Mele pe care vi le dau astăzi, zice Domnul, şi veţi iubi pe Domnul Dumnezeul vostru şi-I veţi sluji din toată inima şi din tot sufletul vostru,
 14. Voi da pământului vostru ploaie la vreme, timpurie şi târzie, şi-ţi vei strânge pâinea ta, vinul tău şi untdelemnul tău;

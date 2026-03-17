@@ -15,5 +15,6 @@ language: ro
 
 ← [[(17 Esterei 01.01) Visul lui Mardoheu.md]] | [[(17 Esterei 01.03) Regele Ahasveros o destituie pe regina Vasti.md]] →
 
+2. În vremea când regele Artaxerxe îşi avea scaunul său domnesc în cetatea Suza,
 
 ← [[(17 Esterei 01.01) Visul lui Mardoheu.md]] | [[(17 Esterei 01.03) Regele Ahasveros o destituie pe regina Vasti.md]] →

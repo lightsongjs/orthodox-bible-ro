@@ -15,6 +15,7 @@ language: ro
 
 ← [[(38 Zaharia 05.01) A șasea vedenie Sulul zburător.md]] | [[(38 Zaharia 06.01) A opta vedenie Cele patru care.md]] →
 
+5. Şi îngerul care grăia cu mine a ieşit la iveală şi mi-a zis: "Ridică ochii tăi şi vezi: Ce este arătarea aceasta?"
 6. Atunci am grăit: "Ce este aceasta?" Şi el mi-a răspuns: "Este efa care iese la iveală". Şi a spus mai departe: "În ea se află fărădelegea a tot pământul!"
 7. Şi iată că s-a ridicat un disc de plumb, iar o femeie stătea în mijlocul efei.
 8. Şi el a tâlcuit: "Aceasta este fărădelegea!" Şi el a aruncat-o în efă şi a răsturnat lespedea de plumb deasupra ei.

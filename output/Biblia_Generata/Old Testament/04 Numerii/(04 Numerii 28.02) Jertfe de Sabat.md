@@ -15,5 +15,7 @@ language: ro
 
 ← [[(04 Numerii 28.01) Jertfe zilnice.md]] | [[(04 Numerii 28.03) Jertfe lunare.md]] →
 
+9. Iar în ziua odihnei să aduceţi doi miei de câte un an, fără meteahnă, şi ca jertfă două zecimi de efă de făină de grâu, frământată cu untdelemn şi cu turnarea ei.
+10. Aceasta este ardere de tot pentru ziua odihnei afară de arderea de tot cea necontenită cu turnarea ei.
 
 ← [[(04 Numerii 28.01) Jertfe zilnice.md]] | [[(04 Numerii 28.03) Jertfe lunare.md]] →

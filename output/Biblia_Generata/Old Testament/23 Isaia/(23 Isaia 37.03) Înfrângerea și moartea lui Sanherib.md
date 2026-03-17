@@ -15,6 +15,8 @@ language: ro
 
 ← [[(23 Isaia 37.02) Rugăciunea lui Ezechia.md]] | [[(23 Isaia 38.01) Boala lui Ezechia.md]] →
 
+36. Şi a ieşit îngerul Domnului şi a bătut în tabăra Asiriei o sută şi cincizeci de mii; iar dimineaţa, la sculare, toţi erau morţi.
+37. Atunci Sanherib, regele Asiriei, a ridicat tabăra şi a plecat şi s-a oprit la Ninive.
 38. Şi pe când el se închina în templul lui Nisroc, dumnezeul său, Adramelec şi Şareser, feciorii lui, l-au lovit cu sabia şi au fugit în ţinutul Ararat. Iar în locul lui, a domnit fiul său Asarhadon.
 
 ← [[(23 Isaia 37.02) Rugăciunea lui Ezechia.md]] | [[(23 Isaia 38.01) Boala lui Ezechia.md]] →

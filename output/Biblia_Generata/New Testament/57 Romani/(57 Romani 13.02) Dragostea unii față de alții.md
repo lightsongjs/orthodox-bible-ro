@@ -15,5 +15,8 @@ language: ro
 
 ← [[(57 Romani 13.01) Supunerea față de autorități.md]] | [[(57 Romani 13.03) Un îndemn urgent.md]] →
 
+8. Nimănui cu nimic nu fiţi datori, decât cu iubirea unuia faţă de altul; că cel care iubeşte pe aproapele a împlinit legea.
+9. Pentru că (poruncile): Să nu săvârşeşti adulter; să nu ucizi; să nu furi; să nu mărturiseşti strâmb; să nu pofteşti... şi orice altă poruncă ar mai fi se cuprind în acest cuvânt: Să iubeşti pe aproapele tău ca pe tine însuţi.
+10. Iubirea nu face rău aproapelui; iubirea este deci împlinirea legii.
 
 ← [[(57 Romani 13.01) Supunerea față de autorități.md]] | [[(57 Romani 13.03) Un îndemn urgent.md]] →

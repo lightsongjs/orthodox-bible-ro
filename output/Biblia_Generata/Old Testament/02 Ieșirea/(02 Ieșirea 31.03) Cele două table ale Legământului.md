@@ -15,5 +15,6 @@ language: ro
 
 ← [[(02 Ieșirea 31.02) Legea Sabatului.md]] | [[(02 Ieșirea 32.01) Vițelul de aur.md]] →
 
+18. După ce a încetat Dumnezeu de a grăi cu Moise, pe Muntele Sinai, i-a dat cele două table ale legii, table de piatră, scrise cu degetul lui Dumnezeu.
 
 ← [[(02 Ieșirea 31.02) Legea Sabatului.md]] | [[(02 Ieșirea 32.01) Vițelul de aur.md]] →

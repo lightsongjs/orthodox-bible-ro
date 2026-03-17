@@ -15,6 +15,17 @@ language: ro
 
 ← [[(04 Numerii 18.01) Răspunderea preoților și leviților.md]] | [[(04 Numerii 19.01) Ceremonia vacii roșii.md]] →
 
+8. Zis-a Domnul către Aaron: "Iată Eu am dat în seama voastră pârga Mea din toate cele închinate Mie de fiii lui Israel: ţie ţi le-am dat acestea şi după tine fiilor tăi, pentru cinul vostru, pentru preoţia voastră, prin lege veşnică.
+9. Iată ce este al tău din cele preasfinte, în afară de cele ce se dau focului: orice dar de pâine al lor, orice jertfă pentru păcat a lor şi orice jertfă pentru vină, ce-Mi aduc ei, aceste lucruri preasfinte să fie ale tale şi ale fiilor tăi.
+10. Acestea să le mâncaţi în locul cel sfânt. Tu şi fiii tăi, toţi cei de parte bărbătească ai voştri pot să mănânce din ele. Cele sfinte să fie ale tale.
+11. Şi iată ce să mai fie al vostru din darurile lor ridicate: toate darurile ridicate ale fiilor lui Israel şi toate darurile lor legănate ţi le-am dat ţie şi fiilor tăi şi fiicelor tale, care sunt cu tine, prin lege veşnică. Tot cel curat din casa ta poate să mănânce din acestea.
+12. Toată pârga de untdelemn şi toată pârga de struguri şi pârga grâului lor, toate câte aduc ei Domnului, ţi le-am dat ţie.
+13. Cele dintâi roade ale pământului lor, pe care le aduc ei Domnului, să fie ale tale, şi tot cel curat din casa ta poate să mănânce din acestea.
+14. Tot ce este afierosit în Israel să fie al tău.
+15. Tot ce se naşte întâi din tot trupul, din oameni şi din dobitoace, şi se aduce Domnului, să fie al tău; dar întâiul născut dintre oameni să se răscumpere şi întâiul născut dintre dobitoacele necurate să se răscumpere;
+16. Iar preţul răscumpărării lui, la o lună după naştere, este cinci sicli de argint, după siclul sfânt, care are douăzeci de ghere.
+17. Însă întâiul născut al vacilor, întâiul născut al oilor şi întâiul născut al caprelor, nu se răscumpără: aceştia sunt sfinţiţi; cu sângele lor să stropeşti jertfelnicul. Grăsimea lor s-o arzi ca jertfă, întru miros de bună mireasmă Domnului;
+18. Iar carnea lor este a ta şi tot ale tale sunt pieptul înălţat şi şoldul drept.
 19. Toate darurile sfinte, înălţate, care se aduc Domnului de fiii lui Israel, ţi le dau ţie, fiilor tăi şi fiicelor tale care sunt cu tine, prin lege veşnică. Acest legământ de necălcat este veşnic înaintea Domnului pentru tine şi pentru urmaşii tăi".
 20. Zis-a Domnul către Aaron: "În pământul lor nu vei avea nici moştenire, nici parte nu vei avea între ei. Eu sunt partea ta şi moştenirea ta între fiii lui Israel,
 21. Iar fiilor lui Levi, iată, Eu le-am dat moştenire toată zeciuiala din toate câte are Israel, pentru slujba lor pe care o fac la cortul adunării.

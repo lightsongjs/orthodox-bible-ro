@@ -15,6 +15,11 @@ language: ro
 
 ← [[(15 I Ezdra 10.01) Răspunsul poporului.md]] | [[(16 Neemia 01.01) Neemia se roagă pentru poporul său.md]] →
 
+6. Şi după ce s-a sculat, Ezdra s-a dus de la templul lui Dumnezeu la locuinţa lui Iohanan, fiul lui Eliaşib şi, ajungând acolo, n-a mâncat pâine, nici, apă n-a băut, căci plângea pentru nelegiuirea celor din robie.
+7. Şi a făcut cunoscut în Iuda şi în Ierusalim tuturor celor ce fuseseră în robie să se adune la Ierusalim;
+8. Şi cel ce nu va veni până în trei zile, pe averea aceluia, după sfatul căpeteniilor şi al bătrânilor, se va pune blestem, iar el însuşi va fi îndepărtat din obştea celor ce fuseseră în robie.
+9. Şi s-au adunat toţi locuitorii Iudei şi ai ţinutului lui Veniamin la Ierusalim în trei zile. Şi aceasta era în luna a noua, în ziua a douăzecea a lunii acesteia. Şi s-a aşezat tot poporul în piaţa de la templul lui Dumnezeu, tremurând atât pentru păcatul acesta, cât şi din pricina ploilor.
+10. Şi s-a sculat Ezdra preotul şi le-a zis: "Voi aţi făcut păcat, luându-vă femei de neam străin şi cu aceasta aţi mărit vina lui Israel.
 11. Aşadar, pocăiţi-vă de păcatul acesta înaintea Domnului Dumnezeului părinţilor voştri şi faceţi voia Lui şi depărtaţi-vă de popoarele pământului acestuia şi de femeile celor de alt neam".
 12. Şi răspunzând toată adunarea, a zis cu glas tare: "Cum zici tu, aşa vom face!
 13. Însă poporul este mult la număr şi acum este timp ploios şi nu putem sta afară. Şi apoi şi treaba aceasta nu este de-o zi ori de două, pentru că mulţi din noi am săvârşit acest păcat.

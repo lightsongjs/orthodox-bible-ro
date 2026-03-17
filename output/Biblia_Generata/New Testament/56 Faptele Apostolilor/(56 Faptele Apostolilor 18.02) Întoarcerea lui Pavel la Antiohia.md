@@ -15,6 +15,7 @@ language: ro
 
 ← [[(56 Faptele Apostolilor 18.01) Pavel în Corint.md]] | [[(56 Faptele Apostolilor 18.03) Slujirea lui Apolo.md]] →
 
+18. Iar Pavel, după ce a stat încă multe zile în Corint, şi-a luat rămas bun de la fraţi şi a plecat cu corabia în Siria, împreună cu Priscila şi cu Acvila, care şi-a tuns capul la Chenhrea, căci făcuse o făgăduinţă.
 19. Şi au sosit la Efes şi pe aceia i-a lăsat acolo, iar el, intrând în sinagogă, discuta cu iudeii.
 20. Şi rugându-l să rămână la ei mai multă vreme, n-a voit,
 21. Ci, despărţindu-se de ei, a zis: Trebuie, negreşit, ca sărbătoarea care vine s-o fac la Ierusalim, dar, cu voia Domnului, mă voi întoarce iarăşi la voi. Şi a plecat de la Efes, cu corabia.

@@ -15,6 +15,10 @@ language: ro
 
 ← [[(45 Solomon 13.01) Nebunia închinării la natură.md]] | [[(45 Solomon 14.01) Nebunia unui navigator care se roagă la un idol.md]] →
 
+10. Dar sunt cu totul ticăloşi şi şi-au pus nădejdea în lucruri fără de viaţă cei care au numit dumnezei lucrurile mâinilor omeneşti, aurul şi argintul cu meşteşug lucrat şi închipuiri de dobitoace sau piatră netrebnică, cioplită de mână de demult.
+11. Un meşter lemnar a tăiat din pădure un lemn bun de lucrat, l-a jupuit de coajă şi apoi cu îndemânarea sa a făcut din el o unealtă folositoare spre slujba vieţii.
+12. Rămăşiţele de la lemnul lucrat le pune pe foc să îşi fiarbă de mâncare şi îşi potoleşte foamea.
+13. Şi ce-a mai rămas dintr-acestea, nefiind de nici o treabă, pentru că este lemn strâmb şi noduros, îl ciopleşte ca să-i treacă de urât şi, potrivindu-l şi meşteşugindu-l, l-a făcut asemenea cu chipul de om.
 14. Sau l-a făcut asemenea vreunui dobitoc de nimic şi, vopsindu-l peste tot şi rumenindu-l la faţă cu vopsea roşie, i-a ascuns toate metehnele.
 15. Apoi i-a făcut în perete bună aşezare, l-a pus acolo şi l-a întărit cu piroane de fier.
 16. El are grijă de idol să nu cadă, ştiind bine că nu-şi poate ajuta singur, căci nu este decât un chip care are nevoie de ajutor.

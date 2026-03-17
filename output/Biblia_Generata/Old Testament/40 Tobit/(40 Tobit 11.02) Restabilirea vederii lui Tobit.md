@@ -15,6 +15,11 @@ language: ro
 
 ← [[(40 Tobit 11.01) Călătoria spre casă.md]] | [[(40 Tobit 12.01) Plata lui Rafael.md]] →
 
+7. Şi Rafael a zis: "Tobie, ştiu că se vor deschide ochii tatălui tău, ca să vadă.
+8. Să ungi ochii lui cu fiere şi el va simţi usturime, îi va freca şi va cădea albeaţa şi te va vedea".
+9. Şi, alergând, Ana s-a aruncat de gâtul fiului său şi i-a zis: "Bine că te-am văzut, copilul meu! De acum pot să mor!" Şi au plâns amândoi.
+10. Atunci Tobit a ieşit în uşă şi s-a împiedicat. Fiul său a alergat înaintea lui,
+11. A sprijinit pe tatăl său şi i-a uns ochii cu fiere, zicând: "Ai încredere, tată!" şi l-a lăsat câtva timp.
 12. Şi au început să-l usture ochii şi el i-a şters şi s-a desprins albeaţa de pe marginea ochilor lui.
 13. Şi văzând pe fiul său a căzut pe grumazul lui
 14. Şi a plâns şi a strigat: "Te văd fiul meu, lumina ochilor mei!" Şi a zis: Binecuvântat eşti Tu, Dumnezeule, şi binecuvântat este numele Tău în veci, şi binecuvântaţi sunt toţi sfinţii Tăi îngeri,

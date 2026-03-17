@@ -27,6 +27,7 @@ language: ro
 10. Tu poruncă ai dat, ca oricine va auzi glasul trâmbiţei, al flautului, al chitarei, al harpei, al psalterionului, al cimpoiului şi al altor instrumente muzicale, să cadă la pământ şi să se închine chipului de aur.
 11. Iar cine nu va cădea la pământ, nici se va închina, să fie aruncat în mijlocul unui cuptor cu foc arzător.
 12. Dar sunt nişte iudei, pe care i-ai pus cârmuitori peste ţinutul Babilonului: Şadrac, Meşac şi Abed-Nego. Aceşti bărbaţi, nici că au luat în seamă porunca ta, o, rege; dumnezeului tău nu-i slujesc şi chipului de aur pe care tu l-ai înălţat nu-i aduc închinare!"
+12. Acum, fiţi gata şi atunci când veţi auzi glasul trâmbiţei, al flautului, al chitarei, al harpei, al psalterionului, al cimpoiului şi al altor instrumente muzicale, să cădeţi la pământ şi să vă închinaţi chipului pe care eu l-am făcut; iar dacă nu vreţi să vă închinaţi, într-o clipă veţi fi aruncaţi în mijlocul unui cuptor cu foc arzător. Şi care dumnezeu vă va scăpa din mâna mea?"
 13. Atunci regele Nabucodonosor, plin de mânie şi de zbucium, a poruncit să i se aducă înainte Şadrac, Meşac şi Abed-Nego. Îndată au adus pe aceşti bărbaţi înaintea regelui.
 14. Nabucodonosor le-a zis: "Este, oare, adevărat, Şadrac, Meşac şi Abed-Nego, că voi nu slujiţi dumnezeului meu şi chipului de aur pe care eu l-am aşezat şi nu-i cădeţi la pământ cu rugăciuni?
 16. Răspuns-au Şadrac, Meşac şi Abed-Nego şi au zis regelui: O, Nabucodonosor, noi n-avem nevoie ca la aceasta să-ţi dăm un răspuns!

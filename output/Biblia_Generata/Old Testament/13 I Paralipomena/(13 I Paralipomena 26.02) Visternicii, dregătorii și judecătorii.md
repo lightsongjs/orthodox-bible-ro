@@ -15,6 +15,13 @@ language: ro
 
 ← [[(13 I Paralipomena 26.01) Portarii.md]] | [[(13 I Paralipomena 27.01) Diviziile militare.md]] →
 
+20. Iar alţii dintre leviţi, fraţii lor, păzeau vistieria templului lui Dumnezeu şi vistieria lucrurilor sfinte,
+21. Şi anume: Fiii lui Laedan, fiul lui Gherşon, Căpeteniile familiilor din Laedan Gherşonitul: Iehiel,
+22. Şi fiii lui Iehiel: Zetam şi Ioil, fratele lui, care păzeau vistieria templului lui Dumnezeu,
+23. Împreună cu urmaşii lui Amram Iţhar, Hebron, Uziel;
+24. Şebuel, fiul lui Gherşon, fiul lui Moise, era străjuitor de căpetenie al vistieriilor.
+25. Fratele său Eleazar avea fiu pe Rehabia; acesta a avut fiu pe Isaia; acesta a avut fiu pe Ioram; acesta a avut fiu pe Zicri, iar acesta a avut fiu pe Şelomit.
+26. Şelomit şi fraţii lui privegheau asupra tuturor vistieriilor lucrurilor sfinte care le hărăzise regele David, căpeteniile familiilor,  căpeteniile peste mii şi peste sute şi căpeteniile de oştire.
 27. Din cuceriri şi prăzi ei afierosiseră pentru întreţinerea templului Domnului
 28. Şi tot ce afierosise Samuel proorocul şi Saul, fiul lui Chiş, Abner, fiul lui Ner, şi Ioab, fiul Ţeruiei; toate cele afierosite erau în grija lui Şelomit şi a fraţilor lui.
 29. Din neamul lui Iţhar, Hanania şi fiii lui erau rânduiţi la slujbele din afară ale Israeliţilor, ca scriitori şi judecători.

@@ -38,6 +38,7 @@ language: ro
 21. Şi ţi-ai făcut nume, ca şi astăzi, şi ai scos pe poporul Tău Israel din pământul Egiptului prin semne şi minuni, cu mână tare şi cu braţ înalt, în groază mare,
 22. Şi le-ai dat lor ţara aceasta, în care curge lapte şi miere, pe care o făgăduiseşi cu jurământ părinţilor lor, că le-o vei da;
 23. Şi ei au intrat şi au pus stăpânire pe ea, dar n-au ascultat glasul Tău ca să se poarte după legea Ta şi n-au făcut ceea ce le-ai poruncit Tu să facă. De aceea ai adus asupra lor toate aceste nenorociri.
+23. Şi Mi-au întors spatele, iar nu faţa şi, când i-am învăţat, dis-de-dimineaţă i-am învăţat şi ei n-au voit să primească învăţătură;
 24. Iată valurile de pământ se întind până la cetate ca să fie luată! Şi cetatea prin sabie, foamete şi ciumă se dă în mâinile Caldeilor, care luptă împotriva ei; ceea ce ai zis Tu, aceea se şi împlineşte. Şi Tu vezi aceasta.
 25. Dar Tu, Doamne Dumnezeule, mi-ai zis: Cumpără-ţi o ţarină cu argint şi cheamă martori, tocmai când cetatea se dă în mâinile Caldeilor".
 26. Atunci a fost cuvântul Domnului către Ieremia şi a zis:

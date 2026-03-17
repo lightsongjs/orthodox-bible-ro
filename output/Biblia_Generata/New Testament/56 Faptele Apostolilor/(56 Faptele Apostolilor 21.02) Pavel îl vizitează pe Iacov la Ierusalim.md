@@ -15,6 +15,11 @@ language: ro
 
 ← [[(56 Faptele Apostolilor 21.01) Călătoria lui Pavel la Ierusalim.md]] | [[(56 Faptele Apostolilor 21.03) Pavel arestat în templu.md]] →
 
+17. Şi sosind la Ierusalim, fraţii ne-au primit cu bucurie.
+18. Iar a doua zi Pavel a mers cu noi la Iacov şi au venit acolo toţi preoţii.
+19. Şi îmbrăţişându-i le povestea cu de-amănuntul cele ce a făcut Dumnezeu între neamuri, prin slujirea lui.
+20. Iar ei, auzind, slăveau pe Dumnezeu, şi i-au zis: Vezi frate, câte mii de iudei au crezut şi toţi sunt plini de râvnă pentru lege.
+21. Şi ei au auzit despre tine că înveţi pe toţi iudeii, care trăiesc printre neamuri, să se lepede de Moise, spunându-le să nu-şi taie împrejur copiii, nici să umble după datini.
 22. Ce este deci? Fără îndoială, trebuie să se adune mulţime, căci vor auzi că ai venit.
 23. Fă, deci, ceea ce îţi spunem. Noi avem patru bărbaţi, care au asupra lor o făgăduinţă;
 24. Pe aceştia luându-i, curăţeşte-te împreună cu ei şi cheltuieşte pentru ei ca să-şi radă capul, şi vor cunoaşte toţi că nimic nu este (adevărat) din cele ce au auzit despre tine, dar că tu însuţi umbli după Lege şi o păzeşti.

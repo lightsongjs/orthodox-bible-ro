@@ -15,6 +15,10 @@ language: ro
 
 ← [[(70 Evrei 11.02) Pildele lui Abel, Enoh și Noe.md]] | [[(70 Evrei 11.04) Credința lui Moise.md]] →
 
+8. Prin credinţă, Avraam, când a fost chemat, a ascultat şi a ieşit la locul pe care era să-l ia spre moştenire şi a ieşit neştiind încotro merge.
+9. Prin credinţă, a locuit vremelnic în pământul făgăduinţei, ca într-un pământ străin, locuind în corturi cu Isaac şi cu Iacov, cei dimpreună moştenitori ai aceleiaşi făgăduinţe;
+10. Căci aştepta cetatea cu temelii puternice, al cărei meşter şi lucrător este Dumnezeu.
+11. Prin credinţă, şi Sara însăşi a primit putere să zămislească fiu, deşi trecuse de vârsta cuvenită, pentru că ea L-a socotit credincios pe Cel ce făgăduise.
 12. Pentru aceea, dintr-un singur om, şi acela ca şi mort, s-au născut atâţia urmaşi - mulţi "ca stelele cerului şi ca nisipul cel fără de număr de pe ţărmul mării".
 13. Toţi aceştia au murit întru credinţă, fără să primească făgăduinţele, ci văzându-le de departe şi iubindu-le cu dor şi mărturisind că pe pământ ei sunt străini şi călători.
 14. Iar cei ce grăiesc unele ca acestea dovedesc că ei îşi caută lor patrie.

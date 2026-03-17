@@ -15,6 +15,13 @@ language: ro
 
 ← [[(24 Ieremia 32.02) Ieremia se roagă pentru înțelegere.md]] | [[(24 Ieremia 33.01) Vindecarea după pedeapsă.md]] →
 
+26. Atunci a fost cuvântul Domnului către Ieremia şi a zis:
+27. Iată, Eu sunt Domnul Dumnezeu a tot trupul! Este oare ceva cu neputinţă la Mine?
+28. De aceea aşa zice Domnul: "Iată voi da cetatea aceasta în mâinile Caldeilor şi în mâinile lui Nabucodonosor, regele Babilonului, şi acesta o va lua.
+29. Şi vor intra Caldeii, care împresoară cetatea aceasta, vor da foc cetăţii şi o vor arde cu foc pe ea şi casele pe ale căror acoperişuri s-au adus tămâieri lui Baal şi jertfe cu turnare în cinstea dumnezeilor străini, ca să Mă mânie pe Mine.
+30. Că fiii lui Israel şi fiii lui Iuda au făcut numai rău înaintea ochilor Mei din tinereţile lor; fiii lui Israel M-au mâniat necontenit cu faptele mâinilor lor, zice Domnul.
+31. Cetatea aceasta, chiar din ziua zidirii sale şi până astăzi, pare că a fost făcută pentru mânia Mea şi pentru urgia Mea, ca s-o lepăd de la fala Mea,
+32. Din pricina răului fiilor lui Israel şi al fiilor lui Iuda, pe care l-au făcut pentru mânierea Mea, ei şi regii lor, căpeteniile lor, preoţii lor şi proorocii lor, bărbaţii lui Iuda şi locuitorii Ierusalimului.
 34. În templul asupra căruia s-a chemat numele Meu au pus urâciunile lor, întinându-l.
 35. Au făcut locuri înalte lui Baal în valea fiilor lui Hinom, ca să treacă prin foc pe fiii lor şi pe fiicele lor în cinstea lui Moloh, ceea ce Eu nu le-am poruncit, şi nici prin minte nu Mi-a trecut că ei vor face această urâciune, ducând în păcat pe Iuda".
 36. Şi acum, aşa vorbeşte Domnul Dumnezeul lui Israel despre cetatea aceasta, de care ziceţi: "Ea se va da în mâinile regelui Babilonului prin sabie, foamete şi boala ciumei":

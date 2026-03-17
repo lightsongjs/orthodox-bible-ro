@@ -15,5 +15,10 @@ language: ro
 
 ← [[(23 Isaia 32.02) Femeile mulțumite de sine avertizate de dezastru.md]] | [[(23 Isaia 33.01) Profeție despre eliberarea de vrăjmași.md]] →
 
+16. Atunci judecata va locui în deşert şi dreptatea va sălăşlui în grădina cea cu pomi.
+17. Pacea va fi lucrul dreptăţii, roada dreptăţii va fi liniştea şi nădejdea în veci de veci.
+18. Atunci poporul meu va locui într-un loc de pace, în sălaşuri de nădejde şi în adăposturi fără grijă.
+19. Pădurea va cădea de grindină, iar cetatea va fi supusă.
+20. Fericiţi sunteţi voi, care semănaţi şi nu legaţi nici boul, nici asinul!
 
 ← [[(23 Isaia 32.02) Femeile mulțumite de sine avertizate de dezastru.md]] | [[(23 Isaia 33.01) Profeție despre eliberarea de vrăjmași.md]] →

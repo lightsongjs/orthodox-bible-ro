@@ -15,5 +15,8 @@ language: ro
 
 ← [[(53 Marcu 16.01) Învierea lui Iisus.md]] | [[(53 Marcu 16.03) Iisus Se arată celor doi ucenici.md]] →
 
+9. Şi înviind dimineaţa, în ziua cea dintâi a săptămânii (Duminică) El s-a arătat întâi Mariei Magdalena, din care scosese şapte demoni.
+10. Aceea, mergând, a vestit pe cei ce fuseseră cu El şi care se tânguiau şi plângeau.
+11. Şi ei, auzind că este viu şi că a fost văzut de ea, n-au crezut.
 
 ← [[(53 Marcu 16.01) Învierea lui Iisus.md]] | [[(53 Marcu 16.03) Iisus Se arată celor doi ucenici.md]] →

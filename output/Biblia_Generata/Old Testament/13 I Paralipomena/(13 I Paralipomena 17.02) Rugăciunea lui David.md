@@ -15,6 +15,8 @@ language: ro
 
 ← [[(13 I Paralipomena 17.01) Legământul lui Dumnezeu cu David.md]] | [[(13 I Paralipomena 18.01) Împărăția lui David întărită și extinsă.md]] →
 
+16. Atunci a venit regele David şi a stat înaintea feţei Domnului şi a zis: "Cine sunt eu, Doamne Dumnezeule, şi ce este casa mea, de m-ai înălţat aşa?
+17. Dar şi aceasta s-a părut încă puţin în ochii Tăi, Dumnezeule, căci iată vesteşti despre casa robului Tău în viitor şi priveşti la mine, ca la un om mare, Doamne Dumnezeule!
 18. Ce mai poate adăuga David înaintea Ta pentru mărirea robului Tău? Tu cunoşti pe robul Tău.
 19. Doamne, pentru robul Tău, după inima Ta, faci toate aceste lucruri mari, ca să arăţi toată mărirea.
 20. Doamne, nu este altul asemenea Ţie, şi nu este Dumnezeu afară de Tine, după câte am auzit noi.

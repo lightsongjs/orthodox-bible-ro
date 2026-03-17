@@ -20,6 +20,7 @@ language: ro
 22. Şi femeile şi copiii şi-au pierdut curajul, iar tinerii erau leşinaţi de sete şi cădeau pe uliţele oraşului şi în adăposturile porţilor şi nu mai rămăsese în ei vlagă.
 23. Atunci întreg poporul, tinerii, femeile şi copiii, s-a adunat la Oziaş şi la căpeteniile cetăţii şi au strigat cu mare glas şi au zis în faţa tuturor bătrânilor:
 24. Şi toată oştirea Asirienilor, pedestrimea, carele de război şi călărimea, i-a ţinut împresuraţi treizeci şi patru de zile, încât toţi locuitorii Betuliei au terminat toate rezervele de apă.
+24. "Dumnezeu să fie judecător între noi şi voi, fiindcă ne-aţi pricinuit mare rău, nefăcând înţelegere paşnică cu Asirienii.
 25. Şi acum nu mai avem ajutor de nicăieri, fiindcă Dumnezeu ne-a predat în mâna lor, ca să pierim doborâţi de sete înaintea lor şi să pierim cu totul.
 26. Deci acum chemaţi-i şi daţi cetatea pradă războinicilor lui Olofern şi oştirii lui,
 27. Fiindcă este mai bine să cădem pradă în mâna lor. Aşa vom ajunge robi şi vom scăpa cu viaţă, decât să vedem cu ochii moartea copiilor noştri şi cum copiii şi femeile noastre se sfârşesc de sete.

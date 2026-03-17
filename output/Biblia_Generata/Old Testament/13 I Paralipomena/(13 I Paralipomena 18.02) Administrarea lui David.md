@@ -15,5 +15,9 @@ language: ro
 
 ← [[(13 I Paralipomena 18.01) Împărăția lui David întărită și extinsă.md]] | [[(13 I Paralipomena 19.01) Înfrângerea amoniților și arameilor.md]] →
 
+14. Şi a domnit David peste tot Israelul şi a făcut judecată şi dreptate la tot poporul său.
+15. Ioab, fiul Ţeruiei, era comandantul oştirii, iar Iosafat, fiul lui Ahilud, era cronicar.
+16. Ţadoc, fiul lui Ahitub, şi Ahimelec, fiul lui Abiatar, au fost preoţi, iar Şausa (Serais) a fost secretar.
+17. Benaia, fiul lui Iehoiada, era căpetenie peste Cheretieni şi Peletieni, iar fiii lui David erau cei întâi pe lângă rege,
 
 ← [[(13 I Paralipomena 18.01) Împărăția lui David întărită și extinsă.md]] | [[(13 I Paralipomena 19.01) Înfrângerea amoniților și arameilor.md]] →

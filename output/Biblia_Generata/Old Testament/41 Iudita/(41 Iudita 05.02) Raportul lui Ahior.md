@@ -15,6 +15,7 @@ language: ro
 
 ← [[(41 Iudita 05.01) Sfatul împotriva israeliților.md]] | [[(41 Iudita 06.01) Ahior predat israeliților.md]] →
 
+5. Atunci Ahior, căpetenia fiilor lui Amon, a luat cuvântul şi a zis: "Să asculte stăpânul meu cuvântul din gura robului său, căci vreau să-ţi spun adevărul despre poporul acesta, care sălăşluieşte în munte alături de tine, şi să nu iasă minciună din gura robului tău!
 6. Oamenii aceştia sunt urmaşii Caldeilor,
 7. Şi înainte vreme au locuit în Mesopotamia. şi fiindcă ei nu au voit să se închine dumnezeilor părinţilor lor, care locuiau în ţara Caldeilor,
 8. S-au lepădat de legea părinţilor lor şi s-au închinat Dumnezeului cerului, Dumnezeului pe Care L-au cunoscut. Şi din această pricină părinţii lor i-au izgonit din ţara dumnezeilor pe care îi părăsiseră, şi atunci ei au fugit în Mesopotamia, unde au locuit vreme îndelungată.

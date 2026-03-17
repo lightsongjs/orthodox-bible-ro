@@ -15,6 +15,7 @@ language: ro
 
 ← [[(52 Matei 26.04) Paștele cu ucenicii.md]] | [[(52 Matei 26.06) Lepădarea lui Petru vestită.md]] →
 
+26. Iar pe când mâncau ei, Iisus, luând pâine şi binecuvântând, a frânt şi, dând ucenicilor, a zis: Luaţi, mâncaţi, acesta este trupul Meu.
 27. Şi luând paharul şi mulţumind, le-a dat, zicând: Beţi dintru acesta toţi,
 28. Că acesta este Sângele Meu, al Legii celei noi, care pentru mulţi se varsă spre iertarea păcatelor.
 29. Şi vă spun vouă că nu voi mai bea de acum din acest rod al viţei până în ziua aceea când îl voi bea cu voi, nou, întru împărăţia Tatălui Meu.

@@ -15,6 +15,7 @@ language: ro
 
 ← [[(78 Apocalipsa 14.02) Mesajele celor trei îngeri.md]] | [[(78 Apocalipsa 15.01) Îngerii cu cele șapte plăgi de pe urmă.md]] →
 
+14. Şi am privit şi iată un nor alb şi Cel ce şedea pe nor era asemenea Fiului Omului, având pe cap cunună de aur şi în mână seceră ascuţită.
 15. Şi iată un alt înger a ieşit din templu, strigând cu glas mare Celui ce şedea pe nor: Trimite secera şi seceră, că a venit ceasul de secerat, fiindcă s-a copt secerişul pământului.
 16. Şi Cel ce şedea pe nor a aruncat pe pământ secera lui şi pământul a fost secerat.
 17. Şi un alt înger a ieşit din templul cel ceresc, având şi el un cuţitaş ascuţit.

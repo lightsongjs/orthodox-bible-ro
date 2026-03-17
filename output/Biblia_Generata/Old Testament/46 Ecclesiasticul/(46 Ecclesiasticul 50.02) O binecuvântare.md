@@ -15,5 +15,8 @@ language: ro
 
 ← [[(46 Ecclesiasticul 50.01) Simon, fiul lui Onia.md]] | [[(46 Ecclesiasticul 50.03) Epilog.md]] →
 
+22. Atunci, coborându-se, a ridicat mâinile sale peste toată adunarea fiilor lui Israel ca să dea binecuvântarea Domnului cu buzele sale şi, rostind numele Domnului, întru numele Lui să fie lăudat.
+23. Şi ei se închinau încă o dată, ca să primească binecuvântare de la Cel Preaînalt.
+24. Şi acum, binecuvântaţi pe Dumnezeu, toţi, pe Cel care face lucruri mari pretutindeni.
 
 ← [[(46 Ecclesiasticul 50.01) Simon, fiul lui Onia.md]] | [[(46 Ecclesiasticul 50.03) Epilog.md]] →

@@ -15,6 +15,11 @@ language: ro
 
 ← [[(13 I Paralipomena 24.01) Rândurile preoților.md]] | [[(13 I Paralipomena 25.01) Muzicienii templului.md]] →
 
+20. Ceilalţi fiii ai lui Levi au fost împărţiţi astfel: Din fiii lui Amram: Şubael; din fiii lui Şubael: Iehdia;
+21. Din fiii lui Rehabia, întâiul era Işia;
+22. Din ai lui Iţhar, Şelomot; din ai lui Şelomot era Iahat;
+23. Din ai lui Hebron întâiul era Ieria, al doilea, Amaria, al treilea, Iahaziel, al patrulea, Iecameam.
+24. Din ai lui Uziel era Mica; din ai lui Mica era Şamir.
 25. Fratele lui Mica a fost Işia; din fiii lui Işia era Zaharia.
 26. Fiii lui Merari au fost: Mahli şi Muşi; din fiii lui Iaazia a fost Beno;
 27. Din fiii lui Merari, după Iaazia, au fost: Beno, Şoham, Zacur şi Ibri.

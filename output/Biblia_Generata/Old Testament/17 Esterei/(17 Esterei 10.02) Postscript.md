@@ -15,5 +15,6 @@ language: ro
 
 ← [[(17 Esterei 10.01) Împlinirea visului lui Mardoheu.md]] | [[(18 Iov 01.01) Iov și familia sa.md]] →
 
+1. După aceea regele Artaxerxe puse bir pe ţări şi pe insulele mării.
 
 ← [[(17 Esterei 10.01) Împlinirea visului lui Mardoheu.md]] | [[(18 Iov 01.01) Iov și familia sa.md]] →

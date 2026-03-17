@@ -15,6 +15,7 @@ language: ro
 
 ← [[(38 Zaharia 09.01) Judecata asupra vrăjmașilor lui Israel.md]] | [[(38 Zaharia 10.01) Restaurarea lui Iuda și Israel.md]] →
 
+9. Bucură-te foarte, fiica Sionului, veseleşte-te, fiica Ierusalimului, căci iată Împăratul tău vine la tine drept şi biruitor; smerit şi călare pe asin, pe mânzul asinei.
 10. El va nimici carele din Efraim, caii din Ierusalim şi arcul de război va fi frânt. El va vesti pacea popoarelor şi împărăţia Lui se va întinde de la o mare până la cealaltă mare şi de la Eufrat până la marginile pământului.
 11. Iar pentru tine, pentru sângele legământului tău, voi da drumul robilor tăi din fântâna fără apă.
 12. La tine, fiica Sionului, se vor întoarce robii care aşteaptă. Pentru zilele surghiunului tău, chiar astăzi îţi vestesc: Îţi voi răsplăti îndoit.

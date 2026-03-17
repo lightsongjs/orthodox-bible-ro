@@ -15,6 +15,8 @@ language: ro
 
 ← [[(04 Numerii 14.01) Poporul se răscoală.md]] | [[(04 Numerii 14.03) O tentativă de invazie este respinsă.md]] →
 
+13. Moise însă a zis către Domnul: "Vor auzi de aceasta Egiptenii, din mijlocul cărora ai scos Tu, cu puterea Ta, pe poporul acesta
+14. Şi vor spune locuitorilor pământului acestuia, care au auzit, că Tu, Doamne, Te afli în mijlocul poporului acestuia şi Tu, Doamne, le dai să Te vadă faţă către faţă, şi că Tu mergi înaintea lor, ziua în stâlp de nor şi noaptea în stâlp de foc.
 15. Iar dacă Tu vei pierde pe poporul acesta, ca pe un om, atunci popoarele care au auzit de numele Tău vor zice:
 16. Domnul n-a putut duce pe poporul acesta în pământul pe care cu jurământ l-a făgăduit să-l dea lor şi de aceea l-a pierdut în pustie.
 17. Deci, înalţă-se acum puterea Ta, Doamne, cum ai spus Tu, zicând:

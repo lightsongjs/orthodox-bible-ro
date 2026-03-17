@@ -28,6 +28,7 @@ language: ro
 11. Înţelepciunea domoleşte mânia omului şi faima lui este iertarea greşelilor.
 12. Furia unui rege e ca răcnetul unui leu, iar bunăvoinţa lui este ca roua pe iarbă.
 13. Un fiu neascultător este nenorocirea tatălui lui, iar certurile unei femei un jgheab care curge întruna.
+13. Lenea te face să cazi în toropeală; sufletului trândav îi va fi foame.
 14. O casă şi o avere sunt moştenire de la părinţi, iar o femeie înţeleaptă este un dar de la Dumnezeu.
 16. Cel ce ia seama la poruncă îşi păstrează sufletul său, iar cel ce dispreţuieşte cuvântul (Domnului) va muri.
 17. Cel ce are milă de sărman împrumută Domnului şi El îi va răsplăti fapta lui cea bună.

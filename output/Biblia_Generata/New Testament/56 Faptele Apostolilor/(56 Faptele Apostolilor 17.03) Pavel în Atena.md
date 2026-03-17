@@ -15,6 +15,8 @@ language: ro
 
 ← [[(56 Faptele Apostolilor 17.02) Pavel și Sila în Bereea.md]] | [[(56 Faptele Apostolilor 18.01) Pavel în Corint.md]] →
 
+16. Iar în Atena, pe când Pavel îi aştepta, duhul lui se îndârjea în el, văzând că cetatea este plină de idoli.
+17. Deci discuta în sinagogă cu iudeii şi cu cei credincioşi, şi în piaţă, în fiecare zi, cu cei ce erau de faţă.
 18. Iar unii dintre filozofii epicurei şi stoici discutau cu el, şi unii ziceau: Ce voieşte, oare, să ne spună acest semănător de cuvinte? Iar alţii ziceau: Se pare că este vestitor de dumnezei străini, fiindcă binevesteşte pe Iisus şi Învierea.
 19. Şi luându-l cu ei, l-au dus în Areopag, zicând: Putem să cunoaştem şi noi ce este această învăţătură nouă, grăită de tine?
 20. Căci tu aduci la auzul nostru lucruri străine. Voim deci să ştim ce vor să fie acestea.

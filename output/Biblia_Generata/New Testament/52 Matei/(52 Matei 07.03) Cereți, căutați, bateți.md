@@ -15,6 +15,7 @@ language: ro
 
 ← [[(52 Matei 07.02) Pângărirea sfintelor.md]] | [[(52 Matei 07.04) Regula de aur.md]] →
 
+7. Cereţi şi vi se va da; căutaţi şi veţi afla; bateţi şi vi se va deschide.
 8. Că oricine cere ia, cel care caută află, şi celui ce bate i se va deschide.
 9. Sau cine este omul acela între voi care, de va cere fiul său pâine, oare el îi va da piatră?
 10. Sau de-i va cere peşte, oare el îi va da şarpe?

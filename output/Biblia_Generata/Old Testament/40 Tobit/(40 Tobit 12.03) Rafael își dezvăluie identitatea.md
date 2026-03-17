@@ -15,6 +15,8 @@ language: ro
 
 ← [[(40 Tobit 12.02) Îndemn lui Rafael.md]] | [[(40 Tobit 13.01) Mulțumirea lui Tobit către Dumnezeu.md]] →
 
+11. Nimic n-am să ascund de voi şi v-am şi spus: "Taina regelui se cuvine s-o păstrezi, iar lucrurile lui Dumnezeu este de laudă să le vesteşti".
+12. Când te rugai tu şi nora ta Sara, eu duceam pomenirea rugăciunii voastre înaintea Celui Sfânt şi când îngropai tu pe cei morţi, încă eram cu tine.
 13. şi când tu nu te-ai lenevit să te scoli şi să-ţi laşi prânzul tău ca să te duci să ridici pe cel mort, binefacerea ta nu s-a ascuns de mine, ci eu eram cu tine.
 14. Şi acum Dumnezeu m-a trimis, să te vindec pe tine şi pe nora ta, Sara.
 15. Eu sunt Rafael, unul din cei şapte sfinţi îngeri, care ridică rugăciunile sfinţilor şi le înalţă înaintea slavei Celui Sfânt".

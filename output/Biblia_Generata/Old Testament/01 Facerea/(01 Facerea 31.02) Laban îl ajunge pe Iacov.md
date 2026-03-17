@@ -15,6 +15,16 @@ language: ro
 
 ← [[(01 Facerea 31.01) Iacov fuge cu familia și turmele.md]] | [[(01 Facerea 31.03) Laban și Iacov fac un legământ.md]] →
 
+22. Iar a treia zi i s-a dat de ştire lui Laban Arameul, că Iacov a fugit.
+23. Atunci, luând Laban cu sine pe feciorii şi pe rudele sale, a alergat după el cale de şapte zile şi l-a ajuns la Muntele Galaadului.
+24. Dar Dumnezeu a venit la Laban Arameul noaptea în vis şi i-a zis: "Fereşte-te, nu cumva să vorbeşti lui Iacov nici de bine, nici de rău".
+25. Şi a ajuns Laban pe Iacov. Iacov însă îşi aşezase cortul său pe munte; şi tot pe Muntele Galaad şi l-a aşezat şi Laban cu rudele sale.
+26. Atunci a zis Laban către Iacov: "Ce ai făcut? Pentru ce mi-ai furat inima şi mi-ai luat fetele, ca şi cum le-ai fi robit cu sabia?
+27. Pentru ce ai fugit pe ascuns şi m-ai înşelat, în loc să mă înştiinţezi pe mine, care ţi-aş fi dat drumul cu veselie şi cu cântări din timpane şi din harfă?
+28. Ba nu mi-ai îngăduit nici măcar să-mi sărut nepoţii şi fetele mele. Te-ai purtat, aşadar, ca un om fără de minte.
+29. Şi acum mâna mea cea puternică ar putea să-ţi facă rău. Dar Dumnezeul tatălui tău mi-a vorbit ieri şi mi-a zis: "Fereşte-te, nu cumva să vorbeşti lui Iacov nici de bine, nici de rău!"
+30. Să zicem că ai plecat, pentru că cu mare aprindere doreai casa tatălui tău. Dar atunci de ce mi-ai furat dumnezeii mei?"
+31. Atunci răspunzând Iacov, a zis către Laban: "M-am temut, căci ziceam: Nu cumva să-ţi iei fetele de la mine şi toate ale mele.
 32. Dar la cine vei găsi idolii tăi, acela nu va mai trăi. Caută de faţă cu rudele noastre şi ia tot ce vei găsi al tău la mine!" Iacov însă nu ştia că Rahila, femeia sa, îi furase.
 33. A intrat atunci Laban în cortul lui Iacov, şi în cortul Liei, şi în cortul celor două roabe, şi a căutat şi n-a găsit nimic; apoi, ieşind din cortul Liei, a intrat şi în cortul Rahilei.
 34. Rahila însă luase idolii şi-i pusese sub samarul cămilei şi şedea deasupra lor; şi a scotocit Laban prin tot cortul Rahilei şi n-a găsit nimic.

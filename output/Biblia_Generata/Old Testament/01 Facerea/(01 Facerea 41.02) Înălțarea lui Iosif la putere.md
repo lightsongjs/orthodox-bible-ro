@@ -15,6 +15,11 @@ language: ro
 
 ← [[(01 Facerea 41.01) Iosif tâlcuiește visul Faraonului.md]] | [[(01 Facerea 42.01) Frații lui Iosif merg în Egipt.md]] →
 
+37. Aceasta a plăcut lui Faraon şi tuturor dregătorilor lui.
+38. Şi a zis Faraon către toţi dregătorii săi: "Am mai putea găsi, oare, un om, ca el, în care să fie duhul lui Dumnezeu?"
+39. Apoi a zis Faraon către Iosif: "De vreme ce Dumnezeu ţi-a descoperit toate acestea, nu se află om mai înţelept şi mai priceput decât tine.
+40. Să fii dar tu peste casa mea. De cuvântul tău se va povăţui tot poporul meu şi numai prin tronul meu voi fi mai mare decât tine!"
+41. Apoi Faraon a zis lui Iosif: "Iată, eu te pun astăzi peste tot pământul Egiptului!"
 42. Şi şi-a scos Faraon inelul din degetul său şi l-a pus în degetul lui Iosif, l-a îmbrăcat cu haină de vison şi i-a pus lanţ de aur împrejurul gâtului lui.
 43. Apoi a poruncit să fie purtat în a doua trăsură a sa şi să strige înaintea lui: "Cădeţi în genunchi!" Şi aşa a fost Iosif pus peste tot pământul Egiptului.
 44. Şi a zis iarăşi Faraon către Iosif: "Eu sunt Faraon! Dar fără ştirea ta, nimeni nu are să-şi mişte nici mâna sa, nici piciorul său, în tot pământul Egiptului!"

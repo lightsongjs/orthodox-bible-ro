@@ -15,6 +15,17 @@ language: ro
 
 ← [[(24 Ieremia 25.01) Robia babiloniană vestită.md]] | [[(24 Ieremia 26.01) Proorociile lui Ieremia în templu.md]] →
 
+15. Că aşa mi-a zis Domnul Dumnezeul lui Israel: "Ia din mâna Mea cupa aceasta cu vinul urgiei şi adapă cu ea toate popoarele la care te voi trimite;
+16. Acelea vor bea şi se vor clătina şi vor înnebuni la vederea sabiei pe care o voi trimite asupra lor!"
+17. Şi am luat cupa din mâna Domnului şi am dat să bea tuturor neamurilor, la care m-a trimis Domnul.
+18. Ierusalimului şi cetăţilor lui Iuda, regilor lui şi căpeteniilor lui, spre pustiire şi groază, spre batjocură şi blestem, precum se şi vede astăzi;
+19. Lui Faraon, regele Egiptului, slujitorilor lui, căpeteniilor lui şi întregului popor al lui;
+20. La toată Arabia, tuturor regilor ţării Uţ, tuturor regilor ţării Filistenilor, Ascalonului, Gazei, Ecronului şi rămăşiţelor din Aşdod;
+21. Edomului, Moabului şi fiilor lui Amon;
+22. Tuturor regilor Tirului, tuturor regilor Sidonului şi regilor insulelor care sunt dincolo de mare:
+23. Dedanului şi Temei, Buzului şi tuturor care-şi rad tâmplele;
+24. Tuturor regilor Arabiei şi tuturor regilor popoarelor amestecate, care locuiesc în pustiu;
+25. Tuturor regilor Zimrei, tuturor regilor Elamului şi tuturor regilor Mediei;
 26. Tuturor regilor de la miazănoapte, de aproape sau de departe, unora şi altora, şi tuturor regatelor lumii, care se află pe fata pământului; iar regele Şişacului va bea după ei.
 27. Şi să le zici: "Aşa zice Domnul Savaot, Dumnezeul lui Israel: Beţi şi vă îmbătaţi, vărsaţi şi cădeţi şi nu vă ridicaţi la vederea sabiei pe care o trimit Eu asupra voastră!"
 28. Iar de nu vor vrea să ia cupa din mâna ta, ca să bea, să le zici:

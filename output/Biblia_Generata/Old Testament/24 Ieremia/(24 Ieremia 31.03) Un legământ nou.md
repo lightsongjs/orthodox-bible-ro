@@ -15,6 +15,7 @@ language: ro
 
 ← [[(24 Ieremia 31.02) Răsplătirea personală.md]] | [[(24 Ieremia 31.04) Ierusalimul va fi mărit.md]] →
 
+31. Iată vin zile, zice Domnul, când voi încheia cu casa lui Israel şi cu casa lui Iuda legământ nou.
 32. Însă nu ca legământul pe care l-am încheiat cu părinţii lor în ziua când i-am luat de mână, ca să-i scot din pământul Egiptului. Acel legământ ei l-au călcat, deşi Eu am rămas în legătură cu ei, zice Domnul.
 33. Dar iată legământul pe care-l voi încheia cu casa lui Israel, după zilele acela, zice Domnul: Voi pune legea Mea înăuntrul lor şi pe inimile lor voi scrie şi le voi fi Dumnezeu, iar ei Îmi vor fi popor.
 34. Şi nu se vor mai învăţa unul pe altul şi frate pe frate, zicând: "Cunoaşteţi pe Domnul" că toţi de la sine Mă vor cunoaşte, de la mic până la mare, zice Domnul, pentru că Eu voi ierta fărădelegile lor şi păcatele lor nu le voi mai pomeni".

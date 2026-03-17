@@ -15,6 +15,13 @@ language: ro
 
 ← [[(04 Numerii 31.02) Întoarcerea de la război.md]] | [[(04 Numerii 32.01) Cucerirea și împărțirea Transiordaniei.md]] →
 
+25. Iarăşi a grăit Domnul cu Moise şi a zis:
+26. "Socoteşte prada de război, de la om până la dobitoc, împreună cu Eleazar preotul şi cu căpeteniile seminţiilor obştii;
+27. Apoi împarte prada în două, între oştenii care au fost la bătălie şi între toată obştea.
+28. De la oştenii care au fost la război, ia dare pentru Domnul, câte un suflet la cinci sute, din oameni, din vite, din asini şi din oi.
+29. Acestea să le iei din partea lor şi să le dai preotului Eleazar ca dar înălţat Domnului.
+30. Iar din jumătatea cuvenită fiilor lui Israel să iei unul la cincizeci din oameni, din vite, din asini şi din oi; şi pe acestea să le dai leviţilor, care slujesc la cortul Domnului".
+31. Şi a făcut Moise şi Eleazar preotul cum poruncise Domnul lui Moise.
 32. Atunci s-a găsit pradă rămasă din cele luate şi aduse de cei ce fuseseră la război: şase sute şaptezeci şi cinci de mii de oi;
 33. Şaptezeci şi două de mii de boi;
 34. Asini, şaizeci şi una de mii;

@@ -15,6 +15,8 @@ language: ro
 
 ← [[(57 Romani 14.01) Nu judeca pe altul.md]] | [[(57 Romani 15.01) Plăcuiți-i pe alții, nu vouă înșivă.md]] →
 
+13. Deci să nu ne mai judecăm unii pe alţii, ci mai degrabă judecaţi aceasta: Să nu daţi fratelui prilej de poticnire sau de sminteală.
+14. Ştiu şi sunt încredinţat în Domnul Iisus că nimic nu este întinat prin sine, decât numai pentru cel care gândeşte că e ceva întinat; pentru acela întinat este.
 15. Dar dacă, pentru mâncare, fratele tău se mâhneşte, nu mai umbli potrivit iubirii. Nu pierde, cu mâncarea ta, pe acela pentru care a murit Hristos.
 16. Nu lăsaţi ca bunul vostru să fie defăimat.
 17. Căci împărăţia lui Dumnezeu nu este mâncare şi băutură, ci dreptate şi pace şi bucurie în Duhul Sfânt.

@@ -15,5 +15,7 @@ language: ro
 
 ← [[(46 Ecclesiasticul 44.02) Enoh.md]] | [[(46 Ecclesiasticul 44.04) Avraam.md]] →
 
+17. Noe s-a aflat desăvârşit şi drept în vremea mâniei Domnului şi a ajuns să fie împăcarea neamului omenesc.
+18. Pentru aceea a rămas rămăşiţă pe pământ, când s-a făcut potopul.
 
 ← [[(46 Ecclesiasticul 44.02) Enoh.md]] | [[(46 Ecclesiasticul 44.04) Avraam.md]] →

@@ -15,6 +15,8 @@ language: ro
 
 ← [[(52 Matei 06.01) Despre milostenie.md]] | [[(52 Matei 06.03) Despre post.md]] →
 
+5. Iar când vă rugaţi, nu fiţi ca făţarnicii cărora le place, prin sinagogi şi prin colţurile uliţelor, stând în picioare, să se roage, ca să se arate oamenilor; adevărat grăiesc vouă: şi-au luat plata lor.
+6. Tu însă, când te rogi, intră în cămara ta şi, închizând uşa, roagă-te Tatălui tău, Care este în ascuns, şi Tatăl tău, Care vede în ascuns, îţi va răsplăti ţie.
 7. Când vă rugaţi, nu spuneţi multe ca neamurile, că ele cred că în multa lor vorbărie vor fi ascultate.
 8. Deci nu vă asemănaţi lor, că ştie Tatăl vostru de cele ce aveţi trebuinţă mai înainte ca să cereţi voi de la El.
 9. Deci voi aşa să vă rugaţi: Tatăl nostru, Care eşti în ceruri, sfinţească-se numele Tău;

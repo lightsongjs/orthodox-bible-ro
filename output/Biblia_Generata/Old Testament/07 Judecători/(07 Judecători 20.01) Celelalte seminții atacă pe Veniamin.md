@@ -39,6 +39,7 @@ language: ro
 22. Dar poporul israelit se îmbărbătă şi se puse din nou în rânduială de război în acelaşi loc unde stătuse în ziua întâi.
 23. Şi s-au dus fiii lui Israel şi au plâns înaintea Domnului până seara şi au întrebat pe Domnul: "Să mai mergem oare la luptă cu fiii lui Veniamin, fratele meu?" Şi Domnul a zis: "Mergeţi asupra lui!"
 24. Şi au înaintat fiii lui Israel asupra fiilor lui Veniamin a doua oară.
+24. Şi a ieşit Veniamin asupra lor din Ghibeea a doua zi şi au mai pus la pământ din fiii lui Israel încă optsprezece mii de oameni purtători de sabie.
 26. Atunci toţi fiii lui Israel şi tot poporul au plecat şi au venit la casa Domnului şi au postit în ziua aceea până seara şi au adus arderi de tot şi jertfe de împăcare înaintea Domnului.
 27. Şi au întrebat fiii lui Israel pe Domnul. Pe atunci chivotul legii Domnului se afla acolo,
 28. Şi Finees, fiul lui Eleazar, fiul lui Aaron, sta înaintea lui Dumnezeu, zicând: "Să mai ies eu oare la luptă cu fiii lui Veniamin, fratele meu, sau nu?" Iar Domnul a zis: "Duceţi-vă, că mâine Eu am să-l dau în mâinile tale!"
