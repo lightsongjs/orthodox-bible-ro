@@ -15,7 +15,6 @@ language: ro
 
 ← [[(56 Faptele Apostolilor 13.02) Apostolii propovăduiesc în Cipru.md]] | [[(56 Faptele Apostolilor 14.01) Pavel și Barnaba în Iconiu.md]] →
 
-13. Şi plecând cu corabia de la Pafos, Pavel şi cei împreună cu el au venit la Perga Pamfiliei. Iar Ioan, despărţindu-se de ei, s-a întors la Ierusalim.
 14. Iar ei, trecând de la Perga, au ajuns la Antiohia Pisidiei şi, intrând în sinagogă, într-o zi de sâmbătă, au şezut.
 15. Şi după citirea Legii şi a Proorocilor, mai-marii sinagogii au trimis la ei, zicându-le: Bărbaţi fraţi, dacă aveţi vreun cuvânt de mângâiere către popor, vorbiţi.
 16. Şi, ridicându-se Pavel şi făcându-le semn cu mâna, a zis: Bărbaţi israeliţi şi cei temători de Dumnezeu, ascultaţi:

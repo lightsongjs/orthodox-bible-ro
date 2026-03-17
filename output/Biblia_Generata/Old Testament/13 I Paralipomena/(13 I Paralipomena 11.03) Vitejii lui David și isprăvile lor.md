@@ -15,8 +15,6 @@ language: ro
 
 ← [[(13 I Paralipomena 11.02) Ierusalimul cucerit.md]] | [[(13 I Paralipomena 12.01) Urmașii lui David în pustie.md]] →
 
-10. Iată cei mai de seamă dintre puternicii lui David, care s-au luptat tare împreună cu el, în domnia lui, împreună cu tot Israelul, ca să întărească domnia lui asupra lui Israel, după cuvântul Domnului.
-11. Şi iată numărul vitejilor pe care i-a avut David: Iaşobeam (Ioşeb-Başebet), fiul lui Hacmoni, cel mai de seamă între cei treizeci; el şi-a ridicat suliţa asupra a trei sute de oameni şi i-a ucis dintr-o dată.
 12. După el vine Eleazar, fiul lui Dodo Ahohitul, unul din cei trei viteji.
 13. Acesta a fost cu David la Pasdamim, unde se adunaseră Filistenii pentru război. Acolo, parte din câmp era semănat cu orz şi Israeliţii au fugit de Filisteni;
 14. Dar ei au stat în mijlocul câmpului, l-au apărat şi au înfrânt pe Filisteni şi le-a dăruit Domnul biruinţă mare.

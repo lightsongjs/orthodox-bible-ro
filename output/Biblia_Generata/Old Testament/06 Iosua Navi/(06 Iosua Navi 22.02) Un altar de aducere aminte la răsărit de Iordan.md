@@ -15,19 +15,6 @@ language: ro
 
 ← [[(06 Iosua Navi 22.01) Semințiile de la răsărit se întorc la teritoriul lor.md]] | [[(06 Iosua Navi 23.01) Iosua îndeamnă poporul.md]] →
 
-10. Şi ajungând în preajma Iordanului ce e în rara Canaan, fiii lui Ruben şi fiii lui Gad şi jumătate din seminţia lui Manase au zidit acolo lângă Iordan jertfelnic, jertfelnic mare la vedere.
-11. Şi au auzit fiii lui Israel că se zicea: "Iată fiii lui Ruben şi fiii lui Gad şi jumătate din seminţia lui Manase au zidit jertfelnic pe pământul Canaanului, în preajma Iordanului, în faţa fiilor lui Israel".
-12. Când au auzit acestea fiii lui Israel, s-a adunat toată obştea fiilor lui Israel la Şilo, ca să meargă împotriva lor cu război.
-13. Dar fiii lui Israel au trimis mai întâi la fiii lui Ruben, la fiii lui Gad şi la jumătate din seminţia lui Manase, în ţara Galaadului, pe Finees, fiul preotului Eleazar,
-14. Împreună cu zece căpetenii, câte o căpetenie de fiecare seminţie a lui Israel de dincoace de Iordan; fiecare din aceştia era căpetenie de mie din seminţiile lui Israel.
-15. Şi au venit ei la fiii lui Ruben şi la fiii lui Gad şi la jumătatea seminţiei lui Manase în pământul Galaadului şi au vorbit cu ei şi le-a zis:
-16. "Aşa grăieşte toată obştea Domnului: Ce înseamnă nelegiuirea aceasta pe care aţi făcut-o înaintea Domnului Dumnezeului lui Israel, abătându-vă acum de la Domnul Dumnezeul lui Israel, ridicându-vă jertfelnic şi sculându-vă acum împotriva Domnului?
-17. Nu vă ajunge oare păcatul din Peor, de care nu ne-am spălat nici până în ziua de astăzi şi pentru care a fost bătută obştea de Domnul?
-18. Şi iată astăzi voi vă abateţi de la Domnul! Astăzi voi vă sculaţi împotriva Domnului, iar mâine se va mânia Domnul pe toată obştea lui Israel.
-19. Dacă însă pământul moştenirii voastre vi se pare necurat, atunci treceţi în pământul moştenirii Domnului, unde se află cortul Domnului, luaţi-vă parte între noi, dar nu vă ridicaţi împotriva Domnului, nici împotriva noastră nu vă ridicaţi, zidindu-vă jertfelnic afară de cel al Domnului Dumnezeului nostru.
-20. Oare n-a făcut singur Acan, fiul lui Zerah, nelegiuire, luând din cele date nimicirii, dar mânia a venit asupra a toată obştea fiilor lui Israel? Şi oare numai el singur a murit pentru nelegiuire?"
-21. Atunci fiii lui Ruben şi fiii lui Gad şi jumătate din seminţia lui Manase, răspunzând la acestea, au zis căpeteniilor lui Israel:
-22. "Dumnezeul dumnezeilor este Domnul şi Domnul Dumnezeul dumnezeilor ştie şi să ştie şi Israel: de ne răzvrătim şi ne abatem noi de la Domnul, atunci să nu ne cruţe pe noi Domnul astăzi!
 23. Şi dacă am ridicat noi un jertfelnic, ca să ne abatem de la Domnul Dumnezeul nostru şi ca să aducem pe el arderi de tot şi prinos de pâine şi ca să săvârşim pe el jertfe de împăcare, atunci Domnul să ne ceară socoteală de aceasta!
 24. Dar noi am făcut aceasta de teamă ca nu cumva în viitor fiii voştri să zică fiilor noştri: "Ce aveţi voi cu Domnul Dumnezeul lui Israel?
 25. Domnul a pus hotar între noi şi voi, fiii lui Ruben şi fiii lui Gad şi jumătatea seminţiei lui Manase, Iordanul; voi n-aveţi deci nici o legătură cu Domnul". Şi astfel fiii voştri nu vor îngădui fiilor noştri să se închine Domnului în Şilo.

@@ -15,12 +15,6 @@ language: ro
 
 ← [[(06 Iosua Navi 12.01) Regii învinși de Moise.md]] | [[(06 Iosua Navi 13.01) Părțile Canaanului rămase necucerite.md]] →
 
-7. Iată acum şi regii din tara Amoreilor, pe care i-a bătut Iosua şi fiii lui Israel dincoace de Iordan, spre apus de la Baal-Gad, din valea Libanului, până la Pele, muntele care se întinde spre Seir; şi pământul l-a dat Iosua seminţiilor lui Israel de moştenire, după cum le-au căzut sorţii,
-8. La munte sau la loc şes, la câmpie sau la locurile de sub munţi, în pustiu şi la miazăzi şi care fusese al Heteilor, Amoreilor, Canaaneilor, Ferezeilor, Heveilor şi Iebuseilor:
-9. Un rege al Ierihonului, un rege al cetăţii Ai, care e aproape de Betel;
-10. Un rege al Ierusalimului, un rege al Hebronului;
-11. Un rege al Iarmutului, un rege al Lachişului;
-12. Un rege al Eglonului, un rege al Ghezerului;
 13. Un rege al Debirului, un rege al Ghederului;
 14. Un rege al Hormei, un rege al Aradului;
 15. Un rege al Libnei, un rege al Adulamului;

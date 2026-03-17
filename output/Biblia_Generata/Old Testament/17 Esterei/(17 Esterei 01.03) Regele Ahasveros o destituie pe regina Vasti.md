@@ -15,18 +15,6 @@ language: ro
 
 ← [[(17 Esterei 01.02) Uneltire împotriva regelui.md]] | [[(17 Esterei 02.01) Estera devine regină.md]] →
 
-1. După întâmplările acestea, în zilele lui Artaxerxe, care domnea peste o sută douăzeci şi şapte de ţări, de la India până în Etiopia,
-2. În vremea când regele Artaxerxe îşi avea scaunul său domnesc în cetatea Suza,
-3. În anul al treilea al domniei lui, a dat el ospăţ pentru dregătorii săi şi pentru cei ce-i slujeau lui, pentru căpeteniile mai înalte ale oştirii Persiei şi Mediei şi pentru guvernatorii ţărilor sale,
-4. Arătându-şi marea bogăţie a regatului său şi strălucirea deosebită a măririi sale, în curgere de mai multă vreme, anume timp de o sută optzeci de zile.
-5. După sfârşitul acestor zile, regele a făcut şi pentru poporul său care se afla în capitala Suza, de la mic până la mare, ospăţ de şapte zile, în grădina curţii sale domneşti,
-6. Împodobită cu covoare de mătase albă şi de purpură violetă, atârnate pe frânghii de în şi de mătase, trecute prin verigi de argint, întărite în stâlpi de marmură.
-7. Divanuri de aur şi de argint erau aşezate pe pardoseală de porfiră, de marmură albă, de sidef şi marmură neagră.
-8. Băuturile se turnau în vase de aur şi în cupe felurite, în valoare de treizeci de mii de talanţi, iar vin din care bea însuşi regele a fost mult, după bogăţia şi dărnicia regelui. Băutura se consuma cuviincios şi fără silă, că regele poruncise tuturor cârmuitorilor din casa sa să facă fiecăruia după voia lui.
-9. Regina Vasti a făcut şi ea ospăţ, pentru femei, în casa domnească a regelui Artaxerxe.
-10. În ziua a şaptea, când inima regelui s-a înveselit de vin, acesta a zis către Mehuman, Bizeta, Harbona, Bigta, Abgata, Zetar şi Carcas, cei şapte eunuci care slujeau înaintea feţei regelui Artaxerxe,
-11. Să aducă pe regina Vasti înaintea feţei regelui cu coroana regească pe cap, ca să arate popoarelor şi căpeteniilor frumuseţea ei, pentru că era foarte frumoasă.
-12. Dar regina Vasti n-a voit să vină după porunca regelui ce i s-a trimis prin eunuci.
 13. Din pricina aceasta s-a mâniat regele tare şi s-a aprins într-însul urgie mare şi a zis către înţelepţii care ştiau datinile din trecut, (căci aşa era rânduiala ca orice pricină a regelui să se spună înaintea celor ce cunoşteau legile şi dreptul):
 14. Cum să se aplice legea faţă de regina Vasti, pentru că ea nu a împlinit porunca regelui Artaxerxe, ce i s-a trimis prin eunuci?
 15. Şi erau în apropierea regelui: Carşena, Şetar, Admata, Tarşiş, Mereş, Marsena şi Memucan, şapte căpetenii ale Mediei şi Persiei, care puteau vedea faţa regelui şi ţineau locurile cele dintâi în regat.

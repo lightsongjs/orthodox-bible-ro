@@ -15,8 +15,6 @@ language: ro
 
 ← [[(23 Isaia 19.01) Prorocie despre Egipt.md]] | [[(23 Isaia 20.01) Isaia dramatizează cucerirea Egiptului și Etiopiei.md]] →
 
-18. În vremea aceea, vor fi numai cinci cetăţi în pământul Egiptului care vor grăi limba Canaanului şi vor jura în numele Domnului Savaot; una se va numi "Cetatea Soarelui".
-19. În ziua aceea, va fi un jertfelnic în mijlocul pământului Egiptului şi un stâlp de pomenire la hotarul lui, pentru Domnul.
 20. Acesta va fi un semn şi o mărturie pentru Domnul Savaot în pământul Egiptului. Când vor striga către Domnul în strâmtorările lor, atunci El le va trimite un mântuitor şi un răzbunător oare-i va mântui.
 21. Domnul se va face ştiut în Egipt şi Egiptenii vor cunoaşte pe Domnul în ziua aceea. Şi vor aduce arderi de tot şi prinoase şi vor face făgăduinţe Domnului şi le vor împlini.
 22. Şi Domnul va bate Egiptul, îl va lovi şi apoi îl va vindeca. Şi ei se vor întoarce la Domnul şi El se va îndupleca şi îi va tămădui.

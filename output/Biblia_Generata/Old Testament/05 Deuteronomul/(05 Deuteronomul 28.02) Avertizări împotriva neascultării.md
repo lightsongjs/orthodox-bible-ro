@@ -15,20 +15,6 @@ language: ro
 
 ← [[(05 Deuteronomul 28.01) Binecuvântări pentru ascultare.md]] | [[(05 Deuteronomul 29.01) Legământul reînnoit în Moab.md]] →
 
-15. Iar dacă nu vei asculta glasul Domnului Dumnezeului tău şi nu te vei sili să împlineşti toate poruncile şi hotărârile Lui pe care îi le poruncesc eu astăzi, să vină asupra ta toate blestemele acestea şi să te ajungă:
-16. Blestemat să fii tu în cetate şi blestemat să fii tu în ţarină;
-17. Blestemate să fie grânarele tale şi cămările tale;
-18. Blestemat să fie rodul pântecelui tău şi rodul pământului tău, rodul vacilor tale şi rodul oilor tale;
-19. Blestemat să fii tu la intrarea ta în casă şi blestemat la ieşirea ta din casă;
-20. Să trimită Domnul asupra ta blestem, tulburare şi necaz în tot lucrul mâinilor tale pe care te vei apuca să-l faci, până vei fi stârpit şi până vei pieri curând, pentru faptele tale rele şi pentru că M-ai părăsit;
-21. Ba să mai trimită Domnul asupra ta ciumă, până te va stârpi de pe pământul în care mergi ca să-l stăpâneşti;
-22. Să te bată Domnul cu oftică, cu lingoare, cu friguri, cu aprindere, cu secetă, cu vânt rău şi cu rugină, şi te vor urmări acestea până vei pieri;
-23. Cerurile tale, care sunt deasupra capului tău, să se facă aramă şi pământul de sub tine fier;
-24. În loc de ploaie, Domnul să dea pământului tău praf şi pulbere, care să cadă din cer asupra ta până te va pierde şi până vei fi prăpădit;
-25. Domnul te va da să fii bătut de vrăjmaşii tăi; pe un drum să mergi asupra lor şi pe şapte drumuri să fugi de ei şi să fii împrăştiat prin toate ţările pământului;
-26. Trupurile tale să fie hrană tuturor păsărilor cerului şi fiarelor şi nu va fi cine să le alunge;
-27. Te va lovi Domnul cu lepra Egiptului, cu trânji, cu râie şi cu pecingine, de care să nu te poţi vindeca;
-28. Să te bată Domnul cu nebunie, cu orbire şi cu amorţirea inimii;
 29. Pe dibuite să mergi ziua în amiaza mare, cum umblă orbul pipăind pe întuneric, şi să te strâmtoreze şi să te ocărască în toate zilele, şi nimeni să nu te apere;
 30. Cu femeie să te logodeşti şi altul să se culce cu ea; casă să zideşti, şi să nu trăieşti în ea; vie să sădeşti, dar de ea să nu te foloseşti;
 31. Boul tău să fie junghiat sub ochii tăi şi să nu-l mănânci tu; asinul să ţi-l ia şi să nu ţi-l mai aducă; oile tale să fie date vrăjmaşilor tăi şi nimeni să nu te izbăvească;

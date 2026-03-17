@@ -15,10 +15,6 @@ language: ro
 
 ← [[(52 Matei 19.02) Iisus binecuvântează pe copilaș.md]] | [[(52 Matei 20.01) Lucrătorii din vie.md]] →
 
-16. Şi, iată, venind un tânăr la El, I-a zis: Bunule Învăţător, ce bine să fac, ca să am viaţa veşnică?
-17. Iar El a zis: De ce-Mi zici bun? Nimeni nu este bun decât numai Unul Dumnezeu. Iar de vrei să intri în viaţă, păzeşte poruncile.
-18. El I-a zis: Care? Iar Iisus a zis: Să nu ucizi, să nu săvârşeşti adulter, să nu furi, să nu mărturiseşti strâmb;
-19. Cinsteşte pe tatăl tău şi pe mama ta şi să iubeşti pe aproapele tău ca pe tine însuţi.
 20. Zis-a lui tânărul: Toate acestea le-am păzit din copilăria mea. Ce-mi mai lipseşte?
 21. Iisus i-a zis: Dacă voieşti să fii desăvârşit, du-te, vinde averea ta, dă-o săracilor şi vei avea comoară în cer; după aceea, vino şi urmează-Mi.
 22. Ci, auzind cuvântul acesta, tânărul a plecat întristat, căci avea multe avuţii.

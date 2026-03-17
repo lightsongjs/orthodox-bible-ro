@@ -15,8 +15,6 @@ language: ro
 
 ← [[(24 Ieremia 14.01) Marea secetă.md]] | [[(24 Ieremia 14.03) Poporul imploră milă.md]] →
 
-13. Atunci am zis: "Doamne Dumnezeule! Iată ce le grăiesc proorocii: Nu veţi vedea sabie şi foamete nu va fi la voi, ci voi da în locul acesta pace necontenită".
-14. Iar Domnul mi-a răspuns: "Proorocii proorocesc lucruri mincinoase în numele Meu; Eu nu i-am trimis, nici nu ie-am dat poruncă şi nici nu le-am grăit; ci ei vă vestesc vedenii mincinoase, proorociri deşarte şi închipuiri ale inimii lor".
 15. De aceea, aşa zice Domnul despre prooroci: "Ei proorocesc în numele Meu, dar Eu nu i-am trimis; ei zic: "Sabie şi foamete nu va fi în ţara aceasta", dar de sabie şi de foamete vor pieri aceşti prooroci şi poporul căruia au proorocit ei.
 16. Va fi risipit pe uliţele Ierusalimului de foamete şi de sabie, şi nu va avea cine să-i îngroape pe ei şi pe femeile lor, pe fiii lor şi pe fiicele lor, că Eu voi vărsa asupra lor răutatea lor.
 17. şi să le mai spui cuvântul acesta: Ochii mei varsă lacrimi ziua şi noaptea şi nu se opresc! Căci cu bătaie mare a fost bătută fecioara, fiica poporului Meu, şi cu lovitură grea.

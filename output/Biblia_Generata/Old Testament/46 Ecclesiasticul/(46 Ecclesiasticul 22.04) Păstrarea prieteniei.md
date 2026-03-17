@@ -15,10 +15,6 @@ language: ro
 
 ← [[(46 Ecclesiasticul 22.03) Înțelepciunea și prostia.md]] | [[(46 Ecclesiasticul 22.05) Rugăciune pentru ajutor împotriva păcătuirii.md]] →
 
-19. Gardul înfipt în vârful dealului nu rămâne în picioare când îl izbeşte vijelia; aşa inima fricoasă, în cugetul nebunului, nu va sta înaintea oricărei frici.
-20. Cel care împunge ochiul va scoate lacrimi, şi cel care împunge inima răscoleşte simţirea.
-21. Cel care aruncă piatră asupra păsărilor le goneşte şi cel care ocărăşte pe prieten strică prietenia.
-22. Asupra prietenului de vei scoate şi sabia, să nu te deznădăjduieşti, căci el n-o va întoarce asupra ta.
 23. Asupra prietenului de vei deschide gura, să nu te temi, că este împăcare,
 24. Afară de batjocură, de trufie, de descoperirea tainei şi de rana vicleană, căci pentru acestea va fugi tot prietenul.
 25. Să ai credinţă către aproapele tău întru sărăcia lui, ca împreună cu el să te saturi de bunătăţile lui, când va fi bogat.

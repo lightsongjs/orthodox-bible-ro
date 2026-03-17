@@ -15,8 +15,5 @@ language: ro
 
 ← [[(46 Ecclesiasticul 25.01) Cei care sunt vrednici de laudă.md]] | [[(46 Ecclesiasticul 25.03) Răul unei femei viclene.md]] →
 
-13. Cât de mare este cel care a aflat înţelepciunea? Că nu este altul mai mare decât cel care se teme de Domnul.
-14. Frica Domnului toate le covârşeşte şi cel care o ţine pe ea, cui se va asemăna?
-15. Nici o rană nu este ca rana inimii şi nici o răutate nu este ca răutatea femeii.
 
 ← [[(46 Ecclesiasticul 25.01) Cei care sunt vrednici de laudă.md]] | [[(46 Ecclesiasticul 25.03) Răul unei femei viclene.md]] →

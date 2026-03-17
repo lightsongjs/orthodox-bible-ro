@@ -15,10 +15,6 @@ language: ro
 
 ← [[(56 Faptele Apostolilor 20.03) Călătoria de la Troa la Milet.md]] | [[(56 Faptele Apostolilor 21.01) Călătoria lui Pavel la Ierusalim.md]] →
 
-17. Şi trimiţând din Milet la Efes, a chemat la sine pe preoţii Bisericii.
-18. Şi când ei au venit la el, le-a zis: Voi ştiţi cum m-am purtat cu voi, în toată vremea, din ziua cea dintâi, când am venit în Asia,
-19. Slujind Domnului cu toată smerenia şi cu multe lacrimi şi încercări care mi s-au întâmplat prin uneltirile iudeilor.
-20. Şi cum n-am ascuns nimic din cele folositoare, ca să nu vi le vestesc şi să nu vă învăţ, fie înaintea poporului, fie prin case,
 21. Mărturisind şi iudeilor şi elinilor întoarcerea la Dumnezeu prin pocăinţă şi credinţa în Domnul nostru Iisus Hristos.
 22. Iar acum iată că fiind eu mânat de Duhul, merg la Ierusalim, neştiind cele ce mi se vor întâmpla acolo,
 23. Decât numai că Duhul Sfânt mărturiseşte prin cetăţi, spunându-mi că mă aşteaptă lanţuri şi necazuri.

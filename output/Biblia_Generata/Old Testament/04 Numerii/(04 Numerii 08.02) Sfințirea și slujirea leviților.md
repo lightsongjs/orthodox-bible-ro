@@ -15,10 +15,6 @@ language: ro
 
 ← [[(04 Numerii 08.01) Cele șapte candele.md]] | [[(04 Numerii 09.01) Paștile la Sinai.md]] →
 
-5. Şi a grăit cu Moise Domnul şi i-a zis:
-6. "Ia pe leviţi din mijlocul fiilor lui Israel şi-i curăţă;
-7. Şi ca să-i cureţi, să faci cu ei aşa: să-i stropeşti cu apa curăţirii, să-şi radă cu briciul tot trupul lor, să-şi spele hainele şi vor fi curaţi.
-8. Apoi ei să ia un viţel şi prinosul de pâine, făină de grâu, amestecată cu untdelemn; iar tu să mai iei un viţel, jertfă pentru păcat.
 9. Adu după aceea pe leviţi înaintea cortului adunării, unde vei aduna toată obştea fiilor lui Israel.
 10. Să se apropie leviţii înaintea Domnului şi fiii lui Israel să-şi pună mâinile pe leviţi;
 11. Iar Aaron să afierosească pe leviţi înaintea Domnului, din partea fiilor lui Israel, ca să facă ei slujbă Domnului.

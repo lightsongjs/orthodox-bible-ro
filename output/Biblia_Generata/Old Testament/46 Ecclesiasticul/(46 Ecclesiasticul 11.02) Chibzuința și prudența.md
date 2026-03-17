@@ -15,11 +15,6 @@ language: ro
 
 ← [[(46 Ecclesiasticul 11.01) Înșelăciunea aparențelor.md]] | [[(46 Ecclesiasticul 11.03) Grijă în alegerea prietenilor.md]] →
 
-7. Mai înainte de a cerceta, nu huli; cunoaşte întâi şi atunci dojeneşte.
-8. Mai înainte de a nu auzi, nu răspunde; şi nu tăia nimănui şirul cuvintelor.
-9. Pentru lucrul care nu-ţi este de folos, nu te certa şi la judecata păcătoşilor să nu stai împreună cu ei.
-10. Fiule! Nu te amesteca în multe lucruri,
-11. Că de te vei amesteca în multe lucruri, nu vei fi fără de vină.
 12. Şi de vei alerga, nu vei prinde, şi de vei fugi, nu vei scăpa.
 13. Este câte un om care se osteneşte şi munceşte şi se sârguieşte şi cu atât mai mult este sărac.
 14. Este câte un om slab şi fără de ajutor, lipsit de putere şi împovărat de sărăcie,

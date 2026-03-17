@@ -15,8 +15,5 @@ language: ro
 
 ← [[(46 Ecclesiasticul 40.03) Bucuriile vieții.md]] | [[(46 Ecclesiasticul 41.01) Despre moarte.md]] →
 
-28. Banii şi tăria înalţă inima; şi mai mult decât amândouă, frica de Dumnezeu.
-29. Temerii de Domnul nimic nu-i lipseşte şi cu ea nu mai trebuie alt ajutor.
-30. Frica de Dumnezeu este un rai binecuvântat, şi mai mult decât toată mărirea, preţul ei.
 
 ← [[(46 Ecclesiasticul 40.03) Bucuriile vieții.md]] | [[(46 Ecclesiasticul 41.01) Despre moarte.md]] →

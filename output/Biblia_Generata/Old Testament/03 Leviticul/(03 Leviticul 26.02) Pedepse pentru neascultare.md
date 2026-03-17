@@ -15,19 +15,6 @@ language: ro
 
 ← [[(03 Leviticul 26.01) Răsplăți pentru ascultare.md]] | [[(03 Leviticul 27.01) Daruri făgăduite.md]] →
 
-14. Iar de nu Mă veţi asculta şi de nu veri păzi aceste porunci ale Mele,
-15. De veţi dispreţui aşezămintele Mele şi de se va scârbi sufletul vostru de legile Mele, neîmplinind poruncile Mele, şi călcând legământul Meu,
-16. Atunci şi Eu am să Mă port cu voi aşa: Voi trimite asupra voastră groaza, lingoarea şi frigurile, de care vi se vor secătui ochii şi vi se va istovi sufletul; veţi semăna seminţele în zadar şi vrăjmaşii voştri le vor mânca.
-17. Îmi voi întoarce faţa împotriva voastră şi veţi cădea înaintea vrăjmaşilor voştri; vor domni peste voi duşmanii voştri şi veţi fugi când nimeni nu vă va alunga.
-18. Dacă nici după toate acestea nu Mă veţi asculta, atunci înşeptit voi mări pedeapsa pentru păcatele voastre.
-19. Voi frânge îndărătnicia voastră cea mândră şi cerul vostru îl voi face ca fierul, iar pământul vostru ca arama.
-20. În zadar vă veţi cheltui puterile voastre, că pământul vostru nu-şi va da roadele sale, nici pomii din ţara voastră nu-şi vor da poamele lor.
-21. Dacă şi după acestea veţi umbla împotriva Mea şi nu veţi vrea să Mă ascultaţi, atunci vă voi adăuga lovituri înşeptit pentru păcatele voastre;
-22. Voi trimite asupra voastră fiarele câmpului, care vă vor lipsi de copii; vor prăpădi vitele voastre şi pe voi vă voi împuţina aşa, încât se vor pustii drumurile voastre.
-23. Dacă nici după aceasta nu vă veţi îndrepta, împotrivindu-vă Mie,
-24. Atunci şi Eu voi veni cu mânie asupra voastră şi vă voi lovi înşeptit pentru păcatele voastre.
-25. Voi aduce asupra voastră sabie răzbunătoare, ca să răzbune legământul Meu. Iar dacă vă veţi ascunde în oraşele voastre, voi trimite asupra voastră molimă şi veţi fi daţi în mâinile vrăjmaşului.
-26. Pâinea, care vă hrăneşte, o voi lua de la voi; zece femei vor coace pâine pentru voi într-un cuptor şi vor da pâinea voastră cu cântarul şi veţi mânca şi nu vă veţi sătura.
 27. Dacă nici după aceasta nu Mă veţi asculta şi veţi păşi împotriva Mea,
 28. Atunci şi Eu cu mânie voi veni asupra voastră şi vă voi pedepsi înşeptit pentru păcatele voastre;
 29. Veţi mânca din carnea fiilor voştri şi din carnea fiicelor voastre.

@@ -15,8 +15,6 @@ language: ro
 
 ← [[(48 I Macabei 13.01) Simon preia comanda.md]] | [[(48 I Macabei 13.03) Mormântul lui Ionatan.md]] →
 
-12. Şi a pornit Trifon din Ptolemaida cu oştire multă, să intre în pământul Iudei şi avea cu sine pe Ionatan în lanţuri.
-13. Iar Simon a tăbărât la Hadid în preajma câmpului.
 14. Şi înţelegând Trifon că s-a sculat Simon în locul lui Ionatan, fratele său, şi că vrea să pornească asupra lui cu război, a trimis la el soli, zicând:
 15. "Pentru banii ce era dator Ionatan, fratele tău, la vistieria împărătească, pe urma slujbelor ce a avut, îl ţinem închis.
 16. Şi acum trimite o sută de talanţi de argint şi pe doi fii ai lui ostatici, ca nu cumva, căpătând libertatea, să se viclenească spre noi, şi noi îl vom elibera".

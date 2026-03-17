@@ -15,8 +15,6 @@ language: ro
 
 ← [[(59 II Corinteni 12.01) Vedeniile și descoperirile lui Pavel.md]] | [[(59 II Corinteni 13.01) Avertizare suplimentară.md]] →
 
-11. M-am făcut ca unul fără minte, lăudându-mă. Voi m-aţi silit! Căci se cuvenea să vorbiţi voi de bine despre mine, pentru că nu sunt cu nimic mai prejos decât cei mai de frunte dintre apostoli, deşi nu sunt nimic.
-12. Dovezile mele de apostol s-au arătat la voi în toată răbdarea, prin semne, prin minuni şi prin puteri.
 13. Căci cu ce sunteţi voi mai prejos decât celelalte Biserici, decât numai că eu nu v-am fost povară? Dăruiţi-mi mie această nedreptate.
 14. Iată, a treia oară sunt gata să vin la voi şi nu vă voi fi povară, căci nu caut ale voastre, ci pe voi. Pentru că nu copiii sunt datori să agonisească pentru părinţi, ci părinţii pentru copii.
 15. Deci eu foarte bucuros voi cheltui şi mă voi cheltui pentru sufletele voastre, deşi, iubindu-vă mai mult, eu sunt iubit mai puţin.

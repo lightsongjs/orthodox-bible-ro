@@ -15,7 +15,6 @@ language: ro
 
 ← [[(57 Romani 11.01) Respingerea lui Israel nu este definitivă.md]] | [[(57 Romani 11.03) Tot Israelul se va mântui.md]] →
 
-11. Deci, întreb: S-a poticnit, oare, ca să cadă? Nicidecum! Şi prin căderea lor, neamurilor le-a venit mântuirea, ca Israel să-şi întărâte râvna faţă de ele.
 12. Dar dacă greşeala lor a fost bogăţie lumii şi micşorarea lor bogăţie neamurilor, cu cât mai mult întreg numărul lor!
 13. Căci v-o spun vouă, neamurilor: Întru cât sunt eu, deci, apostol al neamurilor, slăvesc slujirea mea,
 14. Doar voi izbuti să aţâţ râvna celor din neamul meu şi să mântuiesc pe unii dintre ei.

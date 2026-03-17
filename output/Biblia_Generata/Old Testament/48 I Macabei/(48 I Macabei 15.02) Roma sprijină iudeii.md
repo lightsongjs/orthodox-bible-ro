@@ -15,7 +15,6 @@ language: ro
 
 ← [[(48 I Macabei 15.01) Scrisoarea lui Antioh al VII-lea.md]] | [[(48 I Macabei 15.03) Antioh al VII-lea îl amenință pe Simon.md]] →
 
-15. Şi a venit Numeniu şi cei care erau cu el de la Roma având scrisori către regi şi ţări, în care erau scrise acestea:
 16. "Lucius, consul al Romanilor, regelui Ptolomeu, bucurie.
 17. Solii Iudeilor au venit la noi prieteni şi aliaţi ai noştri, ca să înnoiască prietenia şi legătura cea din început, trimişi de Simon arhiereul şl de poporul Iudeilor.
 18. Şi au adus un scut de aur de o mie de mine.

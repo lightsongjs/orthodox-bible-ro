@@ -15,9 +15,5 @@ language: ro
 
 ← [[(52 Matei 27.02) Sinuciderea lui Iuda.md]] | [[(52 Matei 27.04) Baraba sau Iisus.md]] →
 
-11. Iar Iisus stătea înaintea dregătorului. Şi L-a întrebat dregătorul, zicând: Tu eşti regele iudeilor? Iar Iisus i-a răspuns: Tu zici.
-12. Şi la învinuirile aduse Lui de către arhierei şi bătrâni, nu răspundea nimic.
-13. Atunci I-a zis Pilat: Nu auzi câte mărturisesc ei împotriva Ta?
-14. Şi nu i-a răspuns lui nici un cuvânt, încât dregătorul se mira foarte.
 
 ← [[(52 Matei 27.02) Sinuciderea lui Iuda.md]] | [[(52 Matei 27.04) Baraba sau Iisus.md]] →

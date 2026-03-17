@@ -15,7 +15,6 @@ language: ro
 
 ← [[(58 I Corinteni 12.01) Darurile duhovnicești.md]] | [[(58 I Corinteni 13.01) Darul dragostei.md]] →
 
-12. Căci precum trupul unul este, şi are mădulare multe, iar toate mădularele trupului, multe fiind, sunt un trup, aşa şi Hristos.
 13. Pentru că într-un Duh ne-am botezat noi toţi, ca să fim un singur trup, fie iudei, fie elini, fie robi, fie liberi, şi toţi la un Duh ne-am adăpat.
 14. Căci şi trupul nu este un mădular, ci multe.
 15. Dacă piciorul ar zice: Fiindcă nu sunt mână nu sunt din trup, pentru aceasta nu este el din trup?

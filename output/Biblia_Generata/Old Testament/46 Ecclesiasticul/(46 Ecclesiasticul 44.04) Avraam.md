@@ -15,8 +15,5 @@ language: ro
 
 ← [[(46 Ecclesiasticul 44.03) Noe.md]] | [[(46 Ecclesiasticul 44.05) Isaac și Iacov.md]] →
 
-19. Legătură veşnică cu el s-a aşezat, ca să nu se mai piardă de potop tot trupul.
-20. Avraam a fost mare părinte al multor neamuri şi nu s-a aflat altul asemenea lui intru mărire,
-21. Ca unul care a păzit legea Celui Preaînalt şi a făcut legătură cu El;
 
 ← [[(46 Ecclesiasticul 44.03) Noe.md]] | [[(46 Ecclesiasticul 44.05) Isaac și Iacov.md]] →

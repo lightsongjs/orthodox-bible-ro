@@ -15,10 +15,6 @@ language: ro
 
 ← [[(58 I Corinteni 15.01) Învierea lui Hristos.md]] | [[(58 I Corinteni 15.03) Trupul învierii.md]] →
 
-12. Iar dacă se propovăduieşte că Hristos a înviat din morţi, cum zic unii dintre voi că nu este înviere a morţilor?
-13. Dacă nu este înviere a morţilor, nici Hristos n-a înviat.
-14. Şi dacă Hristos n-a înviat, zadarnică este atunci propovăduirea noastră, zadarnică este şi credinţa voastră.
-15. Ne aflăm încă şi martori mincinoşi ai lui Dumnezeu, pentru că am mărturisit împotriva lui Dumnezeu că a înviat pe Hristos, pe Care nu L-a înviat, dacă deci morţii nu înviază.
 16. Căci dacă morţii nu înviază, nici Hristos n-a înviat.
 17. Iar dacă Hristos n-a înviat, zadarnică este credinţa voastră, sunteţi încă în păcatele voastre;
 18. Şi atunci şi cei ce au adormit în Hristos au pierit.

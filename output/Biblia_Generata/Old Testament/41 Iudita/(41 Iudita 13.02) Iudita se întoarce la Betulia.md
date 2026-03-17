@@ -15,9 +15,6 @@ language: ro
 
 ← [[(41 Iudita 13.01) Iudita îl decapitează pe Holofern.md]] | [[(41 Iudita 14.01) Sfatul Iuditei.md]] →
 
-11. Şi când locuitorii cetăţii i-au auzit glasul, s-au grăbit să se coboare la poarta cetăţii şi au strigat şi pe bătrânii cetăţii.
-12. Atunci au alergat toţi de la mic la mare, fiindcă nu se aşteptau la venirea ei. Oamenii au deschis poarta, au primit pe cele două femei, au făcut foc pentru a vedea şi le-au înconjurat.
-13. Şi ea le-a zis cu glas tare: "Lăudaţi pe Dumnezeu! Lăudaţi-L! Preaslăviţi pe Dumnezeu, Care n-a lipsit neamul lui Israel de mila Sa, ci a zdrobit în noaptea aceasta prin mâna mea pe vrăjmaşii noştri!"
 14. Şi a scos capul din desagă şi, arătându-l, le-a zis: "Iată capul lui Olofern, căpetenia armatei Asirienilor; iată şi perdeaua sub care sta în beţia lui. Şi Dumnezeu l-a ucis prin mâna unei femei.
 15. Viu este Domnul, Care m-a păzit în calea pe care am mers, că faţa mea l-a amăgit spre pieirea lui, şi el n-a săvârşit nici un păcat spre întinare sau spre ruşine".
 16. Şi tot poporul s-a înspăimântat foarte şi, căzând în genunchi, s-a închinat lui Dumnezeu şi a zis într-un cuget: u Preaslăvit eşti  Tu, Dumnezeul nostru, Care ai nimicit astăzi pe vrăjmaşii poporului nostru!"

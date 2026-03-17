@@ -15,8 +15,6 @@ language: ro
 
 ← [[(09 I Regi 19.02) Mical îl ajută pe David să scape de Saul.md]] | [[(09 I Regi 20.01) Prietenia dintre David și Ionatan.md]] →
 
-18. Aşa a scăpat David şi a fugit şi s-a dus la Samuel în Rama şi i-a povestit toate cele ce-i făcuse  Saul. Apoi a mers el cu Samuel şi s-a oprit la Naiotul cel din Rama.
-19. Şi s-a spus lui Saul: "Iată David este la Naiotul Ramei!"
 20. Şi a trimis Saul slujitori să prindă pe David; dar când au văzut aceştia ceata proorocilor proorocind şi pe Samuel povăţuindu-i, S-a pogorât Duhul lui Dumnezeu peste slujitorii lui Saul şi au început şi ei a prooroci.
 21. Spunându-se acestea lui Saul, el a trimis alţi slujitori, dar şi aceştia au început a prooroci. Apoi Saul a trimis al treilea rând de slujitori şi începură şi aceştia să proorocească.
 22. Mâniindu-se, în sfârşit, Saul a plecat însuşi la Rama şi a mers până la izvorul cel mare din Soco. Acolo a întrebat şi a zis: "Unde sunt Samuel şi David?" Şi i s-a spus: "Iată aici în Naiotul Ramei".

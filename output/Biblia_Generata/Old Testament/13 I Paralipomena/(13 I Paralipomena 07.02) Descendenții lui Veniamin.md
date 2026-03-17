@@ -15,8 +15,6 @@ language: ro
 
 ← [[(13 I Paralipomena 07.01) Descendenții lui Isahar.md]] | [[(13 I Paralipomena 07.03) Descendenții lui Neftali.md]] →
 
-6. Veniamin a avut trei: pe Bela, Becher şi Iediael (Aşbel).
-7. Fiii lui Bela au fost cinci: Eţbon, Uzi, Uziel, Ierimot şi Iri, toţi căpetenii de familii, oameni războinici. În tăbliţele cu spiţa neamului sunt înscrişi douăzeci şi două de mii treizeci şi patru.
 8. Fiii lui Becher au fost: Zemira, Ioaş, Eliezer, Elioenai, Omri, Ieremot, Abia, Anatot şi Alemet; toţi aceştia sunt fiii lui Becher.
 9. În tăbliţele cu spiţa neamului sunt înscrişi din aceştia, după familiile şi după neamurile lor, oameni războinici douăzeci de mii şi două sute.
 10. Fiul lui Iediael (Aşbel) a fost Bilhan. Fiii lui Bilhan au fost: Ieuş, Veniamin, Ehud, Chenaana, Zetan, Tarşiş şi Ahişahar.

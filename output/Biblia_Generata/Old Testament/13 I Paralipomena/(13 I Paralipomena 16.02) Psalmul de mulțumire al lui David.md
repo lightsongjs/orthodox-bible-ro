@@ -15,16 +15,6 @@ language: ro
 
 ← [[(13 I Paralipomena 16.01) Chivotul așezat în cort.md]] | [[(13 I Paralipomena 16.03) Închinarea rânduită menținută.md]] →
 
-7. În această zi David, pentru întâia oară, a dat, prin Asaf şi fraţii lui, următorul psalm de laudă Domnului:
-8. "Lăudaţi pe Domnul şi chemaţi numele Lui; vestiţi între neamuri lucrurile Lui!
-9. Cântaţi, cântaţi în cinstea Lui! Spuneţi toate minunile Lui!
-10. Lăudaţi-vă cu numele Lui cel sfânt! Să se bucure inima celor ce-L caută pe El!
-11. Alergaţi la Domnul şi la ajutorul Lui; căutaţi pururea faţa Lui!
-12. Neamul lui Israel, sluga Lui, fiii lui Iacov, aleşii Lui,
-13. Aduceţi-vă aminte de minunile Lui, de semnele Lui şi de judecăţile gurii Lui!
-14. Căci El este Domnul Dumnezeul nostru şi dreptatea Lui este peste tot pământul.
-15. Aduceţi-vă aminte de aşezământul Lui, de făgăduinţa dată pentru mii de neamuri.
-16. De legământul făcut cu Avraam şi de jurământul Său către Isaac,
 17. Jurământ pus ca o lege pentru Iacov, şi ca un legământ veşnic pentru Israel,
 18. Zicând: ţie-ţi voi da pământul Canaan, ca partea voastră de moştenire.
 19. Ei atunci erau puţini la număr şi neînsemnaţi, şi străini în ţara aceasta.

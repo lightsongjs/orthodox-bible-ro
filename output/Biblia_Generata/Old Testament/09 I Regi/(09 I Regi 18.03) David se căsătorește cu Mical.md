@@ -15,8 +15,6 @@ language: ro
 
 ← [[(09 I Regi 18.02) Saul încearcă să-l ucidă pe David.md]] | [[(09 I Regi 19.01) Ionatan mijlocește pentru David.md]] →
 
-17. Deci a zis Saul către David: "Iată fata mea cea mai mare, Merob, îţi voi da-o de soţie, numai să-mi fii viteaz şi să duci războaiele Domnului". Căci Saul socotea: "Lasă, să nu fie mâna mea asupra lui, ci să fie asupra lui mâna Filistenilor".
-18. David însă a zis către Saul: "Cine sunt eu şi ce este viaţa mea şi neamul tatălui meu în Israel, ca să fiu ginerele regelui?"
 19. Iar când a venit vremea să dea pe Merob, fiica lui Saul, după David, ea a fost măritată cu Adriel din Mehola.
 20. Pe David însă îl iubea altă fată a lui Saul, Micol; şi când i s-a spus despre aceasta lui Saul, aceasta i-a plăcut;
 21. Căci Saul cugeta: "Am s-o dau după el şi ea are să-i fie cursă şi mâna Filistenilor are să fie asupra lui". Şi a zis Saul către David: "A doua oară te înrudeşti acum cu mine".

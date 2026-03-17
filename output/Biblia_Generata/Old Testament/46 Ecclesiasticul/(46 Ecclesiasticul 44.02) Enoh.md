@@ -15,6 +15,5 @@ language: ro
 
 ← [[(46 Ecclesiasticul 44.01) Imn în cinstea strămoșilor noștri.md]] | [[(46 Ecclesiasticul 44.03) Noe.md]] →
 
-16. Enoh, bine-plăcut Domnului fiind, s-a mutat cu trupul şi este pildă de pocăinţă neamurilor.
 
 ← [[(46 Ecclesiasticul 44.01) Imn în cinstea strămoșilor noștri.md]] | [[(46 Ecclesiasticul 44.03) Noe.md]] →

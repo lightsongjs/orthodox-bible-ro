@@ -15,8 +15,5 @@ language: ro
 
 ← [[(46 Ecclesiasticul 43.01) Splendoarea soarelui.md]] | [[(46 Ecclesiasticul 43.03) Gloria stelelor și a curcubeului.md]] →
 
-6. Mare este Domnul Cel care l-a făcut, şi cu porunca Lui grăbeşte mergerea.
-7. Şi luna, totdeauna exactă, însemnează lunile şi împarte timpul.
-8. Din lună este semnul sărbătorii, lumină care scade până la sfârşit.
 
 ← [[(46 Ecclesiasticul 43.01) Splendoarea soarelui.md]] | [[(46 Ecclesiasticul 43.03) Gloria stelelor și a curcubeului.md]] →

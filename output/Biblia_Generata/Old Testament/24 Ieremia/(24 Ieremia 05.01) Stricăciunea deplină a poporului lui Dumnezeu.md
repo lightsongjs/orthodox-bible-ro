@@ -32,7 +32,6 @@ language: ro
 16. Tolba lui e ca un mormânt deschis şi ai lui toţi sunt viteji;
 17. şi vor mânca aceia secerişul tău şi pâinea ta; vor mânca pe fiii tăi şi pe fiicele tale; vor mânca oile tale şi boii tăi; vor mânca strugurii tăi şi smochinele tale şi vor trece prin sabie cetăţile tale cele întărite în care tu te încrezi.
 18. Suiţi-vă pe zidurile lui şi le dărâmaţi, dar nu de tot, ci stricaţi numai crestele lor, pentru că acestea nu sunt ale Domnului;
-18. Dar nici în zilele acelea nu vă voi pierde cu totul, zice Domnul.
 19. Şi de veţi zice: Pentru ce ne face Domnul Dumnezeul nostru toate acestea? Atunci să ţi se răspundă: Pentru că M-aţi părăsit pe Mine şi aţi slujit la dumnezei străini, în ţara voastră, de aceea veţi sluji la dumnezei străini într-o ţară care nu este a voastră.
 20. Spuneţi aceasta în casa lui Iacov, vestiţi-o în Iuda şi ziceţi:
 21. Ascultaţi acestea, popor nebun şi fără inimă! Ei au ochi şi nu văd, urechi au, dar nu aud.

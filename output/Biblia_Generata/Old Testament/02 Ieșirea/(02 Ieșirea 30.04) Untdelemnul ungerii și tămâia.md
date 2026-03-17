@@ -15,15 +15,6 @@ language: ro
 
 ← [[(02 Ieșirea 30.03) Ligheanul de aramă.md]] | [[(02 Ieșirea 31.01) Bețaleel și Ooliav.md]] →
 
-22. Apoi a grăit Domnul cu Moise şi a zis:
-23. "Să iei din cele mai bune mirodenii: cinci sute sicli de smirnă aleasă; jumătate din aceasta, adică două sute cincizeci sicli de scorţişoară mirositoare; două sute cincizeci sicli trestie mirositoare;
-24. Cinci sute sicli casie, după siclul sfânt, şi untdelemn de măsline un hin,
-25. Şi să faci din acestea mir pentru ungerea sfântă, mir alcătuit după meşteşugul făcătorilor de aromate; acesta va fi mirul pentru sfânta ungere.
-26. Să ungi cu el cortul adunării, chivotul legii şi toate lucrurile din cort,
-27. Masa şi toate cele de pe ea, sfeşnicul şi toate lucrurile lui, jertfelnicul tămâierii,
-28. Jertfelnicul arderii de tot şi toate lucrurile lui şi baia şi postamentul ei.
-29. Şi să le sfinţeşti pe acestea şi va fi sfinţenie mare; tot ce se va atinge de ele se va sfinţi.
-30. Să ungi de asemenea şi pe Aaron şi pe fiii lui şi să-i sfinţeşti, ca să-Mi fie preoţi.
 31. Iar fiilor lui Israel să le spui: Acesta va fi pentru voi mirul sfintei ungeri, în numele Meu, în neamul vostru.
 32. Trupurile celorlalţi oameni să nu le ungi cu el şi după chipul alcătuirii lui să nu vă faceţi pentru voi mir la fel. Acesta este lucru sfânt şi sfânt trebuie să fie şi pentru voi.
 33. Cine îşi va face ceva asemănător lui, sau cine se va unge cu el din cei ce nu trebuie să se ungă, acela se va stârpi din poporul său".

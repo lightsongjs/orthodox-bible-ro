@@ -15,9 +15,6 @@ language: ro
 
 ← [[(53 Marcu 14.03) Iuda se învoiește să-L trădeze pe Iisus.md]] | [[(53 Marcu 14.05) Rânduirea Cinei Domnului.md]] →
 
-12. Iar în ziua cea dintâi a Azimilor, când jertfeau Paştile, ucenicii Lui L-au întrebat: Unde voieşti să gătim, ca să mănânci Paştile?
-13. Şi a trimis doi din ucenicii Lui, zicându-le: Mergeţi în cetate şi vă va întâmpina un om, ducând un urcior cu apă; mergeţi după el.
-14. Şi unde va intra, spuneţi stăpânului casei că Învăţătorul zice: Unde este odaia în care să mănânc Paştile împreună cu ucenicii Mei?
 15. Iar el vă va arăta un foişor mare aşternut gata. Acolo să pregătiţi pentru noi.
 16. Şi au ieşit ucenicii şi au venit în cetate şi au găsit aşa precum le-a spus şi au pregătit Paştile.
 17. Iar făcându-se seară, a venit cu cei doisprezece.

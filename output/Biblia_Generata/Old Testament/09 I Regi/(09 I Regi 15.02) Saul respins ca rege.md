@@ -15,12 +15,6 @@ language: ro
 
 ← [[(09 I Regi 15.01) Saul îi înfrânge pe amaleciți dar îi cruță regele.md]] | [[(09 I Regi 16.01) David uns ca rege.md]] →
 
-10. Atunci a fost cuvântul Domnului către Samuel astfel: "Îmi pare rău că am pus pe Saul rege, căci el s-a abătut de la Mine şi cuvântul Meu nu l-a împlinit".
-11. Şi s-a întristat Samuel şi a strigat către Domnul toată noaptea.
-12. Iar a doua zi dis-de-dimineaţă, sculându-se, a ieşit în întâmpinarea lui Saul. şi i s-a spus lui Samuel că Saul a fost pe Carmel şi şi-a ridicat acolo semn de aducere aminte, iar de acolo s-a întors şi s-a coborât la Ghilgal.
-13. Iar după ce a ajuns Samuel la Saul, Saul i-a spus: "Iată am împlinit cuvântul tău!"
-14. Samuel a zis: "Dar ce este acest behăit de oi ce-mi ajunge la urechi şi acel muget de boi pe care-l aud?"
-15. Iar Saul a răspuns: "Le-am adus de la Amalec, de vreme ce poporul a cruţat pe cele mai bune din oi şi din vitele mari, ca să fie aduse jertfă Domnului Dumnezeului tău. Iar pe celelalte le-a nimicit".
 16. Samuel a zis către Saul: "Îngăduie-mi să-ţi spun ce mi-a spus Domnul astă-noapte". Iar Saul a zis: "Spune!"
 17. Şi a zis Samuel: "Când erai tu mic în ochii tăi, n-ai ajuns tu oare căpetenia seminţiilor lui Israel şi Domnul te-a uns rege peste Israel?
 18. Apoi te-a trimis Domnul la drum, zicând: Mergi şi dă junghierii pe Amaleciţii cei necredincioşi şi luptă împotriva lor până îi vei stârpi.

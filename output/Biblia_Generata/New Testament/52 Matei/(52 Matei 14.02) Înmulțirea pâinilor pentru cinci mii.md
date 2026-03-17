@@ -15,8 +15,6 @@ language: ro
 
 ← [[(52 Matei 14.01) Moartea lui Ioan Botezătorul.md]] | [[(52 Matei 14.03) Iisus umblă pe apă.md]] →
 
-13. Iar Iisus, auzind, S-a dus de acolo singur, cu corabia, în loc pustiu dar, aflând, mulţimile au venit după El, pe jos, din cetăţi.
-14. Şi ieşind, a văzut mulţime mare şi I S-a făcut milă de ei şi a vindecat pe bolnavii lor.
 15. Iar când s-a făcut seară, ucenicii au venit la El şi I-au zis: locul este pustiu şi vremea iată a trecut; deci, dă drumul mulţimilor ca să se ducă în sate, să-şi cumpere mâncare.
 16. Iisus însă le-a răspuns: N-au trebuinţă să se ducă; daţi-le voi să mănânce.
 17. Iar ei I-au zis: Nu avem aici decât cinci pâini şi doi peşti.

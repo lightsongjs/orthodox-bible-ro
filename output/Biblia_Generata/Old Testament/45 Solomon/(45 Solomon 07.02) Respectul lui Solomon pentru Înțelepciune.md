@@ -15,7 +15,6 @@ language: ro
 
 ← [[(45 Solomon 07.01) Solomon ca și ceilalți muritori.md]] | [[(45 Solomon 07.03) Solomon se roagă pentru Înțelepciune.md]] →
 
-7. Pentru aceea m-am rugat şi mi s-a dat înţelepciune, am chemat, şi duhul cuminţeniei a coborât în mine.
 8. Am ţinut la ea mai mult decât la sceptre şi decât la tronuri şi am socotit bogăţiile deşarte faţă de ea.
 9. N-am pus alături cu ea nici pietrele cele mai scumpe, fiindcă tot aurul din lume pe lângă ea nu e decât nisip, iar argintul, înaintea ei, mi se pare noroi.
 10. Am preţuit înţelepciunea mai mult decât sănătatea şi frumuseţea; am pus-o chiar înaintea luminii, fiindcă strălucirea ei nu se stinge niciodată.

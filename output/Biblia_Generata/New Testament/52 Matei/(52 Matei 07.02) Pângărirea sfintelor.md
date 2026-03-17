@@ -15,6 +15,5 @@ language: ro
 
 ← [[(52 Matei 07.01) Judecarea altora.md]] | [[(52 Matei 07.03) Cereți, căutați, bateți.md]] →
 
-6. Nu daţi cele sfinte câinilor, nici nu aruncaţi mărgăritarele voastre înaintea porcilor, ca nu cumva să le calce în picioare şi, întorcându-se, să vă sfâşie pe voi.
 
 ← [[(52 Matei 07.01) Judecarea altora.md]] | [[(52 Matei 07.03) Cereți, căutați, bateți.md]] →

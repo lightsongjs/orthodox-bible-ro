@@ -19,7 +19,6 @@ language: ro
 2. "Grăiţi fiilor lui Israel şi le spuneţi: Dacă un bărbat va avea curgere din trupul său, pentru curgerea lui este necurat,
 4. Tot patul, pe care doarme cel ce are curgere, este necurat; tot lucrul, pe care va şedea cel ce are curgere, este necurat.
 5. Şi legea necurăţiei lui este aceasta: Ori de se face curgere din trupul lui, ori de este împiedicată curgerea în trupul lui, el este necurat.
-5. Omul, care se va atinge de patul lui, să-şi spele hainele sale, să se spele cu apă şi va fi necurat până seara.
 6. Cel ce va şedea pe vreun lucru, pe care a şezut cel ce are curgere, să-şi spele hainele sale, să se spele cu apă şi va fi necurat până seara.
 7. Cel ce se va atinge de trupul celui ce are curgere să-şi spele hainele sale, să se spele cu apă şi necurat va fi până seara.
 8. Dacă cel ce are curgere va scuipa pe unul curat, acesta să-şi spele hainele, să se spele cu apă şi necurat va fi până seara.

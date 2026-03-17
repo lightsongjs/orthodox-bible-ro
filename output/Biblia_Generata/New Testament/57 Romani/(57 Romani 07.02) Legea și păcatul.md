@@ -15,7 +15,6 @@ language: ro
 
 ← [[(57 Romani 07.01) O analogie din căsătorie.md]] | [[(57 Romani 07.03) Conflictul interior.md]] →
 
-7. Ce vom zice deci? Au doară Legea este păcat? Nicidecum. Dar eu n-am cunoscut păcatul,  decât prin Lege. Căci n-aş fi ştiut pofta, dacă Legea n-ar fi zis: Să nu pofteşti!
 8. Dar păcatul, luând pricină prin poruncă, a lucrat în mine tot felul de pofte. Căci fără lege, păcatul era mort.
 9. Iar eu cândva trăiam fără lege, dar după ce a venit porunca, păcatul a prins viaţă;
 10. Iar eu am murit! Şi porunca, dată spre viaţă, mi s-a aflat a fi spre moarte.

@@ -15,8 +15,6 @@ language: ro
 
 ← [[(46 Ecclesiasticul 24.01) Lauda Înțelepciunii.md]] | [[(46 Ecclesiasticul 25.01) Cei care sunt vrednici de laudă.md]] →
 
-23. Cei care mă mănâncă pe mine iar vor flămânzi; şi cei care mă beau iar vor înseta.
-24. Cel care mă ascultă pe mine nu se va ruşina şi cei care lucrează întru mine nu vor păcătui".
 25. Toate acestea sunt cartea legăturii Dumnezeului celui Preaînalt, legea pe care a poruncit-o Moise moştenire adunărilor lui Iacov.
 26. Această lege face să curgă ca Fisonul înţelepciunea şi ca Tigrul, în zilele primăverii.
 27. Ea umple, ca Eufratul, înţelegerea şi ca Iordanul, în zilele secerii.

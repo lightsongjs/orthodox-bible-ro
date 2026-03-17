@@ -15,10 +15,6 @@ language: ro
 
 ← [[(57 Romani 12.01) Noua viață în Hristos.md]] | [[(57 Romani 13.01) Supunerea față de autorități.md]] →
 
-9. Dragostea să fie nefăţarnică. Urâţi răul, alipiţi-vă de bine.
-10. În iubire frăţească, unii pe alţii iubiţi-vă; în cinste, unii altora daţi-vă întâietate.
-11. La sârguinţă, nu pregetaţi; cu duhul fiţi fierbinţi; Domnului slujiţi.
-12. Bucuraţi-vă în nădejde; în suferinţă fiţi răbdători; la rugăciune stăruiţi.
 13. Faceţi-vă părtaşi la trebuinţele sfinţilor, iubirea de străini urmând.
 14. Binecuvântaţi pe cei ce vă prigonesc, binecuvântaţi-i şi nu-i blestemaţi.
 15. Bucuraţi-vă cu cei ce se bucură; plângeţi cu cei ce plâng.

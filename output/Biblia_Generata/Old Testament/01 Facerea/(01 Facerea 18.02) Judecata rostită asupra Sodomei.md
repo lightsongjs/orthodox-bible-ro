@@ -15,9 +15,6 @@ language: ro
 
 ← [[(01 Facerea 18.01) Un fiu făgăduit lui Avraam și Sara.md]] | [[(01 Facerea 19.01) Desfrânarea Sodomei.md]] →
 
-16. Apoi S-au sculat Oamenii aceia de acolo şi S-au îndreptat spre Sodoma şi Gomora şi s-a dus şi Avraam cu Ei, ca să-I petreacă.
-17. Domnul însă a zis: "Tăinui-voi Eu oare de Avraam, sluga Mea, ceea ce voiesc să fac?
-18. Din Avraam cu adevărat se va ridica un popor mare şi tare şi printr-însul se vor binecuvânta toate neamurile pământului,
 19. Că l-am ales, ca să înveţe pe fiii şi casa sa după sine să umble în calea Domnului şi să facă judecată şi dreptate; pentru ca să aducă Domnul asupra lui Avraam toate câte i-a făgăduit".
 20. Zis-a deci Domnul: "Strigarea Sodomei şi a Gomorei e mare şi păcatul lor cumplit de greu.
 21. Pogorî-Mă-voi deci să văd dacă faptele lor sunt cu adevărat aşa cum s-a suit până la Mine strigarea împotriva lor, iar de nu, să ştiu".

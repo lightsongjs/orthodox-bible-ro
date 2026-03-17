@@ -15,8 +15,6 @@ language: ro
 
 ← [[(01 Facerea 11.01) Turnul Babel.md]] | [[(01 Facerea 11.03) Urmașii lui Tara.md]] →
 
-10. Iată acum istoria vieţii neamului lui Sem: Sem era de o sută de ani, când i s-a născut Arfaxad, la doi ani după potop.
-11. După naşterea lui Arfaxad, Sem a mai trăit cinci sute de ani şi a născut fii şi fiice şi apoi a murit.
 12. Arfaxad a trăit o sută treizeci şi cinci de ani şi atunci i s-a născut Cainan. După naşterea lui Cainan, Arfaxad a mai trăit trei sute treizeci de ani şi a născut fii şi fiice şi apoi a murit.
 13. Cainan a trăit o sută treizeci de ani şi atunci i s-a născut Şelah. După naşterea lui Şelah, Cainan a mai trăit trei sute treizeci de ani şi a născut fii şi fiice şi apoi a murit.
 14. Şelah a trăit o sută treizeci de ani şi atunci i s-a născut Eber.

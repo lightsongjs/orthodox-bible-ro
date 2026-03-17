@@ -15,9 +15,6 @@ language: ro
 
 ← [[(09 I Regi 16.01) David uns ca rege.md]] | [[(09 I Regi 17.01) David și Goliat.md]] →
 
-14. Atunci s-a depărtat de la Saul Duhul Domnului şi-l tulbura un duh rău, trimis de Domnul.
-15. Şi au zis slugile lui Saul: "Iată un duh rău trimis de Domnul te tulbură.
-16. Să poruncească dar domnul nostru slugilor sale care sunt înaintea ta şi să caute un om iscusit lâ cântarea din harpă, şi când va veni asupra ta duhul cel rău trimis de la Dumnezeu, atunci acela, cântând cu mâna sa, te va linişti".
 17. Şi a răspuns Saul slugilor sale: "Căutaţi-mi un om care cântă bine şi mi-l aduceţi".
 18. Atunci unul din slujitorii lui a zis: "Iată eu am văzut la Iesei Betleemitul un fiu care ştie să cânte, om voinic şi războinic, priceput la vorbă şi bărbat chipeş şi Domnul este cu el".
 19. A trimis deci Saul vestitori la Iesei şi i-a spus: "Trimite la mine pe David, fiul tău cel de la turmă".

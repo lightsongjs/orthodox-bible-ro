@@ -119,7 +119,8 @@ class MarkdownGenerator:
         return prev_filename, next_filename
 
     def generate_markdown_content(self, pericope: Dict, book_data: Dict,
-                                  prev_file: Optional[str], next_file: Optional[str]) -> str:
+                                  prev_file: Optional[str], next_file: Optional[str],
+                                  displayed_verses: set) -> str:
         """
         Generate markdown content for a pericope.
 
@@ -128,6 +129,7 @@ class MarkdownGenerator:
             book_data: Book metadata
             prev_file: Previous pericope filename (for navigation)
             next_file: Next pericope filename (for navigation)
+            displayed_verses: Set of verse numbers already displayed in this chapter
 
         Returns:
             Complete markdown content with YAML frontmatter
@@ -162,9 +164,14 @@ class MarkdownGenerator:
         if nav:
             content += nav + "\n\n"
 
-        # Generate verses
+        # Generate verses (filter out duplicates)
         for verse in pericope['verses']:
-            content += f"{verse['verse']}. {verse['text']}\n"
+            verse_num = verse['verse']
+
+            # Only include verse if not already displayed in this chapter
+            if verse_num not in displayed_verses:
+                content += f"{verse_num}. {verse['text']}\n"
+                displayed_verses.add(verse_num)
 
         # Generate navigation (bottom)
         if nav:
@@ -228,8 +235,17 @@ class MarkdownGenerator:
 
             print(f"[{book_num:02d}] {book_name_en} - {len(book_data['pericopes'])} pericopes")
 
+            # Track displayed verses per chapter (reset for each chapter)
+            displayed_verses_per_chapter = {}
+
             # Generate markdown for each pericope
             for pericope in book_data['pericopes']:
+                chapter_num = pericope['chapter']
+
+                # Reset displayed verses tracker when starting a new chapter
+                if chapter_num not in displayed_verses_per_chapter:
+                    displayed_verses_per_chapter[chapter_num] = set()
+
                 # Find this pericope in the flat list to get prev/next
                 pericope_id = pericope['pericope_id']
                 current_index = next(
@@ -241,9 +257,10 @@ class MarkdownGenerator:
                     all_pericopes_flat, current_index, all_books_data
                 )
 
-                # Generate markdown content
+                # Generate markdown content (with duplicate filtering)
                 markdown = self.generate_markdown_content(
-                    pericope, book_data, prev_file, next_file
+                    pericope, book_data, prev_file, next_file,
+                    displayed_verses_per_chapter[chapter_num]
                 )
 
                 # Generate filename
@@ -273,9 +290,9 @@ class MarkdownGenerator:
 def main():
     """Main entry point."""
     generator = MarkdownGenerator(
-        pericopes_dir='bible_books_pericopes',
-        output_dir='Biblia_Generata',
-        metadata_path='bible_books_metadata.json'
+        pericopes_dir='output/bible_books_pericopes',
+        output_dir='output/Biblia_Generata',
+        metadata_path='source/bible_books_metadata.json'
     )
 
     generator.generate_all_books()

@@ -15,7 +15,6 @@ language: ro
 
 ← [[(56 Faptele Apostolilor 16.03) Convertirea Lidiei.md]] | [[(56 Faptele Apostolilor 17.01) Răscoala din Tesalonic.md]] →
 
-16. Dar odată, pe când ne duceam la rugăciune, ne-a întâmpinat o slujnică, care avea duh pitonicesc şi care aducea mult câştig stăpânilor ei, ghicind.
 17. Aceasta, ţinându-se după Pavel şi după noi, striga, zicând: Aceşti oameni sunt robi ai Dumnezeului celui Preaînalt, care vă vestesc vouă calea mântuirii.
 18. Şi aceasta o făcea timp de multe zile. Iar Pavel mâniindu-se şi întorcându-se, a zis duhului: În numele lui Iisus Hristos îţi poruncesc să ieşi din ea. Şi în acel ceas a ieşit.
 19. Şi stăpânii ei, văzând că s-a dus nădejdea câştigului lor, au pus mâna pe Pavel şi pe Sila şi i-au în piaţă înaintea dregătorilor.

@@ -15,8 +15,6 @@ language: ro
 
 ← [[(02 Ieșirea 09.01) A cincea urgie boala vitelor.md]] | [[(02 Ieșirea 09.03) A șaptea urgie tunetul și grindina.md]] →
 
-8. Iarăşi a grăit Domnul cu Moise şi cu Aaron şi a zis: "Luaţi-vă câte o mână plină de cenuşă din cuptor şi s-o arunce Moise spre cer înaintea lui Faraon şi a slujitorilor lui.
-9. Şi se va stârni pulbere în tot pământul Egiptului şi vor fi pe oameni şi pe vite răni şi băşici usturătoare în toată ţara Egiptului".
 10. Deci, au luat ei cenuşă din cuptor, au mers înaintea lui Faraon, a aruncat-o Moise spre cer şi s-au făcut bube cu puroi pe oameni şi pe vite;
 11. Şi magii n-au putut sta împotriva lui Moise din pricina rănilor, pentru că erau bube pe ei şi în tot Egiptul.
 12. Dar Domnul a învârtoşat inima lui Faraon şi nu i-a ascultat, cum zisese Domnul lui Moise.

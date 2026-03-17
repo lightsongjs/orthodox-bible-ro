@@ -15,9 +15,6 @@ language: ro
 
 ← [[(07 Judecători 09.01) Abimelec încearcă să instaureze monarhia.md]] | [[(07 Judecători 09.03) Căderea lui Abimelec.md]] →
 
-7. Iar dacă s-a spus acestea lui Iotam, acesta s-a dus şi a stat pe vârful muntelui Garizim şi, ridicându-şi glasul, a strigat şi a zis: "Ascultaţi-mă, locuitori ai Sichemului, şi Dumnezeu să vă asculte!
-8. S-au dus odată copacii să-şi ungă împărat peste ei. Şi au zis către măslin: Domneşte peste noi!
-9. Iar măslinul a zis: Lăsa-voi eu oare grăsimea mea, cu care se cinsteşte Dumnezeu şi oamenii se mândresc şi mă voi duce să umblu prin copaci?
 10. Atunci copacii au zis către smochin: Vino tu şi domneşte peste noi!
 11. Dar şi smochinul a răspuns  Să-mi las eu oare dulceaţa mea şi fructul meu cel bun şi să mă duc să cârmuiesc copacii?
 12. Apoi au zis copacii către viţa de vie: Vino tu de domneşte paste noi!

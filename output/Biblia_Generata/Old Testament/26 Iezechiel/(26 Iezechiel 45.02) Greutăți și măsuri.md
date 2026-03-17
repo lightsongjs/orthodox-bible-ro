@@ -15,8 +15,5 @@ language: ro
 
 ← [[(26 Iezechiel 45.01) Ținutul sfânt.md]] | [[(26 Iezechiel 45.03) Jertfe.md]] →
 
-10. Să aveţi cântar drept şi efă dreaptă şi bat drept.
-11. Efa şi batul trebuie să fie măsuri deopotrivă de mari, încât într-un bat să încapă a zecea parte dintr-un homer şi într-o efă să încapă a zecea parte dintr-un homer. Mărimea lor trebuie măsurată cu homerul.
-12. Siclul să aibă douăzeci de ghere. Mina va fi de douăzeci de sicli, de douăzeci şi cinci de sicli şi de cincisprezece sicli.
 
 ← [[(26 Iezechiel 45.01) Ținutul sfânt.md]] | [[(26 Iezechiel 45.03) Jertfe.md]] →

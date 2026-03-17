@@ -15,6 +15,5 @@ language: ro
 
 ← [[(41 Iudita 15.02) Israeliții sărbătoresc victoria.md]] | [[(41 Iudita 16.01) Faima și moartea Iuditei.md]] →
 
-14. Atunci Iudita a început să cânte această cântare de laudă în tot Israelul, iar tot poporul cânta după ea această cântare de laudă.
 
 ← [[(41 Iudita 15.02) Israeliții sărbătoresc victoria.md]] | [[(41 Iudita 16.01) Faima și moartea Iuditei.md]] →

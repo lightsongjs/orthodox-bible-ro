@@ -15,7 +15,6 @@ language: ro
 
 ← [[(04 Numerii 22.01) Balac îl cheamă pe Balaam să blesteme pe Israel.md]] | [[(04 Numerii 22.03) Primul oracle al lui Balaam.md]] →
 
-22. Dar se aprinsese mânia lui Dumnezeu pentru că s-a dus, iar îngerul Domnului s-a sculat, ca să-l mustre pe cale.
 23. Cum şedea el pe asina sa, însoţit de două slugi ale sale, a văzut asina pe îngerul Domnului, care stătea în drum cu sabia ridicată în mână, şi s-a abătut din drum pe câmp; iar Valaam a bătut asina cu toiagul său, ca să o întoarcă la drum.
 24. Dar îngerul Domnului a stat în drumul îngust între vii, unde de o parte şi de alta era zid;
 25. Şi asina, văzând îngerul Domnului, s-a tras către zid şi a strâns piciorul lui Valaam în zid, şi acesta iar a început s-o bată.

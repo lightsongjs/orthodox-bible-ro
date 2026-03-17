@@ -15,10 +15,6 @@ language: ro
 
 ← [[(02 Ieșirea 23.03) Sărbătorile anuale.md]] | [[(02 Ieșirea 24.01) Sângele Legământului.md]] →
 
-20. Iată Eu trimit înaintea ta pe îngerul Meu, ca să te păzească în cale şi să te ducă la pământul acela pe care l-am pregătit pentru tine.
-21. Ia aminte la tine însuţi; să-l asculţi şi să nu-i fi necredincios, că nu te va ierta, pentru că numele Meu este în el.
-22. De vei asculta cu luare aminte glasul său şi vei face toate câte îţi poruncesc şi de vei păzi legământul Meu, Îmi veţi fi popor ales dintre toate neamurile, că al Meu este tot pământul, iar voi Înli veţi fi preoţie împărătească şi neam sfânt. Spune cuvintele acestea fiilor lui Israel: De veţi asculta cu luare aminte glasul îngerului Meu şi veţi împlini toate câte vă voi spune, voi fi vrăjmaş vrăjmaşilor tăi şi potrivnicilor tăi le voi fi potrivnic.
-23. Când va merge înaintea ta îngerul Meu, povăţuitorul tău, şi te va duce la Amorei, la Hetei, la Ferezei, ia Canaanei, la Gherghesei, la Hevei şi la Iebusei, şi-i voi stârpi pe aceştia de la faţa voastră,
 24. Atunci să nu te închini la dumnezeii lor, nici să le slujeşti, nici să faci după faptele acelora, ci să-i zdrobeşti de tot şi să strici stâlpii lor.
 25. Să slujeşti numai Domnului Dumnezeului tău şi El va binecuvânta pâinea ta, vinul tău, apa ta şi voi abate bolile de la voi.
 26. În faţa ta nu va fi femeie care să nască înainte de vreme sau stearpă; şi voi umple numărul zilelor tale.

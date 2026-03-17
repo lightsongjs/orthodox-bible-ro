@@ -15,9 +15,6 @@ language: ro
 
 ← [[(13 I Paralipomena 27.02) Căpeteniile triburilor.md]] | [[(13 I Paralipomena 28.01) Solomon îndrumat să construiască templul.md]] →
 
-25. Peste vistieriile regale era Azmavet, fiul lui Adiel, iar peste depozitele de provizii de la câmp, de prin cetăţi şi de prin sate şi turnuri era Ionatan, fiul lui Uzia.
-26. Peste cei ce se îndeletniceau cu lucrul câmpului, cu agricultura, era Ezri, fiul lui Chelub.
-27. Peste vii era Şimei din Rama, iar peste depozitele de vin din vii era Zabdi, fiul lui Şifmi.
 28. Peste livezile de măslini şi de smochini din câmpie era Baal-Hanan din Gheder, iar peste depozitele de untdelemn era Ioaş.
 29. Peste vitele mari care păşteau în Şaron era Şitrai Haşaroneanul; iar peste cele din văi, Şafat, fiul lui Adlai.
 30. Peste cămile era Obil Ismaelitul; peste asini era Iehdia Meroneanul.

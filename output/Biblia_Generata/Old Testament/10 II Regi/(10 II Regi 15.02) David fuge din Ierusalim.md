@@ -15,9 +15,6 @@ language: ro
 
 ← [[(10 II Regi 15.01) Absalom uzurpă tronul.md]] | [[(10 II Regi 15.03) Hușai devine spionul lui David.md]] →
 
-13. Deci a venit un vestitor la David şi a zis: "Inima Israeliţilor a înclinat în partea lui Abesalom".
-14. Iar David a zis către toate slugile sale, care erau cu el în Ierusalim: "Sculaţi-vă să fugim, căci nu vom scăpa de Abesalom. Grăbiţi-vă să plecăm, ca să nu ne ajungă şi să ne prindă, ca să nu aducă necaz asupra noastră şi să strice cetăţile cu sabia".
-15. Şi slugile regelui au zis către rege: "La tot ce va voi regele, stăpânul nostru, noi slugile tale suntem gata".
 16. Şi a ieşit regele pe jos şi după el a mers toată casa lui. Regele însă a lăsat zece femei din concubinele sale, ca să păzească casa.
 17. Şi au plecat regele şi tot poporul pe jos şi s-au oprit la Bet-Merhac.
 18. Toate slugile lui mergeau pe lângă el, iar toţi Cheretienii şi toţi Peletienii şi toţi Gateienii, ca la şase sute de oameni, care veniseră împreună cu el din Gat, mergeau înaintea regelui.
