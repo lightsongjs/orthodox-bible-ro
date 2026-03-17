@@ -1,0 +1,296 @@
+{
+  "id": 77,
+  "book_number": 65,
+  "name_en": "2 Thessalonians",
+  "name_ro": "II Tesaloniceni",
+  "testament": "NT",
+  "chapter_count": 3,
+  "pericope_count": 8,
+  "url": "https://www.bibliaortodoxa.ro/carte.php?id=77",
+  "pericopes": [
+    {
+      "pericope_id": "2_Thessalonians_01_01",
+      "chapter": 1,
+      "pericope_num": "01",
+      "title_en": "Salutation",
+      "title_ro": "Salutare",
+      "start_verse": 1,
+      "end_verse": 2,
+      "verse_count": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Pavel, Silvan şi Timotei, Bisericii tesalonicenilor întru Dumnezeu, Tatăl nostru, şi întru Domnul Iisus Hristos:"
+        },
+        {
+          "verse": 2,
+          "text": "Har vouă şi pace, de la Dumnezeu, Tatăl nostru, şi de la Domnul Iisus Hristos."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Thessalonians_01_02",
+      "chapter": 1,
+      "pericope_num": "02",
+      "title_en": "Thanksgiving",
+      "title_ro": "Mulțumire",
+      "start_verse": 3,
+      "end_verse": 4,
+      "verse_count": 2,
+      "verses": [
+        {
+          "verse": 3,
+          "text": "Datori suntem, fraţilor, să mulţumim pentru voi pururea lui Dumnezeu, precum se cuvine, fiindcă mult creşte credinţa voastră şi dragostea fiecăruia dintre voi toţi prisoseşte, a unuia faţă de altul,"
+        },
+        {
+          "verse": 4,
+          "text": "Încât noi înşine ne lăudăm cu voi, în Bisericile lui Dumnezeu, pentru statornicia şi credinţa voastră, în toate prigonirile voastre şi în strâmtorările pe care le suferiţi."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Thessalonians_01_03",
+      "chapter": 1,
+      "pericope_num": "03",
+      "title_en": "The Judgment at Christ's Coming",
+      "title_ro": "Judecata la venirea lui Hristos",
+      "start_verse": 5,
+      "end_verse": 12,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 5,
+          "text": "Ele sunt o dovadă a dreptei judecăţi a lui Dumnezeu, ca să vă învredniciţi de împărăţia lui Dumnezeu, pentru care şi pătimiţi,"
+        },
+        {
+          "verse": 6,
+          "text": "De vreme ce drept este înaintea lui Dumnezeu să răsplătească cu necaz celor ce vă necăjesc pe voi,"
+        },
+        {
+          "verse": 7,
+          "text": "Iar vouă celor necăjiţi, să vă dea odihnă, împreună cu noi, la arătarea Domnului Iisus din cer, cu îngerii puterii Sale,"
+        },
+        {
+          "verse": 8,
+          "text": "În văpaie de foc, osândind pe cei ce nu cunosc pe Dumnezeu şi pe cei ce nu se supun Evangheliei Domnului nostru Iisus."
+        },
+        {
+          "verse": 9,
+          "text": "Ei vor lua ca pedeapsă pieirea veşnică de la faţa Domnului şi de la slava puterii Lui,"
+        },
+        {
+          "verse": 10,
+          "text": "Când va veni să se preamărească întru sfinţii Săi şi să fie privit cu uimire de către toţi cei ce au crezut, pentru că mărturia noastră către voi a găsit crezare în ziua aceea."
+        },
+        {
+          "verse": 11,
+          "text": "Pentru aceasta, ne şi rugăm pururea pentru voi, ca Dumnezeul nostru să vă facă vrednici de chemarea Sa şi să împlinească cu putere toată pornirea voastră spre bunătate şi orice lucrare a credinţei voastre,"
+        },
+        {
+          "verse": 12,
+          "text": "Ca să se preaslăvească în voi numele Domnului nostru Iisus şi voi întru El, prin harul Dumnezeului nostru şi al Domnului Iisus Hristos."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Thessalonians_02_01",
+      "chapter": 2,
+      "pericope_num": "01",
+      "title_en": "The Man of Lawlessness",
+      "title_ro": "Omul fărădelegii",
+      "start_verse": 1,
+      "end_verse": 12,
+      "verse_count": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "În privinţa venirii Domnului nostru Iisus Hristos şi a adunării noastre împreună cu El, vă rugăm, fraţilor,"
+        },
+        {
+          "verse": 2,
+          "text": "Să nu vă clintiţi degrabă cu mintea, nici să vă spăimântaţi - nici de vreun duh, nici de vreun cuvânt, nici de vreo scrisoare ca pornită de la noi, cum că ziua Domnului a şi sosit."
+        },
+        {
+          "verse": 3,
+          "text": "Să nu vă amăgească nimeni, cu nici un chip; căci ziua Domnului nu va sosi până ce mai întâi nu va veni lepădarea de credinţă şi nu se va da pe faţă omul nelegiuirii, fiul pierzării,"
+        },
+        {
+          "verse": 4,
+          "text": "Potrivnicul, care se înalţă mai presus de tot ce se numeşte Dumnezeu, sau se cinsteşte cu închinare, aşa încât să se aşeze el în templul lui Dumnezeu, dându-se pe sine drept dumnezeu."
+        },
+        {
+          "verse": 5,
+          "text": "Nu vă aduceţi aminte că, pe când eram încă la voi, vă spuneam aceste lucruri?"
+        },
+        {
+          "verse": 6,
+          "text": "Şi acum ştiţi ce-l opreşte, ca să nu se arate decât la vremea lui."
+        },
+        {
+          "verse": 7,
+          "text": "Pentru că taina fărădelegii se şi lucrează, până când cel care o împiedică acum va fi dat la o parte."
+        },
+        {
+          "verse": 8,
+          "text": "Şi atunci se va arăta cel fără de lege, pe care Domnul Iisus îl va ucide cu suflarea gurii Sale şi-l va nimici cu strălucirea venirii Sale."
+        },
+        {
+          "verse": 9,
+          "text": "Iar venirea aceluia va fi prin lucrarea lui satan, însoţită de tot felul de puteri şi de semne şi de minuni mincinoase,"
+        },
+        {
+          "verse": 10,
+          "text": "Şi de amăgiri nelegiuite, pentru fiii pierzării, fiindcă ei n-au primit iubirea adevărului, ca ei să se mântuiască."
+        },
+        {
+          "verse": 11,
+          "text": "Şi de aceea, Dumnezeu le trimite o lucrare de amăgire, ca ei să creadă minciuni,"
+        },
+        {
+          "verse": 12,
+          "text": "Ca să fie osândiţi toţi cei ce n-au crezut adevărul, ci le-a plăcut nedreptatea."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Thessalonians_02_02",
+      "chapter": 2,
+      "pericope_num": "02",
+      "title_en": "Chosen for Salvation",
+      "title_ro": "Aleși pentru mântuire",
+      "start_verse": 13,
+      "end_verse": 17,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 13,
+          "text": "Iar noi, fraţilor, iubiţi de Domnul, datori suntem totdeauna să mulţumim lui Dumnezeu pentru voi, că v-a ales Dumnezeu dintru început, spre mântuire, întru sfinţirea duhului şi întru credinţa adevărului,"
+        },
+        {
+          "verse": 14,
+          "text": "La care v-a chemat prin Evanghelia noastră, spre dobândirea slavei Domnului nostru Iisus Hristos."
+        },
+        {
+          "verse": 15,
+          "text": "Deci, dar, fraţilor, staţi neclintiţi şi ţineţi predaniile pe care le-aţi învăţat, fie prin cuvânt, fie prin epistola noastră."
+        },
+        {
+          "verse": 16,
+          "text": "Însuşi Domnul nostru Iisus Hristos şi Dumnezeu Tatăl nostru, Care ne-a iubit pe noi şi ne-a dat, prin har, veşnică mângâiere şi bună nădejde,"
+        },
+        {
+          "verse": 17,
+          "text": "Să mângâie inimile voastre şi să vă întărească, la tot lucrul şi cuvântul bun."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Thessalonians_03_01",
+      "chapter": 3,
+      "pericope_num": "01",
+      "title_en": "Request for Prayer",
+      "title_ro": "Cerere de rugăciune",
+      "start_verse": 1,
+      "end_verse": 5,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "În sfârşit, fraţilor, rugaţi-vă pentru noi, ca cuvântul Domnului să se răspândească şi să se preamărească, ca şi la voi,"
+        },
+        {
+          "verse": 2,
+          "text": "Şi ca să ne izbăvim de oamenii cei nesocotiţi şi vicleni. Căci credinţa nu este a tuturor;"
+        },
+        {
+          "verse": 3,
+          "text": "Dar credincios este Domnul, Care vă va întări şi vă va păzi de cel viclean."
+        },
+        {
+          "verse": 4,
+          "text": "Despre voi, încredinţaţi suntem în Domnul, că cele ce vă poruncim, voi le faceţi şi le veţi face."
+        },
+        {
+          "verse": 5,
+          "text": "Iar Domnul să îndrepteze inimile voastre spre dragostea lui Dumnezeu şi spre răbdarea lui Hristos!"
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Thessalonians_03_02",
+      "chapter": 3,
+      "pericope_num": "02",
+      "title_en": "Warning against Idleness",
+      "title_ro": "Avertizare împotriva lenevirii",
+      "start_verse": 6,
+      "end_verse": 15,
+      "verse_count": 10,
+      "verses": [
+        {
+          "verse": 6,
+          "text": "Fraţilor, vă poruncim în numele Domnului nostru Iisus Hristos, să vă feriţi de orice frate care umblă fără rânduială şi nu după predania pe care aţi primit-o de la noi."
+        },
+        {
+          "verse": 7,
+          "text": "Căci voi înşivă ştiţi cum trebuie să vă asemănaţi nouă, că noi n-am umblat fără rânduială între voi,"
+        },
+        {
+          "verse": 8,
+          "text": "Nici n-am mâncat de la cineva pâine în dar, ci, cu muncă şi cu trudă, am lucrat noaptea şi ziua, ca să nu împovărăm pe nimeni dintre voi."
+        },
+        {
+          "verse": 9,
+          "text": "Nu doar că n-avem putere, ci ca să ne dăm pe noi înşine pildă vouă, spre a ne urma."
+        },
+        {
+          "verse": 10,
+          "text": "Căci şi când ne aflam la voi, v-am dat porunca aceasta: dacă cineva nu vrea să lucreze, acela nici să nu mănânce."
+        },
+        {
+          "verse": 11,
+          "text": "Pentru că auzim că unii de la voi umblă fără rânduială, nelucrând nimic, ci iscodind."
+        },
+        {
+          "verse": 12,
+          "text": "Dar unora ca aceştia le poruncim şi-i rugăm, în Domnul Iisus Hristos, ca să muncească în linişte şi să-şi mănânce pâinea lor."
+        },
+        {
+          "verse": 13,
+          "text": "Iar voi, fraţilor, nu pregetaţi să faceţi ce e bine."
+        },
+        {
+          "verse": 14,
+          "text": "Şi dacă vreunul nu ascultă de cuvântul nostru prin epistolă, pe acela să-l însemnaţi şi să nu mai aveţi cu el nici un amestec, ca să-i fie ruşine."
+        },
+        {
+          "verse": 15,
+          "text": "Dar să nu-l socotiţi ca pe un vrăjmaş, ci povăţuiţi-l ca pe un frate."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Thessalonians_03_03",
+      "chapter": 3,
+      "pericope_num": "03",
+      "title_en": "Final Greetings and Benediction",
+      "title_ro": "Salutări finale și binecuvântare",
+      "start_verse": 16,
+      "end_verse": 18,
+      "verse_count": 3,
+      "verses": [
+        {
+          "verse": 16,
+          "text": "Şi Însuşi Domnul păcii să vă dăruiască vouă pace totdeauna şi în tot chipul! Domnul fie cu voi cu toţi!"
+        },
+        {
+          "verse": 17,
+          "text": "Salutarea cu mâna mea - a lui Pavel; acesta este semnul meu în orice scrisoare. Aşa scriu."
+        },
+        {
+          "verse": 18,
+          "text": "Harul Domnului nostru Iisus Hristos cu voi cu toţi! Amin."
+        }
+      ]
+    }
+  ]
+}

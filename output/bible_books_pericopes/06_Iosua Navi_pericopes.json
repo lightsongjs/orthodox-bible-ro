@@ -1,0 +1,3452 @@
+{
+  "id": 41,
+  "book_number": 6,
+  "name_en": "Joshua",
+  "name_ro": "Iosua Navi",
+  "testament": "OT",
+  "chapter_count": 24,
+  "pericope_count": 48,
+  "url": "https://www.bibliaortodoxa.ro/carte.php?id=41",
+  "pericopes": [
+    {
+      "pericope_id": "Joshua_01_01",
+      "chapter": 1,
+      "pericope_num": "01",
+      "title_en": "God's Commission to Joshua",
+      "title_ro": "Împuternicirea lui Iosua de către Dumnezeu",
+      "start_verse": 1,
+      "end_verse": 9,
+      "verse_count": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "După moartea lui Moise, robul Domnului, a grăit Domnul cu Iosua, fiul lui Navi, slujitorul lui Moise, şi a zis:"
+        },
+        {
+          "verse": 2,
+          "text": "\"Moise, robul Meu, a murit. Scoală dar şi treci Iordanul tu şi tot poporul acesta, în ţara pe care o voi da fiilor lui Israel."
+        },
+        {
+          "verse": 3,
+          "text": "Tot locul pe care vor călca tălpile picioarelor voastre, îl voi da vouă, cum am spus lui Moise:"
+        },
+        {
+          "verse": 4,
+          "text": "De la pustie şi de la Libanul acesta până la râul cel mare, până la râul Eufratului şi până la marea cea mare spre asfinţitul soarelui vor fi hotarele voastre."
+        },
+        {
+          "verse": 5,
+          "text": "Nimeni nu se va putea împotrivi ţie, în toate zilele vieţii tale. Precum am fost cu Moise, aşa voi fi şi cu tine; nu Mă voi depărta de tine şi nu te voi părăsi."
+        },
+        {
+          "verse": 6,
+          "text": "Fii tare şi curajos, că tu vei împărţi poporului acestuia, prin sorţi, tara pe care M-am jurat părinţilor lor să le-o dau."
+        },
+        {
+          "verse": 7,
+          "text": "Fii dar tare şi foarte curajos, ca să păzeşti şi să împlineşti toată legea pe care ţi-a încredinţat-o Moise, robul Meu; să nu te abaţi de la ea nici la dreapta nici la stânga, ca să pricepi toate câte ai de făcut."
+        },
+        {
+          "verse": 8,
+          "text": "Să nu se pogoare cartea legii acesteia de pe buzele tale, ci călăuzeşte-te de ea ziua şi noaptea, ca să plineşti întocmai tot ce este scris în ea; atunci vei fi cu izbândă în căile tale şi vei păşi cu spor."
+        },
+        {
+          "verse": 9,
+          "text": "Iată îţi poruncesc: Fii tare şi curajos, să nu te temi, nici să te spăimântezi, căci Domnul Dumnezeul tău este cu tine pretutindenea, oriunde vei merge\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_01_02",
+      "chapter": 1,
+      "pericope_num": "02",
+      "title_en": "Preparations for the Invasion",
+      "title_ro": "Pregătiri pentru invazie",
+      "start_verse": 10,
+      "end_verse": 18,
+      "verse_count": 9,
+      "verses": [
+        {
+          "verse": 10,
+          "text": "Atunci a poruncit Iosua căpeteniilor poporului şi a zis:"
+        },
+        {
+          "verse": 11,
+          "text": "\"Treceţi prin tabără şi porunciţi poporului şi-i ziceţi: Pregătiţi-vă merinde de drum, că după trei zile veţi trece peste Iordanul acesta, ca să mergeţi şi să luaţi în stăpânire pământul pe care Domnul Dumnezeul părinţilor voştri are să vi-l dea\"."
+        },
+        {
+          "verse": 12,
+          "text": "Iar seminţiei lui Ruben şi seminţiei lui Gad şi la jumătate din seminţia lui Manase, Iosua le-a zis:"
+        },
+        {
+          "verse": 13,
+          "text": "\"Aduceţi-vă aminte ce v-a poruncit Moise, sluga Domnului, când v-a zis: Domnul Dumnezeul vostru v-a liniştit şi v-a dat pământul acesta."
+        },
+        {
+          "verse": 14,
+          "text": "Femeile voastre, copiii voştri şi vitele voastre să rămână în pământul pe care vi l-a dat Moise dincoace de Iordan, iar voi toţi câţi puteţi lupta, înarmându-vă, duceţi-vă înaintea fraţilor voştri şi le ajutaţi,"
+        },
+        {
+          "verse": 15,
+          "text": "Până ce Domnul Dumnezeul vostru va linişti şi pe fraţii voştri, cum va liniştit şi pe voi, şi până ce vor primi şi ei de moştenire pământul pe care Domnul Dumnezeul vostru îl dă lor. Atunci vă veţi întoarce în moştenirea voastră şi veţi stăpâni pământul pe care Moise, sluga Domnului, vi l-a dat dincolo de Iordan, spre răsăritul soarelui\"."
+        },
+        {
+          "verse": 16,
+          "text": "Iar ei au răspuns lui Iosua şi au zis: \"Toate, oricâte ne vei porunci, vom face şi oriunde ne vei trimite, vom merge."
+        },
+        {
+          "verse": 17,
+          "text": "Cum am ascultat pe Moise, aşa te vom asculta şi pe tine, numai să fie Domnul Dumnezeul tău cu tine cum a fost cu Moise."
+        },
+        {
+          "verse": 18,
+          "text": "Tot cel ce se va împotrivi poruncilor tale şi nu va asculta cuvintele tale, în toate câte vei porunci, să moară. Dar fii tare şi curajos!\""
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_02_01",
+      "chapter": 2,
+      "pericope_num": "01",
+      "title_en": "Spies Sent to Jericho",
+      "title_ro": "Iscoade trimise la Ierihon",
+      "start_verse": 1,
+      "end_verse": 24,
+      "verse_count": 24,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Atunci Iosua, fiul lui Navi, a trimis în taină din Sitim doi tineri să iscodească ţara şi a zis: \"Duceţi-vă şi cercetaţi ţara şi mai ales Ierihonul!\" Şi s-au dus cei doi tineri şi, ajungând la Ierihon, au intrat în casa unei desfrânate, al cărei nume era Rahab, şi au rămas să se odihnească acolo."
+        },
+        {
+          "verse": 2,
+          "text": "Şi s-a dat de ştire regelui Ierihonului: \"Iată, nişte oameni din fiii lui Israel au venit aici în noaptea aceasta, ca să iscodească ţara!\""
+        },
+        {
+          "verse": 3,
+          "text": "Iar regele Ierihonului a trimis la Rahab să i se spună: \"Scoate pe oamenii care au intrat în casa ta, în noaptea aceasta, că au venit să iscodească ţara\"."
+        },
+        {
+          "verse": 4,
+          "text": "Femeia însă, luând pe cei doi oameni, i-a ascuns şi a zis: \"Adevărat, au venit la mine nişte oameni,"
+        },
+        {
+          "verse": 5,
+          "text": "Dar în amurg, când se închideau porţile, bărbaţii au plecat şi nu ştiu unde s-au dus. Alergaţi după ei şi-i veţi ajunge\"."
+        },
+        {
+          "verse": 6,
+          "text": "Apoi ea a suit pe cei doi oameni pe acoperiş şi i-a ascuns în nişte fuioare de în ce se aflau pe acoperişul casei ei."
+        },
+        {
+          "verse": 7,
+          "text": "Iar trimişii regelui au alergat după ei pe drumul cel către Iordan, până la vad, şi porţile s-au închis îndată ce au ieşit cei ce urmăreau pe iscoade."
+        },
+        {
+          "verse": 8,
+          "text": "Înainte însă de a adormi iscoadele femeia s-a suit la dânşii pe acoperiş,"
+        },
+        {
+          "verse": 9,
+          "text": "Şi le-a zis: \"Ştiu că Domnul v-a dat vouă pământul acesta, căci frica voastră a căzut asupra noastră şi toţi locuitorii pământului acestuia au frică de voi,"
+        },
+        {
+          "verse": 10,
+          "text": "Pentru că am auzit noi cum a secat Domnul Dumnezeu înaintea voastră Marea Roşie, când ah ieşit din Egipt, şi câte aţi făcut voi cu cei doi regi ai Amoreilor peste Iordan, cu Sihon şi cu Og, pe care i-aţi pierdut."
+        },
+        {
+          "verse": 11,
+          "text": "Când am auzit noi de acestea, ne-a slăbit inima şi în nici unul din noi n-a mai rămas bărbăţie în faţa voastră, căci Domnul Dumnezeul vostru este Dumnezeu în cer sus şi pe pământ jos."
+        },
+        {
+          "verse": 12,
+          "text": "Acum dar juraţi-mi pe Domnul Dumnezeul vostru că, precum am făcut eu milă cu voi, veţi face şi voi milă cu casa tatălui meu şi daţi-mi semn de nădejde,"
+        },
+        {
+          "verse": 13,
+          "text": "Că veţi lăsa cu viaţă pe tatăl meu, pe mama mea, pe fraţii mei, pe surorile mele, toată casa mea şi veţi izbăvi sufletul meu de la moarte\"."
+        },
+        {
+          "verse": 14,
+          "text": "Iar oamenii aceia au zis către dânsa: \"Sufletul nostru îl vom pune pentru voi\". Şi ea a zis: \"Când Domnul vă va da cetatea aceasta, să faceţi cu mine milă şi dreptate\"."
+        },
+        {
+          "verse": 15,
+          "text": "Apoi le-a dat drumul cu o frânghie pe fereastră, căci casa ei era în zidul cetăţii şi ea locuia chiar deasupra zidului."
+        },
+        {
+          "verse": 16,
+          "text": "Şi le-a zis: \"Duceţi-vă în munte, ca să nu vă întâlniţi cu cei ce vă urmăresc şi staţi acolo ascunşi trei zile, până se vor întoarce cei ce vă urmăresc şi apoi vă veţi duce în drumul vostru\"."
+        },
+        {
+          "verse": 17,
+          "text": "Iar oamenii aceia au zis către dânsa: \"De nu vei face cum îţi vom zice, vom fi slobozi de acest jurământ al tău:"
+        },
+        {
+          "verse": 18,
+          "text": "Iată, când vom intra noi în cetate pe partea aceasta, tu să pui semn această funie roşie la fereastra pe care ne-ai slobozit, iar pe tatăl tău, pe mama ta, pe fraţii tăi şi pe toţi cei din familia tatălui tău să-i aduni în casa ta."
+        },
+        {
+          "verse": 19,
+          "text": "Şi de va ieşi cineva afară pe uşa casei tale, sângele aceluia să fie asupra capului lui, şi noi vom fi slobozi de acest jurământ al tău; iar cine va fi cu tine în casa ta, sângele aceluia să fie asupra capului nostru, de se va atinge de el mâna cuiva."
+        },
+        {
+          "verse": 20,
+          "text": "Dacă însă ne va năpăstui cineva şi va descoperi fapta noastră, atunci vom fi slobozi de acest jurământ al tău\"."
+        },
+        {
+          "verse": 21,
+          "text": "Şi ea le-a zis: \"Să fie cum ai grăit!\" Apoi le-a dat drumul şi s-au dus, iar ea a legat la fereastră funia cea roşie."
+        },
+        {
+          "verse": 22,
+          "text": "Ducându-se oamenii aceia şi ajungând în munte, au aşteptat acolo trei zile, până ce s-au întors cei ce-i urmăreau, care-i căutaseră pe toate drumurile şi nu-i găsiră."
+        },
+        {
+          "verse": 23,
+          "text": "Întorcându-se apoi, cei doi tineri s-au coborât din munte, au trecut Iordanul şi au venit la Iosua, fiul lui Navi, şi i-au povestit tot ce se întâmplase cu ei,"
+        },
+        {
+          "verse": 24,
+          "text": "Şi au zis către Iosua: \"Domnul Dumnezeul nostru a dat tot pământul acesta în mâinile noastre şi toţi cei ce locuiesc în ţara aceea tremură de frica noastră\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_03_01",
+      "chapter": 3,
+      "pericope_num": "01",
+      "title_en": "Israel Crosses the Jordan",
+      "title_ro": "Israel trece Iordanul",
+      "start_verse": 1,
+      "end_verse": 17,
+      "verse_count": 17,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Sculându-se apoi Iosua a doua zi dis-de-dimineaţă, a pornit de la Sitim şi a venit până la Iordan, el şi toţi fiii lui Israel, şi au poposit acolo înainte de a-l trece."
+        },
+        {
+          "verse": 2,
+          "text": "Iar după trei zile au trecut vestitori prin tabără,"
+        },
+        {
+          "verse": 3,
+          "text": "Şi au poruncit poporului, zicând: \"Când veţi vedea chivotul legământului Domnului Dumnezeului vostru şi preoţii voştri şi pe leviţii cei ce-l duc, atunci să porniţi şi voi de la locul vostru şi să mergeţi după el."
+        },
+        {
+          "verse": 4,
+          "text": "Iar depărtarea între voi şi el să fie ca de două mii de coţi; să nu vă apropiaţi prea mult de el, ca să puteţi vedea bine calea pe care aveţi să mergeţi; căci înainte n-aţi mai umblat pe calea aceasta niciodată\"."
+        },
+        {
+          "verse": 5,
+          "text": "Şi a mai zis Iosua către popor: \"Sfinţiţi-vă pentru dimineaţă, căci mâine are să facă Domnul minuni între voi\"."
+        },
+        {
+          "verse": 6,
+          "text": "Iar preoţilor le-a zis Iosua: \"Ridicaţi chivotul legământului Domnului şi mergeţi înaintea poporului!\" Şi au luat preoţii chivotul legământului Domnului şi au purces înaintea poporului."
+        },
+        {
+          "verse": 7,
+          "text": "Atunci a zis Domnul către Iosua: \"În ziua aceasta voi începe a te preamări înaintea ochilor tuturor fiilor lui Israel, ca să cunoască ei că, precum am fost cu Moise, aşa am să fiu şi cu tine."
+        },
+        {
+          "verse": 8,
+          "text": "Tu însă să porunceşti preoţilor care poartă chivotul legământului şi să zici: \"Îndată ce veţi intra în mijlocul apelor Iordanului, să vă opriţi în Iordan!\""
+        },
+        {
+          "verse": 9,
+          "text": "Iar Iosua a zis către fiii lui Israel: \"Veniţi încoace şi ascultaţi cuvintele Domnului Dumnezeului vostru."
+        },
+        {
+          "verse": 10,
+          "text": "Din aceasta veţi cunoaşte că în mijlocul vostru este Dumnezeul cel viu Care va alunga de la voi pe Canaanei, pe Hetei, pe Hevei, pe Ferezei, pe Gherghesei, pe Amorei şi pe Iebusei."
+        },
+        {
+          "verse": 11,
+          "text": "Iată chivotul legământului Domnului a tot pământul va trece înaintea voastră peste Iordan."
+        },
+        {
+          "verse": 12,
+          "text": "Să vă alegeţi doisprezece oameni dintre fiii lui Israel, câte un om din fiecare seminţie;"
+        },
+        {
+          "verse": 13,
+          "text": "Şi îndată ce tălpile picioarelor preoţilor care duc Chivotul Domnului, Stăpânul a tot pământul, vor călca în apa Iordanului, apele Iordanului se vor despărţi: cele de la vale se vor scurge, iar cele care vin din sus se vor opri ca un perete\"."
+        },
+        {
+          "verse": 14,
+          "text": "Deci poporul a pornit de la corturile sale, ca să treacă Iordanul, iar preoţii care duceau chivotul legământului Domnului mergeau înaintea poporului."
+        },
+        {
+          "verse": 15,
+          "text": "Îndată ce preoţii cei ce duceau chivotul au intrat în Iordan şi picioarele preoţilor, care duceau chivotul, s-au afundat în apa Iordanului,"
+        },
+        {
+          "verse": 16,
+          "text": "Apa care curgea din sus s-a oprit şi s-a făcut perete pe o foarte mare depărtare, până la cetatea Adam, care e lângă Ţartan, iar cea care curgea spre marea cea din Arabah, spre Marea Sărată, s-a scurs şi a secat, iar poporul a trecut în fala Ierihonului. Atunci Iordanul umplea matca sa şi ieşea din toate malurile sale, ca în timpul secerişului grâului."
+        },
+        {
+          "verse": 17,
+          "text": "Preoţii care duceau chivotul legământului Domnului stăteau ca pe uscat în mijlocul Iordanului, cu picioarele neudate; iar fiii lui Israel au mers ca pe uscat, până ce tot poporul a trecut prin Iordan."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_04_01",
+      "chapter": 4,
+      "pericope_num": "01",
+      "title_en": "Twelve Stones Set Up at Gilgal",
+      "title_ro": "Douăsprezece pietre ridicate la Ghilgal",
+      "start_verse": 1,
+      "end_verse": 24,
+      "verse_count": 24,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "După ce a isprăvit tot poporul de trecut Iordanul; a grăit Domnul către Iosua şi a zis:"
+        },
+        {
+          "verse": 2,
+          "text": "\"Ia din popor doisprezece bărbaţi, câte un om din fiecare seminţie,"
+        },
+        {
+          "verse": 3,
+          "text": "Şi le porunceşte: \"Luaţi din mijlocul Iordanului douăsprezece pietre, duceţi-le cu voi şi le puneţi în tabăra voastră, unde aveţi să tăbărâţi la noapte\"."
+        },
+        {
+          "verse": 4,
+          "text": "Şi a chemat Iosua doisprezece bărbaţi pe care şi-i alesese dintre fiii lui Israel, câte un om din fiecare seminţie,"
+        },
+        {
+          "verse": 5,
+          "text": "Şi le-a zis: \"Mergeţi înaintea chivotului Domnului Dumnezeului vostru, în mijlocul Iordanului, şi luaţi de acolo şi ridicaţi pe umerii voştri fiecare câte o piatră, după numărul celor douăsprezece seminţii ale lui Israel,"
+        },
+        {
+          "verse": 6,
+          "text": "Ca să vă fie acestea puse pentru totdeauna ca semn în mijlocul vostru şi, când vă vor întreba mâine copiii voştri şi vor zice: Ce înseamnă aici pietrele acestea?"
+        },
+        {
+          "verse": 7,
+          "text": "Atunci veţi spune fiilor voştri: Apele Iordanului s-au despărţit înaintea chivotului legământului Domnului a tot pământul, când acesta l-a trecut. Şi aşa pietrele acestea vor fi pentru fiii lui Israel amintire pentru vecie\"."
+        },
+        {
+          "verse": 8,
+          "text": "Şi au făcut fiii lui Israel aşa cum le-a poruncit Iosua: după ce au isprăvit fiii lui Israel de trecut Iordanul, au luat douăsprezece pietre din Iordan, precum Domnul poruncise lui Iosua, după numărul seminţiilor fiilor lui Israel şi le-au dus cu ei în tabără şi le-au pus acolo."
+        },
+        {
+          "verse": 9,
+          "text": "Iosua însă a pus alte douăsprezece pietre în mijlocul Iordanului, pe locul unde au stat picioarele preoţilor care duceau chivotul legământului Domnului, şi sunt acolo până în ziua de astăzi."
+        },
+        {
+          "verse": 10,
+          "text": "Preoţii care duceau chivotul Domnului au stat în mijlocul Iordanului până ce a isprăvit Iosua toate câte îi poruncise Domnul să spună poporului, cum poruncise Moise lui Iosua. Şi poporul a grăbit să treacă Iordanul."
+        },
+        {
+          "verse": 11,
+          "text": "Iar după ce a trecut tot poporul, a trecut şi chivotul Domnului şi preoţii au mers iarăşi în fruntea poporului."
+        },
+        {
+          "verse": 12,
+          "text": "Atunci au trecut şi fiii lui Ruben, fiii lui Gad şi jumătate din seminţia lui Manase, gata de război, înaintea fiilor lui Israel, cum le poruncise Moise."
+        },
+        {
+          "verse": 13,
+          "text": "Ca la patruzeci de mii de oameni înarmaţi pentru război au trecut înaintea Domnului, ca să lupte împotriva cetăţii Ierihonului."
+        },
+        {
+          "verse": 14,
+          "text": "În ziua aceea a preamărit Domnul pe Iosua înaintea a tot neamul lui Israel şi s-au temut de dânsul cât a trăit, cum se temuseră şi de Moise."
+        },
+        {
+          "verse": 15,
+          "text": "Apoi a grăit Domnul cu Iosua şi a zis:"
+        },
+        {
+          "verse": 16,
+          "text": "\"Porunceşte preoţilor care duc chivotul mărturiei Domnului, să iasă din Iordan\"."
+        },
+        {
+          "verse": 17,
+          "text": "Şi a poruncit Iosua preoţilor şi a zis: \"Ieşiţi din Iordan!\""
+        },
+        {
+          "verse": 18,
+          "text": "Şi cum au ieşit din Iordan preoţii, cei ce duceau chivotul legământului Domnului, şi şi-au pus picioarele pe uscat, apa Iordanului a pornit pe albia sa şi a curs ca mai înainte, până peste maluri."
+        },
+        {
+          "verse": 19,
+          "text": "Poporul a ieşit din Iordan în ziua a zecea a lunii întâi şi au tăbărât fiii lui Israel la Ghilgal, în partea de răsărit a Ierihonului."
+        },
+        {
+          "verse": 20,
+          "text": "Iar cele douăsprezece pietre pe care le luaseră ei din Iordan, le-a aşezat Iosua în Ghilgal."
+        },
+        {
+          "verse": 21,
+          "text": "Şi a zis fiilor lui Israel: \"Când vă vor întreba fiii voştri mâine şi vor zice: Ce înseamnă aceste pietre?"
+        },
+        {
+          "verse": 22,
+          "text": "Să spuneţi fiilor voştri: Israel a trecut prin Iordanul acesta, ca pe uscat,"
+        },
+        {
+          "verse": 23,
+          "text": "Căci Domnul Dumnezeul vostru a secat apele Iordanului înaintea lor, până ce le-au trecut, cum făcuse Domnul Dumnezeul vostru şi cu Marea Roşie, pe care a secat-o Domnul Dumnezeul nostru înaintea noastră. până ce am trecut-o,"
+        },
+        {
+          "verse": 24,
+          "text": "Ca să cunoască toate neamurile pământului că puterea Domnului este mare şi ca voi să vă temeţi de Domnul Dumnezeul vostru, în toată vremea\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_05_01",
+      "chapter": 5,
+      "pericope_num": "01",
+      "title_en": "The New Generation Circumcised",
+      "title_ro": "Tăierea împrejur a noii generații",
+      "start_verse": 1,
+      "end_verse": 9,
+      "verse_count": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Când au auzit regii Amoreilor, care locuiau peste Iordan şi regii Canaaneilor, care locuiau pe lângă mare, că Domnul Dumnezeu a secat râul Iordanului înaintea fiilor lui Israel până ce l-au trecut, a slăbit inima lor, s-au înspăimântat şi nu mai aveau curaj împotriva fiilor lui Israel."
+        },
+        {
+          "verse": 2,
+          "text": "În vremea aceea a zis Domnul către Iosua: \"Fă-ţi cuţite tăioase de cremene şi taie împrejur pe fiii lui Israel a doua oară\"."
+        },
+        {
+          "verse": 3,
+          "text": "Şi şi-a făcut Iosua cuţite ascuţite de cremene şi a tăiat împrejur pe fiii lui Israel, la locul ce se numeşte Dealul Aralot."
+        },
+        {
+          "verse": 4,
+          "text": "Iată pricina pentru care Iosua a tăiat împrejur pe fiii lui Israel: Tot poporul de parte bărbătească care ieşi se din Egipt, toţi cei buni de război, muriseră pe cale, în pustiu, după ieşirea din Egipt;"
+        },
+        {
+          "verse": 5,
+          "text": "Căci tot poporul care ieşise din Egipt era tăiat împrejur; iar poporul născut pe cale, în pustiu, după ieşirea din Egipt, nu era tăiat împrejur."
+        },
+        {
+          "verse": 6,
+          "text": "Căci fiii lui Israel umblaseră prin pustiu patruzeci şi doi de ani, până ce a murit tot poporul bun de război, care ieşise din Egipt şi care nu ascultase de glasul Domnului. Acestora Domnul se jurase să nu le dea voie să vadă ţara pe care El făgăduise cu jurământ să o dea părinţilor lor, ţara în care curge lapte şi miere."
+        },
+        {
+          "verse": 7,
+          "text": "În locul acestora se ridicaseră fiii lor, pe care i-a tăiat împrejur Iosua, căci nu erau tăiaţi împrejur, pentru că se născuseră pe cale."
+        },
+        {
+          "verse": 8,
+          "text": "După ce poporul s-a tăiat împrejur, a rămas liniştit în tabără, până s-a însănătoşit."
+        },
+        {
+          "verse": 9,
+          "text": "Apoi a zis Domnul către Iosua, fiul lui Navi: \"În ziua de astăzi am ridicat de pe voi ocara Egiptului\", şi de aceea se şi numeşte locul acela Ghilgal, până în ziua aceasta."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_05_02",
+      "chapter": 5,
+      "pericope_num": "02",
+      "title_en": "The Passover at Gilgal",
+      "title_ro": "Paștile la Ghilgal",
+      "start_verse": 10,
+      "end_verse": 12,
+      "verse_count": 3,
+      "verses": [
+        {
+          "verse": 10,
+          "text": "Fiii lui Israel au stat cu tabăra la Ghilgal şi au făcut acolo în şesul Ierihonului Paştile în ziua a paisprezecea a lunii, seara."
+        },
+        {
+          "verse": 11,
+          "text": "Iar a doua zi de Paşti au mâncat din roadele pământului acestuia azime şi pâine nouă."
+        },
+        {
+          "verse": 12,
+          "text": "În ziua aceea a încetat mana de a mai cădea şi de a doua zi, după ce au mâncat din roadele pământului, fiii lui Israel n-au mai avut mană, ci au mâncat anul acela din roadele Zării Canaanului."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_05_03",
+      "chapter": 5,
+      "pericope_num": "03",
+      "title_en": "Joshua's Vision",
+      "title_ro": "Vedenia lui Iosua",
+      "start_verse": 13,
+      "end_verse": 15,
+      "verse_count": 3,
+      "verses": [
+        {
+          "verse": 13,
+          "text": "Aflându-se însă Iosua aproape de Ierihon, a căutat cu ochii săi şi iată stătea înaintea lui un om; acela avea în mână o sabie goală. Şi apropiindu-se Iosua de dânsul, i-a zis: \"De-ai noştri eşti sau eşti dintre duşmanii noştri?\""
+        },
+        {
+          "verse": 14,
+          "text": "Iar acela a răspuns: \"Eu sunt căpetenia oştirii Domnului şi am venit acum!\" Atunci Iosua a căzut cu fala la pământ, s-a închinat şi a zis către acela: \"Stăpâne, ce porunceşti slugii tale?\""
+        },
+        {
+          "verse": 15,
+          "text": "Zis-a către Iosua căpetenia oştirii Domnului: \"Scoate-ţi încălţămintea din picioare, că locul pe care stai tu acum este sfânt!\" Şi a făcut Iosua aşa."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_06_01",
+      "chapter": 6,
+      "pericope_num": "01",
+      "title_en": "Jericho Taken and Destroyed",
+      "title_ro": "Cucerirea și distrugerea Ierihonului",
+      "start_verse": 1,
+      "end_verse": 27,
+      "verse_count": 27,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Ierihonul însă era încuiat şi întărit de frica fiilor lui Israel; nimeni nu intra în el şi nimeni nu ieşea."
+        },
+        {
+          "verse": 2,
+          "text": "Atunci a zis Domnul către Iosua: \"Iată, Eu voi da în mâinile tale Ierihonul, pe regii lui şi pe puternicii lui."
+        },
+        {
+          "verse": 3,
+          "text": "Duceţi-vă împrejurul cetăţii toţi cei buni de război şi înconjuraţi cetatea câteodată pe zi. Aceasta să o faceţi şase zile."
+        },
+        {
+          "verse": 4,
+          "text": "Şapte preoţi să poarte înaintea chivotului şapte trâmbiţe din corn de berbec, iar în ziua a şaptea să ocoliţi cetatea de şapte ori şi preoţii să trâmbiţeze din trâmbiţe."
+        },
+        {
+          "verse": 5,
+          "text": "Când vor suna din trâmbiţa de corn de berbec şi când veţi auzi sunetul de trâmbiţă, atunci tot poporul să strige cu glas tare deodată, şi când vor striga ei zidurile cetăţii se vor prăbuşi. Atunci tot poporul să năvălească în cetate, plecând fiecare din partea unde se află\"."
+        },
+        {
+          "verse": 6,
+          "text": "Şi a chemat Iosua, fiul lui Navi, pe preoţi şi le-a zis: \"Luaţi chivotul legământului şi şapte preoţi să poarte şapte trâmbiţe din corn de berbec înaintea chivotului Domnului\"."
+        },
+        {
+          "verse": 7,
+          "text": "Şi le-a mai zis acestora să spună poporului: \"Mergeţi şi ocoliţi cetatea, iar cei înarmaţi să meargă înaintea chivotului Domnului!\""
+        },
+        {
+          "verse": 8,
+          "text": "Îndată ce Iosua a spus acestea poporului, cei şapte preoţi, care purtau cele şapte trâmbiţe sfinte înaintea Domnului, au pornit şi au început a suna tare din trâmbiţe şi chivotul legământului Domnului mergea în urma lor."
+        },
+        {
+          "verse": 9,
+          "text": "Cei înarmaţi mergeau înaintea preoţilor care sunau din trâmbiţe, iar cei din urmă veneau după chivotul Domnului, trâmbiţând în mers din trâmbiţe."
+        },
+        {
+          "verse": 10,
+          "text": "Poporului însă Iosua i-a poruncit şi a zis: \"Să nu strigaţi! Nimeni să nu audă glasul vostru şi nici o vorbă să nu iasă din gura voastră până în ziua când vă voi zice eu să strigaţi; atunci să strigaţi\"."
+        },
+        {
+          "verse": 11,
+          "text": "Şi aşa chivotul Domnului a plecat împrejurul cetăţii şi a înconjurat-o o dată; apoi a venit în tabără şi a rămas în tabără."
+        },
+        {
+          "verse": 12,
+          "text": "A doua zi Iosua s-a sculat dis-de-dimineaţă şi preoţii au ridicat chivotul Domnului;"
+        },
+        {
+          "verse": 13,
+          "text": "Şi cei şapte preoţi, care purtau cele şapte trâmbiţe, mergeau înaintea chivotului Domnului şi trâmbiţau din trâmbiţe; cei înarmaţi mergeau înaintea lor, iar celălalt popor venea în urma chivotului Domnului şi preoţii trâmbiţau din trâmbiţe."
+        },
+        {
+          "verse": 14,
+          "text": "Astfel şi a doua zi au înconjurat cetatea o dată şi s-au întors în tabără. Şi au făcut aşa şase zile."
+        },
+        {
+          "verse": 15,
+          "text": "În ziua a şaptea s-au sculat de dimineaţă, în revărsatul zorilor şi au mers tot aşa împrejurul cetăţii de şapte ori; numai în această zi au înconjurat cetatea de şapte ori."
+        },
+        {
+          "verse": 16,
+          "text": "Iar când au sunat preoţii a şaptea oară din trâmbiţe, Iosua a zis către fiii lui Israel: \"Strigaţi, că v-a dat Domnul cetatea!"
+        },
+        {
+          "verse": 17,
+          "text": "Cetatea va fi sub blestem şi tot ce este în ea e al Domnului puterilor; numai Rahab desfrânata să rămână vie, ea şi tot cel ce va fi în casa ei, pentru că ea a ascuns iscoadele pe care le-am trimis noi."
+        },
+        {
+          "verse": 18,
+          "text": "Voi însă să vă păziţi foarte de tot ce este dat blestemului, ca să nu cădeţi şi voi sub blestem, dacă aţi lua ceva din cele date spre nimicire şi pentru ca asupra taberei lui Israel să nu vină blestemul şi să-i aducă pieire."
+        },
+        {
+          "verse": 19,
+          "text": "Tot aurul şi argintul şi vasele de aramă şi de fier să fie sfinţenie a Domnului şi să intre în vistieria Domnului\"."
+        },
+        {
+          "verse": 20,
+          "text": "Atunci au trâmbiţat preoţii din trâmbiţe. Şi cum a auzit poporul glasul de trâmbiţă, a strigat tot poporul împreună cu glas tare şi puternic şi s-au prăbuşit toate zidurile împrejurul cetăţii până în temelie şi a intrat tot poporul în cetate, fiecare din partea unde era, şi au luat cetatea."
+        },
+        {
+          "verse": 21,
+          "text": "Şi au dat junghierii tot ce era în cetate: bărbaţi şi femei şi tineri şi bătrâni şi boi şi oi şi asini, tot au trecut prin ascuţişul sabiei."
+        },
+        {
+          "verse": 22,
+          "text": "Iar celor doi tineri care iscodiseră tara Iosua le-a zis: \"Duceţi-vă în casa desfrânatei aceleia, scoateţi-o de acolo pe ea şi pe toţi cei ce vor fi cu dânsa, întrucât v-aţi jurat ei\"."
+        },
+        {
+          "verse": 23,
+          "text": "Şi s-au dus tinerii care iscodiseră cetatea, la casa desfrânatei şi au scos pe Rahab desfrânata, pe tatăl ei, pe mama ei, pe fraţii ei şi pe toate rudele ei, i-au scos şi i-au pus afară din tabăra Israeliţilor,"
+        },
+        {
+          "verse": 24,
+          "text": "Iar cetatea şi tot ce era în ea au ars cu foc; numai aurul şi argintul şi vasele de aramă şi de fier le-au dat ca să le ducă Domnului în vistieria casei Domnului."
+        },
+        {
+          "verse": 25,
+          "text": "Pe Rahab desfrânata însă, casa tatălui ei şi pe toţi care erau la dânsa, Iosua i-a lăsat cu viaţă şi trăieşte ea în mijlocul lui Israel până în ziua de astăzi, pentru că a ascuns iscoadele, care fuseseră trimise de Iosua să iscodească Ierihonul."
+        },
+        {
+          "verse": 26,
+          "text": "În ziua aceea s-a jurat Iosua şi a zis: \"Blestemat să fie înaintea Domnului tot cel ce se va scula şi va zidi cetatea aceasta a Ierihonului: pe fiul său cel întâi-născut să pună temeliile ei, iar porţile ei să le aşeze pe fiul său cel mai mic\". Şi aşa a şi făcut Ozan din Betel. Acesta pe Abiron, întâiul său născut, a pus temeliile ei, şi pe fiul său cel mai mic a aşezat porţile ei."
+        },
+        {
+          "verse": 27,
+          "text": "Domnul însă era cu Iosua şi faima lui s-a răspândit în toată ţara."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_07_01",
+      "chapter": 7,
+      "pericope_num": "01",
+      "title_en": "The Sin of Achan and Its Punishment",
+      "title_ro": "Păcatul lui Acan și pedeapsa lui",
+      "start_verse": 1,
+      "end_verse": 26,
+      "verse_count": 26,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Iar fiii lui Israel au făcut păcat mare: au luat din cele date nimicirii; căci Acan, fiul lui Carmi, fiul lui Zabdi, fiul lui Zerah, din tribul lui Iuda, a luat din cele date spre nimicire şi s-a aprins mânia Domnului asupra fiilor lui Israel."
+        },
+        {
+          "verse": 2,
+          "text": "Din Ierihon Iosua a trimis oameni asupra cetăţii Ai, care e aproape de Bet-Aven, la răsărit de Betel, şi le-a zis: \"Duceţi-vă de iscodiţi ţara!\" Şi s-au dus oamenii aceştia şi au iscodit cetatea Ai."
+        },
+        {
+          "verse": 3,
+          "text": "Apoi întorcându-se la Iosua, i-au spus: \"Să nu meargă tot poporul, ci să meargă numai două sau trei mii de oameni şi să lovească cetatea Ai. Nu obosi până acolo tot poporul, pentru că acolo sunt puţini duşmani\"."
+        },
+        {
+          "verse": 4,
+          "text": "Şi s-au dus acolo ca la trei mii de oameni, dar aceştia au luat-o la fugă în faţa celor din Ai."
+        },
+        {
+          "verse": 5,
+          "text": "Şi locuitorii din Ai au ucis din ei vreo treizeci şi şase de oameni şi i-au fugărit de la poartă până la Şebarim, iar pe coasta dealului i-a bătut; din care pricină inima poporului a slăbit şi şi-au pierdut tot curajul."
+        },
+        {
+          "verse": 6,
+          "text": "Atunci Iosua şi-a sfâşiat veşmintele sale, a căzut cu faţa la pământ înaintea chivotului Domnului şi a stat aşa până seara şi el şi bătrânii lui Israel şi şi-au presărat pulbere pe capetele lor."
+        },
+        {
+          "verse": 7,
+          "text": "Atunci a zis Iosua: \"O, Doamne Dumnezeule, de ce a trecut robul Tău poporul acesta peste Iordan? Oare, ca să-l dai în mâinile Amoreilor şi să ne pierzi? Mai bine rămâneam să locuim de cealaltă parte de Iordan!"
+        },
+        {
+          "verse": 8,
+          "text": "Ce să zic eu acum, când Israel a fugit înapoi dinaintea vrăjmaşilor săi?"
+        },
+        {
+          "verse": 9,
+          "text": "Auzind Canaaneii şi toţi locuitorii ţării, ne vor împresura şi ne vor pierde de pe pământ. Şi ce vei face Tu pentru numele Tău cel mare?\""
+        },
+        {
+          "verse": 10,
+          "text": "Iar Domnul a zis către Iosua: \"Scoală, pentru ce ai căzut cu faţa la pământ?"
+        },
+        {
+          "verse": 11,
+          "text": "A păcătuit poporul şi a călcat legământul Meu pe care l-am încheiat cu el; au furat din lucrurile date spre nimicire, au minţit şi le-au pus printre lucrurile lor."
+        },
+        {
+          "verse": 12,
+          "text": "De aceea fiii lui Israel n-au putut sta împotriva vrăjmaşilor lor şi au fugit înapoi, căci au căzut sub blestem şi nu voi mai fi cu voi de nu veţi ridica blestemul dintre voi."
+        },
+        {
+          "verse": 13,
+          "text": "Scoală dar şi sfinţeşte poporul şi zi: Sfinţiţi-vă pentru mâine; căci aşa zice Domnul Dumnezeul lui Israel: Blestemul e în mijlocul tău, Israel. De aceea tu nu poţi să stai împotriva vrăjmaşilor tăi până nu vei îndepărta din mijlocul tău blestemul."
+        },
+        {
+          "verse": 14,
+          "text": "Mâine să vă apropiaţi toţi, pe seminţii; iar seminţia pe care o va arăta Domnul să se apropie pe familii şi familia pe care o va arăta Domnul să se apropie pe case; şi casa pe care o va arăta Domnul să se apropie om cu om."
+        },
+        {
+          "verse": 15,
+          "text": "Iar omul care se va dovedi că a furat lucru dat spre nimicire, să se ardă cu foc şi el şi toate câte are, pentru că a călcat legământul Domnului şi a făcut fărădelege în Israel\"."
+        },
+        {
+          "verse": 16,
+          "text": "Atunci, sculându-se Iosua a doua zi dis-de-dimineaţă, a poruncit lui Israel să se apropie pe seminţii; şi a fost arătată seminţia lui Iuda."
+        },
+        {
+          "verse": 17,
+          "text": "După aceea a poruncit să se apropie seminţia lui Iuda pe familii şi a fost arătată familia lui Zerah. Şi a poruncit să se apropie familia lui Zerah pe case şi a fost dată în vileag casa lui Zabdi."
+        },
+        {
+          "verse": 18,
+          "text": "Şi a poruncit să se apropie casa lui Zabdi om cu om şi a fost arătat Acan, fiul lui Carmi, fiul lui Zabdi, fiul lui Zerah, din seminţia lui Iuda."
+        },
+        {
+          "verse": 19,
+          "text": "Atunci Iosua a zis către Acan: \"Fiul meu, dă astăzi slavă Domnului Dumnezeului lui Israel şi fă mărturisire înaintea Lui şi arată-mi ce-ai făcut. Să nu ascunzi de mine!\""
+        },
+        {
+          "verse": 20,
+          "text": "Şi răspunzând Acan lui Iosua, a zis: \"Adevărat, am păcătuit înaintea Domnului Dumnezeului lui Israel şi iată ce am făcut:"
+        },
+        {
+          "verse": 21,
+          "text": "Am văzut printre prăzi o haină frumoasă pestriţă şi două sute de sicli de argint, un drug de aur, greu de cincizeci de sicli; acestea mi-au plăcut şi le-am luat şi iată sunt ascunse în pământ, în mijlocul cortului meu şi argintul este pus sub elen."
+        },
+        {
+          "verse": 22,
+          "text": "Atunci a trimis Iosua câţiva slujitori şi aceştia au alergat la cort, în tabără, şi toate acestea erau ascunse În cortul lui şi argintul era sub ele."
+        },
+        {
+          "verse": 23,
+          "text": "Şi au luat ei acestea din cort şi le-au adus la Iosua şi la bătrânii lui Israel şi le-au pus înaintea Domnului."
+        },
+        {
+          "verse": 24,
+          "text": "Iar Iosua şi împreună cu el tot poporul au luat pe Acan, fiul lui Zerah, argintul, haina, drugul cel de aur, pe fiii lui, pe fiicele lui, boii lui, asinii lui şi toate oile lui, cortul lui şi tot ce avea el şi i-au scos pe ei şi toate ale lor în valea Acor."
+        },
+        {
+          "verse": 25,
+          "text": "Şi a zis Iosua: \"Pentru că tu ai adus asupra noastră tulburare, să aducă şi Domnul necaz asupra ta în ziua aceasta!\" şi toţi Israeliţii i-au ucis cu pietre şi, după ce i-au ucis cu pietre, i-au ars cu foc."
+        },
+        {
+          "verse": 26,
+          "text": "Apoi au ridicat deasupra lor o grămadă mare de pietre, care se vede şi astăzi. După aceasta s-a potolit mânia Domnului. De aceea locul acela se numeşte valea Acor până în ziua de astăzi."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_08_01",
+      "chapter": 8,
+      "pericope_num": "01",
+      "title_en": "Ai Captured by a Stratagem and Destroyed",
+      "title_ro": "Cucerirea și distrugerea Aiului prin vicleșug",
+      "start_verse": 1,
+      "end_verse": 29,
+      "verse_count": 29,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Atunci a zis Domnul către Iosua: \"Nu te teme, nici nu te înspăimânta! Ia cu tine toţi bărbaţii buni de luptă şi, sculându-te, du-te la Ai. Iată Eu voi da în mâinile tale pe regele din Ai şi pe poporul lui, cetatea şi ţinutul lui."
+        },
+        {
+          "verse": 2,
+          "text": "Şi să faci cu Ai şi cu regele său tot ceea ce ai făcut cu Ierihonul şi cu regele lui. Numai prada lui şi dobitoacele lui împărţiţi-le între voi. Pune oameni la pândă înapoia cetăţii\"."
+        },
+        {
+          "verse": 3,
+          "text": "Şi s-a sculat Iosua cu tot poporul bun de război, ca  să meargă asupra cetăţii Ai. Şi a ales Iosua treizeci de mii de oameni viteji şi i-a trimis noaptea."
+        },
+        {
+          "verse": 4,
+          "text": "Acestora le-a poruncit şi le-a zis: \"Luaţi seama să pândiţi înapoia cetăţii, să nu vă depărtaţi tare de cetate şi să fiţi cu toţii gata."
+        },
+        {
+          "verse": 5,
+          "text": "Iar eu şi toţi cei cu mine vom înainta spre cetate. Şi când locuitorii din Ai ne vor ieşi înainte, ca prima dată, noi vom fugi de dânşii."
+        },
+        {
+          "verse": 6,
+          "text": "Şi când vor alerga după noi şi-i vom depărta de cetate, vor zice: \"Iată fug de noi, ca prima dată\"."
+        },
+        {
+          "verse": 7,
+          "text": "Şi când vom fugi noi de ei şi ei după noi, atunci voi să ieşiţi din ascunzătoare şi să cuprindeţi cetatea, că Domnul Dumnezeu o va da în mâinile voastre."
+        },
+        {
+          "verse": 8,
+          "text": "Iar după ce veţi prăda cetatea, să-i daţi foc; după cuvântul Domnului să faceţi. Iată eu vă poruncesc!\""
+        },
+        {
+          "verse": 9,
+          "text": "Aşa i-a trimis Iosua şi ei s-au dus şi au stat la pândă între Betel şi Ai, spre apus de cetatea Ai. Iar Iosua a rămas în noaptea aceea în mijlocul poporului."
+        },
+        {
+          "verse": 10,
+          "text": "Şi, sculându-se dis-de-dimineaţă, Iosua a cercetat poporul şi s-a dus el şi bătrânii lui Israel în fruntea poporului spre Ai."
+        },
+        {
+          "verse": 11,
+          "text": "Şi tot poporul bun de luptă, care era cu el, a mers, a înaintat şi s-a apropiat de cetate pe partea de răsărit, iar pânda era în partea de apus a cetăţii. Şi a aşezat tabăra spre miazănoapte de Ai; iar între el şi Ai era o vale."
+        },
+        {
+          "verse": 12,
+          "text": "El luase ca la treizeci de mii de oameni şi-i pusese la pândă între Betel şi Ai, în partea de apus a cetăţii."
+        },
+        {
+          "verse": 13,
+          "text": "Iar poporul l-a aşezat tot într-o tabără, care se întindea în partea de miazănoapte a cetăţii, aşa încât coada taberei ajungea spre partea de apus a cetăţii. Şi a venit Iosua în noaptea aceea în mijlocul văii."
+        },
+        {
+          "verse": 14,
+          "text": "Şi când a văzut aceasta, regele din Ai s-a sculat îndată dis-de-dimineaţă, a ieşit înaintea lui Israel la luptă, el şi tot poporul lui, la un loc hotărât, în şes, şi nu ştia el că e o pândă asupra lui în spatele cetăţii."
+        },
+        {
+          "verse": 15,
+          "text": "Iar Iosua, ca şi cum ar fi fost învins, a fugit cu tot poporul pe calea dinspre pustiu."
+        },
+        {
+          "verse": 16,
+          "text": "Iar aceia au strigat tot poporul care era în cetate, ca să-i urmărească şi, urmărind ei pe fiii lui Israel, s-au depărtat de cetate."
+        },
+        {
+          "verse": 17,
+          "text": "Şi n-a rămas în Ai şi în Betel nici unul care să nu fi ieşit după Israel. Şi urmărind ei pe Israel, şi-au lăsat cetatea lor deschisă."
+        },
+        {
+          "verse": 18,
+          "text": "Atunci Domnul a zis către Iosua: \"Întinde mâna ta cu suliţa asupra cetăţii Ai, căci o voi da în mâinile tale şi cei de la pândă vor ieşi numaidecât de la locul lor!\" Şi şi-a întins Iosua mâna cu suliţa spre cetate."
+        },
+        {
+          "verse": 19,
+          "text": "Şi atunci cei ce şedeau la pândă sculându-se numaidecât de la locul lor, când şi-a întins el mâna, au alergat în cetate, au luat-o şi i-au dat repede foc."
+        },
+        {
+          "verse": 20,
+          "text": "Atunci, uitându-se locuitorii cetăţii Ai înapoi şi văzând fum ridicându-se din cetatea lor spre cer, nu mai aveau încotro fugi, căci poporul care fugea spre pustiu se întorsese împotriva celor ce-i urmăreau;"
+        },
+        {
+          "verse": 21,
+          "text": "Şi Iosua şi tot Israelul, văzând că cei ce şezuseră în ascunzătoare luaseră cetatea şi că din cetate se urca fum spre cer, s-au întors înapoi şi au început să ucidă pe locuitorii din Ai."
+        },
+        {
+          "verse": 22,
+          "text": "Iar cei din cetate au ieşit în întâmpinarea lor, aşa că Aiţii se aflau în mijlocul taberei Israeliţilor, dintre în care unii veneau dintr-o parte, iar alţii din altă parte."
+        },
+        {
+          "verse": 23,
+          "text": "Şi i-au ucis aşa, încât n-a scăpat cu viaţă nici unul din ei. Iar pe regele din Ai l-au prins viu şi l-au adus la de Iosua."
+        },
+        {
+          "verse": 24,
+          "text": "După ce fiii lui Israel au ucis pe toţi bărbaţii din Ai, în câmpia dinspre pustiu şi dealurile unde aceştia îi urmăriseră, şi după ce aceştia au căzut toţi până la unul sub ascuţişul sabiei, Israeliţii s-au întors cu toţii asupra cetăţii Ai şi au lovit-o cu ascuţişul lui sabiei."
+        },
+        {
+          "verse": 25,
+          "text": "Iar toţi locuitorii din Ai, bărbaţi şi femei, care au căzut în ziua aceea au fost douăsprezece mii."
+        },
+        {
+          "verse": 26,
+          "text": "Şi Iosua nu şi-a lăsat în jos mâna sa, pe care o întinsese cu suliţa, până nu a dat pierzării pe toţi locuitorii din Ai."
+        },
+        {
+          "verse": 27,
+          "text": "Numai vitele şi prada cetăţii le-au împărţit fiii lui Israel între dânşii, după cuvântul Domnului pe care-l spusese Domnul lui Iosua."
+        },
+        {
+          "verse": 28,
+          "text": "Şi a ars Iosua cetatea Ai cu foc şi a făcut-o dărâmătură veşnică şi pustietate până în ziua de astăzi."
+        },
+        {
+          "verse": 29,
+          "text": "Iar pe regele din Ai l-a spânzurat de un copac unde a stat până seara; iar după asfinţitul soarelui a poruncit Iosua de au coborât trupul lui din copac şi l-au aruncat la porţile cetăţii şi au ridicat deasupra lui o movilă de pietre, care este până în şi ziua de astăzi."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_08_02",
+      "chapter": 8,
+      "pericope_num": "02",
+      "title_en": "Joshua Renews the Covenant",
+      "title_ro": "Iosua înnoiește legământul",
+      "start_verse": 30,
+      "end_verse": 35,
+      "verse_count": 6,
+      "verses": [
+        {
+          "verse": 30,
+          "text": "Atunci Iosua a înălţat jertfelnic Domnului Dumnezeului lui Israel pe Muntele Ebal,"
+        },
+        {
+          "verse": 31,
+          "text": "Cum poruncise Moise, sluga Domnului, fiilor lui Israel, şi de care este scris în legea lui Moise; jertfelnicul era din pietre întregi, asupra cărora nimeni n-a ridicat unealtă de fier şi el au adus pe el ardere de tot Domnului şi au făcut jertfe de împăcare."
+        },
+        {
+          "verse": 32,
+          "text": "Şi a scris Iosua acolo din nou pe pietre legea pe care Moise o scrisese înaintea fiilor lui Israel."
+        },
+        {
+          "verse": 33,
+          "text": "Şi tot Israelul cu bătrânii lui, cu căpeteniile lui, cu judecătorii  lui, toţi băştinaşii şi veneticii lui au stat de o parte şi de alta a chivotului în faţa preoţilor şi a leviţilor care duceau chivotul legământului Domnului, aşa că jumătate din ei se aflau pe muntele Garizim, iar cealaltă jumătate pe muntele Ebal, cum poruncise de mai înainte Moise, sluga Domnului, ca să se binecuvânteze poporul lui Israel."
+        },
+        {
+          "verse": 34,
+          "text": "După aceasta a citit Iosua toate cuvintele legii: binecuvântările şi blestemul, cum era scris în legea lui Moise."
+        },
+        {
+          "verse": 35,
+          "text": "Din toate câte poruncise Moise lui Iosua n-a fost nici un cuvânt pe care Iosua să nu-l fi citit în auzul obştii fiilor lui Israel, înaintea bărbaţilor, a femeilor, a copiilor şi a străinilor care mergeau împreună cu Israel."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_09_01",
+      "chapter": 9,
+      "pericope_num": "01",
+      "title_en": "The Gibeonites Save Themselves by Trickery",
+      "title_ro": "Gabaoniții se salvează prin înșelăciune",
+      "start_verse": 1,
+      "end_verse": 27,
+      "verse_count": 27,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Auzind acestea toţi regii Amoreilor, cei de peste Iordan, cei din munte şi de la şes, cei de pe tot malul mării celei mari şi cei din apropierea Libanului: Heteii, Amoreii, Ghergheseii, Canaaneii, Ferezeii, Heveii şi Ibuseii,"
+        },
+        {
+          "verse": 2,
+          "text": "S-au adunat împreună ca să se lupte toţi cu Iosua şi cu Israel."
+        },
+        {
+          "verse": 3,
+          "text": "Iar locuitorii Ghibeonului, auzind a făcut Iosua cu Ierihonul şi cu Ai,"
+        },
+        {
+          "verse": 4,
+          "text": "Au pus la cale un vicleşug, căci s-au dus şi au strâns merinde de drum şi au pus pe asinii lor saci vechi cu pâine şi vin în burdufuri vechi, rupte şi cârpite"
+        },
+        {
+          "verse": 5,
+          "text": "Şi în picioarele lor încălţăminte şi sandale vechi şi peticite, iar pe ei haine rele; pâinea lor de drum era uscată, mucedă şi sfărâmată."
+        },
+        {
+          "verse": 6,
+          "text": "Aşa au venit ei la Iosua în tabăra Israeliţilor de la Ghilgal şi au zis către el şi către toţi Israeliţii: \"Noi am venit dintr-o ţară foarte depărtată; încheiaţi dar legământ cu noi\"."
+        },
+        {
+          "verse": 7,
+          "text": "Fiii lui Israel însă au zis către Hevei: \"Poate că locuiţi aproape de noi? Cum să încheiem legământ cu voi?\""
+        },
+        {
+          "verse": 8,
+          "text": "Iar ei au zis către Iosua: \"Noi suntem robii tăi\". Iosua le-a zis: \"Cine sunteţi voi şi de unde aţi venit?\""
+        },
+        {
+          "verse": 9,
+          "text": "Şi ei au răspuns: \"Robii tăi au venit dintr-o ţară foarte depărtată, în numele Domnului Dumnezeului tău, că am auzit de numele Lui şi de câte a făcut El în Egipt"
+        },
+        {
+          "verse": 10,
+          "text": "Şi de câte a făcut El celor doi regi ai Amoreilor, care erau dincolo de Iordan, lui Sihon, regele Heşbonului şi lui Og, regele Vasanului, care locuia în Aştarot şi Edrea."
+        },
+        {
+          "verse": 11,
+          "text": "Şi auzind acestea, bătrânii noştri şi toţi locuitorii ţării noastre ne-au grăit şi au zis: Luaţi-vă merinde de drum şi duceţi-vă în întâmpinarea lor şi le spuneţi: Noi suntem robii voştri. încheiaţi dar legământ cu noi!"
+        },
+        {
+          "verse": 12,
+          "text": "Pâinile acestea erau calde în ziua când am plecat să venim la voi, iar acum iată s-au uscat şi s-au mucezit."
+        },
+        {
+          "verse": 13,
+          "text": "Aceste burdufuri de vin, pe care le-am umplut noi, iată-le s-au învechit; şi îmbrăcămintea noastră şi încălţămintea noastră s-au tocit de drumul cel foarte lung\"."
+        },
+        {
+          "verse": 14,
+          "text": "Căpeteniile Israeliţilor au luat din merindele lor, dar n-au întrebat pe Domnul."
+        },
+        {
+          "verse": 15,
+          "text": "Şi a făcut Iosua pace cu ei şi a încheiat cu ei legământ, ca să nu fie ucişi, iar căpeteniile obştii s-au legat faţă de ei cu jurământ."
+        },
+        {
+          "verse": 16,
+          "text": "La trei zile însă, după ce au încheiat legământ cu dânşii, au auzit că sunt aproape de ei şi că trăiesc în ţinuturile cuvenite lor,"
+        },
+        {
+          "verse": 17,
+          "text": "Căci fiii lui Israel, plecând la drum, a treia zi au ajuns la cetăţile lor; iar cetăţile lor erau Ghibeonul, Chefira, Beerot şi Chiriat-Iearim."
+        },
+        {
+          "verse": 18,
+          "text": "Iar Iosua şi fiii lui Israel nu i-au ucis, pentru că toate căpeteniile obştii li se juraseră pe Domnul Dumnezeul lui Israel. De aceea toată obştea lui Israel a început a cârti împotriva căpeteniilor."
+        },
+        {
+          "verse": 19,
+          "text": "şi toate căpeteniile au zis către întreaga obşte: \"Noi ne-am jurat lor pe Domnul Dumnezeul lui Israel şi de aceea nu ne putem atinge de ei."
+        },
+        {
+          "verse": 20,
+          "text": "Dar iată ce le vom face: să-i robim şi să-i păstrăm în viaţă, ca să nu ne ajungă. mânia pentru jurământul cu care ne-am jurat lor\"."
+        },
+        {
+          "verse": 21,
+          "text": "Şi le-au mai zis căpeteniile: \"Lăsaţi-i să trăiască, dar să taie lemne şi să care apă la toată obştea\". Şi toată obştea a făcut cum au zis căpeteniile."
+        },
+        {
+          "verse": 22,
+          "text": "Şi i-a chemat Iosua şi le-a zis: \"Pentru ce m-aţi amăgit, spunând: Suntem tare departe de tine; voi însă sunteţi dintre cei ce locuiesc în ţinuturile cuvenite nouă."
+        },
+        {
+          "verse": 23,
+          "text": "De aceea blestemaţi să fiţi! Să nu încetaţi de a fi în robie, ca tăietori de lemne şi cărători de apă pentru casa Dumnezeului meu\"."
+        },
+        {
+          "verse": 24,
+          "text": "Iar ei au răspuns lui Iosua şi au zis: \"Ni s-a vestit nouă câte a poruncit Domnul Dumnezeul tău lui Moise, slugii Sale, ca să vă dea toată ţara aceasta, iar pe noi şi pe toţi locuitorii pământului acestuia să ne piardă de la faţa voastră; şi, înfricoşându-ne foarte tare de voi pentru viaţa noastră, am făcut fapta aceasta."
+        },
+        {
+          "verse": 25,
+          "text": "Şi acum iată suntem sub mâna voastră; faceţi cu noi cum veţi socoti şi cum vi se pare mai drept\"."
+        },
+        {
+          "verse": 26,
+          "text": "Şi a făcut cu ei aşa: i-a izbăvit Iosua în ziua aceea din mâinile fiilor lui Israel şi nu i-a ucis."
+        },
+        {
+          "verse": 27,
+          "text": "Dar din ziua aceea i-a pus Iosua tăietori de lemne şi cărători de apă pentru obşte şi pentru jertfelnicul Domnului. De aceea locuitorii Ghibeonului s-au făcut tăietori de lemne şi cărători de apă pentru jertfelnicul lui Dumnezeu până în ziua de astăzi, la locul pe care avea să-l aleagă Domnul."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_10_01",
+      "chapter": 10,
+      "pericope_num": "01",
+      "title_en": "The Sun Stands Still",
+      "title_ro": "Soarele se oprește",
+      "start_verse": 1,
+      "end_verse": 15,
+      "verse_count": 15,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Auzind însă Adoni-Ţedec, regele Ierusalimului, că Iosua a luat cetatea Ai şi a dat-o blestemului şi a făcut cu Ai şi cu regele său cum făcuse cu Ierihonul şi cu regele lui şi că locuitorii Ghibeonului de bunăvoie s-au supus lui Iosua şi lui Israel şi au rămas între ei,"
+        },
+        {
+          "verse": 2,
+          "text": "S-a spăimântat foarte tare, pentru că cetatea Ghibeonului era cetate mare, ca una ce era dintre cetăţile domneşti, mai mare decât Ai, şi toii locuitorii ei erau oameni viteji."
+        },
+        {
+          "verse": 3,
+          "text": "De aceea Adoni-Ţedec, regele Ierusalimului, a trimis la Hoham, regele Hebronului, la Piream, regele Iarmutului, la Iafia, regele Lachişului, şi la Debir, regele Eglonului, zicând:"
+        },
+        {
+          "verse": 4,
+          "text": "\"Veniţi la mine şi-mi ajutaţi să bat Ghibeonul, pentru că s-a supus lui Iosua şi fiilor lui Israel\"."
+        },
+        {
+          "verse": 5,
+          "text": "Şi aceşti cinci regi ai Amoreilor: regele Ierusalimului, regele Hebronului, regele Iarmutului, regele Lachişului şi regele Egionului, s-au suit cu tot poporul lor şi au tăbărât asupra Ghibeonului şi l-au împresurat."
+        },
+        {
+          "verse": 6,
+          "text": "Atunci locuitorii Ghibeonului au trimis la Iosua, în tabăra Israeliţilor de la Ghilgal, zicând: \"Să nu-ţi iei mâna de deasupra robilor tăi! Vino la noi repede de ne dă ajutor şi ne izbăveşte, că s-au adunat împotriva noastră toii regii Amoreilor care trăiesc în munţi\"."
+        },
+        {
+          "verse": 7,
+          "text": "Şi s-a suit Iosua din Ghilgal, el însuşi şi împreună cu dânsul tot poporul bun de război şi toţi bărbaţii viteji."
+        },
+        {
+          "verse": 8,
+          "text": "Iar Domnul a zis către Iosua: \"Nu te teme de ei, că i-am dat în mâinile tale; nimeni dintre ei nu va putea sta împotriva voastră\"."
+        },
+        {
+          "verse": 9,
+          "text": "Şi a năvălit Iosua fără de veste asupra lor, după ce mersese toată noaptea venind din Ghilgal."
+        },
+        {
+          "verse": 10,
+          "text": "Şi Domnul i-a făcut să se sperie la vederea fiilor lui Israel şi i-a învins pe ei Domnul cu înfrângere grea la Ghibeon, şi i-a urmărit în calea spre înălţimile Bet-Horon şi i-a bătut până la Azeca şi până la Macheda."
+        },
+        {
+          "verse": 11,
+          "text": "Pe când însă fugeau ei de fiii lui Israel, pe povârnişul Bet-Horon, Domnul a aruncat din cer asupra lor grindină mare, până la Azeca, şi cei ce au murit de grindină au fost mai mulţi decât cei ucişi de fiii lui Israel cu sabia în luptă."
+        },
+        {
+          "verse": 12,
+          "text": "În ziua aceea în care Dumnezeu a dat pe Amorei în mâinile lui Israel şi când i-a bătut la Ghibeon şi au fost zdrobiţi înaintea feţei fiilor lui Israel, a strigat Iosua către Domnul şi a zis înaintea Israeliţilor: \"Stai, soare, deasupra Ghibeonului, şi tu, lună, opreşte-te deasupra văii Aialon!\""
+        },
+        {
+          "verse": 13,
+          "text": "Şi s-a oprit soarele şi luna a stat până ce Dumnezeu a făcut izbândă asupra vrăjmaşilor lor. Oare nu de aceea se scrie în Cartea Dreptului: \"Soarele a stat în mijlocul cerului şi nu s-a grăbit către asfinţit aproape toată ziua\"."
+        },
+        {
+          "verse": 14,
+          "text": "Şi n-a mai fost nici înainte, nici după aceea, o astfel de zi în care Domnul să asculte aşa glasul omului; că Domnul lupta pentru Israel."
+        },
+        {
+          "verse": 15,
+          "text": "Apoi Iosua s-a întors cu tot Israelul în tabără, la Ghilgal."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_10_02",
+      "chapter": 10,
+      "pericope_num": "02",
+      "title_en": "Five Kings Defeated",
+      "title_ro": "Înfrângerea celor cinci regi",
+      "start_verse": 16,
+      "end_verse": 43,
+      "verse_count": 28,
+      "verses": [
+        {
+          "verse": 16,
+          "text": "Iar cei cinci regi au fugit şi s-au ascuns în peştera din Macheda."
+        },
+        {
+          "verse": 17,
+          "text": "Când însă i s-a spus lui Iosua că: \"Cei cinci regi au fost găsiţi ascunşi în peşteră, la Macheda\", Iosua a zis:"
+        },
+        {
+          "verse": 18,
+          "text": "\"Răsturnaţi pietre mari pe gura peşterii şi puneţi la uşa ei oameni ca să-i păzească;"
+        },
+        {
+          "verse": 19,
+          "text": "Iar voi nu vă opriţi acolo, ci goniţi din urmă pe vrăjmaşii voştri şi nimiciţi partea din urmă a oştirii lor; să nu-i lăsaţi să scape în cetăţile lor, căci Domnul Dumnezeul vostru i-a dat în mâinile voastre!\""
+        },
+        {
+          "verse": 20,
+          "text": "Şi după ce Iosua şi fiii lui Israel i-au zdrobit cu desăvârşire într-o bătălie foarte mare şi cei ce au scăpat au fugit în cetăţi întărite,"
+        },
+        {
+          "verse": 21,
+          "text": "S-a întors tot poporul cu izbândă la Iosua, în tabără la Macheda, şi n-a rostit nimeni nici un cuvânt împotriva fiilor lui Israel."
+        },
+        {
+          "verse": 22,
+          "text": "Atunci Iosua a zis: \"Deschideţi peştera şi scoateţi la mine pe cei cinci regi din peşteră!\""
+        },
+        {
+          "verse": 23,
+          "text": "Şi s-a făcut aşa: au scos la dânsul pe cei cinci regi din peşteră: pe, regele Ierusalimului, pe regele Hebronului, pe regele Iarmutului, pe regele Lachişului şi pe regele Eglonului."
+        },
+        {
+          "verse": 24,
+          "text": "Şi după ce au scos pe regii aceştia la Iosua, Iosua a chemat pe toii Israeliţii şi a zis către căpeteniile oştenilor care fuseseră cu el: \"Apropiaţi-vă şi puneţi-vă picioarele pe grumajii regilor acestora!\" Şi ei s-au apropiat şi şi-au pus picioarele pe grumajii lor."
+        },
+        {
+          "verse": 25,
+          "text": "Atunci Iosua le-a zis: \"Nu vă temeţi, nici nu vă spăimântaţi, ci îmbărbătaţi-vă şi vă întăriţi, că aşa va face Domnul cu toţi vrăjmaşii voştri cu care vă veţi lupta\"."
+        },
+        {
+          "verse": 26,
+          "text": "După aceea i-a lovit Iosua şi i-a ucis şi i-a spânzurat pe cinci spânzurători şi au stat spânzuraţi până seara."
+        },
+        {
+          "verse": 27,
+          "text": "Iar la asfinţitul soarelui a poruncit Iosua de i-au pogorât din spânzurători şi i-au aruncat în peştera în care fuseseră ascunşi şi au prăvălit pietre mari pe gura peşterii şi stau acolo până în ziua de azi."
+        },
+        {
+          "verse": 28,
+          "text": "Tot în ziua aceea a cuprins Iosua Macheda şi a lovit-o cu sabia, pe ea şi pe regele ei, şi a nimicit pe locuitorii ei şi toată suflarea care se afla în ea; pe nimeni n-a cruţat ca să nu moară sau să fugă şi a făcut cu regele din Macheda tot aşa cum făcuse cu regele Ierihonului."
+        },
+        {
+          "verse": 29,
+          "text": "Apoi s-a dus Iosua împreună cu toţi Israeliţii de la Macheda la Libna şi a împresurat-o."
+        },
+        {
+          "verse": 30,
+          "text": "Şi a dat-o Domnul şi pe aceasta în mâinile lui Israel de a luat-o pe ea şi pe regele ei şi Iosua a trecut-o prin ascuţişul sabiei pe ea şi toată suflarea din ea; pe nimeni n-a lăsat În ea, care să nu moară sau să fugă şi a făcut cu regele ei cum făcuse cu regele Ierihonului."
+        },
+        {
+          "verse": 31,
+          "text": "De la Libna s-a dus Iosua împreună cu toţi Israeliţii la Lachiş şi l-a împresurat, începând războiul cu ei."
+        },
+        {
+          "verse": 32,
+          "text": "Şi a dat Domnul Lachişul în mâinile lui Israel şi l-a luat a doua zi, l-a trecut prin sabie pe el şi toată suflarea din el şi l-a pierdut, cum făcuse şi cu Libna."
+        },
+        {
+          "verse": 33,
+          "text": "Atunci s-a ridicat în ajutorul Lachişului Horam, regele din Ghezer. Dar Iosua l-a lovit şi pe el şi pe poporul lui cu sabia, încât n-a lăsat pe nimeni dintre ai lui care să nu moară sau să fugă."
+        },
+        {
+          "verse": 34,
+          "text": "Din Lachiş s-a dus Iosua împreună cu toţi Israeliţii la Eglon şi l-a împresurat, începând războiul împotriva lui."
+        },
+        {
+          "verse": 35,
+          "text": "Şi Domnul l-a dat în mâinile lui Israel. Şi l-a luat în aceeaşi zi şi l-a lovit cu sabia pe el şi toată suflarea ce era în el şi l-a dat în ziua aceea blestemului, cum făcuse şi cu Lachişul."
+        },
+        {
+          "verse": 36,
+          "text": "De la Eglon, Iosua împreună cu toţi Israeliţii s-au dus la Hebron, l-au înconjurat"
+        },
+        {
+          "verse": 37,
+          "text": "Şi l-au lovit cu ascuţişul sabiei pe el şi pe regele lui şi toate cetăţile lui şi toată suflarea câtă era în acesta, cum făcuse cu Eglonul; şi l-a dat blestemului pe el şi toată suflarea ce era în el."
+        },
+        {
+          "verse": 38,
+          "text": "După aceea s-a întors Iosua împreună cu toţi Israeliţii asupra Debirului şi l-a împresurat."
+        },
+        {
+          "verse": 39,
+          "text": "Şi l-a luat pe el, pe regele lui şi toate satele lui. Şi le-au lovit cu ascuţişul sabiei, le-au nimicit pe ele şi toată suflarea ce era în ele şi n-a lăsat pe nimeni să scape; cum făcuse cu Hebronul şi cu regele lui şi cum a făcut cu Libna şi regele ei, aşa a făcut şi cu Debirul şi cu regele lui."
+        },
+        {
+          "verse": 40,
+          "text": "Apoi a lovit Iosua tot ţinutul muntos, Neghebul, câmpia şi ţinutul mării şi pe regii lor şi n-a lăsat să scape nimeni, ci a omorât toată suflarea, cum poruncise Domnul Dumnezeul lui Israel."
+        },
+        {
+          "verse": 41,
+          "text": "Şi i-a bătut Iosua de la Cadeş-Barnea până la Gaza şi tot ţinutul Goşen până la Ghibeon."
+        },
+        {
+          "verse": 42,
+          "text": "Şi pe toţi regii acestora şi ţinuturile lor le-a luat Iosua deodată, căci Domnul Dumnezeul lui Israel lupta pentru Israel."
+        },
+        {
+          "verse": 43,
+          "text": "După aceea Iosua împreună cu toţi Israeliţii s-au întors în tabăra de la Ghilgal."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_11_01",
+      "chapter": 11,
+      "pericope_num": "01",
+      "title_en": "The United Kings of Northern Canaan Defeated",
+      "title_ro": "Înfrângerea regilor uniți din nordul Canaanului",
+      "start_verse": 1,
+      "end_verse": 15,
+      "verse_count": 15,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Cum a auzit de aceasta, Iabin, regele Haţorului, a trimis la Iobab, regele Madonului, la regele Şimronului şi la regele Acşafului;"
+        },
+        {
+          "verse": 2,
+          "text": "La regii cei de la miazănoapte; din munţi, de pe podiş, de la miazăzi de Chinerot, în câmpie şi în ţinutul Dor, la apus;"
+        },
+        {
+          "verse": 3,
+          "text": "La Canaaneii din răsărit, de pe malul mării; la Amorei, la Hetei, la Ferezei, la Iebuseii din munţi şi la Heveii de sub Hermon, în pământul Miţpa."
+        },
+        {
+          "verse": 4,
+          "text": "Şi au ieşit aceştia împreună cu regii lor, popor mult la număr, ca nisipul de la marginea mării, şi cai şi care de război foarte multe."
+        },
+        {
+          "verse": 5,
+          "text": "Şi s-au adunat toţi regii aceştia şi au tăbărât împreună la apele Merom, ca să se lupte cu Israel."
+        },
+        {
+          "verse": 6,
+          "text": "Domnul însă a zis: \"Nu te teme de faţa lor, căci mâine pe vremea aceasta îi voi da pe toţi aceia fiilor lui Israel ca să-i ucidă; cailor lor să le tai vinele picioarelor, iar carele să le arzi cu foc\"."
+        },
+        {
+          "verse": 7,
+          "text": "Atunci Iosua împreună cu tot poporul bun de luptă a ieşit fără de veste înaintea lor, la apele Merom şi a năvălit în munţi asupra lor."
+        },
+        {
+          "verse": 8,
+          "text": "Şi i-a dat pe ei Domnul în mâinile lui Israel şi i-a lovit şi i-a urmărit până la Sidonul cel Mare, până la Misrefot-Maim şi până în valea Miţpa, la răsărit, şi i-a ucis până n-a scăpat nimeni."
+        },
+        {
+          "verse": 9,
+          "text": "Şi a făcut Iosua cu ei cum îi zisese Domnul: cailor lor le-a tăiat vinele picioarelor şi carele lor le-a ars cu foc."
+        },
+        {
+          "verse": 10,
+          "text": "Tot atunci întorcându-se, Iosua a luat Haţorul şi pe regele lui l-a omorât cu sabia. Haţorul fusese până atunci capul tuturor regatelor acestora."
+        },
+        {
+          "verse": 11,
+          "text": "Şi a ucis toată suflarea din acesta cu sabia, dând toate pieirii; şi n-a rămas nici un suflet, iar Haţorul l-a ars cu foc."
+        },
+        {
+          "verse": 12,
+          "text": "Astfel a luat Iosua toate cetăţile regatelor acestora şi pe toţi regii lor i-a ucis cu sabia, dându-i pieirii, cum poruncise Moise, sluga Domnului."
+        },
+        {
+          "verse": 13,
+          "text": "Iar cetăţile cele întărite nu le-a ars Israel, afară de Haţor, pe care l-a ars Iosua."
+        },
+        {
+          "verse": 14,
+          "text": "Toată prada cetăţilor acestora şi toate vitele le-au luat fiii lui Israel pentru ei, iar pe oameni i-au ucis cu sabia, i-au dat blestemului şi n-au lăsat din ei nici un suflet."
+        },
+        {
+          "verse": 15,
+          "text": "Precum poruncise Domnul lui Moise, sluga Sa, şi cum poruncise şi Moise lui Iosua, aşa a făcut Iosua: nu s-a abătut de la nimic, nici de la un cuvânt din câte poruncise Domnul lui Moise."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_11_02",
+      "chapter": 11,
+      "pericope_num": "02",
+      "title_en": "Summary of Joshua's Conquests",
+      "title_ro": "Rezumatul cuceririlor lui Iosua",
+      "start_verse": 16,
+      "end_verse": 23,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 16,
+          "text": "Şi aşa a luat Iosua toată ţara aceea de sus şi tot ţinutul Negheb, tot ţinutul Goşen şi ţinuturile de jos, şesul şi muntele lui Israel şi locurile joase de pe lângă munte,"
+        },
+        {
+          "verse": 17,
+          "text": "De la Muntele Pele, care se întinde spre Seir, până la Baal-Gad din valea Libanului, la poalele Hermonului; a luat pe toţi regii lor şi i-a lovit şi i-a ucis."
+        },
+        {
+          "verse": 18,
+          "text": "Dar Iosua a purtat multă vreme război cu toţi regii aceştia."
+        },
+        {
+          "verse": 19,
+          "text": "Şi n-a fost cetate pe care să n-o fi luat cu fiii lui Israel; toate le-au luat cu război, afară de Ghibeon în care locuiau Heveii;"
+        },
+        {
+          "verse": 20,
+          "text": "Căci aşa a fost de la Domnul, ca să-şi învârtoşeze inima lor şi să întâmpine pe Israel cu război, ca să fie daţi pieirii şi ca să nu găsească milă, ci să fie nimiciţi, cum poruncise Domnul lui Moise."
+        },
+        {
+          "verse": 21,
+          "text": "Apoi a venit Iosua în vremea aceea şi a lovit pe toţi Anachimii de la munte, din Hebron, din Debir, din Anab, din toţi munţii lui Iuda şi din toţi munţii lui Israel şi i-a dat Iosua nimicirii împreună cu cetăţile lor."
+        },
+        {
+          "verse": 22,
+          "text": "Şi n-a rămas niciunul din Anachimi în pământul fiilor lui Israel, ci numai în Gaza, în Gat şi în Aşdod au rămas din ei."
+        },
+        {
+          "verse": 23,
+          "text": "Aşa a luat Iosua tot pământul, cum poruncise Domnul lui Moise şi l-a dat Iosua de moştenire lui Israel, împărţindu-l între seminţiile lor. Şi s-a liniştit pământul de război."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_12_01",
+      "chapter": 12,
+      "pericope_num": "01",
+      "title_en": "The Kings Conquered by Moses",
+      "title_ro": "Regii învinși de Moise",
+      "start_verse": 1,
+      "end_verse": 12,
+      "verse_count": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Iată regii pe care i-au bătut fiii lui Israel şi al căror pământ l-au luat tot de moştenire dincolo de Iordan, spre răsăritul soarelui, de la râul Arnon până la muntele Hermon şi tot şesul dinspre răsărit:"
+        },
+        {
+          "verse": 2,
+          "text": "Sihon, regele Amoreilor, care locuia în Heşbon şi domnea de la Aroerul cel de pe malul râului Arnon, de la mijlocul râului şi peste jumătate din Galaad, până la râul Iaboc, care este hotarul Amoniţilor,"
+        },
+        {
+          "verse": 3,
+          "text": "Peste şes până lângă marea Chineretului, spre răsărit şi până la marea şesului, până la Marea Sărată, spre răsărit, pe calea către Bet-Ieşimot, iar spre miazăzi peste locurile ce se întindeau pe la poalele muntelui Fazga;"
+        },
+        {
+          "verse": 4,
+          "text": "Vecinul său Og, regele Vasanului, cel din urmă din Refaim, care locuia în Aştarot şi Edrea"
+        },
+        {
+          "verse": 5,
+          "text": "Şi care stăpânea muntele Hermon şi Salca şi tot Vasanul, până la hotarul Gheşurului şi al Maacului şi jumătate din Galaad, până la hotarul lui Sihon, regele Heşbonului."
+        },
+        {
+          "verse": 6,
+          "text": "Pe aceştia Moise, sluga Domnului, şi fiii lui Israel i-au ucis şi a dat Moise, sluga Domnului, pământul lor de moştenire seminţiilor lui Ruben şi Gad şi la jumătate din seminţia lui Manase."
+        },
+        {
+          "verse": 7,
+          "text": "Iată acum şi regii din tara Amoreilor, pe care i-a bătut Iosua şi fiii lui Israel dincoace de Iordan, spre apus de la Baal-Gad, din valea Libanului, până la Pele, muntele care se întinde spre Seir; şi pământul l-a dat Iosua seminţiilor lui Israel de moştenire, după cum le-au căzut sorţii,"
+        },
+        {
+          "verse": 8,
+          "text": "La munte sau la loc şes, la câmpie sau la locurile de sub munţi, în pustiu şi la miazăzi şi care fusese al Heteilor, Amoreilor, Canaaneilor, Ferezeilor, Heveilor şi Iebuseilor:"
+        },
+        {
+          "verse": 9,
+          "text": "Un rege al Ierihonului, un rege al cetăţii Ai, care e aproape de Betel;"
+        },
+        {
+          "verse": 10,
+          "text": "Un rege al Ierusalimului, un rege al Hebronului;"
+        },
+        {
+          "verse": 11,
+          "text": "Un rege al Iarmutului, un rege al Lachişului;"
+        },
+        {
+          "verse": 12,
+          "text": "Un rege al Eglonului, un rege al Ghezerului;"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_12_02",
+      "chapter": 12,
+      "pericope_num": "02",
+      "title_en": "The Kings Conquered by Joshua",
+      "title_ro": "Regii învinși de Iosua",
+      "start_verse": 7,
+      "end_verse": 24,
+      "verse_count": 18,
+      "verses": [
+        {
+          "verse": 7,
+          "text": "Iată acum şi regii din tara Amoreilor, pe care i-a bătut Iosua şi fiii lui Israel dincoace de Iordan, spre apus de la Baal-Gad, din valea Libanului, până la Pele, muntele care se întinde spre Seir; şi pământul l-a dat Iosua seminţiilor lui Israel de moştenire, după cum le-au căzut sorţii,"
+        },
+        {
+          "verse": 8,
+          "text": "La munte sau la loc şes, la câmpie sau la locurile de sub munţi, în pustiu şi la miazăzi şi care fusese al Heteilor, Amoreilor, Canaaneilor, Ferezeilor, Heveilor şi Iebuseilor:"
+        },
+        {
+          "verse": 9,
+          "text": "Un rege al Ierihonului, un rege al cetăţii Ai, care e aproape de Betel;"
+        },
+        {
+          "verse": 10,
+          "text": "Un rege al Ierusalimului, un rege al Hebronului;"
+        },
+        {
+          "verse": 11,
+          "text": "Un rege al Iarmutului, un rege al Lachişului;"
+        },
+        {
+          "verse": 12,
+          "text": "Un rege al Eglonului, un rege al Ghezerului;"
+        },
+        {
+          "verse": 13,
+          "text": "Un rege al Debirului, un rege al Ghederului;"
+        },
+        {
+          "verse": 14,
+          "text": "Un rege al Hormei, un rege al Aradului;"
+        },
+        {
+          "verse": 15,
+          "text": "Un rege al Libnei, un rege al Adulamului;"
+        },
+        {
+          "verse": 16,
+          "text": "Un rege al Machedei; un rege al Betelului;"
+        },
+        {
+          "verse": 17,
+          "text": "Un rege al Tapuahului, un rege al Heferului;"
+        },
+        {
+          "verse": 18,
+          "text": "Un rege al Afecului, un rege al Şaronului;"
+        },
+        {
+          "verse": 19,
+          "text": "Un rege al Madonului, un rege al Haţorului;"
+        },
+        {
+          "verse": 20,
+          "text": "Un rege al Şimron-Meronului, un rege al Acşafului;"
+        },
+        {
+          "verse": 21,
+          "text": "Un rege al Taanacului, un rege al Meghidonului;"
+        },
+        {
+          "verse": 22,
+          "text": "Un rege al Chedeşului, un rege al Iocneamului de lângă Carmel;"
+        },
+        {
+          "verse": 23,
+          "text": "Un rege al Dorului de lângă Nafat-Dor, un rege al Goimului din Ghilgal;"
+        },
+        {
+          "verse": 24,
+          "text": "Un rege al Tirţei. De toţi treizeci şi unu de regi."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_13_01",
+      "chapter": 13,
+      "pericope_num": "01",
+      "title_en": "The Parts of Canaan Still Unconquered",
+      "title_ro": "Părțile Canaanului rămase necucerite",
+      "start_verse": 1,
+      "end_verse": 13,
+      "verse_count": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Fiind Iosua bătrân şi înaintat în zile, a zis Domnul către dânsul: \"Iată tu ai îmbătrânit şi eşti în vârstă înaintată, dar pământ de luat în moştenire a mai rămas încă mult."
+        },
+        {
+          "verse": 2,
+          "text": "Pământul care a mai rămas de luat în moştenire este acesta: ţinuturile Filistenilor şi toată tara Gheşurului şi a Canaanului."
+        },
+        {
+          "verse": 3,
+          "text": "De la Sicor, care este la răsărit de Egipt, până la hotarele Ecronului, la miazănoapte, se socotesc cele cinci căpetenii filistene: Gaza, Aşdod, Ascalonul, Gat şi Ecronul."
+        },
+        {
+          "verse": 4,
+          "text": "Apoi ţara Heveilor: tot pământul Canaan şi Maara Sidonienilor, de la Teman până la Afec şi până la hotarele Amoreilor."
+        },
+        {
+          "verse": 5,
+          "text": "De asemenea ţinutul filistean Ghebla şi tot Libanul, spre răsăritul soarelui, de la Baal-Gad, de la poalele muntelui Hermon până la intrarea Hamatului."
+        },
+        {
+          "verse": 6,
+          "text": "Pe toţi locuitorii muntelui de la Liban până la Misrefot-Maim, pe toii Sidonienii să-i pierzi de la faţa fiilor lui Israel  pământul lor să-l împarţi lui Israel prin sorti, cum ti-am poruncit."
+        },
+        {
+          "verse": 7,
+          "text": "Aşadar la cele nouă seminţii şi la jumătate din seminţia lui Manase, împarte-le moştenire prin sorţi pământul acesta: de la Iordan până la marea cea mare de la apus să-l dai lor şi marea cea mare să fie hotar."
+        },
+        {
+          "verse": 8,
+          "text": "Căci celelalte două seminţii: a lui Ruben şi Gad şi jumătate din seminţia lui Manase au primit partea de la Moise, dincolo de Iordan, spre răsăritul soarelui, cum le-a dat Moise sluga Domnului,"
+        },
+        {
+          "verse": 9,
+          "text": "De la Aroer, care e pe malul râului Arnon, cetatea cea din mijlocul văii şi toată câmpia Medeba până la Dibon,"
+        },
+        {
+          "verse": 10,
+          "text": "Precum şi toate cetăţile lui Sihon, regele Amoreilor, care a domnit în Heşbon, până la hotarele fiilor lui Amon,"
+        },
+        {
+          "verse": 11,
+          "text": "Şi Galaadul, ţinutul Gheşur şi al Maacatienilor, tot muntele Hermon şi tot Vasanul până la Salca;"
+        },
+        {
+          "verse": 12,
+          "text": "Tot regatul lui Og al Vasanului, care a domnit în Aştarot şi în Edrea. Acesta mai rămăsese din Refaimi, pe care Moise i-a bătut şi i-a alungat\"."
+        },
+        {
+          "verse": 13,
+          "text": "Dar fiii lui Israel n-au vrut să piardă pe Gheşureni şi pe Maacatieni şi până în ziua de astăzi locuieşte regele din Gheşur şi al Maacatienilor în mijlocul lui Israel."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_13_02",
+      "chapter": 13,
+      "pericope_num": "02",
+      "title_en": "The Territory East of the Jordan",
+      "title_ro": "Teritoriul de la răsărit de Iordan",
+      "start_verse": 8,
+      "end_verse": 14,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 8,
+          "text": "Căci celelalte două seminţii: a lui Ruben şi Gad şi jumătate din seminţia lui Manase au primit partea de la Moise, dincolo de Iordan, spre răsăritul soarelui, cum le-a dat Moise sluga Domnului,"
+        },
+        {
+          "verse": 9,
+          "text": "De la Aroer, care e pe malul râului Arnon, cetatea cea din mijlocul văii şi toată câmpia Medeba până la Dibon,"
+        },
+        {
+          "verse": 10,
+          "text": "Precum şi toate cetăţile lui Sihon, regele Amoreilor, care a domnit în Heşbon, până la hotarele fiilor lui Amon,"
+        },
+        {
+          "verse": 11,
+          "text": "Şi Galaadul, ţinutul Gheşur şi al Maacatienilor, tot muntele Hermon şi tot Vasanul până la Salca;"
+        },
+        {
+          "verse": 12,
+          "text": "Tot regatul lui Og al Vasanului, care a domnit în Aştarot şi în Edrea. Acesta mai rămăsese din Refaimi, pe care Moise i-a bătut şi i-a alungat\"."
+        },
+        {
+          "verse": 13,
+          "text": "Dar fiii lui Israel n-au vrut să piardă pe Gheşureni şi pe Maacatieni şi până în ziua de astăzi locuieşte regele din Gheşur şi al Maacatienilor în mijlocul lui Israel."
+        },
+        {
+          "verse": 14,
+          "text": "Numai seminţiei lui Levi nu i-a dat Iosua moştenire, căci jertfele şi prinoasele Domnului Dumnezeului lui Israel sunt partea ei, cum i-a zis Domnul."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_13_03",
+      "chapter": 13,
+      "pericope_num": "03",
+      "title_en": "The Territory of Reuben",
+      "title_ro": "Teritoriul lui Ruben",
+      "start_verse": 15,
+      "end_verse": 23,
+      "verse_count": 9,
+      "verses": [
+        {
+          "verse": 15,
+          "text": "Iată împărţirea pe care a făcut-o Moise fiilor lui Israel, după seminţiile lor, în şesurile Moabului, dincolo de Iordan în faţa Ierihonului: Seminţiei fiilor lui Ruben, după familiile ei, Moise i-a dat parte:"
+        },
+        {
+          "verse": 16,
+          "text": "Hotarele ei cuprindeau cetatea Aroer, care se află pe malul râului Arnon, la mijlocul cursului acestui râu şi tot şesul de lângă Medeba;"
+        },
+        {
+          "verse": 17,
+          "text": "Heşbonul şi toate cetăţile lui cele din şes; Dibonul, Bamot-Baal şi Bet-Baal-Meon;"
+        },
+        {
+          "verse": 18,
+          "text": "Iahţa, Chedemot şi Mefaat;"
+        },
+        {
+          "verse": 19,
+          "text": "Chiriataim, Sibma şi Ţeret-Haşahar, în muntele Emec;"
+        },
+        {
+          "verse": 20,
+          "text": "Bet-Peor, locurile de la poalele muntelui Fazga şi Bet-Ieşimot;"
+        },
+        {
+          "verse": 21,
+          "text": "Toate cetăţile din şes şi toată împărăţia lui Sihon, regele Amoreilor, care a domnit la Heşbon şi pe care l-a ucis Moise, ca şi pe căpeteniile lui Madiam, pe Evi, Rechem, Ţur, Hur şi Reba, căpeteniile lui Sihon, care locuiau în ţara aceea;"
+        },
+        {
+          "verse": 22,
+          "text": "De asemenea şi pe Valaam, fiul lui Beor, vrăjitorul, l-au ucis fiii lui Israel cu sabia, în numărul celor ucişi de ei."
+        },
+        {
+          "verse": 23,
+          "text": "Hotarul fiilor lui Ruben era Iordanul. Aceasta e partea fiilor lui Ruben după familiile lor, după cetăţile şi satele lor."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_13_04",
+      "chapter": 13,
+      "pericope_num": "04",
+      "title_en": "The Territory of Gad",
+      "title_ro": "Teritoriul lui Gad",
+      "start_verse": 24,
+      "end_verse": 28,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 24,
+          "text": "De asemenea a dat Moise parte seminţiei lui Gad, fiilor lui Gad, după familiile lor."
+        },
+        {
+          "verse": 25,
+          "text": "În hotarele lor se cuprindea Iezerul şi toate cetăţile Galaadului şi jumătate din ţara fiilor lui Amon,"
+        },
+        {
+          "verse": 26,
+          "text": "Până la Aroer, care e în faţa cetăţii Raba şi ţara de la Heşbon până la Ramat-Miţpa şi Betonim şi de la Mahanaim până la hotarele Debirului;"
+        },
+        {
+          "verse": 27,
+          "text": "În vale i-a dat Bet-Haram, Bet-Nimra, Sucot şi Ţafon, rămăşiţa regatului lui Sihon, regele Heşbonului. Hotarul lui era Iordanul până la marea Chineret, întinzându-se de la Iordan spre răsărit."
+        },
+        {
+          "verse": 28,
+          "text": "Aceasta era partea fiilor lui Gad după familiile lor, cetăţile şi satele lor."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_13_05",
+      "chapter": 13,
+      "pericope_num": "05",
+      "title_en": "The Territory of the Half-Tribe of Manasseh (East)",
+      "title_ro": "Teritoriul jumătății din seminția lui Manase (Est)",
+      "start_verse": 29,
+      "end_verse": 33,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 29,
+          "text": "Şi a mai dat Moise parte şi la jumătate din seminţia lui Manase, adică la jumătate din seminţia fiilor lui Manase, după familiile lor."
+        },
+        {
+          "verse": 30,
+          "text": "În hotarele lor se cuprindea tot Vasanul de la Mahanaim, toată împărăţia lui Og, regele Vasanului, şi toate sălaşurile Iairului celui din Vasan, şaizeci de cetăţi."
+        },
+        {
+          "verse": 31,
+          "text": "Iar jumătate din Galaad cu Aştarotul şi Edrea, oraşele nepotului lui Og al Vasanului, au fost date fiilor lui Machir, fiul lui Manase, la jumătate din fiii lui Machir după familiile lor."
+        },
+        {
+          "verse": 32,
+          "text": "Iată ce a dat Moise ca parte de moştenire în şesul Moabului, peste Iordan, în faţa Ierihonului spre răsărit."
+        },
+        {
+          "verse": 33,
+          "text": "Dar seminţiei lui Levi, Moise nu i-a dat parte, că Însuşi Domnul Dumnezeul lui Israel este partea lor, cum le-a grăit El."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_14_01",
+      "chapter": 14,
+      "pericope_num": "01",
+      "title_en": "The Distribution of Territory West of the Jordan",
+      "title_ro": "Împărțirea teritoriului la apus de Iordan",
+      "start_verse": 1,
+      "end_verse": 14,
+      "verse_count": 14,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Iată ce moştenire au primit fiii lui Israel în ţara Canaan, pe care le-au împărţit-o prin sorţi preotul Eleazar şi Iosua, fiul lui Navi, şi căpeteniile de familii ale seminţiilor fiilor lui Israel."
+        },
+        {
+          "verse": 2,
+          "text": "Moştenirea aceasta au împărţit-o prin sorţi cum poruncise Domnul prin Moise, la cele nouă seminţii şi la jumătate din seminţia lui Manase;"
+        },
+        {
+          "verse": 3,
+          "text": "Căci la două seminţii şi la jumătate din seminţia lui Manase le dăduse Moise parte peste Iordan. Iar leviţilor nu le-a dat moştenire între ei;"
+        },
+        {
+          "verse": 4,
+          "text": "Căci din fiii lui Iosif se ridicaseră două seminţii: a lui Manase şi a lui Efraim; de aceea nu s-a dat leviţilor parte de pământ, ci numai cetăţi pentru locuit cu împrejurimile lor, pentru vitele şi pentru turmele lor."
+        },
+        {
+          "verse": 5,
+          "text": "Cum poruncise Domnul prin Moise, aşa au şi făcut fiii lui Israel, când au împărţit ţara."
+        },
+        {
+          "verse": 6,
+          "text": "Atunci au venit fiii lui Iuda la Iosua în Ghilgal şi a zis către el Caleb, fiul lui Iefone Chenezeul: \"Tu ştii ce a zis Domnul către Moise, omul lui Dumnezeu, pentru mine şi pentru tine, la Cadeş-Barnea."
+        },
+        {
+          "verse": 7,
+          "text": "Eu eram de patruzeci de ani, când Moise, sluga lui Dumnezeu, m-a trimis din Cadeş-Barnea să iscodesc ţara şi eu i-am adus răspuns după dorinţa lui."
+        },
+        {
+          "verse": 8,
+          "text": "Fraţii mei, care fuseseră cu mine, au umplut de spaimă inima poporului, iar eu am urmat hotărât Domnului Dumnezeului meu."
+        },
+        {
+          "verse": 9,
+          "text": "Şi s-a jurat Moise în ziua aceea şi a zis: \"Pământul pe unde a călcat piciorul tău va fi moştenirea ta şi a copiilor tăi pe veci, că tu ai urmat hotărât Domnului Dumnezeului nostru\"."
+        },
+        {
+          "verse": 10,
+          "text": "Şi iată Domnul m-a ţinut viu cum a zis. Au trecut acum patruzeci şi cinei de ani de când a spus Domnul lui Moise cuvântul acesta şi Israel umbla prin pustiu; şi iată acum am optzeci şi cinci de ani"
+        },
+        {
+          "verse": 11,
+          "text": "Şi sunt încă tare, ca şi atunci când m-a trimis Moise; câtă putere aveam atunci, tot atâta am şi acum, ca să ies şi să intru în luptă."
+        },
+        {
+          "verse": 12,
+          "text": "Aşadar îţi cer muntele acesta, de care a vorbit Domnul în ziua aceea; căci tu ai auzit în ziua aceea cuvântul acesta acolo. Acum acolo sunt fiii lui Enac, care au cetăţi mari şi tari, dar de va fi Domnul cu mine, îi voi izgoni, cum mi-a zis Domnul\"."
+        },
+        {
+          "verse": 13,
+          "text": "Şi l-a binecuvântat Iosua şi a dat Hebronul moştenire lui Caleb, fiul lui Iefone Chenezeul."
+        },
+        {
+          "verse": 14,
+          "text": "De aceea a ajuns Hebronul moşia lui Caleb, fiul lui Iefone, până în ziua de azi, pentru că el a urmat întocmai porunca Domnului Dumnezeului lui Israel."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_14_02",
+      "chapter": 14,
+      "pericope_num": "02",
+      "title_en": "Hebron Allotted to Caleb",
+      "title_ro": "Hebronul dat lui Caleb",
+      "start_verse": 6,
+      "end_verse": 15,
+      "verse_count": 10,
+      "verses": [
+        {
+          "verse": 6,
+          "text": "Atunci au venit fiii lui Iuda la Iosua în Ghilgal şi a zis către el Caleb, fiul lui Iefone Chenezeul: \"Tu ştii ce a zis Domnul către Moise, omul lui Dumnezeu, pentru mine şi pentru tine, la Cadeş-Barnea."
+        },
+        {
+          "verse": 7,
+          "text": "Eu eram de patruzeci de ani, când Moise, sluga lui Dumnezeu, m-a trimis din Cadeş-Barnea să iscodesc ţara şi eu i-am adus răspuns după dorinţa lui."
+        },
+        {
+          "verse": 8,
+          "text": "Fraţii mei, care fuseseră cu mine, au umplut de spaimă inima poporului, iar eu am urmat hotărât Domnului Dumnezeului meu."
+        },
+        {
+          "verse": 9,
+          "text": "Şi s-a jurat Moise în ziua aceea şi a zis: \"Pământul pe unde a călcat piciorul tău va fi moştenirea ta şi a copiilor tăi pe veci, că tu ai urmat hotărât Domnului Dumnezeului nostru\"."
+        },
+        {
+          "verse": 10,
+          "text": "Şi iată Domnul m-a ţinut viu cum a zis. Au trecut acum patruzeci şi cinei de ani de când a spus Domnul lui Moise cuvântul acesta şi Israel umbla prin pustiu; şi iată acum am optzeci şi cinci de ani"
+        },
+        {
+          "verse": 11,
+          "text": "Şi sunt încă tare, ca şi atunci când m-a trimis Moise; câtă putere aveam atunci, tot atâta am şi acum, ca să ies şi să intru în luptă."
+        },
+        {
+          "verse": 12,
+          "text": "Aşadar îţi cer muntele acesta, de care a vorbit Domnul în ziua aceea; căci tu ai auzit în ziua aceea cuvântul acesta acolo. Acum acolo sunt fiii lui Enac, care au cetăţi mari şi tari, dar de va fi Domnul cu mine, îi voi izgoni, cum mi-a zis Domnul\"."
+        },
+        {
+          "verse": 13,
+          "text": "Şi l-a binecuvântat Iosua şi a dat Hebronul moştenire lui Caleb, fiul lui Iefone Chenezeul."
+        },
+        {
+          "verse": 14,
+          "text": "De aceea a ajuns Hebronul moşia lui Caleb, fiul lui Iefone, până în ziua de azi, pentru că el a urmat întocmai porunca Domnului Dumnezeului lui Israel."
+        },
+        {
+          "verse": 15,
+          "text": "Mai înainte Hebronul se numea Chiriat-Arba, capitala fiilor lui Enac. După aceea s-a liniştit ţara de război."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_15_01",
+      "chapter": 15,
+      "pericope_num": "01",
+      "title_en": "The Territory of Judah",
+      "title_ro": "Teritoriul lui Iuda",
+      "start_verse": 1,
+      "end_verse": 15,
+      "verse_count": 15,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Moşia căzută la sorţi pentru seminţia fiilor lui Iuda, după familiile lor, se întindea de la hotarele lui Edom din miazăzi şi de la pustiul Sin până la Cadeş, spre răsărit."
+        },
+        {
+          "verse": 2,
+          "text": "Astfel hotarul lor de miazăzi porneşte de la Marea Sărată, de unde pleacă un golf al ei spre miazăzi,"
+        },
+        {
+          "verse": 3,
+          "text": "Merge spre înălţimea Acravimului, trece prin pustiul Sin şi, ridicându-se dinspre miazăzi către Cadeş-Barnea, merge pe la Heţron şi, ajungând la Adar, trece pe partea dinspre apus a Cadeşului şi se întoarce spre Carcaa;"
+        },
+        {
+          "verse": 4,
+          "text": "Trece apoi prin Aţmon şi urmează înainte până la râul Egiptului şi apoi capătul acestui hotar atinge marea. Acesta va fi hotarul vostru de miazăzi."
+        },
+        {
+          "verse": 5,
+          "text": "Hotarul de răsărit e toată Marea Sărată până la gurile Iordanului. Iar apoi hotarul de miazănoapte pleacă din golful mării de la gurile Iordanului;"
+        },
+        {
+          "verse": 6,
+          "text": "De aici se ridică spre Bet-Hogla. Trece pe la miazănoapte de Bet-Araba şi merge în sus până la piatra lui Bohan, fiul lui Ruben;"
+        },
+        {
+          "verse": 7,
+          "text": "Apoi hotarul se urcă spre Debir, din valea Acor şi se îndreaptă spre miazănoapte către Ghilgal, care se află în faţa Adumimului, pe partea de miazăzi a râului; apoi trece pe la apele En-Şemeş şi se prelungeşte până la En-Roghel."
+        },
+        {
+          "verse": 8,
+          "text": "De aici hotarul merge în sus spre valea Ben-Hinom, pe partea de miazăzi de Iebus, care este Ierusalimul; apoi hotarul se ridică spre vârful muntelui, care este spre apus, în faţa văii Hinom, la marginea văii Refaim, la miazănoapte."
+        },
+        {
+          "verse": 9,
+          "text": "Din vârful muntelui, hotarul se îndreaptă spre izvorul apelor Neftoah şi merge spre cetăţile din muntele Efron; apoi hotarul coteşte spre Baala, care e Chiriat-Iearimul;"
+        },
+        {
+          "verse": 10,
+          "text": "După aceea hotarul se întoarce de la Baala spre mare şi merge spre muntele Seir, trece pe partea de miazănoapte a muntelui Iearim, care e Chesalonul şi, pogorându-se către Bet-Şemeş, trece prin Timna;"
+        },
+        {
+          "verse": 11,
+          "text": "De aici hotarul merge pe partea de miazănoapte a Ecronului şi se întoarce spre Şicron, trece prin muntele Baala şi ajunge până la Iabneel şi apoi se termină hotarul la mare. Hotarul de la apus îl formează Marea cea Mare."
+        },
+        {
+          "verse": 12,
+          "text": "Acesta este hotarul pământului fiilor lui Iuda, după familiile lor, din toate părţile."
+        },
+        {
+          "verse": 13,
+          "text": "Lui Caleb, fiul lui Iefone, i-a dat Iosua parte intre fiii lui Iuda, cum poruncise Domnul lui Iosua şi i-a dat Iosua Chiriat-Arba a tatălui lui Enac, care este Hebronul."
+        },
+        {
+          "verse": 14,
+          "text": "Însă Caleb, fiul lui Iefone, a alungat de acolo pe cei trei fii ai lui Enac: pe Şeşai, pe Ahiman şi pe Talmai, copiii lui Enac."
+        },
+        {
+          "verse": 15,
+          "text": "De aici Caleb a pornit asupra locuitorilor Debirului; numele Debirului era mai înainte Chiriat-Sefer."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_15_02",
+      "chapter": 15,
+      "pericope_num": "02",
+      "title_en": "Caleb Occupies His Portion",
+      "title_ro": "Caleb își ocupă moștenirea",
+      "start_verse": 13,
+      "end_verse": 19,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 13,
+          "text": "Lui Caleb, fiul lui Iefone, i-a dat Iosua parte intre fiii lui Iuda, cum poruncise Domnul lui Iosua şi i-a dat Iosua Chiriat-Arba a tatălui lui Enac, care este Hebronul."
+        },
+        {
+          "verse": 14,
+          "text": "Însă Caleb, fiul lui Iefone, a alungat de acolo pe cei trei fii ai lui Enac: pe Şeşai, pe Ahiman şi pe Talmai, copiii lui Enac."
+        },
+        {
+          "verse": 15,
+          "text": "De aici Caleb a pornit asupra locuitorilor Debirului; numele Debirului era mai înainte Chiriat-Sefer."
+        },
+        {
+          "verse": 16,
+          "text": "Şi a zis Caleb: \"Cel ce va bate Chiriat-Seferul şi-l va lua, aceluia îi voi da pe Acsa, fiica mea, de femeie\"."
+        },
+        {
+          "verse": 17,
+          "text": "Şi l-a luat Otniel cel tânăr, fiul lui Chenaz, fratele lui Caleb şi i-a dat Caleb de femeie pe Acsa, fiica sa."
+        },
+        {
+          "verse": 18,
+          "text": "Dar când a trebuit să plece, a fost învăţată să ceară de la tatăl său o ţarină. Şi când a descălecat ea de pe asin, Caleb i-a zis: \"Ce vrei?\""
+        },
+        {
+          "verse": 19,
+          "text": "Iar ea a zis: \"Dă-mi binecuvântare. Tu mi-ai dat pământul de la miazăzi; dă-mi şi izvoarele de apă!\" Şi i-a dat izvoarele cele de sus şi izvoarele cele de jos."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_15_03",
+      "chapter": 15,
+      "pericope_num": "03",
+      "title_en": "The Towns of Judah",
+      "title_ro": "Cetățile lui Iuda",
+      "start_verse": 20,
+      "end_verse": 63,
+      "verse_count": 44,
+      "verses": [
+        {
+          "verse": 20,
+          "text": "Aceasta este moştenirea fiilor lui Iuda, după familiile lor."
+        },
+        {
+          "verse": 21,
+          "text": "Cetăţile care se aflau în partea de miazăzi, la marginea seminţiei fiilor lui Iuda, spre hotarul Edomului, erau: Cabţeel, Eder şi Iagur;"
+        },
+        {
+          "verse": 22,
+          "text": "China, Dimona şi Adada;"
+        },
+        {
+          "verse": 23,
+          "text": "Chedeş, Haţor şi Itnan;"
+        },
+        {
+          "verse": 24,
+          "text": "Zif, Telem şi Bealot;"
+        },
+        {
+          "verse": 25,
+          "text": "Haţor-Hadata, Cheriot-Heţron, adică Haţor;"
+        },
+        {
+          "verse": 26,
+          "text": "Amam, Şerna şi Molada;"
+        },
+        {
+          "verse": 27,
+          "text": "Haţar-Gada, Heşmon şi Bet-Palet;"
+        },
+        {
+          "verse": 28,
+          "text": "Haţar-Şual, Beerşeba şi Biziotia, cu împrejurimile şi satele lor;"
+        },
+        {
+          "verse": 29,
+          "text": "Baala, Iim şi Aţem;"
+        },
+        {
+          "verse": 30,
+          "text": "Eltolad, Chesil şi Horma;"
+        },
+        {
+          "verse": 31,
+          "text": "Ţiclag, Madmana şi Sansana;"
+        },
+        {
+          "verse": 32,
+          "text": "Lebaot, Şilhim, Ain şi Rimon; de toate douăzeci şi nouă de cetăţi cu satele lor."
+        },
+        {
+          "verse": 33,
+          "text": "Iar la şes erau: Eştaol, Ţora, Aşna şi Gatnam;"
+        },
+        {
+          "verse": 34,
+          "text": "Zanuah, En-Ganim, Tapuah şi Enam;"
+        },
+        {
+          "verse": 35,
+          "text": "Iarmut, Adulam, Memvra, Soco şi Azeca;"
+        },
+        {
+          "verse": 36,
+          "text": "Şaaraim, Aditaim, Ghedera şi Ghederotaim; paisprezece cetăţi cu satele lor."
+        },
+        {
+          "verse": 37,
+          "text": "Ţenan, Hadaşa şi Migdal-Gad;"
+        },
+        {
+          "verse": 38,
+          "text": "Dilean, Miţpe şi Iocteel;"
+        },
+        {
+          "verse": 39,
+          "text": "Lachiş, Boţcat şi Eglon;"
+        },
+        {
+          "verse": 40,
+          "text": "Cabon, Lahmas şi Chitliş;"
+        },
+        {
+          "verse": 41,
+          "text": "Ghederot, Bet-Dagon, Naama şi Macheda; şaisprezece cetăţi cu satele lor."
+        },
+        {
+          "verse": 42,
+          "text": "Libna, Eter şi Aşan;"
+        },
+        {
+          "verse": 43,
+          "text": "Iftah, Aşna şi Neţib;"
+        },
+        {
+          "verse": 44,
+          "text": "Cheila, Aczib, Mareşa şi Edom; nouă cetăţi cu satele lor."
+        },
+        {
+          "verse": 45,
+          "text": "Ecron cu cetăţile care ţineau de el şi cu satele lui;"
+        },
+        {
+          "verse": 46,
+          "text": "Şi de la Ecron spre mare tot ce se află împrejurul Aşdodului cu satele lui;"
+        },
+        {
+          "verse": 47,
+          "text": "Aşdodul şi cetăţile care ţineau de el şi satele lui; Gaza cu cetăţile care ţineau de ea şi satele ei până ia râul Egiptului şi până la Marea cea Mare, care este hotar."
+        },
+        {
+          "verse": 48,
+          "text": "Iar în munţi erau: Şamir, Iatir şi Soco;"
+        },
+        {
+          "verse": 49,
+          "text": "Dana, Chiriat-Sana, zis şi Debir;"
+        },
+        {
+          "verse": 50,
+          "text": "Anab, Eştemo şi Anim;"
+        },
+        {
+          "verse": 51,
+          "text": "Goşen, Holon şi Ghilo: unsprezece cetăţi cu satele lor."
+        },
+        {
+          "verse": 52,
+          "text": "Anab, Duma şi Eşean;"
+        },
+        {
+          "verse": 53,
+          "text": "Ianum, Bet-Tapuah şi Afeca;"
+        },
+        {
+          "verse": 54,
+          "text": "Humta, Chiriat-Arba, zisă şi Hebronul şi Ţior; nouă cetăţi cu satele lor."
+        },
+        {
+          "verse": 55,
+          "text": "Maon, Carmel, Zif şi Iuta;"
+        },
+        {
+          "verse": 56,
+          "text": "Izreel, Iocdeam şi Zanuah;"
+        },
+        {
+          "verse": 57,
+          "text": "Cain, Ghibeea şi Timna: zece cetăţi cu satele lor."
+        },
+        {
+          "verse": 58,
+          "text": "Halhul, Bet-Ţur şi Ghedor;"
+        },
+        {
+          "verse": 59,
+          "text": "Maarat, Bet-Anot şi Eltecon: şase cetăţi cu satele lor. Tecoa, Efrata sau Betleemul, Peor, Etam, Culon, Tatam, Sores, Carem, Galem, Betir şi Manah: unsprezece cetăţi cu satele lor."
+        },
+        {
+          "verse": 60,
+          "text": "Chiriat-Baal sau Chiriat-Iearim şi Harabah; două cetăţi cu satele lor şi cu împrejurimile."
+        },
+        {
+          "verse": 61,
+          "text": "În pustiu erau: Bet-Araba, Midin şi Secaca;"
+        },
+        {
+          "verse": 62,
+          "text": "Nibşan, Ir-Melah şi En-Ghedi: şase cetăţi cu satele lor."
+        },
+        {
+          "verse": 63,
+          "text": "Dar pe Iebusei, locuitorii Ierusalimului, nu i-au putut alunga fiii lui Iuda şi de aceea Iebuseii trăiesc cu fiii lui Iuda în Ierusalim până în ziua de astăzi."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_16_01",
+      "chapter": 16,
+      "pericope_num": "01",
+      "title_en": "The Territory of Ephraim",
+      "title_ro": "Teritoriul lui Efraim",
+      "start_verse": 1,
+      "end_verse": 16,
+      "verse_count": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Apoi au căzut sorţii fiilor lui Iosif; hotarul începe la Iordan, lângă Ierihon, merge către apele Ierihonului, având la răsărit pustiul care se întinde de la Ierihon până la Betel"
+        },
+        {
+          "verse": 2,
+          "text": "Şi graniţa merge spre Luz, trece hotarul Archienilor până la Atarot,"
+        },
+        {
+          "verse": 3,
+          "text": "Apoi se lasă spre mare, către hotarele lui Iaflet, până la hotarele Bet-Horonului de jos şi până la Ghezer şi se înfundă la mare."
+        },
+        {
+          "verse": 4,
+          "text": "Această parte au primit-o fiii. lui Iosif: Manase şi Efraim."
+        },
+        {
+          "verse": 5,
+          "text": "Hotarele fiilor lui Efraim, după familiile lor, au fost acestea: hotarul moştenirii lor era la răsărit Atarot-Adar până la Bet-Horonul de Sus şi Ghezer;"
+        },
+        {
+          "verse": 6,
+          "text": "Apoi înainta spre apus pe la miazănoapte de Micmetat, se întorcea la răsărit spre Taanat-Şilo şi trecea pe la răsărit de Ianoah."
+        },
+        {
+          "verse": 7,
+          "text": "De la Ianoah se pogora la Atarot şi la Naarata, atingând Ierihonul şi se prelungea până la Iordan."
+        },
+        {
+          "verse": 8,
+          "text": "De la Tapuah mergea spre apus, către râuleţul Cana, pentru a se sfârşi la mare. Aceasta este partea fiilor lui Efraim, după familiile lor."
+        },
+        {
+          "verse": 9,
+          "text": "Şi fiilor lui Efraim li s-au mai dat cetăţi şi în partea fiilor lui Manase; toate acele cetăţi erau cu satele lor."
+        },
+        {
+          "verse": 10,
+          "text": "Dar Efraimiţii n-au alungat pe Canaanei, care locuiau în Ghezer; de aceea Canaaneii au trăit între Efraimiţi până în ziua de astăzi, plătindu-le bir. În cele din urmă a venit Faraon, regele Egiptului, şi a luat cetatea şi a ars-o cu foc, şi pe Canaanei şi pe Ferezei şi pe locuitorii Ghezerului i-a ucis şi a dat Faraon cetatea de zestre fiicei sale."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_17_01",
+      "chapter": 17,
+      "pericope_num": "01",
+      "title_en": "The Other Half-Tribe of Manasseh (West)",
+      "title_ro": "Cealaltă jumătate din seminția lui Manase (Vest)",
+      "start_verse": 1,
+      "end_verse": 17,
+      "verse_count": 17,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "De asemenea a căzut, la sorţi, parte şi seminţiei lui Manase, căci acesta era întâiul născut al lui Iosif. Lui Machir întâiul născut al lui Manase, care fusese viteaz în război, i-a căzut Galaadul şi Vasanul."
+        },
+        {
+          "verse": 2,
+          "text": "Dar le-au căzut, la sorţi, părţi şi celorlalţi fii ai lui Manase, după familiile lor: fiilor lui Abiezer, fiilor lui Helec, fiilor lui Asriel, fiilor lui Sichem, fiilor lui Hefer şi fiilor lui Şemida. Aceştia sunt fiii lui Manase, fiul lui Iosif de parte bărbătească, după familiile lor."
+        },
+        {
+          "verse": 3,
+          "text": "Iar Salfaad, fiul lui Hefer, fiul lui Galaad, fiul lui Machir, fiul lui Manase, n-a avut fii, ci numai fiice, ale căror nume sunt acestea: Mahla, Noa, Hogla, Milca şi Tirţa."
+        },
+        {
+          "verse": 4,
+          "text": "Acestea au venit la preotul Eleazar şi la Iosua, fiul lui Navi, şi la căpetenii şi au zis: \"Domnul a poruncit lui Moise să ni se dea parte şi nouă între fraţii noştri\". Şi li s-a dat parte, între fraţii tatălui lor."
+        },
+        {
+          "verse": 5,
+          "text": "Şi a căzut lui Manase zece părţi, afară de ţara Galaadului şi a Vasanului, care erau peste Iordan,"
+        },
+        {
+          "verse": 6,
+          "text": "Pentru că fiicele fiilor lui Manase au primit părţi printre fiii lui, iar rara Galaadului s-a cuvenit celorlalţi fii ai lui Manase."
+        },
+        {
+          "verse": 7,
+          "text": "Hotarul pământului fiilor lui Manase pleca de la Aşer către Micmetat, care e în faţa Sichemului; de aici hotarul merge spre dreapta, până la locuitorii En-Tapuahului."
+        },
+        {
+          "verse": 8,
+          "text": "Pământul Tapuah a căzut lui Manase; iar cetatea Tapuah, de la hotarul lui Manase, a rămas fiilor lui Veniamin."
+        },
+        {
+          "verse": 9,
+          "text": "De aici hotarul se pogoară spre râul Cana, pe malul de miazăzi al râului."
+        },
+        {
+          "verse": 10,
+          "text": "Cetăţile acestea sunt ale lui Efraim, deşi sunt între fiii lui Manase. Hotarul lui Manase se sfârşeşte la mare, pe partea de miazănoapte a râului. Partea de miazăzi este a lui Efraim, iar cea de la miazănoapte este a lui Manase. Marea însă era hotarul lor la apus. La miazănoapte se mărginea cu Aşer, iar spre răsărit cu Isahar."
+        },
+        {
+          "verse": 11,
+          "text": "În Isahar şi Aşer sunt ale lui Manase: Bet-Şean cu locurile care se ţin de el, Ibleam cu locurile care se ţin de el, locuitorii din Dor şi din locurile care lin de el, locuitorii din En-Dor şi locurile care ţin de el, locuitorii din Taanac şi locurile care ţin de el, locuitorii Meghidonului şi locurile care ţin de el, şi a treia parte din Nafet cu satele lui."
+        },
+        {
+          "verse": 12,
+          "text": "Fiii lui Manase n-au putut alunga pe locuitorii acestor oraşe şi Canaaneii au rămas să locuiască în ţara lui."
+        },
+        {
+          "verse": 13,
+          "text": "Când fiii lui Israel au ajuns puternici, atunci Canaaneii au fost făcuţi birnici ai lor, dar de alungat nu i-au alungat."
+        },
+        {
+          "verse": 14,
+          "text": "Fiii lui Iosif au zis către Iosua: \"Pentru ce ne-ai dat o singură parte şi un singur sorţ, când noi suntem mulţi, de vreme ce ne-a binecuvântat aşa Domnul?\""
+        },
+        {
+          "verse": 15,
+          "text": "Şi Iosua le-a răspuns: \"Dacă sunteţi mulţi, duceţi-vă în păduri şi acolo, în ţara Ferezeilor şi Refaimilor, căutaţi-vă loc, dacă muntele Efraim vă e strâmt!\""
+        },
+        {
+          "verse": 16,
+          "text": "Iar fiii lui Iosif au zis: \"Muntele nu va rămâne al nostru, pentru că toţi Canaaneii care locuiesc în vale au căruţe de fier, atât cei din Bet-Şean şi din locurile care ţin de ea, cât şi cei din şesul Izreel\"."
+        },
+        {
+          "verse": 17,
+          "text": "Dar Iosua a zis către casa lui Iosif, lui Efraim şi lui Manase: \"Tu eşti mult la număr şi ai putere multă. Deci nu vei avea numai o parte."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_17_02",
+      "chapter": 17,
+      "pericope_num": "02",
+      "title_en": "The Tribe of Joseph Protests",
+      "title_ro": "Protestul seminției lui Iosif",
+      "start_verse": 14,
+      "end_verse": 18,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 14,
+          "text": "Fiii lui Iosif au zis către Iosua: \"Pentru ce ne-ai dat o singură parte şi un singur sorţ, când noi suntem mulţi, de vreme ce ne-a binecuvântat aşa Domnul?\""
+        },
+        {
+          "verse": 15,
+          "text": "Şi Iosua le-a răspuns: \"Dacă sunteţi mulţi, duceţi-vă în păduri şi acolo, în ţara Ferezeilor şi Refaimilor, căutaţi-vă loc, dacă muntele Efraim vă e strâmt!\""
+        },
+        {
+          "verse": 16,
+          "text": "Iar fiii lui Iosif au zis: \"Muntele nu va rămâne al nostru, pentru că toţi Canaaneii care locuiesc în vale au căruţe de fier, atât cei din Bet-Şean şi din locurile care ţin de ea, cât şi cei din şesul Izreel\"."
+        },
+        {
+          "verse": 17,
+          "text": "Dar Iosua a zis către casa lui Iosif, lui Efraim şi lui Manase: \"Tu eşti mult la număr şi ai putere multă. Deci nu vei avea numai o parte."
+        },
+        {
+          "verse": 18,
+          "text": "Muntele va fi al tău şi pădurea. Tu îl vei curăţi şi va fi al tău până la capătul lui, căci tu vei izgoni pe Canaanei, deşi ei au căruţe de fier; deşi ei sunt tari, tu îi vei birui\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_18_01",
+      "chapter": 18,
+      "pericope_num": "01",
+      "title_en": "The Territories of the Remaining Tribes",
+      "title_ro": "Teritoriile semințiilor rămase",
+      "start_verse": 1,
+      "end_verse": 18,
+      "verse_count": 18,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Atunci s-a adunat toată obştea fiilor lui Israel la Şilo şi au aşezat acolo cortul adunării, căci ţara fusese supusă de ei."
+        },
+        {
+          "verse": 2,
+          "text": "Dar dintre fiii lui Israel mai rămăseseră şapte seminţii care nu-şi primiseră încă părţile lor."
+        },
+        {
+          "verse": 3,
+          "text": "Atunci a zis Iosua către fiii lui Israel: \"Oare mult veţi rămâne voi nepăsători de a merge să luaţi moştenire ţara pe care v-a dat-o Domnul Dumnezeul părinţilor voştri?"
+        },
+        {
+          "verse": 4,
+          "text": "\"Daţi câte trei oameni de seminţie şi eu îi voi trimite, iar ei, sculându-se, se vor duce prin ţară şi o vor descrie, cum trebuie să li se împartă în părţi, şi apoi vor veni la mine."
+        },
+        {
+          "verse": 5,
+          "text": "Să o împartă în şapte părţi; Iuda să rămână în partea sa spre miazăzi, iar casa lui Iosif să rămână în partea sa la miazănoapte."
+        },
+        {
+          "verse": 6,
+          "text": "Voi însă întocmiţi un plan al ţării, împărţit în şapte părţi şi să mi-l aduceţi şi eu voi arunca sorţi aici înaintea Domnului Dumnezeului nostru."
+        },
+        {
+          "verse": 7,
+          "text": "Leviţii însă n-au parte între voi, căci preoţia Domnului este partea lor. Iar Gad, Ruben şi jumătate din seminţia lui Manase şi-au primit partea lor peste Iordan, spre răsărit, pe care le-a dat-o Moise, robul Domnului\"."
+        },
+        {
+          "verse": 8,
+          "text": "Atunci s-au sculat oamenii aceia şi s-au dus. Dar Iosua a dat celor ce s-au dus să facă planul ţării astfel de poruncă: \"Duceţi-vă şi cutreieraţi ţara, descrieţi-o şi vă întoarceţi la mine, şi eu vă voi arunca aici sorţi înaintea Domnului, în Şilo\"."
+        },
+        {
+          "verse": 9,
+          "text": "Şi ei s-au dus, au cutreierat ţara, au cercetat-o şi au împărţit-o, după cetăţile ei, în şapte părţi, după un plan, şi apoi au venit la Iosua în Şilo."
+        },
+        {
+          "verse": 10,
+          "text": "Şi le-a aruncat Iosua sorţi în Şilo, înaintea Domnului, şi a împărţit Iosua acolo ţara fiilor lui Israel în părţile ce li se cuvenea."
+        },
+        {
+          "verse": 11,
+          "text": "Întâiul sorţ a căzut seminţiei fiilor lui Veniamin, după familiile lor. Partea lor după sorţ se întindea între fiii lui Iuda şi fiii lui Iosif."
+        },
+        {
+          "verse": 12,
+          "text": "Hotarul lor de miazănoapte se începe de la Iordan şi trece pe lângă Ierihon, pe partea de miazănoapte, şi se urcă pe muntele de la apus şi se sfârşeşte în pustiul Betaven."
+        },
+        {
+          "verse": 13,
+          "text": "De acolo hotarul merge spre Luz, pe partea de miazăzi a Luzului sau a Betelului; apoi hotarul, coborând spre Atarot-Adar, merge către muntele care e spre miazăzi de Bet-Horonul de jos."
+        },
+        {
+          "verse": 14,
+          "text": "Apoi hotarul se îndreaptă spre partea mării, pe la rniazăzi de muntele care vine la miazăzi de Bet-Horon sau Chiriat-Iearim, cetatea fiilor lui Iuda. Aceasta este latura de la apus."
+        },
+        {
+          "verse": 15,
+          "text": "Iar în partea de miazăzi, de la Chiriat-Iearim, hotarul merge spre mare şi ajunge până la izvorul apei Neftoah."
+        },
+        {
+          "verse": 16,
+          "text": "Apoi hotarul se coboară spre capătul muntelui celui din fata văii Ben-Hinom, la miazănoapte, şi se coboară pe valea Hinom spre partea de miazăzi a Iebusului şi merge spre En-Roghel."
+        },
+        {
+          "verse": 17,
+          "text": "Apoi se întoarce de la  miazănoapte şi merge spre En-Şemeş şi înaintează către Ghelilot, care e în faţa înălţimii Adumium, şi se coboară spre piatra lui Bohan, fiul lui Ruben."
+        },
+        {
+          "verse": 18,
+          "text": "Apoi trece pe la miazănoapte de Harabah şi se coboară la hotarul Arabei;"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_18_02",
+      "chapter": 18,
+      "pericope_num": "02",
+      "title_en": "The Territory of Benjamin",
+      "title_ro": "Teritoriul lui Veniamin",
+      "start_verse": 11,
+      "end_verse": 28,
+      "verse_count": 18,
+      "verses": [
+        {
+          "verse": 11,
+          "text": "Întâiul sorţ a căzut seminţiei fiilor lui Veniamin, după familiile lor. Partea lor după sorţ se întindea între fiii lui Iuda şi fiii lui Iosif."
+        },
+        {
+          "verse": 12,
+          "text": "Hotarul lor de miazănoapte se începe de la Iordan şi trece pe lângă Ierihon, pe partea de miazănoapte, şi se urcă pe muntele de la apus şi se sfârşeşte în pustiul Betaven."
+        },
+        {
+          "verse": 13,
+          "text": "De acolo hotarul merge spre Luz, pe partea de miazăzi a Luzului sau a Betelului; apoi hotarul, coborând spre Atarot-Adar, merge către muntele care e spre miazăzi de Bet-Horonul de jos."
+        },
+        {
+          "verse": 14,
+          "text": "Apoi hotarul se îndreaptă spre partea mării, pe la rniazăzi de muntele care vine la miazăzi de Bet-Horon sau Chiriat-Iearim, cetatea fiilor lui Iuda. Aceasta este latura de la apus."
+        },
+        {
+          "verse": 15,
+          "text": "Iar în partea de miazăzi, de la Chiriat-Iearim, hotarul merge spre mare şi ajunge până la izvorul apei Neftoah."
+        },
+        {
+          "verse": 16,
+          "text": "Apoi hotarul se coboară spre capătul muntelui celui din fata văii Ben-Hinom, la miazănoapte, şi se coboară pe valea Hinom spre partea de miazăzi a Iebusului şi merge spre En-Roghel."
+        },
+        {
+          "verse": 17,
+          "text": "Apoi se întoarce de la  miazănoapte şi merge spre En-Şemeş şi înaintează către Ghelilot, care e în faţa înălţimii Adumium, şi se coboară spre piatra lui Bohan, fiul lui Ruben."
+        },
+        {
+          "verse": 18,
+          "text": "Apoi trece pe la miazănoapte de Harabah şi se coboară la hotarul Arabei;"
+        },
+        {
+          "verse": 19,
+          "text": "De acolo hotarul trece pe lângă Bet-Hogla, pe la miazănoapte, şi se sfârşeşte la, golful de miazănoapte al Mării Sărate, la capătul de miazăzi al Iordanului. Acesta e hotarul de miazăzi. Iar spre răsărit hotarul îl formează Iordanul."
+        },
+        {
+          "verse": 20,
+          "text": "Aceasta este partea fiilor lui Veniamin cu hotarele ei din toate părţile, după familiile lor."
+        },
+        {
+          "verse": 21,
+          "text": "Iar cetăţile fiilor lui Veniamin, după familiile lor, sunt acestea: Ierihonul, Bet-Hogla şi Emec-Cheţiţ;"
+        },
+        {
+          "verse": 22,
+          "text": "Bet-Harabah, Ţemaraim şi Betel;"
+        },
+        {
+          "verse": 23,
+          "text": "Avim, Para şi Ofra;"
+        },
+        {
+          "verse": 24,
+          "text": "Chefar-Amonai, Ofni şi Gheba: douăsprezece cetăţi cu satele lor;"
+        },
+        {
+          "verse": 25,
+          "text": "Ghibeon, Rama şi Beerot;"
+        },
+        {
+          "verse": 26,
+          "text": "Miţpa, Chefira şi Moţa;"
+        },
+        {
+          "verse": 27,
+          "text": "Rechem, Irpeel şi Tareala;"
+        },
+        {
+          "verse": 28,
+          "text": "Ţela, Elef şi Iebus sau Ierusalimul, Ghibeat şi Chiriat: paisprezece cetăţi cu satele lor. Aceasta este partea lui Veniamin, după familiile lor."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_19_01",
+      "chapter": 19,
+      "pericope_num": "01",
+      "title_en": "The Territory of Simeon",
+      "title_ro": "Teritoriul lui Simeon",
+      "start_verse": 1,
+      "end_verse": 19,
+      "verse_count": 19,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Al doilea sorţ a căzut lui Simeon, seminţiei fiilor lui Simeon, după familiile lor; partea lor de moştenire a fost între hotarele părţii fiilor lui Iuda."
+        },
+        {
+          "verse": 2,
+          "text": "În partea lor se aflau: Beerşeba, Şeba şi Molada;"
+        },
+        {
+          "verse": 3,
+          "text": "Haţar-Şual, Bala şi Aţem;"
+        },
+        {
+          "verse": 4,
+          "text": "Eltolad, Betul şi Horma;"
+        },
+        {
+          "verse": 5,
+          "text": "Ţiclag, Bet-Marcabot şi Haţar-Susa;"
+        },
+        {
+          "verse": 6,
+          "text": "Bet-Lebaot şi Şaruhen: treisprezece cetăţi cu satele lor."
+        },
+        {
+          "verse": 7,
+          "text": "Ain, Rimon, Eter şi Aşan: patru cetăţi cu satele lor."
+        },
+        {
+          "verse": 8,
+          "text": "Şi toate satele care se aflau împrejurul cetăţilor acestora chiar până la Baalat-Beer-Ramatul de miazăzi. Aceasta este partea de moştenire a fiilor lui Simeon, după familiile lor."
+        },
+        {
+          "verse": 9,
+          "text": "Din moşia lui Iuda a fost despărţită partea fiilor lui Simeon. Deoarece partea fiilor lui Iuda era prea mare pentru ei, fiii lui Simeon au primit parte între hotarele moşiei lor."
+        },
+        {
+          "verse": 10,
+          "text": "Al treilea sorţ a căzut fiilor lui Zabulon, după familiile lor. Hotarul moştenirii lor se întindea până la Sarid,"
+        },
+        {
+          "verse": 11,
+          "text": "Se ridica la apus până la Mareala şi atingea Dabeşetul şi pârâul ce curge prin faţa Iocneamului."
+        },
+        {
+          "verse": 12,
+          "text": "De la Sarid apuca îndărăt şi mergea în partea de răsărit, spre răsăritul soarelui până la hotarul ţinutului Chislot-Tabor şi de aici apuca spre Dabrat şi se urca către Iafia;"
+        },
+        {
+          "verse": 13,
+          "text": "Apoi trecea spre răsărit la Ghet-Hefer, la Ita-Caţin şi mergea spre Rimon, Metora şi Nea;"
+        },
+        {
+          "verse": 14,
+          "text": "După aceea hotarul se întorcea de la miazănoapte către Hanaton şi se termina în valea Iftah-El."
+        },
+        {
+          "verse": 15,
+          "text": "Mai departe: Catat, Nahalal, Şimron, Idala şi Betleem: douăsprezece cetăţi cu satele lor."
+        },
+        {
+          "verse": 16,
+          "text": "Aceasta e partea fiilor lui Zabulon, după familiile lor, şi acestea sunt cetăţile lor."
+        },
+        {
+          "verse": 17,
+          "text": "Al patrulea sorţ a căzut lui Isahar, fiilor lui Isahar, după familiile lor."
+        },
+        {
+          "verse": 18,
+          "text": "În hotarul lor se cuprindeau: Izreel, Chesulot şi Şunem;"
+        },
+        {
+          "verse": 19,
+          "text": "Hafaraim, Şion şi Anaharat;"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_19_02",
+      "chapter": 19,
+      "pericope_num": "02",
+      "title_en": "The Territory of Zebulun",
+      "title_ro": "Teritoriul lui Zabulon",
+      "start_verse": 10,
+      "end_verse": 16,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 10,
+          "text": "Al treilea sorţ a căzut fiilor lui Zabulon, după familiile lor. Hotarul moştenirii lor se întindea până la Sarid,"
+        },
+        {
+          "verse": 11,
+          "text": "Se ridica la apus până la Mareala şi atingea Dabeşetul şi pârâul ce curge prin faţa Iocneamului."
+        },
+        {
+          "verse": 12,
+          "text": "De la Sarid apuca îndărăt şi mergea în partea de răsărit, spre răsăritul soarelui până la hotarul ţinutului Chislot-Tabor şi de aici apuca spre Dabrat şi se urca către Iafia;"
+        },
+        {
+          "verse": 13,
+          "text": "Apoi trecea spre răsărit la Ghet-Hefer, la Ita-Caţin şi mergea spre Rimon, Metora şi Nea;"
+        },
+        {
+          "verse": 14,
+          "text": "După aceea hotarul se întorcea de la miazănoapte către Hanaton şi se termina în valea Iftah-El."
+        },
+        {
+          "verse": 15,
+          "text": "Mai departe: Catat, Nahalal, Şimron, Idala şi Betleem: douăsprezece cetăţi cu satele lor."
+        },
+        {
+          "verse": 16,
+          "text": "Aceasta e partea fiilor lui Zabulon, după familiile lor, şi acestea sunt cetăţile lor."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_19_03",
+      "chapter": 19,
+      "pericope_num": "03",
+      "title_en": "The Territory of Issachar",
+      "title_ro": "Teritoriul lui Isahar",
+      "start_verse": 17,
+      "end_verse": 23,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 17,
+          "text": "Al patrulea sorţ a căzut lui Isahar, fiilor lui Isahar, după familiile lor."
+        },
+        {
+          "verse": 18,
+          "text": "În hotarul lor se cuprindeau: Izreel, Chesulot şi Şunem;"
+        },
+        {
+          "verse": 19,
+          "text": "Hafaraim, Şion şi Anaharat;"
+        },
+        {
+          "verse": 20,
+          "text": "Harabit, Chişion şi Ebeţ;"
+        },
+        {
+          "verse": 21,
+          "text": "Remet, En-Ganim, En-Hada şi Bet-Paţeţ;"
+        },
+        {
+          "verse": 22,
+          "text": "Şi atingea Taborul, Şahaţima şi Bet-Şemeş şi hotarul lor se termina la Iordan: şaisprezece cetăţi cu satele lor."
+        },
+        {
+          "verse": 23,
+          "text": "Aceasta e partea fiilor lui Isahar, după familiile lor şi acestea sunt cetăţile lor."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_19_04",
+      "chapter": 19,
+      "pericope_num": "04",
+      "title_en": "The Territory of Asher",
+      "title_ro": "Teritoriul lui Așer",
+      "start_verse": 24,
+      "end_verse": 31,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 24,
+          "text": "Al cincilea sorţ a căzut seminţiei fiilor lui Aşer, după familiile lor."
+        },
+        {
+          "verse": 25,
+          "text": "Hotarul lor trecea prin Helcat, Hali, Beten şi Acşaf,"
+        },
+        {
+          "verse": 26,
+          "text": "Alamelec, Amead şi Mişeal şi hotarul lor atingea, spre apus Carmelul şi Şihor-Libnat."
+        },
+        {
+          "verse": 27,
+          "text": "După aceea, hotarul se întorcea spre răsăritul soarelui la Bet-Dagon şi atingea ţinutul Zabulon şi valea Iftah-El pe la miazănoapte şi  intra în hotarul Asatei la Bet-Emec şi Neiel şi mergea pe partea stângă a Cabulului."
+        },
+        {
+          "verse": 28,
+          "text": "Mai departe urmează Abdon, Rehob, Hamon şi Cana, până la Sidonul cel Mare."
+        },
+        {
+          "verse": 29,
+          "text": "După aceea, hotarul se întorcea spre Rama până la oraşul cel întărit al Tirului, apoi spre Hosa şi se sfârşeşte la mare, în târguşorul Aczib."
+        },
+        {
+          "verse": 30,
+          "text": "După aceea, urmează: Aco, Afec şi Rehob: douăzeci şi două de cetăţi şi satele lor."
+        },
+        {
+          "verse": 31,
+          "text": "Aceasta este partea seminţiei fiilor lui Aşer, după familiile lor, şi acestea sunt cetăţile şi satele lor."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_19_05",
+      "chapter": 19,
+      "pericope_num": "05",
+      "title_en": "The Territory of Naphtali",
+      "title_ro": "Teritoriul lui Neftali",
+      "start_verse": 32,
+      "end_verse": 39,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 32,
+          "text": "Al şaselea sorţ a căzut fiilor lui Neftali, seminţiei fiilor lui Neftali, după familiile lor."
+        },
+        {
+          "verse": 33,
+          "text": "Hotarul lor mergea de la Helef şi de la dumbrava cea din Ţaananim către Adami-Necheb şi Iabneel, până la Lacum şi se sfârşea la Iordan."
+        },
+        {
+          "verse": 34,
+          "text": "De aici se întorcea hotarul spre apus, către Asnot-Tabor şi de acolo mergea spre Hucoc şi atingea ţinutul  Zabulonului în partea de miazăzi şi ţinutul Aşer în partea de apus şi ţinutul lui Iuda la Iordan, spre răsăritul soarelui."
+        },
+        {
+          "verse": 35,
+          "text": "Cetăţi întărite erau: Ţidim, Ţer, Hamat, Racat şi Chineret,"
+        },
+        {
+          "verse": 36,
+          "text": "Adama, Rama şi Haţor;"
+        },
+        {
+          "verse": 37,
+          "text": "Chedeş, Edrea şi En-Haţor;"
+        },
+        {
+          "verse": 38,
+          "text": "Ireon, Migdal-El, Horem, Bet-Anat şi Bet-Şemeş: nouăsprezece cetăţi cu satele lor."
+        },
+        {
+          "verse": 39,
+          "text": "Aceasta \"este partea seminţiei fiilor lui Neftali, după familiile lor, şi acestea sunt cetăţile şi satele lor."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_19_06",
+      "chapter": 19,
+      "pericope_num": "06",
+      "title_en": "The Territory of Dan",
+      "title_ro": "Teritoriul lui Dan",
+      "start_verse": 40,
+      "end_verse": 48,
+      "verse_count": 9,
+      "verses": [
+        {
+          "verse": 40,
+          "text": "Seminţiei fiilor lui Dan, după familiile lor, i-a căzut al şaptelea sorţ."
+        },
+        {
+          "verse": 41,
+          "text": "În hotarul moştenirii lor se cuprindeau: Ţora, Eştaol şi Ir-Şemeş;"
+        },
+        {
+          "verse": 42,
+          "text": "Şaalabin, Aialon şi Itla;"
+        },
+        {
+          "verse": 43,
+          "text": "Elon, Timnata şi Ecron;"
+        },
+        {
+          "verse": 44,
+          "text": "Elteche, Ghibeton şi Baalat;"
+        },
+        {
+          "verse": 45,
+          "text": "Iehud, Bene-Berac şi Gat-Rimon;"
+        },
+        {
+          "verse": 46,
+          "text": "Me-Iarcon şi Haracon cu hotarele aproape de Iopi. S-a văzut însă că partea moştenirii fiilor lui Dan e mică pentru ei."
+        },
+        {
+          "verse": 47,
+          "text": "Atunci s-au dus fiii lui Dan cu război asupra Leşemului şi l-au împresurat, l-au lovit cu sabia şi l-au luat moştenire şi s-au aşezat pe el şi l-au numit Leşemul lui Dan, după numele lui Dan, tatăl lor."
+        },
+        {
+          "verse": 48,
+          "text": "Aceasta este partea seminţiei fiilor lui Dan, după familiile lor şi acestea sunt cetăţile şi satele lor."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_19_07",
+      "chapter": 19,
+      "pericope_num": "07",
+      "title_en": "Joshua's Inheritance",
+      "title_ro": "Moștenirea lui Iosua",
+      "start_verse": 49,
+      "end_verse": 51,
+      "verse_count": 3,
+      "verses": [
+        {
+          "verse": 49,
+          "text": "După ce au isprăvit împărţirea ţării, prin sorţi, fiii lui Israel au dat între ei parte de moştenire lui Iosua, fiul lui Navi."
+        },
+        {
+          "verse": 50,
+          "text": "După porunca Domnului, i-au dat lui cetatea Timnat-Serah, pe care a cerut-o el, în muntele lui Efraim. Şi a zidit cetate şi a locuit în ea."
+        },
+        {
+          "verse": 51,
+          "text": "Acestea sunt moşiile pe care Eleazar preotul, Iosua, fiul tui Navi, şi căpeteniile familiilor le-au împărţit fiilor lui Israel, prin sorti, în Şilo, înaintea feţei Domnului, la intrarea cortului adunării. Şi aşa s-a isprăvit împărţirea ţării."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_20_01",
+      "chapter": 20,
+      "pericope_num": "01",
+      "title_en": "The Cities of Refuge",
+      "title_ro": "Cetățile de scăpare",
+      "start_verse": 1,
+      "end_verse": 20,
+      "verse_count": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi a zis Domnul către Iosua:"
+        },
+        {
+          "verse": 2,
+          "text": "\"Spune fiilor lui Israel: Faceţi-vă oraşe de scăpare cum v-am zis Eu prin Moise,"
+        },
+        {
+          "verse": 3,
+          "text": "Ca să poată scăpa acolo ucigaşul care a ucis om din greşeală, fără precugetare; şi să fie oraşele acestea loc de scăpare pentru cel ce a ucis, ca să nu moară de mâna celui ce răzbună sângele vărsat, înainte de a se înfăţişa înaintea obştii la judecată."
+        },
+        {
+          "verse": 4,
+          "text": "Şi cine va fugi în una din cetăţile acestea să stea la poarta cetăţii şi să spună pricina sa în auzul bătrânilor cetăţii şi ei îl vor primi în cetate şi-i vor da loc, ca să trăiască la ei."
+        },
+        {
+          "verse": 5,
+          "text": "Şi când va alerga după el cel ce răzbună sângele, atunci ei nu trebuie să-l dea pe ucigaş în mâinile lui, pentru că el a ucis fără să vrea pe aproapele său, neavând pe dânsul ură cu o zi sau cu două mai înainte."
+        },
+        {
+          "verse": 6,
+          "text": "Să trăiască el în cetatea aceasta până ce se va înfăţişa înaintea obştii la judecată, până va muri arhiereul care va fi în acele zile. Apoi să se întoarcă ucigaşul şi să sa ducă în cetatea sa şi la casa sa, în cetatea de unde a fugit\"."
+        },
+        {
+          "verse": 7,
+          "text": "Şi au rânduit Chedeşul în Galileea, în muntele Neftalimului; Sichemul în muntele Efraim şi Chiriat-Arba sau Hebronul, în muntele lui Iuda."
+        },
+        {
+          "verse": 8,
+          "text": "Peste Iordan, în faţa lerihonului, spre răsărit, au rânduit: Beţerul în pustiu, la şes, în seminţia lui Ruben; Ramot în Galaad, în seminţia lui Gad; şi Golan în Vasan, în seminţia lui Manase."
+        },
+        {
+          "verse": 9,
+          "text": "Aceste cetăţi le-au rânduit pentru toţi fiii lui Israel şi pentru străinii care trăiesc printre ei, ca să fugă acolo cel ce va ucide om din greşeală, ca să nu moară de mâna celui ce răzbună sângele vărsat, până nu se va înfăţişa înaintea obştii la judecată."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_21_01",
+      "chapter": 21,
+      "pericope_num": "01",
+      "title_en": "Cities Allotted to the Levites",
+      "title_ro": "Cetăți date leviților",
+      "start_verse": 1,
+      "end_verse": 45,
+      "verse_count": 45,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Căpeteniile familiilor Leviţilor au venit la Eleazar preotul şi către Iosua, fiul lui Navi, şi la căpeteniile seminţiilor fiilor lui Israel,"
+        },
+        {
+          "verse": 2,
+          "text": "Şi au vorbit cu ei în Şilo, în pământul Canaanului şi au zis: \"Domnul a poruncit prin Moise să ni se dea cetăţi pentru locuit şi împrejurimile lor pentru vitele noastre\"."
+        },
+        {
+          "verse": 3,
+          "text": "Şi au dat fiii lui Israel Leviţilor din părţile lor, după porunca Domnului, următoarele cetăţi cu împrejurimile lor:"
+        },
+        {
+          "verse": 4,
+          "text": "Şi s-au tras sorţi pentru familia lui Cahat şi Leviţii, fiii lui Aaron preotul, au primit prin sorţi treisprezece cetăţi din seminţia lui Iuda şi din seminţia lui Simeon şi din seminţia lui Veniamin."
+        },
+        {
+          "verse": 5,
+          "text": "Iar celorlalţi fii ai lui Cahat le-au căzut la sorţi zece cetăţi din familiile seminţiei lui Efraim şi din seminţia lui Dan şi de la jumătate din seminţia lui Manase."
+        },
+        {
+          "verse": 6,
+          "text": "Fiilor lui Gherşon li s-au cuvenit prin sorţi treisprezece cetăţi de la familiile seminţiei lui Isahar şi de la seminţia lui Aşer şi de la seminţia lui Neftali şi de la jumătate din seminţia lui Manase, în Vasan."
+        },
+        {
+          "verse": 7,
+          "text": "Iar fiilor lui Merari, după familiile lor, le-au căzut la sorţi douăsprezece cetăţi din seminţia lui Ruben şi din seminţia lui Gad şi din seminţia lui Zabulon."
+        },
+        {
+          "verse": 8,
+          "text": "Şi au dat fiii lui Israel cetăţile acestea cu împrejurimile lor prin sorţi, cum poruncise Domnul prin Moise."
+        },
+        {
+          "verse": 9,
+          "text": "Din seminţia fiilor lui Iuda şi din seminţia fiilor lui Veniamin şi din seminţia fiilor lui Simeon au dat cetăţile următoare, care se numesc pe nume:"
+        },
+        {
+          "verse": 10,
+          "text": "Fiilor lui Aaron din familia lui Cahat dintre fiii lui Levi, fiindcă sorţul lor a fost întâiul,"
+        },
+        {
+          "verse": 11,
+          "text": "Li s-a dat: Chiriat-Arba, a tatălui lui Enac, sau Hebronul, în munţii lui Iuda şi locurile dimprejurul ei;"
+        },
+        {
+          "verse": 12,
+          "text": "Iar ţarina cetăţii acesteia şi satele ei s-au dat ca moşie lui Caleb, fiul lui Iefone."
+        },
+        {
+          "verse": 13,
+          "text": "Şi astfel fiilor lui Aaron preotul li s-a dat cetatea cea de scăpare a ucigaşilor, Hebronul, şi împrejurimile ei, Libna şi împrejurimile ei."
+        },
+        {
+          "verse": 14,
+          "text": "Iatirul şi împrejurimile lui, Eştemoa şi împrejurimile ei;"
+        },
+        {
+          "verse": 15,
+          "text": "Holonul şi împrejurimile lui, Debirul şi împrejurimile;"
+        },
+        {
+          "verse": 16,
+          "text": "Ainul şi împrejurimile lui, Iuta şi împrejurimile ei, Bet-Semeşul şi împrejurimile lui: nouă cetăţi din aceste două seminţii."
+        },
+        {
+          "verse": 17,
+          "text": "Iar din seminţia lui Veniamin: Ghibeonul şi împrejurimile lui, Gheba cu împrejurimile ei,"
+        },
+        {
+          "verse": 18,
+          "text": "Anatotul cu împrejurimile lui, Almonul cu împrejurimile lui: patru cetăţi."
+        },
+        {
+          "verse": 19,
+          "text": "Cetăţile care au căzut la sorţi pentru preoţi, fiii lui Aaron, au fost toate treisprezece cu împrejurimile lor."
+        },
+        {
+          "verse": 20,
+          "text": "Iar celorlalţi din familiile fiilor lui Cahat, Leviţilor, le-a căzut la sorţi cetăţi în pământul lui Efraim."
+        },
+        {
+          "verse": 21,
+          "text": "Şi li s-a dat cetatea de scăpare pentru ucigaşi, Sichemul cu împrejurimile lui în muntele lui Efraim, Ghezerul cu împrejurimile lui,"
+        },
+        {
+          "verse": 22,
+          "text": "Chibţaimul cu împrejurimile lui, Bet-Horonul cu împrejurimile lui: patru cetăţi."
+        },
+        {
+          "verse": 23,
+          "text": "Din seminţia lui Dan le-au căzut: Elteche şi împrejurimile lui, Ghibetonul şi împrejurimile lui;"
+        },
+        {
+          "verse": 24,
+          "text": "Aialonul şi împrejurimile lui, Gat-Rimonul şi împrejurimile lui: patru cetăţi."
+        },
+        {
+          "verse": 25,
+          "text": "Din jumătatea seminţiei lui Manase: Taanacul şi împrejurimile lui, Gat-Rimonul şi împrejurimile lui: două cetăţi."
+        },
+        {
+          "verse": 26,
+          "text": "Toate cetăţile cu împrejurimile lor căzute la sorţi celorlalţi fii ai lui Cahat au fost zece."
+        },
+        {
+          "verse": 27,
+          "text": "Iar fiilor lui Gherşon din familiile Leviţilor li s-au dat: două cetăţi în Vasan, din jumătatea seminţiei lui Manase, şi anume: Golanul, cetatea de scăpare pentru ucigaşi, cu împrejurimile lui, şi Beştra cu împrejurimile ei;"
+        },
+        {
+          "verse": 28,
+          "text": "Patru cetăţi în seminţia lui Isahar: Chişionul cu împrejurimile lui, Dabrat cu împrejurimile lui,"
+        },
+        {
+          "verse": 29,
+          "text": "Iarmutul cu împrejurimile lui şi En-Ganimul cu împrejurimile lui;"
+        },
+        {
+          "verse": 30,
+          "text": "Patru cetăţi în seminţia lui Aşer: Mişalul cu împrejurimile lui, Abdonul cu împrejurimile lui,"
+        },
+        {
+          "verse": 31,
+          "text": "Helcatul cu împrejurimile lui şi Rehobul cu împrejurimile lui;"
+        },
+        {
+          "verse": 32,
+          "text": "Trei cetăţi din seminţia lui Neftali: Chedeşul Galileii, cetate pentru scăparea ucigaşilor, cu împrejurimile ei, Hamot-Dorul cu împrejurimile lui şi Cartanul cu împrejurimile lui."
+        },
+        {
+          "verse": 33,
+          "text": "Toate cetăţile căzute la sorţi fiilor lui Gherşon, după familiile lor, au fost treisprezece cetăţi cu împrejurimile lor."
+        },
+        {
+          "verse": 34,
+          "text": "Celorlalţi leviţi din fiii lui Merari li s-au dat patru cetăţi din seminţia lui Zabulon: Iocneamul cu împrejurimile lui,"
+        },
+        {
+          "verse": 35,
+          "text": "Carta cu împrejurimile ei, Dimna cu împrejurimile ei şi Nahalalul cu împrejurimile lui;"
+        },
+        {
+          "verse": 36,
+          "text": "Patru cetăţi de cealaltă parte de Iordan, în faţa Ierihonului, în seminţia lui Ruben: Beţerul, cetate de scăpare pentru ucigaşi, cu împrejurimile lui, în pustiul Miso, Iahţa şi împrejurimile ei,"
+        },
+        {
+          "verse": 37,
+          "text": "Chedemotul şi împrejurimile lui şi Mefaatul cu împrejurimile lui."
+        },
+        {
+          "verse": 38,
+          "text": "În seminţia lui Gad li s-au dat cetăţile de scăpare pentru ucigaşi: Ramot-Galaadul cu împrejurimile lui, Mahanaimul cu împrejurimile lui,"
+        },
+        {
+          "verse": 39,
+          "text": "Heşbonul cu împrejurimile lui şi Iazerul cu împrejurimile lui."
+        },
+        {
+          "verse": 40,
+          "text": "Cetăţile ieşite la sorţi pentru familiile de Leviţi din neamul lui Merari, după familiile lor, au fost douăsprezece."
+        },
+        {
+          "verse": 41,
+          "text": "Iar toate cetăţile date Leviţilor între fiii lui Israel au fost patruzeci şi opt de cetăţi cu împrejurimile lor. Fiecare din aceste cetăţi îşi avea împrejurimile ei de jur împrejur; aşa erau toate cetăţile acestea."
+        },
+        {
+          "verse": 42,
+          "text": "După ce a sfârşit Iosua împărţirea ţării prin sorţi, fiii lui Israel au dat parte lui Iosua după porunca Domnului; şi i-au dat cetatea pe care a cerut-o el: Timnat-Serah, în muntele Efraim, şi a zidit Iosua cetatea pe care a cerut-o şi a locuit în ea. Şi a luat Iosua cuţitele cele de piatră, cele cu care tăiase împrejur pe fiii lui Israel, care se născuseră pe cale în pustiu, căci în pustiu nu fuseseră tăiaţi împrejur, şi le-a pus în Timnat-Serah."
+        },
+        {
+          "verse": 43,
+          "text": "Astfel a dat Domnul lui Israel toată ţara, pe care jurase să o dea părinţilor lor şi au primit-o ei moştenire şi s-au aşezat în ea."
+        },
+        {
+          "verse": 44,
+          "text": "Şi le-a dat Domnul linişte şi odihnă din toate părţile, cum jurase părinţilor lor, şi nimeni dintre toţi vrăjmaşii lor n-a putut sta împotriva lor, ci pe toţi vrăjmaşii lor i-a dat Domnul în mâinile lor."
+        },
+        {
+          "verse": 45,
+          "text": "Şi n-a rămas neîmplinit nici un cuvânt din toate cuvintele cele bune pe care le vorbise Domnul casei lui Israel: toate s-au împlinit."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_22_01",
+      "chapter": 22,
+      "pericope_num": "01",
+      "title_en": "The Eastern Tribes Return to Their Territory",
+      "title_ro": "Semințiile de la răsărit se întorc la teritoriul lor",
+      "start_verse": 1,
+      "end_verse": 22,
+      "verse_count": 22,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Atunci Iosua a chemat seminţia lui Ruben, a lui Gad şi jumătate din a lui Manase şi le-a zis:"
+        },
+        {
+          "verse": 2,
+          "text": "\"Voi aţi împlinit toate câte v-a poruncit Domnul prin Moise şi aţi ascultat cuvintele mele întru toate câte v-am poruncit;"
+        },
+        {
+          "verse": 3,
+          "text": "N-aţi lăsat pe fraţii voştri în toată această îndelungată vreme, până în ziua aceasta şi aţi împlinit cele ce se cuvenea a împlini după porunca Domnului Dumnezeului vostru."
+        },
+        {
+          "verse": 4,
+          "text": "Acum Domnul Dumnezeul vostru a liniştit pe fraţii voştri, cum le spusese. Întoarceţi-vă dar şi duceţi-vă la corturile voastre, în pământul moştenirii voastre, pe care vi l-a dat Moise, sluga Domnului, peste Iordan."
+        },
+        {
+          "verse": 5,
+          "text": "Dar să vă siliţi a împlini cu grijă poruncile şi legea pe care v-a dat-o Moise, sluga Domnului: de a iubi pe Domnul Dumnezeul vostru, de a umbla în toate căile Lui, de a păzi poruncile Lui, de a vă lipi de El şi de a-i sluji Lui din toată inima voastră şi din tot sufletul vostru\"."
+        },
+        {
+          "verse": 6,
+          "text": "După aceea Iosua i-a binecuvântat şi le-a dat drumul şi ei s-au împărţit pe la corturile lor."
+        },
+        {
+          "verse": 7,
+          "text": "Unei jumătăţi din seminţia lui Manase i-a dat Moise parte în Vasan, iar celeilalte jumătăţi i-a dat Iosua parte cu fraţii lui dincoace de Iordan, spre apus. Şi când le-a dat drumul Iosua pe la corturile lor şi i-a binecuvântat,"
+        },
+        {
+          "verse": 8,
+          "text": "Atunci le-a spus: \"Cu mari bogăţii vă întoarceţi voi pe la corturile voastre, cu mare mulţime de vite şi de argint, cu aur, cu aramă şi cu fier şi cu mare mulţime de haine: să împărţiţi dar prada cu fraţii voştri\"."
+        },
+        {
+          "verse": 9,
+          "text": "Şi s-au întors fiii lui Ruben şi ai lui Gad şi jumătate din seminţia lui Manase şi au plecat de la fiii lui Israel din Şilo, care e în pământul Canaanului, ca să meargă în ţara Galaadului, în pământul moştenirii lor, pe care îl luaseră în stăpânire după porunca Domnului dată prin Moise."
+        },
+        {
+          "verse": 10,
+          "text": "Şi ajungând în preajma Iordanului ce e în rara Canaan, fiii lui Ruben şi fiii lui Gad şi jumătate din seminţia lui Manase au zidit acolo lângă Iordan jertfelnic, jertfelnic mare la vedere."
+        },
+        {
+          "verse": 11,
+          "text": "Şi au auzit fiii lui Israel că se zicea: \"Iată fiii lui Ruben şi fiii lui Gad şi jumătate din seminţia lui Manase au zidit jertfelnic pe pământul Canaanului, în preajma Iordanului, în faţa fiilor lui Israel\"."
+        },
+        {
+          "verse": 12,
+          "text": "Când au auzit acestea fiii lui Israel, s-a adunat toată obştea fiilor lui Israel la Şilo, ca să meargă împotriva lor cu război."
+        },
+        {
+          "verse": 13,
+          "text": "Dar fiii lui Israel au trimis mai întâi la fiii lui Ruben, la fiii lui Gad şi la jumătate din seminţia lui Manase, în ţara Galaadului, pe Finees, fiul preotului Eleazar,"
+        },
+        {
+          "verse": 14,
+          "text": "Împreună cu zece căpetenii, câte o căpetenie de fiecare seminţie a lui Israel de dincoace de Iordan; fiecare din aceştia era căpetenie de mie din seminţiile lui Israel."
+        },
+        {
+          "verse": 15,
+          "text": "Şi au venit ei la fiii lui Ruben şi la fiii lui Gad şi la jumătatea seminţiei lui Manase în pământul Galaadului şi au vorbit cu ei şi le-a zis:"
+        },
+        {
+          "verse": 16,
+          "text": "\"Aşa grăieşte toată obştea Domnului: Ce înseamnă nelegiuirea aceasta pe care aţi făcut-o înaintea Domnului Dumnezeului lui Israel, abătându-vă acum de la Domnul Dumnezeul lui Israel, ridicându-vă jertfelnic şi sculându-vă acum împotriva Domnului?"
+        },
+        {
+          "verse": 17,
+          "text": "Nu vă ajunge oare păcatul din Peor, de care nu ne-am spălat nici până în ziua de astăzi şi pentru care a fost bătută obştea de Domnul?"
+        },
+        {
+          "verse": 18,
+          "text": "Şi iată astăzi voi vă abateţi de la Domnul! Astăzi voi vă sculaţi împotriva Domnului, iar mâine se va mânia Domnul pe toată obştea lui Israel."
+        },
+        {
+          "verse": 19,
+          "text": "Dacă însă pământul moştenirii voastre vi se pare necurat, atunci treceţi în pământul moştenirii Domnului, unde se află cortul Domnului, luaţi-vă parte între noi, dar nu vă ridicaţi împotriva Domnului, nici împotriva noastră nu vă ridicaţi, zidindu-vă jertfelnic afară de cel al Domnului Dumnezeului nostru."
+        },
+        {
+          "verse": 20,
+          "text": "Oare n-a făcut singur Acan, fiul lui Zerah, nelegiuire, luând din cele date nimicirii, dar mânia a venit asupra a toată obştea fiilor lui Israel? Şi oare numai el singur a murit pentru nelegiuire?\""
+        },
+        {
+          "verse": 21,
+          "text": "Atunci fiii lui Ruben şi fiii lui Gad şi jumătate din seminţia lui Manase, răspunzând la acestea, au zis căpeteniilor lui Israel:"
+        },
+        {
+          "verse": 22,
+          "text": "\"Dumnezeul dumnezeilor este Domnul şi Domnul Dumnezeul dumnezeilor ştie şi să ştie şi Israel: de ne răzvrătim şi ne abatem noi de la Domnul, atunci să nu ne cruţe pe noi Domnul astăzi!"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_22_02",
+      "chapter": 22,
+      "pericope_num": "02",
+      "title_en": "A Memorial Altar East of the Jordan",
+      "title_ro": "Un altar de aducere aminte la răsărit de Iordan",
+      "start_verse": 10,
+      "end_verse": 34,
+      "verse_count": 24,
+      "verses": [
+        {
+          "verse": 10,
+          "text": "Şi ajungând în preajma Iordanului ce e în rara Canaan, fiii lui Ruben şi fiii lui Gad şi jumătate din seminţia lui Manase au zidit acolo lângă Iordan jertfelnic, jertfelnic mare la vedere."
+        },
+        {
+          "verse": 11,
+          "text": "Şi au auzit fiii lui Israel că se zicea: \"Iată fiii lui Ruben şi fiii lui Gad şi jumătate din seminţia lui Manase au zidit jertfelnic pe pământul Canaanului, în preajma Iordanului, în faţa fiilor lui Israel\"."
+        },
+        {
+          "verse": 12,
+          "text": "Când au auzit acestea fiii lui Israel, s-a adunat toată obştea fiilor lui Israel la Şilo, ca să meargă împotriva lor cu război."
+        },
+        {
+          "verse": 13,
+          "text": "Dar fiii lui Israel au trimis mai întâi la fiii lui Ruben, la fiii lui Gad şi la jumătate din seminţia lui Manase, în ţara Galaadului, pe Finees, fiul preotului Eleazar,"
+        },
+        {
+          "verse": 14,
+          "text": "Împreună cu zece căpetenii, câte o căpetenie de fiecare seminţie a lui Israel de dincoace de Iordan; fiecare din aceştia era căpetenie de mie din seminţiile lui Israel."
+        },
+        {
+          "verse": 15,
+          "text": "Şi au venit ei la fiii lui Ruben şi la fiii lui Gad şi la jumătatea seminţiei lui Manase în pământul Galaadului şi au vorbit cu ei şi le-a zis:"
+        },
+        {
+          "verse": 16,
+          "text": "\"Aşa grăieşte toată obştea Domnului: Ce înseamnă nelegiuirea aceasta pe care aţi făcut-o înaintea Domnului Dumnezeului lui Israel, abătându-vă acum de la Domnul Dumnezeul lui Israel, ridicându-vă jertfelnic şi sculându-vă acum împotriva Domnului?"
+        },
+        {
+          "verse": 17,
+          "text": "Nu vă ajunge oare păcatul din Peor, de care nu ne-am spălat nici până în ziua de astăzi şi pentru care a fost bătută obştea de Domnul?"
+        },
+        {
+          "verse": 18,
+          "text": "Şi iată astăzi voi vă abateţi de la Domnul! Astăzi voi vă sculaţi împotriva Domnului, iar mâine se va mânia Domnul pe toată obştea lui Israel."
+        },
+        {
+          "verse": 19,
+          "text": "Dacă însă pământul moştenirii voastre vi se pare necurat, atunci treceţi în pământul moştenirii Domnului, unde se află cortul Domnului, luaţi-vă parte între noi, dar nu vă ridicaţi împotriva Domnului, nici împotriva noastră nu vă ridicaţi, zidindu-vă jertfelnic afară de cel al Domnului Dumnezeului nostru."
+        },
+        {
+          "verse": 20,
+          "text": "Oare n-a făcut singur Acan, fiul lui Zerah, nelegiuire, luând din cele date nimicirii, dar mânia a venit asupra a toată obştea fiilor lui Israel? Şi oare numai el singur a murit pentru nelegiuire?\""
+        },
+        {
+          "verse": 21,
+          "text": "Atunci fiii lui Ruben şi fiii lui Gad şi jumătate din seminţia lui Manase, răspunzând la acestea, au zis căpeteniilor lui Israel:"
+        },
+        {
+          "verse": 22,
+          "text": "\"Dumnezeul dumnezeilor este Domnul şi Domnul Dumnezeul dumnezeilor ştie şi să ştie şi Israel: de ne răzvrătim şi ne abatem noi de la Domnul, atunci să nu ne cruţe pe noi Domnul astăzi!"
+        },
+        {
+          "verse": 23,
+          "text": "Şi dacă am ridicat noi un jertfelnic, ca să ne abatem de la Domnul Dumnezeul nostru şi ca să aducem pe el arderi de tot şi prinos de pâine şi ca să săvârşim pe el jertfe de împăcare, atunci Domnul să ne ceară socoteală de aceasta!"
+        },
+        {
+          "verse": 24,
+          "text": "Dar noi am făcut aceasta de teamă ca nu cumva în viitor fiii voştri să zică fiilor noştri: \"Ce aveţi voi cu Domnul Dumnezeul lui Israel?"
+        },
+        {
+          "verse": 25,
+          "text": "Domnul a pus hotar între noi şi voi, fiii lui Ruben şi fiii lui Gad şi jumătatea seminţiei lui Manase, Iordanul; voi n-aveţi deci nici o legătură cu Domnul\". Şi astfel fiii voştri nu vor îngădui fiilor noştri să se închine Domnului în Şilo."
+        },
+        {
+          "verse": 26,
+          "text": "De aceea am zis noi: Să ne facem un jertfelnic, nu pentru arderi de tot nici pentru jertfe,"
+        },
+        {
+          "verse": 27,
+          "text": "Ci ca să fie el între noi şi voi, între urmaşii noştri, mărturie că noi putem sluji Domnului cu arderile de tot ale noastre şi cu jertfele noastre şi cu cele de împăcare ale noastre, şi pentru ca în vremurile viitoare să nu zică fiii voştri către fiii noştri: Voi nu aveţi nici o legătură cu Domnul."
+        },
+        {
+          "verse": 28,
+          "text": "Şi ziceam noi: Dacă ni se va zice astfel nouă şi urmaşilor noştri, atunci vom răspunde: Priviţi chipul jertfelnicului Domnului pe care l-au făcut părinţii noştri nu pentru arderi de tot şi nu pentru jertfe, ci ca să fie mărturie între noi şi voi şi între fiii noştri şi fiii voştri."
+        },
+        {
+          "verse": 29,
+          "text": "Să nu se întâmple una ca aceea ca să ne ridicăm noi împotriva Domnului şi să ne abatem acum de la Domnul şi să facem jertfelnic pentru arderi de tot şi pentru prinos de pâine şi pentru jertfe, afară de jertfelnicul Domnului Dumnezeu care se află înaintea cortului\"."
+        },
+        {
+          "verse": 31,
+          "text": "Şi a zis Finees, fiul preotului Eleazar, către fiii lui Ruben şi către fiii lui Gad şi către jumătatea de seminţie a lui Manase: \"Astăzi am aflat noi că Domnul este în mijlocul nostru şi că voi n-aţi făcut prin aceasta o nelegiuire; acum aţi izbăvit pe fiii lui Israel din mâna Domnului\"."
+        },
+        {
+          "verse": 32,
+          "text": "Şi s-a întors Finees, fiul preotului Eleazar, şi căpeteniile de la fiii lui Ruben şi de la fiii lui Gad şi de la jumătatea de seminţie a lui Manase din pământul Galaadului în ţara Canaan la fiii lui Israel şi le-a adus răspunsul."
+        },
+        {
+          "verse": 33,
+          "text": "Şi le-a plăcut aceasta fiilor lui Israel şi au binecuvântat fiii lui Israel pe Dumnezeu şi au zis să nu se mai ridice împotriva lor cu război, ca să pustiiască ţara în care locuiau fiii lui Ruben şi fiii lui Gad şi jumătate din seminţia lui Manase."
+        },
+        {
+          "verse": 34,
+          "text": "Iar fiii lui Ruben şi fiii lui Gad şi jumătate din seminţia lui Manase au numit jertfelnicul Ed, adică mărturie, căci îşi ziceau: Acesta este mărturie între noi că Domnul este Dumnezeul nostru."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_23_01",
+      "chapter": 23,
+      "pericope_num": "01",
+      "title_en": "Joshua Exhorts the People",
+      "title_ro": "Iosua îndeamnă poporul",
+      "start_verse": 1,
+      "end_verse": 23,
+      "verse_count": 16,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Trecând multă vreme, după ce Domnul Dumnezeu a odihnit pe Israel, scutindu-l de toţi vrăjmaşii lui din toate părţile, Iosua a ajuns bătrân şi înaintat în vârstă."
+        },
+        {
+          "verse": 2,
+          "text": "Atunci a chemat Iosua pe toţi fiii lui Israel; pe bătrânii lor, căpeteniile lor, pe judecătorii lor şi pe mai-marii oştilor lor şi le-a zis: \"Eu am îmbătrânit şi sunt înaintat în vârstă;"
+        },
+        {
+          "verse": 3,
+          "text": "Voi aţi văzut ce a făcut Domnul Dumnezeul vostru înaintea feţei voastre cu toate aceste popoare, căci Domnul Dumnezeul vostru Însuşi S-a luptat pentru voi."
+        },
+        {
+          "verse": 4,
+          "text": "Iată eu v-am împărţit prin sorţi popoarele acestea ce au mai rămas în moştenirea seminţiilor voastre, toate popoarele pe care eu le-am nimicit de la Iordan până la Marea cea Mare de la apusul soarelui."
+        },
+        {
+          "verse": 5,
+          "text": "Domnul Dumnezeul vostru Însuşi le va alunga de la faţa voastră până vor pieri; şi va trimite asupra lor fiare sălbatice până le va stârpi pe ele şi pe regii lor de la faţa voastră, şi le va nimici înaintea voastră, ca să primiţi de moştenire ţara lor, cum v-a grăit Domnul Dumnezeu."
+        },
+        {
+          "verse": 6,
+          "text": "De aceea siliţi-vă să pliniţi întocmai şi să păziţi cele scrise în cartea legii lui Moise, neabătându-vă de la ea nici la dreapta, nici la stânga."
+        },
+        {
+          "verse": 7,
+          "text": "Să nu intraţi în legătură cu aceste popoare care au mai rămas printre voi, să nu pomeniţi numele dumnezeilor lor, să nu vă plecaţi înaintea lor, nici să le slujiţi, sau să vă închinaţi lor;"
+        },
+        {
+          "verse": 8,
+          "text": "Ci vă lipiţi de Domnul Dumnezeul vostru, cum aţi făcut până în ziua de astăzi."
+        },
+        {
+          "verse": 9,
+          "text": "Domnul a alungat de la voi popoarele mari şi tari şi nimeni nu s-a putut împotrivi până astăzi;"
+        },
+        {
+          "verse": 10,
+          "text": "Unul din voi a alungat mii, căci Însuşi Domnul Dumnezeul vostru S-a luptat pentru voi, cum v-a grăit."
+        },
+        {
+          "verse": 11,
+          "text": "De aceea siliţi-vă să iubiţi pe Domnul Dumnezeul vostru."
+        },
+        {
+          "verse": 12,
+          "text": "Iar de vă veţi întoarce şi vă veţi alătura la popoarele acestea rămase şi veţi intra în înrudire cu ele şi veţi merge la ele şi ele vor veni la voi,"
+        },
+        {
+          "verse": 13,
+          "text": "Atunci să ştiţi că Domnul Dumnezeul vostru nu va mai alunga de la voi popoarele acestea, ci ele vor fi pentru voi laţ şi mreajă, bici pentru spinările voastre şi spin pentru ochii voştri, până veţi fi stârpiţi din această tară bună pe care v-a dat-o Domnul Dumnezeul vostru."
+        },
+        {
+          "verse": 14,
+          "text": "Iată eu astăzi plec în calea în care merg toţi pământenii, iar voi să recunoaşteţi cu toată inima voastră şi cu tot sufletul vostru că n-a rămas zadarnic nici un cuvânt din toate cuvintele bune pe care le-a rostit pentru voi Domnul Dumnezeul vostru: toate s-au împlinit pentru voi şi nici un cuvânt n-a rămas neîmplinit."
+        },
+        {
+          "verse": 15,
+          "text": "Dar după cum s-a împlinit cu voi tot cuvântul bun pe care l-a grăit Domnul Dumnezeul vostru, tot aşa va împlini Domnul asupra voastră şi tot cuvântul rău până vă va stârpi din această ţară bogată pe care v-a dat-o Domnul Dumnezeul vostru."
+        },
+        {
+          "verse": 16,
+          "text": "De veţi călca aşezământul Domnului Dumnezeului vostru, pe care l-a încheiat El cu voi şi vă veţi duce să slujiţi la alţi dumnezei şi să vă închinaţi lor, se va aprinde asupra voastră mânia Domnului şi veţi pieri curând din ţara aceasta bogată pe care v-a dat-o Domnul\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_24_01",
+      "chapter": 24,
+      "pericope_num": "01",
+      "title_en": "The Tribes Renew the Covenant",
+      "title_ro": "Semințiile înnoiesc legământul",
+      "start_verse": 1,
+      "end_verse": 28,
+      "verse_count": 28,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Apoi a adunat Iosua toate seminţiile lui Israel la Sichem şi a chemat pe bătrânii lui Israel, pe căpeteniile lui, pe judecătorii lui şi pe mai-marii oştirii lui; şi s-au înfăţişat ei înaintea Domnului."
+        },
+        {
+          "verse": 2,
+          "text": "Şi a zis Iosua către tot poporul: \"Aşa zice Domnul Dumnezeul lui Israel: În vechime părinţii voştri, Terah, tatăl lui Avraam şi tatăl lui Nahor, au trăit dincolo de râu (Eufrat) şi slujeau la alţi dumnezei."
+        },
+        {
+          "verse": 3,
+          "text": "Dar Eu am luat pe părintele vostru Avraam de mână, de dincolo de Eufrat, şi l-am povăţuit către această ţară a Canaanului şi am înmulţit sămânţa lui şi i-am dat pe Isaac."
+        },
+        {
+          "verse": 4,
+          "text": "Lui Isaac i-am dat pe Iacov şi pe Isav; lui Isav i-am dat muntele Seir de moştenire, iar Iacov şi fiii lui s-au pogorât în Egipt şi au ajuns acolo popor mare, tare şi mult la număr şi Egiptenii au început să-i strâmtoreze."
+        },
+        {
+          "verse": 5,
+          "text": "Dar am trimis pe Moise şi pe Aaron şi am lovit Egiptul cu semne pe care le-am făcut Eu acolo şi apoi v-am scos pe voi."
+        },
+        {
+          "verse": 6,
+          "text": "Eu am scos pe părinţii voştri din Egipt şi aţi venit la Marea Roşie. Atunci Egiptenii au alergat după părinţii voştri cu care şi cu călăreţi până la Marea Roşie."
+        },
+        {
+          "verse": 7,
+          "text": "Iar ei au strigat către Domnul şi El a pus nor între voi şi Egipteni şi a adus asupra lor marea care i-a şi acoperit. Ochii voştri au văzut ce am făcut Eu în Egipt. După aceea, aţi rămas voi multă vreme în pustiu."
+        },
+        {
+          "verse": 8,
+          "text": "Apoi v-am dus Eu asupra Amoreilor care locuiau peste Iordan; şi ei s-au luptat cu voi, dar Eu i-am dat în mâinile voastre şi aţi primit de moştenire ţara lor şi Eu i-am stârpit înaintea voastră."
+        },
+        {
+          "verse": 9,
+          "text": "S-a sculat apoi Balac, fiul lui Sefor, regele Moabului, şi a pornit cu război asupra lui Israel şi a trimis să cheme pe Valaam, fiul lui Beor, ca să vă blesteme;"
+        },
+        {
+          "verse": 10,
+          "text": "Dar Eu n-am voit să ascult pe Valaam şi el v-a binecuvântat şi v-am izbăvit din mâinile lui Balac."
+        },
+        {
+          "verse": 11,
+          "text": "După aceea aţi trecut Iordanul şi aţi venit la Ierihon. Atunci au început a se lupta cu voi locuitorii Ierihonului, apoi Amoreii, Ferezeii, Canaaneii, Heteii, Ghergheseii, Heveii şi Iebuseii, dar Eu i-am dat în mâinile voastre."
+        },
+        {
+          "verse": 12,
+          "text": "Trimis-am înaintea voastră viespi care au gonit de la voi pe cei doi regi ai Amoreilor; nu cu sabia ta, nici cu arcul tău ai făcut acestea."
+        },
+        {
+          "verse": 13,
+          "text": "Şi v-am dat ţara cu care nu v-aii ostenit şi cetăţile pe care nu le-aii zidit şi trăiţi în ele; din viile şi din grădinile de măslini pe care nu le-aţi sădit, iată, mâncaţi roade."
+        },
+        {
+          "verse": 14,
+          "text": "Temeţi-vă dar de Domnul şi-I slujiţi Lui cu credincioşie şi curăţenie. Lepădaţi dumnezeii cărora au slujit părinţii voştri dincolo de râu şi în Egipt şi slujiţi Domnului."
+        },
+        {
+          "verse": 15,
+          "text": "Iar dacă nu vă place să slujiţi Domnului, atunci alegeţi-vă acum cui veţi sluji: sau dumnezeilor cărora au slujit părinţii voştri cei de peste râu sau dumnezeilor Amoreilor, în ţara căl-ora trăiţi. Eu însă şi casa mea vom sluji Domnului, că sfânt este!\""
+        },
+        {
+          "verse": 16,
+          "text": "Şi a răspuns poporul şi a zis: \"Departe de noi. gândul să părăsim pe Domnul şi să ne apucăm să slujim la alţi dumnezei,"
+        },
+        {
+          "verse": 17,
+          "text": "Căci Domnul este Dumnezeul nostru; El ne-a scos pe noi şi pe părinţii noştri din ţara Egiptului, din casa robiei şi a făcut Înaintea ochilor noştri minuni mari şi ne-a păzit în toată calea pe care am umblat şi printre toate popoarele pe la care am trecut."
+        },
+        {
+          "verse": 18,
+          "text": "Domnul a alungat de la noi toate popoarele şi pe Amoreii care trăiau în ţara aceasta. De aceea şi noi vom sluji Domnului, căci El este Dumnezeul nostru!\""
+        },
+        {
+          "verse": 19,
+          "text": "Şi a zis Iosua poporului: \"Nu veţi putea să slujiţi Domnului Dumnezeu, căci El este Dumnezeu sfânt, Dumnezeu zelos şi nu va răbda nelegiuirile  voastre, nici păcatele voastre."
+        },
+        {
+          "verse": 20,
+          "text": "Dacă voi veţi părăsi pe Domnul şi veţi sluji la dumnezei străini, atunci El va aduce asupra voastră răul şi vă va stârpi, după ce v-a făcut bine\"."
+        },
+        {
+          "verse": 21,
+          "text": "Iar poporul a zis către Iosua: \"Nu, noi Domnului vom sluji\"."
+        },
+        {
+          "verse": 22,
+          "text": "Iosua însă a zis poporului: \"Vă sunteţi voi martori că v-aii ales pe Domnul să-I slujiţi?\" Ei au răspuns: \"Suntem martori!\""
+        },
+        {
+          "verse": 23,
+          "text": "Aşadar, a adăugat Iosua, lepădaţi dumnezeii străini pe care îi aveţi şi întoarceţi-vă inima către Domnul Dumnezeul lui Israel!"
+        },
+        {
+          "verse": 24,
+          "text": "Şi a zis poporul către Iosua: \"Domnului Dumnezeului nostru vom sluji şi glasul Lui vom asculta!\""
+        },
+        {
+          "verse": 25,
+          "text": "Şi a încheiat Iosua cu poporul legământ în ziua aceea şi i-a dat legi şi porunci în Sichem, înaintea cortului Domnului Dumnezeului lui Israel."
+        },
+        {
+          "verse": 26,
+          "text": "Şi a scris Iosua cuvintele acestea în cartea legii lui Dumnezeu şi a luat o piatră mare şi a pus-o acolo sub stejarul care era lângă locaşul sfânt al Domnului."
+        },
+        {
+          "verse": 27,
+          "text": "Apoi a zis Iosua către tot poporul: \"Iată piatra aceasta ne va fi mărturie, căci ea a auzit toate cuvintele Domnului, pe care le-a grăit El cu noi astăzi. Să fie dar ca mărturie împotriva voastră în zilele viitoare, ca să nu minţiţi înaintea Domnului Dumnezeului vostru!\""
+        },
+        {
+          "verse": 28,
+          "text": "Şi a dat Iosua drumul poporului şi s-a întors fiecare la moştenirea lui."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joshua_24_02",
+      "chapter": 24,
+      "pericope_num": "02",
+      "title_en": "Death of Joshua and Eleazar",
+      "title_ro": "Moartea lui Iosua și a lui Eleazar",
+      "start_verse": 29,
+      "end_verse": 33,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 29,
+          "text": "Şi a murit după aceea Iosua, fiul lui Navi, robul Domnului, fiind de o sută zece ani."
+        },
+        {
+          "verse": 30,
+          "text": "Şi l-au îngropat în ţinutul moştenirii sale la Timnat-Serah, care e în muntele Efraim, la miazănoapte de muntele Gaaş. Şi au pus acolo cu dânsul, în mormântul în care l-au îngropat, cuţitele cele de piatră cu care Iosua a tăiat împrejur pe fiii lui Israel în Ghilgal, când i-a scos pe ei din Egipt, cum poruncise Domnul, şi sunt ele acolo până în ziua de astăzi."
+        },
+        {
+          "verse": 31,
+          "text": "Israel a slujit Domnului în toate zilele lui Iosua şi în toate zilele bătrânilor a căror viaţă s-a prelungit după Iosua şi care văzuseră toate lucrurile Domnului, pe care le făcuse El cu Israel."
+        },
+        {
+          "verse": 32,
+          "text": "Oasele lui Iosif, pe care le aduseseră fiii lui Israel din Egipt, le-au îngropat în Sichem, în partea de ţarină pe care o cumpărase Iacov de la fiii lui Hemor, tatăl lui Sichem, cu o sută de arginţi, şi care căzuse de moştenire fiilor lui Iosif."
+        },
+        {
+          "verse": 33,
+          "text": "După aceasta a murit şi Eleazar, fiul lui Aaron, arhiereul, şi l-au îngropat în Ghibeea, oraşul lui Finees, fiul lui, care i se dăduse în muntele Efraim."
+        }
+      ]
+    }
+  ]
+}

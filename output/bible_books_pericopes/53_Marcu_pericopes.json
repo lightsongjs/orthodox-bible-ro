@@ -1,0 +1,3988 @@
+{
+  "id": 53,
+  "book_number": 53,
+  "name_en": "Mark",
+  "name_ro": "Marcu",
+  "testament": "NT",
+  "chapter_count": 16,
+  "pericope_count": 94,
+  "url": "https://www.bibliaortodoxa.ro/carte.php?id=53",
+  "pericopes": [
+    {
+      "pericope_id": "Mark_01_01",
+      "chapter": 1,
+      "pericope_num": "01",
+      "title_en": "The Proclamation of John the Baptist",
+      "title_ro": "Propovăduirea lui Ioan Botezătorul",
+      "start_verse": 1,
+      "end_verse": 8,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Începutul Evangheliei lui Iisus Hristos, Fiul lui Dumnezeu,"
+        },
+        {
+          "verse": 2,
+          "text": "Precum este scris în proorocie (la Maleahi) şi Isaia: \"Iată Eu trimit îngerul Meu înaintea feţei Tale, care va pregăti calea Ta."
+        },
+        {
+          "verse": 3,
+          "text": "Glasul celui ce strigă în pustie: Gătiţi calea Domnului, drepte faceţi cărările Lui\"."
+        },
+        {
+          "verse": 4,
+          "text": "Ioan boteza în pustie, propovăduind botezul pocăinţei întru iertarea păcatelor."
+        },
+        {
+          "verse": 5,
+          "text": "Şi ieşeau la el tot ţinutul Iudeii şi toţi cei din Ierusalim şi se botezau de către el, în râul Iordan, mărturisindu-şi păcatele."
+        },
+        {
+          "verse": 6,
+          "text": "Şi Ioan era îmbrăcat în haină de păr de cămilă, avea cingătoare de piele împrejurul mijlocului şi mânca lăcuste şi miere sălbatică."
+        },
+        {
+          "verse": 7,
+          "text": "Şi propovăduia, zicând: Vine în urma mea Cel ce este mai tare decât mine, Căruia nu sunt vrednic, plecându-mă, să-I dezleg cureaua încălţămintelor."
+        },
+        {
+          "verse": 8,
+          "text": "Eu v-am botezat pe voi cu apă, El însă vă va boteza cu Duh Sfânt."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_01_02",
+      "chapter": 1,
+      "pericope_num": "02",
+      "title_en": "The Baptism of Jesus",
+      "title_ro": "Botezul lui Iisus",
+      "start_verse": 9,
+      "end_verse": 11,
+      "verse_count": 3,
+      "verses": [
+        {
+          "verse": 9,
+          "text": "Şi în zilele acelea, Iisus a venit din Nazaretul Galileii şi s-a botezat în Iordan, de către Ioan."
+        },
+        {
+          "verse": 10,
+          "text": "Şi îndată, ieşind din apă, a văzut cerurile deschise şi Duhul ca un porumbel coborându-Se peste El."
+        },
+        {
+          "verse": 11,
+          "text": "Şi glas s-a făcut din ceruri: Tu eşti Fiul Meu cel iubit, întru Tine am binevoit."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_01_03",
+      "chapter": 1,
+      "pericope_num": "03",
+      "title_en": "The Temptation of Jesus",
+      "title_ro": "Ispitirea lui Iisus",
+      "start_verse": 12,
+      "end_verse": 13,
+      "verse_count": 2,
+      "verses": [
+        {
+          "verse": 12,
+          "text": "Şi îndată Duhul L-a mânat în pustie."
+        },
+        {
+          "verse": 13,
+          "text": "Şi a fost în pustie patruzeci de zile, fiind ispitit de satana. Şi era împreună cu fiarele şi îngerii Îi slujeau."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_01_04",
+      "chapter": 1,
+      "pericope_num": "04",
+      "title_en": "The Beginning of the Galilean Ministry",
+      "title_ro": "Începutul slujirii galileene",
+      "start_verse": 14,
+      "end_verse": 15,
+      "verse_count": 2,
+      "verses": [
+        {
+          "verse": 14,
+          "text": "După ce Ioan a fost prins, Iisus a venit în Galileea, propovăduind Evanghelia împărăţiei lui Dumnezeu."
+        },
+        {
+          "verse": 15,
+          "text": "Şi zicând: S-a împlinit vremea şi s-a apropiat împărăţia lui Dumnezeu. Pocăiţi-vă şi credeţi în Evanghelie."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_01_05",
+      "chapter": 1,
+      "pericope_num": "05",
+      "title_en": "Jesus Calls the First Disciples",
+      "title_ro": "Iisus îi cheamă pe primii ucenici",
+      "start_verse": 16,
+      "end_verse": 20,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 16,
+          "text": "Şi umblând pe lângă Marea Galileii, a văzut pe Simon şi pe Andrei, fratele lui Simon, aruncând mrejele în mare, căci ei erau pescari."
+        },
+        {
+          "verse": 17,
+          "text": "Şi le-a zis Iisus: Veniţi după Mine şi vă voi face să fiţi pescari de oameni."
+        },
+        {
+          "verse": 18,
+          "text": "Şi îndată, lăsând mrejele, au mers după El."
+        },
+        {
+          "verse": 19,
+          "text": "Şi mergând puţin mai înainte, a văzut pe Iacov al lui Zevedeu şi pe Ioan, fratele lui. Şi ei erau în corabie, dregându-şi mrejele."
+        },
+        {
+          "verse": 20,
+          "text": "Şi i-a chemat pe ei îndată. Iar ei, lăsând pe tatăl lor Zevedeu în corabie, cu lucrătorii, s-au dus după El."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_01_06",
+      "chapter": 1,
+      "pericope_num": "06",
+      "title_en": "The Man with an Unclean Spirit",
+      "title_ro": "Omul cu duh necurat",
+      "start_verse": 21,
+      "end_verse": 28,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 21,
+          "text": "Şi venind în Capernaum şi îndată intrând sâmbăta în sinagogă, îi învăţa."
+        },
+        {
+          "verse": 22,
+          "text": "Şi erau uimiţi de învăţătura Lui, căci El îi învăţa pe ei ca Cel ce are putere, iar nu în felul cărturarilor."
+        },
+        {
+          "verse": 23,
+          "text": "Şi era în sinagoga lor un om cu duh necurat, care striga tare,"
+        },
+        {
+          "verse": 24,
+          "text": "Zicând: Ce ai cu noi, Iisuse Nazarinene? Ai venit ca să ne pierzi? Te ştim cine eşti: Sfântul lui Dumnezeu."
+        },
+        {
+          "verse": 25,
+          "text": "Şi Iisus l-a certat, zicând: Taci şi ieşi din el."
+        },
+        {
+          "verse": 26,
+          "text": "Şi scuturându-l duhul cel necurat şi strigând cu glas mare, a ieşit din el."
+        },
+        {
+          "verse": 27,
+          "text": "Şi s-au spăimântat toţi, încât se întrebau între ei, zicând: Ce este aceasta? O învăţătură nouă şi cu putere; că şi duhurilor necurate le porunceşte, şi I se supun."
+        },
+        {
+          "verse": 28,
+          "text": "Şi a ieşit vestea despre El îndată pretutindeni în toată împrejurimea Galileii."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_01_07",
+      "chapter": 1,
+      "pericope_num": "07",
+      "title_en": "Jesus Heals Many at Simon’s House",
+      "title_ro": "Iisus vindecă pe mulți în casa lui Simon",
+      "start_verse": 29,
+      "end_verse": 34,
+      "verse_count": 6,
+      "verses": [
+        {
+          "verse": 29,
+          "text": "Şi îndată ieşind ei din sinagogă, au venit în casa lui Simon şi a lui Andrei, cu Iacov şi cu Ioan."
+        },
+        {
+          "verse": 30,
+          "text": "Iar soacra lui Simon zăcea, prinsă de friguri, şi îndată I-au vorbit despre ea."
+        },
+        {
+          "verse": 31,
+          "text": "Şi apropiindu-Se a ridicat-o, apucând-o de mână. Şi au lăsat-o frigurile şi ea le slujea."
+        },
+        {
+          "verse": 32,
+          "text": "Iar când s-a făcut seară şi soarele apusese, au adus la El pe toţi bolnavii şi demonizaţii."
+        },
+        {
+          "verse": 33,
+          "text": "Şi toată cetatea era adunată la uşă."
+        },
+        {
+          "verse": 34,
+          "text": "Şi a tămăduit pe mulţi care pătimeau de felurite boli şi demoni mulţi a alungat. Iar pe demoni nu-i lăsa să vorbească, pentru că-L ştiau că El e Hristos."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_01_08",
+      "chapter": 1,
+      "pericope_num": "08",
+      "title_en": "A Preaching Tour in Galilee",
+      "title_ro": "Propovăduire prin Galileea",
+      "start_verse": 35,
+      "end_verse": 39,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 35,
+          "text": "Şi a doua zi, foarte de dimineaţă, sculându-Se, a ieşit şi S-a dus într-un loc pustiu şi Se ruga acolo."
+        },
+        {
+          "verse": 36,
+          "text": "Şi a mers după El Simon şi cei ce erau cu el."
+        },
+        {
+          "verse": 37,
+          "text": "Şi aflându-L, I-au zis: Toţi Te caută pe Tine."
+        },
+        {
+          "verse": 38,
+          "text": "Şi El a zis lor: Să mergem în altă parte, prin cetăţile şi satele învecinate, ca să propovăduiesc şi acolo, căci pentru aceasta am venit."
+        },
+        {
+          "verse": 39,
+          "text": "Şi venind propovăduia în sinagogile lor, în toată Galileea, alungând pe demoni."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_01_09",
+      "chapter": 1,
+      "pericope_num": "09",
+      "title_en": "Jesus Cleanses a Leper",
+      "title_ro": "Iisus curățește un lepros",
+      "start_verse": 40,
+      "end_verse": 45,
+      "verse_count": 6,
+      "verses": [
+        {
+          "verse": 40,
+          "text": "Şi un lepros a venit la El, rugându-L şi îngenunchind şi zicând: De voieşti, poţi să mă curăţeşti."
+        },
+        {
+          "verse": 41,
+          "text": "Şi făcându-I-se milă, a întins mâna şi S-a atins de el şi i-a zis: Voiesc, curăţeşte-te."
+        },
+        {
+          "verse": 42,
+          "text": "Şi îndată s-a îndepărtat lepra de la el şi s-a curăţit."
+        },
+        {
+          "verse": 43,
+          "text": "Şi poruncindu-i cu asprime, îndată l-a alungat,"
+        },
+        {
+          "verse": 44,
+          "text": "Şi i-a zis: Vezi, nimănui să nu spui nimic, ci mergi de te arată preotului şi adu, pentru curăţirea ta, cele ce a rânduit Moise, spre mărturie lor."
+        },
+        {
+          "verse": 45,
+          "text": "Iar el, ieşind, a început să propovăduiască multe şi să răspândească cuvântul, încât Iisus nu mai putea să intre pe faţă în cetate, ci stătea afară, în locuri pustii, şi veneau la El de pretutindeni."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_02_01",
+      "chapter": 2,
+      "pericope_num": "01",
+      "title_en": "Jesus Heals a Paralytic",
+      "title_ro": "Iisus vindecă un paralitic",
+      "start_verse": 1,
+      "end_verse": 12,
+      "verse_count": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi intrând iarăşi în Capernaum, după câteva zile s-a auzit că este în casă."
+        },
+        {
+          "verse": 2,
+          "text": "Şi îndată s-au adunat mulţi, încât nu mai era loc, nici înaintea uşii, şi le grăia lor cuvântul."
+        },
+        {
+          "verse": 3,
+          "text": "Şi au venit la El, aducând un slăbănog, pe care-l purtau patru inşi."
+        },
+        {
+          "verse": 4,
+          "text": "Şi neputând ei, din pricina mulţimii, să se apropie de El, au desfăcut acoperişul casei unde era Iisus şi, prin spărtură, au lăsat în jos patul în care zăcea slăbănogul."
+        },
+        {
+          "verse": 5,
+          "text": "Şi văzând Iisus credinţa lor, i-a zis slăbănogului: Fiule, iertate îţi sunt păcatele tale!"
+        },
+        {
+          "verse": 6,
+          "text": "Şi erau acolo unii dintre cărturari, care şedeau şi cugetau în inimile lor:"
+        },
+        {
+          "verse": 7,
+          "text": "Pentru ce vorbeşte Acesta astfel? El huleşte. Cine poate să ierte păcatele, fără numai unul Dumnezeu?"
+        },
+        {
+          "verse": 8,
+          "text": "Şi îndată cunoscând Iisus, cu duhul Lui, că aşa cugetau ei în sine, le-a zis lor: De ce cugetaţi acestea în inimile voastre?"
+        },
+        {
+          "verse": 9,
+          "text": "Ce este mai uşor a zice slăbănogului: Iertate îţi sunt păcatele, sau a zice: Scoală-te, ia-ţi patul tău şi umblă?"
+        },
+        {
+          "verse": 10,
+          "text": "Dar, ca să ştiţi că putere are Fiul Omului a ierta păcatele pe pământ, a zis slăbănogului:"
+        },
+        {
+          "verse": 11,
+          "text": "Zic ţie: Scoală-te, ia-ţi patul tău şi mergi la casa ta."
+        },
+        {
+          "verse": 12,
+          "text": "Şi s-a sculat îndată şi, luându-şi patul, a ieşit înaintea tuturor, încât erau toţi uimiţi şi slăveau pe Dumnezeu, zicând: Asemenea lucruri n-am văzut niciodată."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_02_02",
+      "chapter": 2,
+      "pericope_num": "02",
+      "title_en": "Jesus Calls Levi",
+      "title_ro": "Iisus îl cheamă pe Levi",
+      "start_verse": 13,
+      "end_verse": 17,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 13,
+          "text": "Şi iarăşi a ieşit la mare şi toată mulţimea venea la El şi îi învăţa."
+        },
+        {
+          "verse": 14,
+          "text": "Şi trecând, a văzut pe Levi al lui Alfeu, şezând la vamă, şi i-a zis: Urmează-Mi! Iar el, sculându-se, I-a urmat."
+        },
+        {
+          "verse": 15,
+          "text": "Şi când şedea El în casa lui Levi, mulţi vameşi şi păcătoşi şedeau la masă cu Iisus şi cu ucenicii Lui. Că erau mulţi şi-I urmau."
+        },
+        {
+          "verse": 16,
+          "text": "Iar cărturarii şi fariseii, văzându-L că mănâncă împreună cu vameşii şi păcătoşii, ziceau către ucenicii Lui: De ce mănâncă şi bea Învăţătorul vostru cu vameşii şi păcătoşii?"
+        },
+        {
+          "verse": 17,
+          "text": "Dar, auzind, Iisus le-a zis: Nu cei sănătoşi au nevoie de doctor, ci cei bolnavi. N-am venit să chem pe cei drepţi ci pe păcătoşi la pocăinţă."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_02_03",
+      "chapter": 2,
+      "pericope_num": "03",
+      "title_en": "The Question about Fasting",
+      "title_ro": "Întrebarea despre post",
+      "start_verse": 18,
+      "end_verse": 22,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 18,
+          "text": "Ucenicii lui Ioan şi ai fariseilor posteau şi au venit şi I-au zis Lui: De ce ucenicii lui Ioan şi ucenicii fariseilor postesc, iar ucenicii Tăi nu postesc?"
+        },
+        {
+          "verse": 19,
+          "text": "Şi Iisus le-a zis: Pot, oare, prietenii mirelui să postească cât timp este mirele cu ei? Câtă vreme au pe mire cu ei, nu pot să postească."
+        },
+        {
+          "verse": 20,
+          "text": "Dar vor veni zile, când se va lua mirele de la ei şi atunci vor posti în acele zile."
+        },
+        {
+          "verse": 21,
+          "text": "Nimeni nu coase la haină veche petic dintr-o bucată de stofă nouă, iar de nu, peticul nou va trage din haina veche şi se va face o ruptură şi mai rea."
+        },
+        {
+          "verse": 22,
+          "text": "Nimeni, iarăşi, nu pune vin nou în burdufuri vechi, iar de nu, vinul nou sparge burdufurile şi vinul se vară şi burdufurile se strică; încât vinul nou trebuie să fie în burdufuri noi."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_02_04",
+      "chapter": 2,
+      "pericope_num": "04",
+      "title_en": "Pronouncement about the Sabbath",
+      "title_ro": "Învățătură despre Sabat",
+      "start_verse": 23,
+      "end_verse": 28,
+      "verse_count": 6,
+      "verses": [
+        {
+          "verse": 23,
+          "text": "Şi pe când mergea El într-o sâmbătă prin semănături, ucenicii Lui, în drumul lor, au început să smulgă spice."
+        },
+        {
+          "verse": 24,
+          "text": "Şi fariseii Îi ziceau: Vezi, de ce fac sâmbăta ce nu se cuvine?"
+        },
+        {
+          "verse": 25,
+          "text": "Şi Iisus le-a răspuns: Au niciodată n-aţi citit ce a făcut David, când a avut nevoie şi a flămânzit, el şi cei ce erau cu el?"
+        },
+        {
+          "verse": 26,
+          "text": "Cum a intrat în casa lui Dumnezeu, în zilele lui Abiatar arhiereul, şi a mâncat pâinile punerii înainte, pe care nu se cuvenea să le mănânce decât numai preoţii, şi a dat şi celor ce erau cu el?"
+        },
+        {
+          "verse": 27,
+          "text": "Şi le zicea lor: Sâmbăta a fost făcută pentru om, iar nu omul pentru sâmbătă."
+        },
+        {
+          "verse": 28,
+          "text": "Astfel că Fiul Omului este domn şi al sâmbetei."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_03_01",
+      "chapter": 3,
+      "pericope_num": "01",
+      "title_en": "The Man with a Withered Hand",
+      "title_ro": "Omul cu mâna uscată",
+      "start_verse": 1,
+      "end_verse": 6,
+      "verse_count": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi iarăşi a intrat în sinagogă. Şi era acolo un om având mâna uscată."
+        },
+        {
+          "verse": 2,
+          "text": "Şi Îl pândeau pe Iisus să vadă dacă îl va vindeca sâmbăta, ca să-L învinuiască."
+        },
+        {
+          "verse": 3,
+          "text": "Şi a zis omului care avea mâna uscată: Ridică-te în mijloc!"
+        },
+        {
+          "verse": 4,
+          "text": "Şi a zis lor: Se cuvine, sâmbăta, a face bine sau a face rău, a mântui un suflet sau a-l pierde? Dar ei tăceau;"
+        },
+        {
+          "verse": 5,
+          "text": "Şi privindu-i pe ei cu mânie şi întristându-Se de învârtoşarea inimii lor, a zis omului: Întinde mâna ta! Şi a întins-o, şi mâna lui s-a făcut sănătoasă."
+        },
+        {
+          "verse": 6,
+          "text": "Şi ieşind, fariseii au făcut îndată sfat cu irodianii împotriva Lui, ca să-L piardă."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_03_02",
+      "chapter": 3,
+      "pericope_num": "02",
+      "title_en": "A Multitude at the Seaside",
+      "title_ro": "Mulțimea de lângă mare",
+      "start_verse": 7,
+      "end_verse": 12,
+      "verse_count": 6,
+      "verses": [
+        {
+          "verse": 7,
+          "text": "Iisus, împreună cu ucenicii Lui, a plecat înspre mare şi mulţime multă din Galileea şi din Iudeea L-a urmat."
+        },
+        {
+          "verse": 8,
+          "text": "Din Ierusalim, din Idumeea, de dincolo de Iordan, dimprejurul Tirului şi Sidonului, mulţime mare, care, auzind câte făcea, a venit la El."
+        },
+        {
+          "verse": 9,
+          "text": "Şi a zis ucenicilor Săi să-I fie pusă la îndemână o corăbioară, ca să nu-L îmbulzească mulţimea;"
+        },
+        {
+          "verse": 10,
+          "text": "Fiindcă vindecase pe mulţi, de aceea năvăleau asupra Lui, ca să se atingă de El toţi câţi erau bolnavi."
+        },
+        {
+          "verse": 11,
+          "text": "Iar duhurile cele necurate, când Îl vedeau, cădeau înaintea Lui şi strigau, zicând: Tu eşti Fiul lui Dumnezeu."
+        },
+        {
+          "verse": 12,
+          "text": "Şi El le certa mult ca să nu-L dea pe faţă."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_03_03",
+      "chapter": 3,
+      "pericope_num": "03",
+      "title_en": "Jesus Appoints the Twelve",
+      "title_ro": "Iisus rânduiește pe cei doisprezece",
+      "start_verse": 13,
+      "end_verse": 19,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 13,
+          "text": "Şi S-a suit pe munte şi a chemat la Sine pe câţi a voit, şi au venit la El."
+        },
+        {
+          "verse": 14,
+          "text": "Şi a rânduit pe cei doisprezece, pe care i-a numit apostoli, ca să fie cu El şi să-i trimită  să propovăduiască,"
+        },
+        {
+          "verse": 15,
+          "text": "Şi să aibă putere să vindece bolile şi să alunge demonii."
+        },
+        {
+          "verse": 16,
+          "text": "Deci a rânduit pe cei doisprezece: pe Simon, căruia i-a pus numele Petru;"
+        },
+        {
+          "verse": 17,
+          "text": "Pe Iacov al lui Zevedeu şi pe Ioan, fratele lui Iacov, şi le-a pus lor numele Boanerghes, adică fii tunetului."
+        },
+        {
+          "verse": 18,
+          "text": "Şi pe Andrei, şi pe Filip, şi pe Bartolomeu, pe Matei, şi pe Toma, şi pe Iacov al lui Alfeu, şi pe Tadeu, şi pe Simon Cananeul,"
+        },
+        {
+          "verse": 19,
+          "text": "Şi pe Iuda Iscarioteanul, cel care L-a şi vândut."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_03_04",
+      "chapter": 3,
+      "pericope_num": "04",
+      "title_en": "Jesus and Beelzebul",
+      "title_ro": "Iisus și Beelzebul",
+      "start_verse": 20,
+      "end_verse": 30,
+      "verse_count": 11,
+      "verses": [
+        {
+          "verse": 20,
+          "text": "Şi a venit în casă, şi iarăşi mulţimea s-a adunat, încât ei nu puteau nici să mănânce."
+        },
+        {
+          "verse": 21,
+          "text": "Şi auzind ai Săi, au ieşit ca să-L prindă, că ziceau: Şi-a ieşit din fire."
+        },
+        {
+          "verse": 22,
+          "text": "Iar cărturarii, care veneau din Ierusalim, ziceau că are pe Beelzebul şi că, cu domnul demonilor, alungă demonii."
+        },
+        {
+          "verse": 23,
+          "text": "Şi chemându-i la Sine, le-a vorbit în pilde: Cum poate satana să alunge pe satana?"
+        },
+        {
+          "verse": 24,
+          "text": "Dacă o împărăţie se va dezbina în sine, acea împărăţie nu mai poate dăinui."
+        },
+        {
+          "verse": 25,
+          "text": "Şi dacă o casă se va dezbina în sine, casa aceea nu va mai putea să se ţină."
+        },
+        {
+          "verse": 26,
+          "text": "Şi dacă satana s-a sculat împotriva sa însuşi şi s-a dezbinat, nu poate să dăinuiască, ci are sfârşit."
+        },
+        {
+          "verse": 27,
+          "text": "Dar nimeni nu poate, intrând în casa celui tare, să-i răpească lucrurile, de nu va lega întâi pe cel tare, şi atunci va jefui casa lui."
+        },
+        {
+          "verse": 28,
+          "text": "Adevărat grăiesc vouă că toate vor fi iertate fiilor oamenilor, păcatele şi hulele câte vor fi hulit;"
+        },
+        {
+          "verse": 29,
+          "text": "Dar cine va huli împotriva Duhului Sfânt nu are iertare în veac, ci este vinovat de osânda veşnică."
+        },
+        {
+          "verse": 30,
+          "text": "Pentru că ziceau: Are duh necurat."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_03_05",
+      "chapter": 3,
+      "pericope_num": "05",
+      "title_en": "The True Kindred of Jesus",
+      "title_ro": "Adevărații rudenilor ai lui Isus",
+      "start_verse": 31,
+      "end_verse": 35,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 31,
+          "text": "Şi au venit mama Lui şi fraţii Lui şi, stând afară, au trimis la El ca sn-L cheme."
+        },
+        {
+          "verse": 32,
+          "text": "Iar mulţimea şedea împrejurul Lui. Şi I-au zis unii: Iată mama Ta şi fraţii Tăi şi surorile Tale sunt afară. Te caută."
+        },
+        {
+          "verse": 33,
+          "text": "Şi, răspunzând lor, le-a zis: Cine este mama Mea şi fraţii Mei?"
+        },
+        {
+          "verse": 34,
+          "text": "Şi privind pe cei ce şedeau în jurul Lui, a zis: Iată mama Mea şi fraţii Mei."
+        },
+        {
+          "verse": 35,
+          "text": "Că oricine va face voia lui Dumnezeu, acesta este fratele Meu şi sora Mea şi mama Mea."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_04_01",
+      "chapter": 4,
+      "pericope_num": "01",
+      "title_en": "The Parable of the Sower",
+      "title_ro": "Pilda semănătorului",
+      "start_verse": 1,
+      "end_verse": 9,
+      "verse_count": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi iarăşi a început Iisus să înveţe, lângă mare, şi s-a adunat la El mulţime foarte multă, încât El a intrat în corabie şi şedea pe mare, iar toată mulţimea era lângă mare, pe uscat."
+        },
+        {
+          "verse": 2,
+          "text": "Şi-i învăţa multe în pilde, şi în învăţătura Sa le zicea:"
+        },
+        {
+          "verse": 3,
+          "text": "Ascultaţi: Iată, ieşit-a semănătorul să semene."
+        },
+        {
+          "verse": 4,
+          "text": "Şi pe când semăna el, o sămânţă a căzut lângă cale şi păsările cerului au venit şi au mâncat-o."
+        },
+        {
+          "verse": 5,
+          "text": "Şi alta a căzut pe loc pietros, unde nu avea pământ mult, şi îndată a răsărit, pentru că nu avea pământ mult."
+        },
+        {
+          "verse": 6,
+          "text": "Şi când s-a ridicat soarele, s-a veştejit şi, neavând rădăcină, s-a uscat."
+        },
+        {
+          "verse": 7,
+          "text": "Altă sămânţă a căzut în spini, a crescut, dar spinii au înăbuşit-o şi rod n-a dat."
+        },
+        {
+          "verse": 8,
+          "text": "Şi altele au căzut pe pământul cel bun şi, înălţându-se şi crescând, au dat roade şi au adus: una treizeci, alta şaizeci, alta o sută."
+        },
+        {
+          "verse": 9,
+          "text": "Şi zicea: Cine are urechi de auzit să audă."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_04_02",
+      "chapter": 4,
+      "pericope_num": "02",
+      "title_en": "The Purpose of the Parables",
+      "title_ro": "Scopul pildelor",
+      "start_verse": 10,
+      "end_verse": 20,
+      "verse_count": 11,
+      "verses": [
+        {
+          "verse": 10,
+          "text": "Iar când a fost singur, cei ce erau lângă El, împreună cu cei doisprezece, Îl întrebau despre pilde."
+        },
+        {
+          "verse": 11,
+          "text": "Şi le-a răspuns: Vouă vă e dat să cunoaşteţi taina împărăţiei lui Dumnezeu, dar pentru cei de afară totul se face în pilde,"
+        },
+        {
+          "verse": 12,
+          "text": "Ca uitându-se, să privească şi să nu vadă, şi, auzind, să nu înţeleagă, ca nu cumva să se întoarcă şi să fie iertaţi."
+        },
+        {
+          "verse": 13,
+          "text": "Şi le-a zis: Nu pricepeţi pilda aceasta? Dar cum veţi înţelege toate pildele?"
+        },
+        {
+          "verse": 14,
+          "text": "Semănătorul seamănă cuvântul."
+        },
+        {
+          "verse": 15,
+          "text": "Cele de lângă cale sunt aceia în care se seamănă cuvântul, şi, când îl aud, îndată vine satana şi ia cuvântul cel semănat în inimile lor."
+        },
+        {
+          "verse": 16,
+          "text": "Cele semănate pe loc pietros sunt aceia care, când aud cuvântul, îl primesc îndată cu bucurie,"
+        },
+        {
+          "verse": 17,
+          "text": "Dar n-au rădăcină în ei, ci ţin până la un timp; apoi când se întâmplă strâmtorare sau prigoană pentru cuvânt, îndată se smintesc."
+        },
+        {
+          "verse": 18,
+          "text": "Şi cele semănate între spini sunt cei ce ascultă cuvântul,"
+        },
+        {
+          "verse": 19,
+          "text": "Dar grijile veacului şi înşelăciunea bogăţiei şi poftele după celelalte, pătrunzând în ei, înăbuşă cuvântul şi îl fac neroditor."
+        },
+        {
+          "verse": 20,
+          "text": "Iar cele semănate pe pământul cel bun sunt cei ce aud cuvântul şi-l primesc şi aduc roade: unul treizeci, altul şaizeci şi altul o sută."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_04_03",
+      "chapter": 4,
+      "pericope_num": "03",
+      "title_en": "A Lamp under a Bushel Basket",
+      "title_ro": "Candela sub obroc",
+      "start_verse": 21,
+      "end_verse": 25,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 21,
+          "text": "Şi le zicea: Se aduce oare făclia ca să fie pusă sub obroc sau sub pat? Oare nu ca să fie pusă în sfeşnic?"
+        },
+        {
+          "verse": 22,
+          "text": "Căci nu e nimic ascuns ca să nu se dea pe faţă; nici n-a fost ceva tăinuit, decât ca să vină la arătare."
+        },
+        {
+          "verse": 23,
+          "text": "Cine are urechi de auzit să audă."
+        },
+        {
+          "verse": 24,
+          "text": "Şi le zicea: Luaţi seama la ce auziţi: Cu ce măsură măsuraţi, vi se va măsura; iar vouă celor ce ascultaţi, vi se va da şi vă va prisosi."
+        },
+        {
+          "verse": 25,
+          "text": "Căci celui ce are i se va da; dar de la cel ce nu are, şi ce are i se va lua."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_04_04",
+      "chapter": 4,
+      "pericope_num": "04",
+      "title_en": "The Parable of the Growing Seed",
+      "title_ro": "Pilda despre sămânța care crește",
+      "start_verse": 26,
+      "end_verse": 29,
+      "verse_count": 4,
+      "verses": [
+        {
+          "verse": 26,
+          "text": "Şi zicea: Aşa este împărăţia lui Dumnezeu, ca un om care aruncă sămânţa în pământ,"
+        },
+        {
+          "verse": 27,
+          "text": "Şi doarme şi se scoală, noaptea şi ziua, şi sămânţa răsare şi creşte, cum nu ştie el."
+        },
+        {
+          "verse": 28,
+          "text": "Pământul rodeşte de la sine: mai întâi pai, apoi spic, după aceea grâu deplin în spic."
+        },
+        {
+          "verse": 29,
+          "text": "Iar când rodul se coace, îndată trimite secera, că a sosit secerişul."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_04_05",
+      "chapter": 4,
+      "pericope_num": "05",
+      "title_en": "The Parable of the Mustard Seed",
+      "title_ro": "Pilda grăuntelui de muștar",
+      "start_verse": 30,
+      "end_verse": 32,
+      "verse_count": 3,
+      "verses": [
+        {
+          "verse": 30,
+          "text": "Şi zicea: Cum vom asemăna împărăţia lui Dumnezeu, sau în ce pildă o vom închipui?"
+        },
+        {
+          "verse": 31,
+          "text": "Cu grăuntele de muştar care, când se seamănă în pământ, este mai mic decât toate seminţele de pe pământ;"
+        },
+        {
+          "verse": 32,
+          "text": "Dar, după ce s-a semănat, creşte şi se face mai mare decât toate legumele şi face ramuri mari, încât sub umbra lui pot să sălăşluiască păsările cerului."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_04_06",
+      "chapter": 4,
+      "pericope_num": "06",
+      "title_en": "The Use of Parables",
+      "title_ro": "Folosirea pildelor",
+      "start_verse": 33,
+      "end_verse": 34,
+      "verse_count": 2,
+      "verses": [
+        {
+          "verse": 33,
+          "text": "Şi cu multe pilde ca acestea le grăia cuvântul după cum puteau să înţeleagă."
+        },
+        {
+          "verse": 34,
+          "text": "Iar fără pildă nu le grăia; şi ucenicilor Săi le lămurea toate, deosebi."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_04_07",
+      "chapter": 4,
+      "pericope_num": "07",
+      "title_en": "Jesus Stills a Storm",
+      "title_ro": "Iisus potolește furtuna",
+      "start_verse": 35,
+      "end_verse": 41,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 35,
+          "text": "Şi în ziua aceea, când s-a înserat, a zis către ei: Să trecem pe ţărmul celălalt."
+        },
+        {
+          "verse": 36,
+          "text": "Şi lăsând ei mulţimea, L-au luat cu ei în corabie, aşa cum era, căci erau cu El şi alte corăbii."
+        },
+        {
+          "verse": 37,
+          "text": "Şi s-a pornit o furtună mare de vânt şi valurile se prăvăleau peste corabie, încât corabia era aproape să se umple."
+        },
+        {
+          "verse": 38,
+          "text": "Iar Iisus era la partea dindărăt a corăbiei, dormind pe căpătâi. L-au deşteptat şi I-au zis: Învăţătorule, nu-Ţi este grijă că pierim?"
+        },
+        {
+          "verse": 39,
+          "text": "Şi El, sculându-Se, a certat vântul şi a poruncit mării: Taci! Încetează! Şi vântul s-a potolit şi s-a făcut linişte mare."
+        },
+        {
+          "verse": 40,
+          "text": "Şi le-a zis lor: Pentru ce sunteţi aşa de fricoşi? Cum de nu aveţi credinţă?"
+        },
+        {
+          "verse": 41,
+          "text": "Şi s-au înfricoşat cu frică mare şi ziceau unul către altul: Cine este oare, Acesta, că şi vântul şi marea I se supun?"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_05_01",
+      "chapter": 5,
+      "pericope_num": "01",
+      "title_en": "Jesus Heals the Gerasene Demoniac",
+      "title_ro": "Iisus vindecă pe îndrăcitul din Gherasa",
+      "start_verse": 1,
+      "end_verse": 20,
+      "verse_count": 20,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi a venit de cealaltă parte a mării în ţinutul Gadarenilor."
+        },
+        {
+          "verse": 2,
+          "text": "Iar după ce a ieşit din corabie, îndată L-a întâmpinat, din morminte, un om cu duh necurat,"
+        },
+        {
+          "verse": 3,
+          "text": "Care îşi avea locuinţa în morminte, şi nimeni nu putea să-l lege nici măcar în lanţuri,"
+        },
+        {
+          "verse": 4,
+          "text": "Pentru că de multe ori fiind legat în obezi şi lanţuri, el rupea lanţurile, şi obezile le sfărâma, şi nimeni nu putea să-l potolească;"
+        },
+        {
+          "verse": 5,
+          "text": "Şi neîncetat noaptea şi ziua era prin morminte şi prin munţi, strigând şi tăindu-se cu pietre."
+        },
+        {
+          "verse": 6,
+          "text": "Iar văzându-L de departe pe Iisus, a alergat şi s-a închinat Lui."
+        },
+        {
+          "verse": 7,
+          "text": "Şi strigând cu glas puternic, a zis: Ce ai cu mine, Iisuse, Fiule al lui Dumnezeu Celui Preaînalt? Te jur pe Dumnezeu să nu mă chinuieşti."
+        },
+        {
+          "verse": 8,
+          "text": "Căci îi zicea: Ieşi duh necurat din omul acesta."
+        },
+        {
+          "verse": 9,
+          "text": "Şi l-a întrebat: Care îţi este numele? Şi I-a răspuns: Legiune este numele meu, căci suntem mulţi."
+        },
+        {
+          "verse": 10,
+          "text": "Şi Îl rugau mult să nu-i trimită afară din acel ţinut."
+        },
+        {
+          "verse": 11,
+          "text": "Iar acolo, lângă munte, era o turmă mare de porci, care păştea."
+        },
+        {
+          "verse": 12,
+          "text": "Şi L-au rugat, zicând: Trimite-ne pe noi în porci, ca să intrăm în ei."
+        },
+        {
+          "verse": 13,
+          "text": "Şi El le-a dat voie. Atunci, ieşind, duhurile necurate au intrat în porci şi turma s-a aruncat de pe ţărmul înalt, în mare. Şi erau ca la două mii şi s-au înecat în mare."
+        },
+        {
+          "verse": 14,
+          "text": "Iar cei care-i păşteau au fugit şi au vestit în cetate şi prin sate. Şi au venit oamenii să vadă ce s-a întâmplat."
+        },
+        {
+          "verse": 15,
+          "text": "Şi s-au dus la Iisus şi au văzut pe cel demonizat şezând jos, îmbrăcat şi întreg la minte, el care avusese legiune de demoni, şi s-au înfricoşat."
+        },
+        {
+          "verse": 16,
+          "text": "Iar cei ce au văzut le-au povestit cum a fost cu demonizatul şi despre porci."
+        },
+        {
+          "verse": 17,
+          "text": "Şi ei au început să-L roage să se ducă din hotarele lor."
+        },
+        {
+          "verse": 18,
+          "text": "Iar intrând El în corabie, cel ce fusese demonizat Îl ruga ca să-l ia cu El."
+        },
+        {
+          "verse": 19,
+          "text": "Iisus însă nu l-a lăsat, ci i-a zis: Mergi în casa ta, la ai tăi, şi spune-le câte ţi-a făcut ţie Domnul şi cum te-a miluit."
+        },
+        {
+          "verse": 20,
+          "text": "Iar el s-a dus şi a început să vestească în Decapole câte i-a făcut Iisus lui; şi toţi se minunau."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_05_02",
+      "chapter": 5,
+      "pericope_num": "02",
+      "title_en": "A Girl Restored to Life and a Woman Healed",
+      "title_ro": "O fată înviată și o femeie vindecată",
+      "start_verse": 21,
+      "end_verse": 43,
+      "verse_count": 23,
+      "verses": [
+        {
+          "verse": 21,
+          "text": "Şi trecând Iisus cu corabia iarăşi de partea cealaltă, s-a adunat la El mulţime multă şi era lângă mare."
+        },
+        {
+          "verse": 22,
+          "text": "Şi a venit unul din mai-marii sinagogilor, anume Iair, şi văzându-L pe Iisus, a căzut la picioarele Lui,"
+        },
+        {
+          "verse": 23,
+          "text": "Şi L-a rugat mult, zicând: Fiica mea este pe moarte, ci, venind, pune mâinile peste ea, ca să scape şi să trăiască."
+        },
+        {
+          "verse": 24,
+          "text": "Şi a mers cu el. Şi mulţime multă îl urma pe Iisus Şi Îl îmbulzea."
+        },
+        {
+          "verse": 25,
+          "text": "Şi era o femeie care avea, de doisprezece ani, curgere de sânge."
+        },
+        {
+          "verse": 26,
+          "text": "Şi multe îndurase de la mulţi doctori, cheltuindu-şi toate ale sale, dar nefolosind nimic, ci mai mult mergând înspre mai rău."
+        },
+        {
+          "verse": 27,
+          "text": "Auzind ea cele despre Iisus, a venit în mulţime şi pe la spate s-a atins de haina Lui."
+        },
+        {
+          "verse": 28,
+          "text": "Căci îşi zicea: De mă voi atinge măcar de haina Lui, mă voi vindeca!"
+        },
+        {
+          "verse": 29,
+          "text": "Şi îndată izvorul sângelui ei a încetat şi ea a simţit în trup că s-a vindecat de boală."
+        },
+        {
+          "verse": 30,
+          "text": "Şi îndată, cunoscând Iisus în Sine puterea ieşită din El, întorcându-Se către mulţime, a întrebat: Cine s-a atins de Mine?"
+        },
+        {
+          "verse": 31,
+          "text": "Şi I-au zis ucenicii Lui: Vezi mulţimea îmbulzindu-Te şi zici: Cine s-a atins de Mine?"
+        },
+        {
+          "verse": 32,
+          "text": "Şi Se uita împrejur să vadă pe aceea care făcuse aceasta."
+        },
+        {
+          "verse": 33,
+          "text": "Iar femeia, înfricoşându-se şi tremurând, ştiind ce i se făcuse, a venit şi a căzut înaintea Lui şi I-a mărturisit tot adevărul;"
+        },
+        {
+          "verse": 34,
+          "text": "Iar El i-a zis: Fiică, credinţa ta te-a mântuit, mergi în pace şi fii sănătoasă de boala ta!"
+        },
+        {
+          "verse": 35,
+          "text": "Încă vorbind El, au venit unii de la mai-marele sinagogii, zicând: Fiica ta a murit. De ce mai superi pe Învăţătorul?"
+        },
+        {
+          "verse": 36,
+          "text": "Dar Iisus, auzind cuvântul ce s-a grăit, a zis mai-marelui sinagogii: Nu te teme. Crede numai."
+        },
+        {
+          "verse": 37,
+          "text": "Şi n-a lăsat pe nimeni să meargă cu El, decât numai pe Petru şi pe Iacov şi pe Ioan, fratele lui Iacov."
+        },
+        {
+          "verse": 38,
+          "text": "Şi au venit la casa mai-marelui sinagogii şi a văzut tulburare şi pe cei ce plângeau şi se tânguiau mult."
+        },
+        {
+          "verse": 39,
+          "text": "Şi intrând, le-a zis: De vă tulburaţi şi plângeţi? Copila n-a murit, ci doarme."
+        },
+        {
+          "verse": 40,
+          "text": "Şi-L luau în râs. Iar El, scoţându-i pe toţi afară, a luat cu Sine pe tatăl copilei, pe mama ei şi pe cei ce îl însoţeau şi a intrat unde era copila."
+        },
+        {
+          "verse": 41,
+          "text": "Şi apucând pe copilă de mână, i-a grăit: Talita kumi, care se tâlcuieşte: Fiică, ţie zic, scoală-te!"
+        },
+        {
+          "verse": 42,
+          "text": "Şi îndată s-a sculat copila şi umbla, căci era de doisprezece ani. Şi s-au mirat îndată cu uimire mare."
+        },
+        {
+          "verse": 43,
+          "text": "Dar El le-a poruncit, cu stăruinţă, ca nimeni să nu afle de aceasta. Şi le-a zis să-i dea copilei să mănânce."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_06_01",
+      "chapter": 6,
+      "pericope_num": "01",
+      "title_en": "The Rejection of Jesus at Nazareth",
+      "title_ro": "Respingerea lui Iisus la Nazaret",
+      "start_verse": 1,
+      "end_verse": 6,
+      "verse_count": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi a ieşit de acolo şi a venit în patria Sa, iar ucenicii Lui au mers după El."
+        },
+        {
+          "verse": 2,
+          "text": "Şi, fiind sâmbătă, a început să înveţe în sinagogă. Şi mulţi, auzindu-L, erau uimiţi şi ziceau: De unde are El acestea? Şi ce este înţelepciunea care I s-a dat Lui? Şi cum se fac minuni ca acestea prin mâinile Lui?"
+        },
+        {
+          "verse": 3,
+          "text": "Au nu este Acesta teslarul, fiul Mariei şi fratele lui Iacov şi al lui Iosi şi al lui Iuda şi al lui Simon? Şi nu sunt, oare, surorile Lui aici la noi? Şi se sminteau întru El."
+        },
+        {
+          "verse": 4,
+          "text": "Şi le zicea Iisus: Nu este prooroc dispreţuit, decât în patria sa şi între rudele sale şi în casa sa."
+        },
+        {
+          "verse": 5,
+          "text": "Şi n-a putut acolo să facă nici o minune, decât că, punându-Şi mâinile peste puţini bolnavi, i-a vindecat."
+        },
+        {
+          "verse": 6,
+          "text": "Şi se mira de necredinţa lor. Şi străbătea satele dimprejur învăţând."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_06_02",
+      "chapter": 6,
+      "pericope_num": "02",
+      "title_en": "The Mission of the Twelve",
+      "title_ro": "Trimiterea celor doisprezece",
+      "start_verse": 7,
+      "end_verse": 13,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 7,
+          "text": "Şi a chemat la Sine pe cei doisprezece şi a început să-i trimită doi câte doi şi le-a dat putere asupra duhurilor necurate."
+        },
+        {
+          "verse": 8,
+          "text": "Şi le-a poruncit să nu ia nimic cu ei, pe cale, ci numai toiag. Nici pâine, nici traistă, nici bani la cingătoare;"
+        },
+        {
+          "verse": 9,
+          "text": "Ci să fie încălţaţi cu sandale şi să nu se îmbrace cu două haine."
+        },
+        {
+          "verse": 10,
+          "text": "Şi le zicea: În orice casă veţi intra, acolo să rămâneţi până ce veţi ieşi de acolo."
+        },
+        {
+          "verse": 11,
+          "text": "Şi dacă într-un loc nu vă vor primi pe voi, nici nu vă vor asculta, ieşind de acolo, scuturaţi praful de sub picioarele voastre, spre mărturie lor. Adevărat grăiesc vouă: Mai uşor va fi Sodomei şi Gomorei, în ziua judecăţii, decât cetăţii aceleia."
+        },
+        {
+          "verse": 12,
+          "text": "Şi ieşind, ei propovăduiau să se pocăiască."
+        },
+        {
+          "verse": 13,
+          "text": "Şi scoteau mulţi demoni şi ungeau cu untdelemn pe mulţi bolnavi şi-i vindecau."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_06_03",
+      "chapter": 6,
+      "pericope_num": "03",
+      "title_en": "The Death of John the Baptist",
+      "title_ro": "Moartea lui Ioan Botezătorul",
+      "start_verse": 14,
+      "end_verse": 29,
+      "verse_count": 16,
+      "verses": [
+        {
+          "verse": 14,
+          "text": "Şi a auzit regele Irod, căci numele lui Iisus se făcuse cunoscut, şi zicea că Ioan Botezătorul s-a sculat din morţi şi de aceea se fac minuni prin el."
+        },
+        {
+          "verse": 15,
+          "text": "Alţii însă ziceau că este Ilie şi alţii că este prooroc, ca unul din prooroci."
+        },
+        {
+          "verse": 16,
+          "text": "Iar Irod, auzind zicea: Este Ioan căruia eu am pus să-i taie capul; el s-a sculat din morţi."
+        },
+        {
+          "verse": 17,
+          "text": "Căci Irod, trimiţând, l-a prins pe Ioan şi l-a legat, în temniţă, din pricina Irodiadei, femeia lui Filip, fratele său, pe care o luase de soţie."
+        },
+        {
+          "verse": 18,
+          "text": "Căci Ioan îi zicea lui Irod: Nu-ţi este îngăduit să ţii pe femeia fratelui tău."
+        },
+        {
+          "verse": 19,
+          "text": "Iar Irodiada îl ura şi voia să-l omoare, dar nu putea,"
+        },
+        {
+          "verse": 20,
+          "text": "Căci Irod se temea de Ioan, ştiindu-l bărbat drept şi sfânt, şi-l ocrotea. Şi ascultându-l, multe făcea şi cu drag îl asculta."
+        },
+        {
+          "verse": 21,
+          "text": "Şi fiind o zi cu bun prilej, când Irod, de ziua sa de naştere, a făcut ospăţ dregătorilor lui şi căpeteniilor oştirii şi fruntaşilor din Galileea,"
+        },
+        {
+          "verse": 22,
+          "text": "Şi fiica Irodiadei, intrând şi jucând, a plăcut lui Irod şi celor ce şedeau cu el la masă. Iar regele a zis fetei: Cere de la mine orice vei voi şi îţi voi da."
+        },
+        {
+          "verse": 23,
+          "text": "Şi s-a jurat ei: Orice vei cere de la mine îţi voi da, până la jumătate din regatul meu."
+        },
+        {
+          "verse": 24,
+          "text": "Şi ea, ieşind, a zis mamei sale: Ce să cer? Iar Irodiada i-a zis: Capul lui Ioan Botezătorul."
+        },
+        {
+          "verse": 25,
+          "text": "Şi intrând îndată, cu grabă, la rege, i-a cerut, zicând: Vreau să-mi dai îndată, pe tipsie, capul lui Ioan Botezătorul."
+        },
+        {
+          "verse": 26,
+          "text": "Şi regele s-a mâhnit adânc, dar pentru jurământ şi pentru cei ce şedeau cu el la masă, n-a voit s-o întristeze."
+        },
+        {
+          "verse": 27,
+          "text": "Şi îndată trimiţând regele un paznic, a poruncit a-i aduce capul."
+        },
+        {
+          "verse": 28,
+          "text": "Şi acela, mergând, i-a tăiat capul în temniţă, l-a adus pe tipsie şi l-a dat fetei, iar fata l-a dat mamei sale."
+        },
+        {
+          "verse": 29,
+          "text": "Şi auzind, ucenicii lui au venit, au luat trupul lui Ioan şi l-au pus în mormânt."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_06_04",
+      "chapter": 6,
+      "pericope_num": "04",
+      "title_en": "Feeding the Five Thousand",
+      "title_ro": "Înmulțirea pâinilor pentru cinci mii",
+      "start_verse": 30,
+      "end_verse": 44,
+      "verse_count": 15,
+      "verses": [
+        {
+          "verse": 30,
+          "text": "Şi s-au adunat apostolii la Iisus şi I-au spus Lui toate câte au făcut şi au învăţat."
+        },
+        {
+          "verse": 31,
+          "text": "Şi El le-a zis: Veniţi voi înşivă de o parte, în loc pustiu, şi odihniţi-vă puţin. Căci mulţi erau care veneau şi mulţi erau care se duceau şi nu mai aveau timp nici să mănânce."
+        },
+        {
+          "verse": 32,
+          "text": "Şi au plecat cu corabia spre un loc pustiu, de o parte."
+        },
+        {
+          "verse": 33,
+          "text": "Şi i-au văzut plecând şi mulţi au înţeles şi au alergat acolo pe jos de prin toate cetăţile şi au sosit înaintea lor."
+        },
+        {
+          "verse": 34,
+          "text": "Şi ieşind din corabie, Iisus a văzut mulţime mare şi I s-a făcut milă de ei, căci erau ca nişte oi fără păstor, şi a început să-i înveţe multe."
+        },
+        {
+          "verse": 35,
+          "text": "Dar făcându-se târziu, ucenicii Lui, apropiindu-se, I-au zis: Locul e pustiu şi ceasul e târziu;"
+        },
+        {
+          "verse": 36,
+          "text": "Slobozeşte-i, ca mergând prin cetăţile şi prin satele dimprejur, să-şi cumpere să mănânce."
+        },
+        {
+          "verse": 37,
+          "text": "Răspunzând, El le-a zis: Daţi-le voi să mănânce. Şi ei I-au zis: Să mergem noi să cumpărăm pâini de două sute de dinari şi să le dăm să mănânce?"
+        },
+        {
+          "verse": 38,
+          "text": "Iar El le-a zis: Câte pâini aveţi? Duceţi-vă şi vedeţi. Şi după ce au văzut, I-au spus: Cinci pâini şi doi peşti."
+        },
+        {
+          "verse": 39,
+          "text": "Şi El le-a poruncit să-i aşeze pe toţi cete, cete, pe iarbă verde."
+        },
+        {
+          "verse": 40,
+          "text": "Şi au şezut cete, cete, câte o sută şi câte cincizeci."
+        },
+        {
+          "verse": 41,
+          "text": "Şi luând cele cinci pâini şi cei doi peşti, privind la cer, a binecuvântat şi a frânt pâinile şi le-a dat ucenicilor, ca să le pună înainte, asemenea şi cei doi peşti i-a împărţit tuturor."
+        },
+        {
+          "verse": 42,
+          "text": "Şi au mâncat toţi şi s-au săturat."
+        },
+        {
+          "verse": 43,
+          "text": "Şi au luat douăsprezece coşuri pline cu fărâmituri şi cu ce-a rămas din peşti."
+        },
+        {
+          "verse": 44,
+          "text": "Iar cei ce au mâncat pâinile erau cinci mii de bărbaţi."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_06_05",
+      "chapter": 6,
+      "pericope_num": "05",
+      "title_en": "Jesus Walks on the Water",
+      "title_ro": "Iisus umblă pe apă",
+      "start_verse": 45,
+      "end_verse": 52,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 45,
+          "text": "Şi îndată a silit pe ucenicii Lui să intre în corabie şi să meargă înaintea Lui, de cealaltă parte, spre Betsaida, până ce El va slobozi mulţimea."
+        },
+        {
+          "verse": 46,
+          "text": "Iar după ce i-a slobozit, S-a dus în munte ca să Se roage."
+        },
+        {
+          "verse": 47,
+          "text": "Şi făcându-se seară, era corabia în mijlocul mării, iar El singur pe ţărm."
+        },
+        {
+          "verse": 48,
+          "text": "Şi i-a văzut cum se chinuiau vâslind, căci vântul le era împotrivă. Şi către a patra strajă a nopţii a venit la ei umblând pe mare şi voia să treacă pe lângă ei."
+        },
+        {
+          "verse": 49,
+          "text": "Iar lor, văzându-L umblând pe mare, li s-a părut că este nălucă şi au strigat."
+        },
+        {
+          "verse": 50,
+          "text": "Căci toţi L-au văzut şi s-au tulburat. Dar îndată El a vorbit cu ei şi le-a zis: Îndrăzniţi! Eu sunt; nu vă temeţi!"
+        },
+        {
+          "verse": 51,
+          "text": "Şi s-a suit la ei în corabie şi s-a potolit vântul. Şi erau peste măsură de uimiţi în sinea lor;"
+        },
+        {
+          "verse": 52,
+          "text": "Căci nu pricepuseră nimic de la minunea pâinilor, deoarece inima lor era învârtoşată."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_06_06",
+      "chapter": 6,
+      "pericope_num": "06",
+      "title_en": "Healing the Sick in Gennesaret",
+      "title_ro": "Vindecarea bolnavilor în Ghenizaret",
+      "start_verse": 53,
+      "end_verse": 56,
+      "verse_count": 4,
+      "verses": [
+        {
+          "verse": 53,
+          "text": "Şi trecând marea, au venit în ţinutul Ghenizaretului şi au tras la ţărm."
+        },
+        {
+          "verse": 54,
+          "text": "Şi ieşind ei din corabie, îndată L-au cunoscut."
+        },
+        {
+          "verse": 55,
+          "text": "Şi străbăteau tot ţinutul acela şi au început să-I aducă pe bolnavi pe paturi, acolo unde auzeau că este El."
+        },
+        {
+          "verse": 56,
+          "text": "Şi oriunde intra în sate sau în cetăţi sau în sătuleţe, puneau la răspântii pe cei bolnavi, şi-L rugau să le îngăduie să se atingă măcar de poala hainei Sale. Şi câţi se atingeau de El se vindecau."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_07_01",
+      "chapter": 7,
+      "pericope_num": "01",
+      "title_en": "The Tradition of the Elders",
+      "title_ro": "Tradiția bătrânilor",
+      "start_verse": 1,
+      "end_verse": 23,
+      "verse_count": 23,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi s-au adunat la El fariseii şi unii dintre cărturari, care veniseră din Ierusalim."
+        },
+        {
+          "verse": 2,
+          "text": "Şi văzând pe unii din ucenicii Lui că mănâncă cu mâinile necurate, adică nespălate, cârteau;"
+        },
+        {
+          "verse": 3,
+          "text": "Căci fariseii şi toţi iudeii, dacă nu-şi spală mâinile până la cot, nu mănâncă, ţinând datina bătrânilor."
+        },
+        {
+          "verse": 4,
+          "text": "Şi când vin din piaţă, dacă nu se spală, nu mănâncă; şi alte multe sunt pe care au primit să le ţină: spălarea paharelor şi a urcioarelor şi a vaselor de aramă şi a paturilor."
+        },
+        {
+          "verse": 5,
+          "text": "Şi L-au întrebat pe El fariseii şi cărturarii: Pentru ce nu umblă ucenicii Tăi după datina bătrânilor, ci mănâncă cu mâinile nespălate?"
+        },
+        {
+          "verse": 6,
+          "text": "Iar El le-a zis: Bine a proorocit Isaia despre voi, făţarnicilor, precum este scris: \"Acest popor Mă cinsteşte cu buzele, dar inima lui este departe de Mine\"."
+        },
+        {
+          "verse": 7,
+          "text": "Dar în zadar Mă cinstesc, învăţând învăţături care sunt porunci omeneşti."
+        },
+        {
+          "verse": 8,
+          "text": "Căci lăsând porunca lui Dumnezeu, ţineţi datina oamenilor: spălarea urcioarelor şi a paharelor şi altele ca acestea multe, pe care le faceţi."
+        },
+        {
+          "verse": 9,
+          "text": "Şi le zicea lor: Bine, aţi lepădat porunca lui Dumnezeu, ca să ţineţi datina voastră!"
+        },
+        {
+          "verse": 10,
+          "text": "Căci Moise a zis: \"Cinsteşte pe tatăl tău şi pe mama ta\", şi \"cel ce va grăi de rău pe tatăl său, sau pe mama sa, cu moarte să se sfârşească\"."
+        },
+        {
+          "verse": 11,
+          "text": "Voi însă ziceţi: Dacă un om va spune tatălui sau mamei: Corban! adică: Cu ce te-aş fi putut ajuta este dăruit lui Dumnezeu,"
+        },
+        {
+          "verse": 12,
+          "text": "Nu-l mai lăsaţi să facă nimic pentru tatăl său sau pentru mama sa."
+        },
+        {
+          "verse": 13,
+          "text": "Şi astfel desfiinţaţi cuvântul lui Dumnezeu cu datina voastră pe care singuri aţi dat-o. Şi faceţi multe asemănătoare cu acestea."
+        },
+        {
+          "verse": 14,
+          "text": "Şi chemând iarăşi mulţimea la El, le zicea: Ascultaţi-Mă toţi şi înţelegeţi:"
+        },
+        {
+          "verse": 15,
+          "text": "Nu este nimic din afară de om care, intrând în el, să poată să-l spurce. Dar cele ce ies din om, acelea sunt care îl spurcă."
+        },
+        {
+          "verse": 16,
+          "text": "De are cineva urechi de auzit să audă."
+        },
+        {
+          "verse": 17,
+          "text": "Şi când a intrat în casă de la mulţime, L-au întrebat ucenicii despre această pildă."
+        },
+        {
+          "verse": 18,
+          "text": "Şi El le-a zis: Aşadar şi voi sunteţi nepricepuţi? Nu înţelegeţi, oare, că tot ce intră în om, din afară, nu poate să-l spurce?"
+        },
+        {
+          "verse": 19,
+          "text": "Că nu intră în inima lui, ci în pântece, şi iese afară, pe calea sa, bucatele fiind toate curate."
+        },
+        {
+          "verse": 20,
+          "text": "Dar zicea că ceea ce iese din om, aceea spurcă pe om."
+        },
+        {
+          "verse": 21,
+          "text": "Căci dinăuntru, din inima omului, ies cugetele cele rele, desfrânările, hoţiile, uciderile,"
+        },
+        {
+          "verse": 22,
+          "text": "Adulterul, lăcomiile, vicleniile, înşelăciunea, neruşinarea, ochiul pizmaş, hula, trufia, uşurătatea."
+        },
+        {
+          "verse": 23,
+          "text": "Toate aceste rele ies dinăuntru şi spurcă pe om."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_07_02",
+      "chapter": 7,
+      "pericope_num": "02",
+      "title_en": "The Syrophoenician Woman’s Faith",
+      "title_ro": "Credința femeii sirofenicianca",
+      "start_verse": 24,
+      "end_verse": 30,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 24,
+          "text": "Şi ridicându-Se de acolo, S-a dus în hotarele Tirului şi ale Sidonului şi, intrând într-o casă, voia ca nimeni să nu ştie, dar n-a putut să rămână tăinuit."
+        },
+        {
+          "verse": 25,
+          "text": "Căci îndată auzind despre El o femeie, a cărei fiică avea duh necurat, a venit şi a căzut la picioarele Lui."
+        },
+        {
+          "verse": 26,
+          "text": "Şi femeia era păgână, de neam din Fenicia Siriei. Şi Îl ruga să alunge demonii din fiica ei."
+        },
+        {
+          "verse": 27,
+          "text": "Dar Iisus i-a vorbit: Lasă întâi să se sature copiii. Căci nu este bine să iei pâinea copiilor şi s-o arunci câinilor."
+        },
+        {
+          "verse": 28,
+          "text": "Ea însă a răspuns şi I-a zis: Da, Doamne, dar şi câinii, sub masă, mănâncă din fărâmiturile copiilor."
+        },
+        {
+          "verse": 29,
+          "text": "Şi Iisus i-a zis: Pentru acest cuvânt, mergi. A ieşit demonul din fiica ta."
+        },
+        {
+          "verse": 30,
+          "text": "Iar ea, ducându-se acasă, a găsit pe copilă culcată în pat, iar demonul ieşise."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_07_03",
+      "chapter": 7,
+      "pericope_num": "03",
+      "title_en": "Jesus Cures a Deaf Man",
+      "title_ro": "Iisus vindecă un surd",
+      "start_verse": 31,
+      "end_verse": 37,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 31,
+          "text": "Şi, ieşind din părţile Tirului, a venit, prin Sidon, la Marea Galileii, prin mijlocul hotarelor Decapolei."
+        },
+        {
+          "verse": 32,
+          "text": "Şi I-au adus un surd, care era şi gângav, şi L-au rugat ca să-Şi pună mâna peste el."
+        },
+        {
+          "verse": 33,
+          "text": "Şi luându-l din mulţime, la o parte, Şi-a pus degetele în urechile lui, şi scuipând, S-a atins de limba lui."
+        },
+        {
+          "verse": 34,
+          "text": "Şi privind la cer, a suspinat şi a zis lui: Effatta! ceea ce înseamnă: Deschide-te!"
+        },
+        {
+          "verse": 35,
+          "text": "Şi urechile lui s-au deschis, iar legătura limbii lui îndată s-a dezlegat, şi vorbea bine."
+        },
+        {
+          "verse": 36,
+          "text": "Şi le poruncea să nu spună nimănui. Dar, cu cât le poruncea, cu atât mai mult ei Îl vesteau."
+        },
+        {
+          "verse": 37,
+          "text": "Şi erau uimiţi peste măsură, zicând: Toate le-a făcut bine: pe surzi îi face să audă şi pe muţi să vorbească."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_08_01",
+      "chapter": 8,
+      "pericope_num": "01",
+      "title_en": "Feeding the Four Thousand",
+      "title_ro": "Înmulțirea pâinilor pentru patru mii",
+      "start_verse": 1,
+      "end_verse": 10,
+      "verse_count": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "În zilele acelea, fiind iarăşi mulţime multă şi neavând ce să mănânce, Iisus, chemând la Sine pe ucenici, le-a zis:"
+        },
+        {
+          "verse": 2,
+          "text": "Milă Îmi este de mulţime, că sunt trei zile de când aşteaptă lângă Mine şi n-au ce să mănânce."
+        },
+        {
+          "verse": 3,
+          "text": "Şi de-i voi slobozi flămânzi la casa lor, se vor istovi pe drum, că unii dintre ei au venit de departe."
+        },
+        {
+          "verse": 4,
+          "text": "Şi ucenicii Lui I-au răspuns: De unde va putea cineva să-i sature pe aceştia cu pâine, aici în pustie."
+        },
+        {
+          "verse": 5,
+          "text": "El însă i-a întrebat: Câte pâini aveţi? Răspuns-au Lui: şapte."
+        },
+        {
+          "verse": 6,
+          "text": "Şi a poruncit mulţimii să şeadă jos pe pământ. Şi, luând cele şapte pâini, a mulţumit, a frânt şi a dat ucenicilor Săi, ca să le pună înainte. Şi ei le-au pus mulţimii înainte."
+        },
+        {
+          "verse": 7,
+          "text": "Şi aveau şi puţini peştişori. Şi binecuvântându-i, a zis să-i pună şi pe aceştia înaintea lor."
+        },
+        {
+          "verse": 8,
+          "text": "Şi au mâncat şi s-au săturat şi au luat şapte coşuri cu rămăşiţe de fărâmituri."
+        },
+        {
+          "verse": 9,
+          "text": "Şi ei erau ca la patru mii. Şi i-a slobozit."
+        },
+        {
+          "verse": 10,
+          "text": "Şi îndată intrând în corabie cu ucenicii Săi, a venit în părţile Dalmanutei."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_08_02",
+      "chapter": 8,
+      "pericope_num": "02",
+      "title_en": "The Demand for a Sign",
+      "title_ro": "Cererea unui semn",
+      "start_verse": 11,
+      "end_verse": 13,
+      "verse_count": 3,
+      "verses": [
+        {
+          "verse": 11,
+          "text": "Şi au ieşit fariseii şi se sfădeau cu El, cerând de la El semn din cer, ispitindu-L."
+        },
+        {
+          "verse": 12,
+          "text": "Şi Iisus, suspinând cu duhul Său, a zis: Pentru ce neamul acesta cere semn? Adevărat grăiesc vouă că nu se va da semn acestui neam."
+        },
+        {
+          "verse": 13,
+          "text": "Şi lăsându-i, a intrat iarăşi în corabie şi a trecut de cealaltă parte."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_08_03",
+      "chapter": 8,
+      "pericope_num": "03",
+      "title_en": "The Yeast of the Pharisees and of Herod",
+      "title_ro": "Dospeala fariseilor și a lui Irod",
+      "start_verse": 14,
+      "end_verse": 21,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 14,
+          "text": "Dar ucenicii au uitat să ia pâine şi numai o pâine aveau cu ei în corabie."
+        },
+        {
+          "verse": 15,
+          "text": "Şi El le-a poruncit, zicând: Vedeţi, păziţi-vă de aluatul fariseilor şi de aluatul lui Irod."
+        },
+        {
+          "verse": 16,
+          "text": "Şi vorbeau între ei, zicând: Aceasta o zice, fiindcă n-avem pâine."
+        },
+        {
+          "verse": 17,
+          "text": "Şi Iisus, înţelegând, le-a zis: De ce gândiţi că n-aveţi pâine? Tot nu înţelegeţi, nici nu pricepeţi? Atât de învârtoşată este inima voastră?"
+        },
+        {
+          "verse": 18,
+          "text": "Ochi aveţi şi nu vedeţi, urechi aveţi şi nu auziţi şi nu vă aduceţi aminte."
+        },
+        {
+          "verse": 19,
+          "text": "Când am frânt cele cinci pâini, la cei cinci mii de oameni, atunci câte coşuri pline de fărâmituri aţi luat? Zis-au Lui: Douăsprezece."
+        },
+        {
+          "verse": 20,
+          "text": "Şi când cu cele şapte pâini, la cei patru mii de oameni, câte coşuri pline de fărâmituri aţi luat? Iar ei au zis: Şapte."
+        },
+        {
+          "verse": 21,
+          "text": "Şi le zicea: Tot nu pricepeţi?"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_08_04",
+      "chapter": 8,
+      "pericope_num": "04",
+      "title_en": "Jesus Cures a Blind Man at Bethsaida",
+      "title_ro": "Iisus vindecă un orb la Betsaida",
+      "start_verse": 22,
+      "end_verse": 26,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 22,
+          "text": "Şi au venit la Betsaida. Şi au adus la El un orb şi L-au rugat să se atingă de el."
+        },
+        {
+          "verse": 23,
+          "text": "Şi luând pe orb de mână, l-a scos afară din sat şi, scuipând în ochii lui şi punându-Şi mâinile peste el, l-a întrebat dacă vede ceva."
+        },
+        {
+          "verse": 24,
+          "text": "Şi el, ridicându-şi ochii, a zis: zăresc oamenii; îi văd ca pe nişte copaci umblând."
+        },
+        {
+          "verse": 25,
+          "text": "După aceea a pus iarăşi mâinile pe ochii lui, şi el a văzut bine şi s-a îndreptat, căci vedea toate, lămurit."
+        },
+        {
+          "verse": 26,
+          "text": "Şi l-a trimis la casa sa, zicându-i: Să nu intri în sat, nici să spui cuiva din sat."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_08_05",
+      "chapter": 8,
+      "pericope_num": "05",
+      "title_en": "Peter’s Declaration about Jesus",
+      "title_ro": "Mărturisirea lui Petru despre Iisus",
+      "start_verse": 27,
+      "end_verse": 30,
+      "verse_count": 4,
+      "verses": [
+        {
+          "verse": 27,
+          "text": "Şi a ieşit Iisus şi ucenicii Lui prin satele din preajma Cezareii lui Filip. Şi pe drum întreba pe ucenicii Săi, zicându-le: Cine zic oamenii că sunt?"
+        },
+        {
+          "verse": 28,
+          "text": "Ei au răspuns Lui, zicând: Unii spun că eşti Ioan Botezătorul, alţii că eşti Ilie, iar alţii că eşti unul din prooroci."
+        },
+        {
+          "verse": 29,
+          "text": "Şi El i-a întrebat: Dar voi cine ziceţi că sunt Eu? Răspunzând, Petru a zis Lui: Tu eşti Hristosul."
+        },
+        {
+          "verse": 30,
+          "text": "Şi El le-a dat poruncă să nu spună nimănui despre El."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_08_06",
+      "chapter": 8,
+      "pericope_num": "06",
+      "title_en": "Jesus Foretells His Death and Resurrection",
+      "title_ro": "Iisus vestește Moartea și Învierea Sa",
+      "start_verse": 31,
+      "end_verse": 38,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 31,
+          "text": "Şi a început să-i înveţe că Fiul Omului trebuie să pătimească multe şi să fie defăimat de bătrâni, de arhierei şi de cărturari şi să fie omorât, iar după trei zile să învieze."
+        },
+        {
+          "verse": 32,
+          "text": "Şi spunea acest cuvânt pe faţă. Şi luându-L Petru de o parte, a început să-L dojenească."
+        },
+        {
+          "verse": 33,
+          "text": "Dar El, întorcându-Se şi uitându-Se la ucenicii Săi, a certat pe Petru şi i-a zis: Mergi, înapoia mea, satano! Căci tu nu cugeţi cele ale lui Dumnezeu, ci cele ale oamenilor."
+        },
+        {
+          "verse": 34,
+          "text": "Şi chemând la Sine mulţimea, împreună cu ucenicii Săi, le-a zis: Oricine voieşte să vină după Mine să se lepede de sine, să-şi ia crucea şi să-Mi urmeze Mie."
+        },
+        {
+          "verse": 35,
+          "text": "Căci cine va voi să-şi scape sufletul îl va pierde, iar cine va pierde sufletul Său pentru Mine şi pentru Evanghelie, acela îl va scăpa."
+        },
+        {
+          "verse": 36,
+          "text": "Căci ce-i foloseşte omului să câştige lumea întreagă, dacă-şi pierde sufletul?"
+        },
+        {
+          "verse": 37,
+          "text": "Sau ce ar putea să dea omul, în schimb, pentru sufletul său?"
+        },
+        {
+          "verse": 38,
+          "text": "Căci de cel ce se va ruşina de Mine şi de cuvintele Mele, în neamul acesta desfrânat şi păcătos, şi Fiul Omului Se va ruşina de el, când va veni întru slava Tatălui său cu sfinţii îngeri."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_09_01",
+      "chapter": 9,
+      "pericope_num": "01",
+      "title_en": "The Transfiguration",
+      "title_ro": "Schimbarea la Față",
+      "start_verse": 1,
+      "end_verse": 8,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi le zicea lor: Adevărat grăiesc vouă că sunt unii, din cei ce stau aici, care nu vor gusta moartea, până ce nu vor vedea împărăţia lui Dumnezeu, venind întru putere."
+        },
+        {
+          "verse": 2,
+          "text": "Şi după şase zile a luat Iisus cu Sine pe Petru şi pe Iacov şi pe Ioan şi i-a dus într-un munte înalt, de o parte, pe ei singuri, şi S-a schimbat la faţă înaintea lor."
+        },
+        {
+          "verse": 3,
+          "text": "Şi veşmintele Lui s-au făcut strălucitoare, albe foarte, ca zăpada, cum nu poate înălbi aşa pe pământ înălbitorul."
+        },
+        {
+          "verse": 4,
+          "text": "Şi li s-a arătat Ilie împreună cu Moise şi vorbeau cu Iisus."
+        },
+        {
+          "verse": 5,
+          "text": "Şi răspunzând Petru, a zis lui Iisus: Învăţătorule, bine este ca noi să fim aici; şi să facem trei colibe: Ţie una şi lui Moise una şi lui Ilie una."
+        },
+        {
+          "verse": 6,
+          "text": "Căci nu ştia ce să spună, fiindcă erau înspăimântaţi."
+        },
+        {
+          "verse": 7,
+          "text": "Şi s-a făcut un nor care îi umbrea, iar un glas din nor a venit zicând: Acesta este Fiul Meu cel iubit, pe Acesta să-L ascultaţi."
+        },
+        {
+          "verse": 8,
+          "text": "Dar, deodată, privind ei împrejur, n-au mai văzut pe nimeni decât pe Iisus, singur cu ei."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_09_02",
+      "chapter": 9,
+      "pericope_num": "02",
+      "title_en": "The Coming of Elijah",
+      "title_ro": "Venirea lui Ilie",
+      "start_verse": 9,
+      "end_verse": 13,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 9,
+          "text": "Şi coborându-se ei din munte, le-a poruncit ca nimănui să nu spună cele ce văzuseră, decât numai când Fiul Omului va învia din morţi."
+        },
+        {
+          "verse": 10,
+          "text": "Iar ei au ţinut cuvântul, întrebându-se între ei: Ce înseamnă a învia din morţi?"
+        },
+        {
+          "verse": 11,
+          "text": "Şi L-au întrebat pe El, zicând: Pentru ce zic fariseii şi cărturarii că trebuie să vină mai întâi Ilie?"
+        },
+        {
+          "verse": 12,
+          "text": "Iar El le-a răspuns: Ilie, venind întâi, va aşeza iarăşi toate. Şi cum este scris despre Fiul Omului că va să pătimească multe şi să fie defăimat?"
+        },
+        {
+          "verse": 13,
+          "text": "Dar vă zic vouă că Ilie a şi venit şi i-au făcut toate câte au voit, precum s-a scris despre el."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_09_03",
+      "chapter": 9,
+      "pericope_num": "03",
+      "title_en": "The Healing of a Boy with a Spirit",
+      "title_ro": "Vindecarea unui băiat cu duh",
+      "start_verse": 14,
+      "end_verse": 29,
+      "verse_count": 16,
+      "verses": [
+        {
+          "verse": 14,
+          "text": "Şi venind la ucenici, a văzut mulţime mare împrejurul lor şi pe cărturari sfădindu-se între ei."
+        },
+        {
+          "verse": 15,
+          "text": "Şi îndată toată mulţimea, văzându-L, s-a spăimântat şi, alergând, I se închina."
+        },
+        {
+          "verse": 16,
+          "text": "Şi Iisus a întrebat pe cărturari: Ce vă sfădiţi între voi?"
+        },
+        {
+          "verse": 17,
+          "text": "Şi I-a răspuns Lui unul din mulţime: Învăţătorule, am adus la Tine pe fiul meu, care are duh mut."
+        },
+        {
+          "verse": 18,
+          "text": "Şi oriunde-l apucă, îl aruncă la pământ şi face spume la gură şi scrâşneşte din dinţi şi înţepeneşte. Şi am zis ucenicilor Tăi să-l alunge, dar ei n-au putut."
+        },
+        {
+          "verse": 19,
+          "text": "Iar El, răspunzând lor, a zis: O, neam necredincios, până când voi fi cu voi? Până când vă voi răbda pe voi? Aduceţi-l la Mine."
+        },
+        {
+          "verse": 20,
+          "text": "Şi l-au adus la El. Şi văzându-L pe Iisus, duhul îndată a zguduit pe copil, şi, căzând la pământ, se zvârcolea spumegând."
+        },
+        {
+          "verse": 21,
+          "text": "Şi l-a întrebat pe tatăl lui: Câtă vreme este de când i-a venit aceasta? Iar el a răspuns: din pruncie."
+        },
+        {
+          "verse": 22,
+          "text": "Şi de multe ori l-a aruncat şi în foc şi în apă ca să-l piardă. Dar de poţi ceva, ajută-ne, fiindu-Ţi milă de noi."
+        },
+        {
+          "verse": 23,
+          "text": "Iar Iisus i-a zis: De poţi crede, toate sunt cu putinţă celui ce crede."
+        },
+        {
+          "verse": 24,
+          "text": "Şi îndată strigând tatăl copilului, a zis cu lacrimi: Cred, Doamne! Ajută necredinţei mele."
+        },
+        {
+          "verse": 25,
+          "text": "Iar Iisus, văzând că mulţimea dă năvală, a certat duhul cel necurat, zicându-i: Duh mut şi surd, Eu îţi poruncesc: Ieşi din el şi să nu mai intri în el!"
+        },
+        {
+          "verse": 26,
+          "text": "Şi răcnind şi zguduindu-l cu putere, duhul a ieşit; iar copilul a rămas ca mort, încât mulţi ziceau că a murit."
+        },
+        {
+          "verse": 27,
+          "text": "Dar Iisus, apucându-l de mână, l-a ridicat, şi el s-a sculat în picioare."
+        },
+        {
+          "verse": 28,
+          "text": "Iar după ce a intrat în casă, ucenicii Lui L-au întrebat, de o parte: Pentru ce noi n-am putut să-l izgonim?"
+        },
+        {
+          "verse": 29,
+          "text": "El le-a zis: Acest neam de demoni cu nimic nu poate ieşi, decât numai cu rugăciune şi cu post."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_09_04",
+      "chapter": 9,
+      "pericope_num": "04",
+      "title_en": "Jesus Again Foretells His Death and Resurrection",
+      "title_ro": "Iisus vestește din nou Moartea și Învierea Sa",
+      "start_verse": 30,
+      "end_verse": 32,
+      "verse_count": 3,
+      "verses": [
+        {
+          "verse": 30,
+          "text": "Şi, ieşind ei de acolo, străbăteau Galileea, dar El nu voia să ştie cineva."
+        },
+        {
+          "verse": 31,
+          "text": "Căci învăţa pe ucenicii Săi şi le spunea că Fiul Omului se va da în mâinile oamenilor şi-L vor ucide, iar după ce-L vor ucide, a treia zi va învia."
+        },
+        {
+          "verse": 32,
+          "text": "Ei însă nu înţelegeau cuvântul şi se temeau să-L întrebe."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_09_05",
+      "chapter": 9,
+      "pericope_num": "05",
+      "title_en": "Who Is the Greatest",
+      "title_ro": "Cine este cel mai mare?",
+      "start_verse": 33,
+      "end_verse": 37,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 33,
+          "text": "Şi au venit în Capernaum. Şi fiind în casă, i-a întrebat: Ce vorbeaţi între voi pe drum?"
+        },
+        {
+          "verse": 34,
+          "text": "Iar ei tăceau, fiindcă pe cale se întrebaseră unii pe alţii cine dintre ei este mai mare."
+        },
+        {
+          "verse": 35,
+          "text": "Şi şezând jos, a chemat pe cei doisprezece şi le-a zis: Dacă cineva vrea să fie întâiul, să fie cel din urmă dintre toţi şi slujitor al tuturor."
+        },
+        {
+          "verse": 36,
+          "text": "Şi luând un copil, l-a pus în mijlocul lor şi, luându-l în braţe, le-a zis:"
+        },
+        {
+          "verse": 37,
+          "text": "Oricine va primi, în numele Meu, pe unul din aceşti copii pe Mine Mă primeşte; şi oricine Mă primeşte, nu pe Mine Mă primeşte, ci pe Cel ce M-a trimis pe Mine."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_09_06",
+      "chapter": 9,
+      "pericope_num": "06",
+      "title_en": "Another Exorcist",
+      "title_ro": "Un alt exorcist",
+      "start_verse": 38,
+      "end_verse": 41,
+      "verse_count": 4,
+      "verses": [
+        {
+          "verse": 38,
+          "text": "Şi I-a zis Ioan: Învăţătorule, am văzut pe cineva scoţând demoni în numele Tău, care nu merge după noi, şi l-am oprit, pentru că nu merge după noi."
+        },
+        {
+          "verse": 39,
+          "text": "Iar Iisus a zis: Nu-l opriţi, căci nu e nimeni care, făcând vreo minune în numele Meu, să poată, degrabă, să Mă vorbească de rău."
+        },
+        {
+          "verse": 40,
+          "text": "Căci cine nu este împotriva noastră este pentru noi."
+        },
+        {
+          "verse": 41,
+          "text": "Iar oricine vă va da să beţi un pahar de apă, în numele Meu, fiindcă sunteţi ai lui Hristos, adevărat zic vouă că nu-şi va pierde plata sa."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_09_07",
+      "chapter": 9,
+      "pericope_num": "07",
+      "title_en": "Temptations to Sin",
+      "title_ro": "Ispite către păcat",
+      "start_verse": 42,
+      "end_verse": 50,
+      "verse_count": 9,
+      "verses": [
+        {
+          "verse": 42,
+          "text": "Şi cine va sminti pe unul din aceştia mici, care cred în Mine, mai bine i-ar fi lui dacă şi-ar lega de gât o piatră de moară şi să fie aruncat în mare."
+        },
+        {
+          "verse": 43,
+          "text": "Şi de te sminteşte mâna ta, tai-o că mai bine îţi este să intri ciung în viaţă, decât, amândouă mâinile având, să te duci în gheena, în focul cel nestins."
+        },
+        {
+          "verse": 44,
+          "text": "Unde viermele lor nu moare şi focul nu se stinge."
+        },
+        {
+          "verse": 45,
+          "text": "Şi de te sminteşte piciorul tău, taie-l, că mai bine îţi este ţie să intri fără un picior în viaţă, decât având amândouă picioarele să fii azvârlit în gheena, în focul cel nestins,"
+        },
+        {
+          "verse": 46,
+          "text": "Unde viermele lor nu moare şi focul nu se stinge."
+        },
+        {
+          "verse": 47,
+          "text": "Şi de te sminteşte ochiul tău, scoate-l, că mai bine îţi este ţie cu un singur ochi în împărăţia lui Dumnezeu, decât, având amândoi ochii, să fii aruncat în gheena focului."
+        },
+        {
+          "verse": 48,
+          "text": "Unde viermele lor nu moare şi focul nu se stinge."
+        },
+        {
+          "verse": 49,
+          "text": "Căci fiecare (om) va fi sărat cu foc, după cum orice jertfă va fi sărată cu sare."
+        },
+        {
+          "verse": 50,
+          "text": "Bună este sarea; dacă însă sarea îşi pierde puterea, cu ce o veţi drege? Aveţi sare întru voi şi trăiţi în pace unii cu alţii."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_10_01",
+      "chapter": 10,
+      "pericope_num": "01",
+      "title_en": "Teaching about Divorce",
+      "title_ro": "Învățătură despre divorț",
+      "start_verse": 1,
+      "end_verse": 12,
+      "verse_count": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi sculându-Se de acolo, a venit în hotarele Iudeii, de cealaltă parte a Iordanului, şi mulţimile s-au adunat iarăşi la El şi iarăşi le învăţa, după cum obişnuia."
+        },
+        {
+          "verse": 2,
+          "text": "Şi apropiindu-se fariseii, Îl întrebau, ispitindu-L, dacă este îngăduit unui bărbat să-şi lase femeia."
+        },
+        {
+          "verse": 3,
+          "text": "Iar El, răspunzând, le-a zis: Ce v-a poruncit vouă Moise?"
+        },
+        {
+          "verse": 4,
+          "text": "Iar ei au zis: Moise a dat voie să-i scrie carte de despărţire şi să o lase."
+        },
+        {
+          "verse": 5,
+          "text": "Şi răspunzând, Iisus le-a zis: Pentru învârtoşarea inimii voastre, v-a scris porunca aceasta;"
+        },
+        {
+          "verse": 6,
+          "text": "Dar de la începutul făpturii, bărbat şi femeie i-a făcut Dumnezeu."
+        },
+        {
+          "verse": 7,
+          "text": "De aceea va lăsa omul pe tatăl său şi pe mama sa şi se va lipi de femeia sa."
+        },
+        {
+          "verse": 8,
+          "text": "Şi vor fi amândoi un trup; aşa că nu mai sunt doi, ci un trup."
+        },
+        {
+          "verse": 9,
+          "text": "Deci ceea ce a împreunat Dumnezeu, omul să nu mai despartă."
+        },
+        {
+          "verse": 10,
+          "text": "Dar în casă ucenicii L-au întrebat iarăşi despre aceasta."
+        },
+        {
+          "verse": 11,
+          "text": "Şi El le-a zis: Oricine va lăsa pe femeia sa şi va lua alta, săvârşeşte adulter cu ea."
+        },
+        {
+          "verse": 12,
+          "text": "Iar femeia, de-şi va lăsa bărbatul ei şi se va mărita cu altul, săvârşeşte adulter."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_10_02",
+      "chapter": 10,
+      "pericope_num": "02",
+      "title_en": "Jesus Blesses Little Children",
+      "title_ro": "Iisus binecuvântează pe copilaș",
+      "start_verse": 13,
+      "end_verse": 16,
+      "verse_count": 4,
+      "verses": [
+        {
+          "verse": 13,
+          "text": "Şi aduceau la El copii, ca să-Şi pună mâinile peste ei, dar ucenicii certau pe cei ce-i aduceau."
+        },
+        {
+          "verse": 14,
+          "text": "Iar Iisus, văzând, S-a mâhnit şi le-a zis: Lăsaţi copiii să vină la Mine şi nu-i opriţi, căci a unora ca aceştia este împărăţia lui Dumnezeu."
+        },
+        {
+          "verse": 15,
+          "text": "Adevărat zic vouă: Cine nu va primi împărăţia lui Dumnezeu ca un copil nu va intra în ea."
+        },
+        {
+          "verse": 16,
+          "text": "Şi, luându-i în braţe, i-a binecuvântat, punându-Şi mâinile peste ei."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_10_03",
+      "chapter": 10,
+      "pericope_num": "03",
+      "title_en": "The Rich Man",
+      "title_ro": "Omul bogat",
+      "start_verse": 17,
+      "end_verse": 31,
+      "verse_count": 15,
+      "verses": [
+        {
+          "verse": 17,
+          "text": "Şi când ieşea El în drum, alergând la El unul şi îngenunchind înaintea Lui, Îl întreba: Învăţătorule bun, ce să fac ca să moştenesc viaţa veşnică?"
+        },
+        {
+          "verse": 18,
+          "text": "Iar Iisus i-a răspuns: De ce-Mi zici bun? Nimeni nu este bun decât unul Dumnezeu."
+        },
+        {
+          "verse": 19,
+          "text": "Ştii poruncile: Să nu ucizi, să nu săvârşeşti adulter, să nu furi, să nu mărturiseşti strâmb, să nu înşeli pe nimeni, cinsteşte pe tatăl tău şi pe mama ta."
+        },
+        {
+          "verse": 20,
+          "text": "Iar el I-a zis: Învăţătorule, acestea toate le-am păzit din tinereţile mele."
+        },
+        {
+          "verse": 21,
+          "text": "Iar Iisus, privind la el cu dragoste, i-a zis: Un lucru îţi mai lipseşte: Mergi, vinde tot ce ai, dă săracilor şi vei avea comoară în cer; şi apoi, luând crucea, vino şi urmează Mie."
+        },
+        {
+          "verse": 22,
+          "text": "Dar el, întristându-se de cuvântul acesta, a plecat mâhnit, căci avea multe bogăţii."
+        },
+        {
+          "verse": 23,
+          "text": "Şi Iisus, uitându-Se în jur, a zis către ucenicii Săi: Cât de greu vor intra bogaţii în împărăţia lui Dumnezeu!"
+        },
+        {
+          "verse": 24,
+          "text": "Iar ucenicii erau uimiţi de cuvintele Lui. Dar Iisus, răspunzând iarăşi, le-a zis: Fiilor, cât  de greu este celor ce se încred în bogăţii să intre în împărăţia lui Dumnezeu!"
+        },
+        {
+          "verse": 25,
+          "text": "Mai lesne este cămilei să treacă prin urechile acului, decât bogatului să intre în împărăţia lui Dumnezeu."
+        },
+        {
+          "verse": 26,
+          "text": "Iar ei, mai mult uimindu-se, ziceau unii către alţii: Şi cine poate să se mântuiască?"
+        },
+        {
+          "verse": 27,
+          "text": "Iisus, privind la ei, le-a zis: La oameni lucrul e cu neputinţă, dar nu la Dumnezeu. Căci la Dumnezeu toate sunt cu putinţă."
+        },
+        {
+          "verse": 28,
+          "text": "Şi a început Petru a-I zice: Iată, noi am lăsat toate şi Ţi-am urmat."
+        },
+        {
+          "verse": 29,
+          "text": "Iisus i-a răspuns: Adevărat grăiesc vouă: Nu este nimeni care şi-a lăsat casă, sau fraţi, sau surori, sau mamă, sau tată, sau copii, sau ţarine pentru Mine şi pentru Evanghelie,"
+        },
+        {
+          "verse": 30,
+          "text": "Şi să nu ia însutit - acum, în vremea aceasta, de prigoniri - case şi fraţi şi surori şi mame şi copii şi ţarine, iar în veacul ce va să vină: viaţă veşnică."
+        },
+        {
+          "verse": 31,
+          "text": "Şi mulţi dintre cei dintâi vor fi pe urmă, şi din cei de pe urmă întâi."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_10_04",
+      "chapter": 10,
+      "pericope_num": "04",
+      "title_en": "A Third Time Jesus Foretells His Death and Resurrection",
+      "title_ro": "Iisus vestește pentru a treia oară Moartea și Învierea Sa",
+      "start_verse": 32,
+      "end_verse": 34,
+      "verse_count": 3,
+      "verses": [
+        {
+          "verse": 32,
+          "text": "Şi erau pe drum, suindu-se la Ierusalim, iar Iisus mergea înaintea lor. Şi ei erau uimiţi şi cei ce mergeau după El se temeau. Şi luând la Sine, iarăşi, pe cei doisprezece, a început să le spună ce aveau să I se întâmple:"
+        },
+        {
+          "verse": 33,
+          "text": "Că, iată, ne suim la Ierusalim şi Fiul Omului va fi predat arhiereilor şi cărturarilor; şi-L vor osândi la moarte şi-L vor da în mâna păgânilor."
+        },
+        {
+          "verse": 34,
+          "text": "Şi-L vor batjocori şi-L vor scuipa şi-L vor biciui şi-L vor omorî, dar după trei zile va învia."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_10_05",
+      "chapter": 10,
+      "pericope_num": "05",
+      "title_en": "The Request of James and John",
+      "title_ro": "Cererea lui Iacov și Ioan",
+      "start_verse": 35,
+      "end_verse": 45,
+      "verse_count": 11,
+      "verses": [
+        {
+          "verse": 35,
+          "text": "Şi au venit la El Iacov şi Ioan, fiii lui Zevedeu, zicându-I: Învăţătorule, voim să ne faci ceea ce vom cere de la Tine."
+        },
+        {
+          "verse": 36,
+          "text": "Iar El le-a zis: Ce voiţi să vă fac?"
+        },
+        {
+          "verse": 37,
+          "text": "Iar ei I-au zis: Dă-ne nouă să şedem unul de-a dreapta Ta, şi altul de-a stânga Ta, întru slava Ta."
+        },
+        {
+          "verse": 38,
+          "text": "Dar Iisus le-a răspuns: Nu ştiţi ce cereţi! Puteţi să beţi paharul pe care îl beau Eu sau să vă botezaţi cu botezul cu care Mă botez Eu?"
+        },
+        {
+          "verse": 39,
+          "text": "Iar ei I-au zis: Putem. Şi Iisus le-a zis: Paharul pe care Eu îl beau îl veţi bea, şi cu botezul cu care Eu mă botez vă veţi boteza."
+        },
+        {
+          "verse": 40,
+          "text": "Dar a şedea de-a dreapta Mea, sau de-a stânga Mea, nu este al Meu a da, ci celor pentru care s-a pregătit."
+        },
+        {
+          "verse": 41,
+          "text": "Şi auzind cei zece, au început a se mânia pe Iacov şi pe Ioan."
+        },
+        {
+          "verse": 42,
+          "text": "Şi Iisus, chemându-i la Sine, le-a zis: Ştiţi că cei ce se socotesc cârmuitori ai neamurilor domnesc peste ele şi cei mai mari ai lor le stăpânesc."
+        },
+        {
+          "verse": 43,
+          "text": "Dar între voi nu trebuie să fie aşa, ci care va vrea să fie mare între voi, să fie slujitor al vostru."
+        },
+        {
+          "verse": 44,
+          "text": "Şi care va vrea să fie întâi între voi, să fie tuturor slugă."
+        },
+        {
+          "verse": 45,
+          "text": "Că şi Fiul Omului n-a venit ca să I se slujească, ci ca El să slujească şi să-Şi dea sufletul răscumpărare pentru mulţi."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_10_06",
+      "chapter": 10,
+      "pericope_num": "06",
+      "title_en": "The Healing of Blind Bartimaeus",
+      "title_ro": "Vindecarea orbului Bartimeu",
+      "start_verse": 46,
+      "end_verse": 52,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 46,
+          "text": "Şi au venit în Ierihon. Şi ieşind din Ierihon El, ucenicii Lui şi mulţime mare, Bartimeu orbul, fiul lui Timeu, şedea jos, pe marginea drumului."
+        },
+        {
+          "verse": 47,
+          "text": "Şi, auzind că este Iisus Nazarineanul, a început să strige şi să zică: Iisuse, Fiul lui David, miluieşte-mă!"
+        },
+        {
+          "verse": 48,
+          "text": "Şi mulţi îl certau ca să tacă, el însă cu mult mai tare striga: Fiule al lui David, miluieşte-mă!"
+        },
+        {
+          "verse": 49,
+          "text": "Şi Iisus, oprindu-Se, a zis: Chemaţi-l! Şi l-au chemat pe orb, zicându-i: Îndrăzneşte, scoală-te! Te cheamă."
+        },
+        {
+          "verse": 50,
+          "text": "Iar orbul, lepădând haina de pe el, a sărit în picioare şi a venit la Iisus."
+        },
+        {
+          "verse": 51,
+          "text": "Şi l-a întrebat Iisus, zicându-i: Ce voieşti să-ţi fac? Iar orbul I-a răspuns: Învăţătorule, să văd iarăşi."
+        },
+        {
+          "verse": 52,
+          "text": "Iar Iisus i-a zis: Mergi, credinţa ta te-a mântuit. Şi îndată a văzut şi urma lui Iisus pe cale."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_11_01",
+      "chapter": 11,
+      "pericope_num": "01",
+      "title_en": "Jesus’ Triumphal Entry into Jerusalem",
+      "title_ro": "Intrarea triumfală a lui Iisus în Ierusalim",
+      "start_verse": 1,
+      "end_verse": 11,
+      "verse_count": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi când s-au apropiat de Ierusalim, la Betfaghe şi la Betania, lângă Muntele Măslinilor, a trimis pe doi dintre ucenicii Săi,"
+        },
+        {
+          "verse": 2,
+          "text": "Şi le-a zis: Mergeţi în satul care este înaintea voastră şi, intrând în el, îndată veţi afla un mânz legat, pe care n-a şezut până acum nici un om. Dezlegaţi-l şi aduceţi-l."
+        },
+        {
+          "verse": 3,
+          "text": "Iar de vă va zice cineva: De ce faceţi aceasta? Spuneţi că Domnul are trebuinţă de el şi îndată îl va trimite aici."
+        },
+        {
+          "verse": 4,
+          "text": "Deci au mers şi au găsit mânzul legat la o poartă, afară la răspântie, şi l-au dezlegat."
+        },
+        {
+          "verse": 5,
+          "text": "Şi unii din cei ce stăteau acolo, le-au zis: De ce dezlegaţi mânzul?"
+        },
+        {
+          "verse": 6,
+          "text": "Iar ei le-au spus precum le zisese Iisus, şi i-au lăsat."
+        },
+        {
+          "verse": 7,
+          "text": "Şi au adus mânzul la Iisus şi şi-au pus hainele pe el şi Iisus a şezut pe el."
+        },
+        {
+          "verse": 8,
+          "text": "Şi mulţi îşi aşterneau hainele pe cale, iar alţii aşterneau ramuri, pe care le tăiau de prin grădini."
+        },
+        {
+          "verse": 9,
+          "text": "Iar cei ce mergeau înainte şi cei ce veneau pe urmă strigau, zicând: Osana! Bine este cuvântat Cel ce vine întru numele Domnului!"
+        },
+        {
+          "verse": 10,
+          "text": "Binecuvântată este împărăţia ce vine a părintelui nostru David! Osana întru cei de sus!"
+        },
+        {
+          "verse": 11,
+          "text": "Şi a intrat Iisus în Ierusalim şi în templu şi, privind toate în jur şi vremea fiind spre seară, a ieşit spre Betania cu cei doisprezece."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_11_02",
+      "chapter": 11,
+      "pericope_num": "02",
+      "title_en": "Jesus Curses the Fig Tree",
+      "title_ro": "Iisus blestemă smochinul",
+      "start_verse": 12,
+      "end_verse": 14,
+      "verse_count": 3,
+      "verses": [
+        {
+          "verse": 12,
+          "text": "Şi a doua zi, ieşind ei din Betania, El a flămânzit."
+        },
+        {
+          "verse": 13,
+          "text": "Şi văzând de departe un smochin care avea frunze, a mers acolo, doar va găsi ceva în el; şi, ajungând la smochin, n-a găsit nimic decât frunze. Căci nu era timpul smochinelor."
+        },
+        {
+          "verse": 14,
+          "text": "Şi, vorbind, i-a zis: De acum înainte, rod din tine nimeni în veac să nu mănânce. Şi ucenicii Lui ascultau."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_11_03",
+      "chapter": 11,
+      "pericope_num": "03",
+      "title_en": "Jesus Cleanses the Temple",
+      "title_ro": "Iisus curățește templul",
+      "start_verse": 15,
+      "end_verse": 19,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 15,
+          "text": "Şi au venit în Ierusalim. Şi, intrând în templu, a început să dea afară pe cei ce vindeau şi pe cei ce cumpărau în templu, iar mesele schimbătorilor de bani şi scaunele vânzătorilor de porumbei le-a răsturnat."
+        },
+        {
+          "verse": 16,
+          "text": "Şi nu îngăduia să mai treacă nimeni cu vreun vas prin templu."
+        },
+        {
+          "verse": 17,
+          "text": "Şi-i învăţa şi le spunea: Nu este, oare, scris: \"Casa Mea casă de rugăciune se va chema, pentru toate neamurile\"? Voi însă aţi făcut din ea peşteră de tâlhari."
+        },
+        {
+          "verse": 18,
+          "text": "Şi au auzit arhiereii şi cărturarii. Şi căutau cum să-L piardă. Căci se temeau de El, pentru că toată mulţimea era uimită de învăţătura Lui."
+        },
+        {
+          "verse": 19,
+          "text": "Iar când s-a făcut seară, au ieşit afară din cetate."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_11_04",
+      "chapter": 11,
+      "pericope_num": "04",
+      "title_en": "The Lesson from the Withered Fig Tree",
+      "title_ro": "Învățătura din smochinul uscat",
+      "start_verse": 20,
+      "end_verse": 25,
+      "verse_count": 6,
+      "verses": [
+        {
+          "verse": 20,
+          "text": "Dimineaţa, trecând pe acolo, au văzut smochinul uscat din rădăcini."
+        },
+        {
+          "verse": 21,
+          "text": "Şi Petru, aducându-şi aminte, I-a zis: Învăţătorule, iată smochinul pe care l-ai blestemat s-a uscat."
+        },
+        {
+          "verse": 22,
+          "text": "Şi răspunzând, Iisus le-a zis: Aveţi credinţă în Dumnezeu."
+        },
+        {
+          "verse": 23,
+          "text": "Adevărat zic vouă că oricine va zice acestui munte: Ridică-te şi te aruncă în mare, şi nu se va îndoi în inima lui, ci va crede că ceea ce spune se va face, fi-va lui orice va zice."
+        },
+        {
+          "verse": 24,
+          "text": "De aceea vă zic vouă: Toate câte cereţi, rugându-vă, să credeţi că le-aţi primit şi le veţi avea."
+        },
+        {
+          "verse": 25,
+          "text": "Iar când staţi de vă rugaţi, iertaţi orice aveţi împotriva cuiva, ca şi Tatăl vostru Cel din ceruri să vă ierte vouă greşealele voastre."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_11_05",
+      "chapter": 11,
+      "pericope_num": "05",
+      "title_en": "Jesus’ Authority Is Questioned",
+      "title_ro": "Autoritatea lui Iisus pusă la îndoială",
+      "start_verse": 27,
+      "end_verse": 33,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 27,
+          "text": "Şi au intrat iarăşi în Ierusalim. Şi pe când se plimba Iisus prin templu, au venit la El arhiereii, cărturarii şi bătrânii."
+        },
+        {
+          "verse": 28,
+          "text": "Şi I-au zis: Cu ce putere faci acestea? Sau cine Ţi-a dat Ţie puterea aceasta, ca să le faci?"
+        },
+        {
+          "verse": 29,
+          "text": "Iar Iisus le-a zis: Vă voi întreba şi Eu un cuvânt: răspundeţi-Mi şi vă voi spune şi Eu cu ce putere fac acestea:"
+        },
+        {
+          "verse": 30,
+          "text": "Botezul lui Ioan din cer a fost, sau de la oameni? Răspundeţi-Mi!"
+        },
+        {
+          "verse": 31,
+          "text": "Şi ei vorbeau între ei, zicând: De vom zice: Din cer, va zice: Pentru ce, dar, n-aţi crezut în el?"
+        },
+        {
+          "verse": 32,
+          "text": "Iar de vom zice: De la oameni - se temeau de mulţime, căci toţi îl socoteau că Ioan era într-adevăr prooroc."
+        },
+        {
+          "verse": 33,
+          "text": "Şi răspunzând, au zis lui Iisus: Nu ştim. Şi Iisus le-a zis: Nici Eu nu vă spun vouă cu ce putere fac acestea."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_12_01",
+      "chapter": 12,
+      "pericope_num": "01",
+      "title_en": "The Parable of the Wicked Tenants",
+      "title_ro": "Pilda viilor răi",
+      "start_verse": 1,
+      "end_verse": 12,
+      "verse_count": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi a început să le vorbească în pilde: Un om a sădit o vie, a împrejmuit-o cu gard, a săpat în ea teasc, a clădit turn şi a dat-o lucrătorilor, iar el s-a dus departe."
+        },
+        {
+          "verse": 2,
+          "text": "Şi la vreme, a trimis la lucrători o slugă, ca să ia de la ei din roadele viei."
+        },
+        {
+          "verse": 3,
+          "text": "Dar ei, punând mâna pe ea, au bătut-o şi i-au dat drumul fără nimic."
+        },
+        {
+          "verse": 4,
+          "text": "Şi a trimis la ei, iarăşi, altă slugă, dar şi pe aceea, lovind-o cu pietre, i-au spart capul şi au ocărât-o."
+        },
+        {
+          "verse": 5,
+          "text": "Şi a trimis alta. Dar şi pe aceea au ucis-o; şi pe multe altele: pe unele bătându-le, iar pe altele ucigându-le."
+        },
+        {
+          "verse": 6,
+          "text": "Mai avea şi un fiu iubit al său şi în cele din urmă l-a trimis la lucrători, zicând: Se vor ruşina de fiul meu."
+        },
+        {
+          "verse": 7,
+          "text": "Dar acei lucrători au zis între ei: Acesta este moştenitorul; veniţi să-l omorâm şi moştenirea va fi a noastră."
+        },
+        {
+          "verse": 8,
+          "text": "Şi prinzându-l l-au omorât şi l-au aruncat afară din vie."
+        },
+        {
+          "verse": 9,
+          "text": "Ce va face acum stăpânul viei? Va veni şi va pierde pe lucrători, iar via o va da altora."
+        },
+        {
+          "verse": 10,
+          "text": "Oare nici Scriptura aceasta n-aţi citit-o: \"Piatra pe care au nesocotit-o ziditorii, aceasta a ajuns să fie în capul unghiului?"
+        },
+        {
+          "verse": 11,
+          "text": "De la Domnul s-a făcut aceasta şi este lucru minunat în ochii noştri\"."
+        },
+        {
+          "verse": 12,
+          "text": "Şi căutau să-L prindă, dar se temeau de popor. Căci înţeleseseră că împotriva lor zisese pilda aceasta. Şi lăsându-L, s-au dus."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_12_02",
+      "chapter": 12,
+      "pericope_num": "02",
+      "title_en": "The Question about Paying Taxes",
+      "title_ro": "Întrebarea despre plata dărilor",
+      "start_verse": 13,
+      "end_verse": 17,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 13,
+          "text": "Şi au trimis la El pe unii din farisei şi din irodiani, ca să-L prindă în cuvânt."
+        },
+        {
+          "verse": 14,
+          "text": "Iar ei, venind, I-au zis: Învăţătorule, ştim că spui adevărul şi nu-Ţi pasă de nimeni, fiindcă nu cauţi la faţa oamenilor, ci cu adevărat înveţi calea lui Dumnezeu. Se cuvine a da dajdie Cezarului sau nu? Să dăm sau să nu dăm?"
+        },
+        {
+          "verse": 15,
+          "text": "El însă, cunoscând făţărnicia lor, le-a zis: Pentru ce Mă ispitiţi? Aduceţi-Mi un dinar ca să-l văd."
+        },
+        {
+          "verse": 16,
+          "text": "Şi I-au adus. Şi i-a întrebat Iisus: Al cui e chipul acesta în inscripţia de pe el? Iar ei I-au zis: Ale Cezarului."
+        },
+        {
+          "verse": 17,
+          "text": "Iar Iisus a zis: Daţi Cezarului cele ale Cezarului, iar lui Dumnezeu cele ale lui Dumnezeu. Şi se mirau de El."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_12_03",
+      "chapter": 12,
+      "pericope_num": "03",
+      "title_en": "The Question about the Resurrection",
+      "title_ro": "Întrebarea despre înviere",
+      "start_verse": 18,
+      "end_verse": 27,
+      "verse_count": 10,
+      "verses": [
+        {
+          "verse": 18,
+          "text": "Şi au venit la El saducheii care zic că nu este înviere şi-L întrebau zicând:"
+        },
+        {
+          "verse": 19,
+          "text": "Învăţătorule, Moise ne-a lăsat scris, că de va muri fratele cuiva şi va lăsa femeia fără copil, să ia fratele său pe femeia lui şi să ridice urmaş fratelui."
+        },
+        {
+          "verse": 20,
+          "text": "Şi erau şapte fraţi. Şi cel dintâi şi-a luat femeie, dar, murind, n-a lăsat urmaş."
+        },
+        {
+          "verse": 21,
+          "text": "Şi a luat-o pe ea al doilea, şi a murit, nelăsând urmaş. Tot aşa şi al treilea."
+        },
+        {
+          "verse": 22,
+          "text": "Şi au luat-o toţi şapte şi n-au lăsat urmaş. În urma tuturor a murit şi femeia."
+        },
+        {
+          "verse": 23,
+          "text": "La înviere, când vor învia, a căruia dintre ei va fi femeia? Căci toţi şapte au avut-o de soţie."
+        },
+        {
+          "verse": 24,
+          "text": "Şi le-a zis Iisus: Oare nu pentru aceasta rătăciţi, neştiind Scripturile, nici puterea lui Dumnezeu?"
+        },
+        {
+          "verse": 25,
+          "text": "Căci, când vor învia din morţi, nici nu se mai însoară, nici nu se mai mărită, ci sunt ca îngerii din ceruri."
+        },
+        {
+          "verse": 26,
+          "text": "Iar despre morţi că vor învia, n-aţi citit, oare, în cartea lui Moise, când i-a vorbit Dumnezeu din rug, zicând: \"Eu sunt Dumnezeul lui Avraam şi Dumnezeul lui Isaac şi Dumnezeul lui Iacov\"?"
+        },
+        {
+          "verse": 27,
+          "text": "Dumnezeu nu este Dumnezeul celor morţi, ci a celor vii. Mult rătăciţi."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_12_04",
+      "chapter": 12,
+      "pericope_num": "04",
+      "title_en": "The First Commandment",
+      "title_ro": "Porunca cea dintâi",
+      "start_verse": 28,
+      "end_verse": 34,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 28,
+          "text": "Şi apropiindu-se unul din cărturari, care îi auzise vorbind între ei şi, văzând că bine le-a răspuns, L-a întrebat: Care poruncă este întâia dintre toate?"
+        },
+        {
+          "verse": 29,
+          "text": "Iisus i-a răspuns că întâia este: \"Ascultă Israele, Domnul Dumnezeul nostru este singurul Domn\"."
+        },
+        {
+          "verse": 30,
+          "text": "Şi: \"Să iubeşti pe Domnul Dumnezeul tău din toată inima ta, din tot sufletul tău, din tot cugetul tău şi din toată puterea ta\". Aceasta este cea dintâi poruncă."
+        },
+        {
+          "verse": 31,
+          "text": "Iar a doua e aceasta: \"Să iubeşti pe aproapele tău ca pe tine însuţi\". Mai mare decât acestea nu este altă poruncă."
+        },
+        {
+          "verse": 32,
+          "text": "Şi I-a zis cărturarul: Bine, Învăţătorule. Adevărat ai zis că unul este Dumnezeu şi nu este altul afară de El."
+        },
+        {
+          "verse": 33,
+          "text": "Şi a-L iubi pe El din toată inima, din tot sufletul, din tot cugetul şi din toată puterea şi a iubi pe aproapele tău ca pe tine însuţi este mai mult decât toate arderile de tot şi decât toate jertfele."
+        },
+        {
+          "verse": 34,
+          "text": "Iar Iisus, văzându-l că a răspuns cu înţelepciune, i-a zis: Nu eşti departe de împărăţia lui Dumnezeu. Şi nimeni nu mai îndrăznea să-L mai întrebe."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_12_05",
+      "chapter": 12,
+      "pericope_num": "05",
+      "title_en": "The Question about David’s Son",
+      "title_ro": "Întrebarea despre fiul lui David",
+      "start_verse": 35,
+      "end_verse": 37,
+      "verse_count": 3,
+      "verses": [
+        {
+          "verse": 35,
+          "text": "Şi învăţând Iisus în templu, grăia zicând: Cum zic cărturarii că Hristos este Fiul lui David?"
+        },
+        {
+          "verse": 36,
+          "text": "Însuşi David a zis întru Duhul Sfânt: \"Zis-a Domnul Domnului meu: Şezi de-a dreapta Mea până ce voi pune pe vrăjmaşii tăi aşternut picioarelor Tale\"."
+        },
+        {
+          "verse": 37,
+          "text": "Deci însuşi David Îl numeşte pe El Domn; de unde dar este fiul lui? Şi mulţimea cea multă Îl asculta cu bucurie."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_12_06",
+      "chapter": 12,
+      "pericope_num": "06",
+      "title_en": "Jesus Denounces the Scribes",
+      "title_ro": "Iisus mustră pe cărturari",
+      "start_verse": 38,
+      "end_verse": 40,
+      "verse_count": 3,
+      "verses": [
+        {
+          "verse": 38,
+          "text": "Şi le zicea în învăţătura Sa: Luaţi seama la cărturari cărora le place să se plimbe în haine lungi şi să li se plece lumea în pieţe,"
+        },
+        {
+          "verse": 39,
+          "text": "Şi să stea în băncile dintâi în sinagogi şi să stea în capul mesei la ospeţe,"
+        },
+        {
+          "verse": 40,
+          "text": "Ei, care secătuiesc casele văduvelor şi de ochii lumii se roagă îndelung, îşi vor lua mai multă osândă."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_12_07",
+      "chapter": 12,
+      "pericope_num": "07",
+      "title_en": "The Widow’s Offering",
+      "title_ro": "Darul văduvei",
+      "start_verse": 41,
+      "end_verse": 44,
+      "verse_count": 4,
+      "verses": [
+        {
+          "verse": 41,
+          "text": "Şi şezând în preajma cutiei darurilor, Iisus privea cum mulţimea aruncă bani în cutie. Şi mulţi bogaţi aruncau mult."
+        },
+        {
+          "verse": 42,
+          "text": "Şi venind o văduvă săracă, a aruncat doi bani, adică un codrant."
+        },
+        {
+          "verse": 43,
+          "text": "Şi chemând la Sine pe ucenicii Săi le-a zis: Adevărat grăiesc vouă că această văduvă săracă a aruncat în cutia darurilor mai mult decât toţi ceilalţi."
+        },
+        {
+          "verse": 44,
+          "text": "Pentru că toţi au aruncat din prisosul lor, pe când ea, din sărăcia ei, a aruncat tot ce avea, toată avuţia sa."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_13_01",
+      "chapter": 13,
+      "pericope_num": "01",
+      "title_en": "The Destruction of the Temple Foretold",
+      "title_ro": "Dărâmarea templului vestită",
+      "start_verse": 1,
+      "end_verse": 13,
+      "verse_count": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi ieşind din templu, unul dintre ucenicii Săi I-a zis: Învăţătorule, priveşte ce fel de pietre şi ce clădiri!"
+        },
+        {
+          "verse": 2,
+          "text": "Dar Iisus a zis: Vezi aceste mari clădiri? Nu va rămâne piatră peste piatră să nu se risipească."
+        },
+        {
+          "verse": 3,
+          "text": "Şi şezând pe Muntele Măslinilor, în faţa templului, Îl întrebau, de o parte, Petru, Iacov, Ioan şi cu Andrei:"
+        },
+        {
+          "verse": 4,
+          "text": "Spune-ne nouă când vor fi acestea? Şi care va fi semnul când va fi să se împlinească toate acestea?"
+        },
+        {
+          "verse": 5,
+          "text": "Iar Iisus a început să le spună: Vedeţi să nu vă înşele cineva."
+        },
+        {
+          "verse": 6,
+          "text": "Căci mulţi vor veni în numele Meu, zicând că sunt Eu, şi vor amăgi pe mulţi."
+        },
+        {
+          "verse": 7,
+          "text": "Iar când veţi auzi de războaie, şi de zvonuri de războaie, să nu vă tulburaţi, căci trebuie să fie, dar încă nu va fi sfârşitul."
+        },
+        {
+          "verse": 8,
+          "text": "Şi se va ridica neam peste neam şi împărăţie peste împărăţie, vor fi cutremure pe alocuri şi foamete şi tulburări vor fi. Iar acestea sunt începutul durerilor."
+        },
+        {
+          "verse": 9,
+          "text": "Luaţi seama la voi înşivă. Că vă vor da în adunări şi veţi fi bătuţi în sinagogi şi veţi sta înaintea conducătorilor şi a regilor, pentru Mine, spre mărturie lor."
+        },
+        {
+          "verse": 10,
+          "text": "Ci mai întâi Evanghelia trebuie să se propovăduiască la toate neamurile."
+        },
+        {
+          "verse": 11,
+          "text": "Iar când vă vor duce ca să vă predea, nu vă îngrijiţi dinainte ce veţi vorbi, ci să vorbiţi ceea ce se va da vouă în ceasul acela. Căci nu voi sunteţi cei care veţi vorbi, ci Duhul Sfânt."
+        },
+        {
+          "verse": 12,
+          "text": "Şi va da frate pe frate la moarte şi tată pe copil şi copiii se vor răzvrăti împotriva părinţilor şi îi vor ucide."
+        },
+        {
+          "verse": 13,
+          "text": "Şi veţi fi urâţi de toţi pentru numele Meu; iar cel ce va răbda până la urmă, acela se va mântui."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_13_02",
+      "chapter": 13,
+      "pericope_num": "02",
+      "title_en": "Persecution Foretold",
+      "title_ro": "Prigoanele vestite",
+      "start_verse": 9,
+      "end_verse": 13,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 9,
+          "text": "Luaţi seama la voi înşivă. Că vă vor da în adunări şi veţi fi bătuţi în sinagogi şi veţi sta înaintea conducătorilor şi a regilor, pentru Mine, spre mărturie lor."
+        },
+        {
+          "verse": 10,
+          "text": "Ci mai întâi Evanghelia trebuie să se propovăduiască la toate neamurile."
+        },
+        {
+          "verse": 11,
+          "text": "Iar când vă vor duce ca să vă predea, nu vă îngrijiţi dinainte ce veţi vorbi, ci să vorbiţi ceea ce se va da vouă în ceasul acela. Căci nu voi sunteţi cei care veţi vorbi, ci Duhul Sfânt."
+        },
+        {
+          "verse": 12,
+          "text": "Şi va da frate pe frate la moarte şi tată pe copil şi copiii se vor răzvrăti împotriva părinţilor şi îi vor ucide."
+        },
+        {
+          "verse": 13,
+          "text": "Şi veţi fi urâţi de toţi pentru numele Meu; iar cel ce va răbda până la urmă, acela se va mântui."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_13_03",
+      "chapter": 13,
+      "pericope_num": "03",
+      "title_en": "The Desolating Sacrilege",
+      "title_ro": "Urâciunea pustiirii",
+      "start_verse": 14,
+      "end_verse": 23,
+      "verse_count": 10,
+      "verses": [
+        {
+          "verse": 14,
+          "text": "Iar când veţi vedea urâciunea pustiirii, stând unde nu se cuvine - cine citeşte să înţeleagă - atunci cei ce vor fi în Iudeea să fugă în munţi,"
+        },
+        {
+          "verse": 15,
+          "text": "Şi cel de pe acoperiş să nu se coboare în casă, nici să intre ca să-şi ia ceva din casa sa,"
+        },
+        {
+          "verse": 16,
+          "text": "Şi cel ce va fi în ţarină să nu se întoarcă îndărăt, ca să-şi ia haina."
+        },
+        {
+          "verse": 17,
+          "text": "Dar vai celor ce vor avea în pântece şi celor ce vor alăpta în zilele acelea!"
+        },
+        {
+          "verse": 18,
+          "text": "Rugaţi-vă, dar, ca să nu fie fuga voastră iarna."
+        },
+        {
+          "verse": 19,
+          "text": "Căci în zilele acelea va fi necaz cum nu a mai fost până acum, de la începutul făpturii, pe care a zidit-o Dumnezeu, şi nici nu va mai fi."
+        },
+        {
+          "verse": 20,
+          "text": "Şi de nu ar fi scurtat Domnul zilele acelea, n-ar scăpa nici un trup, dar pentru cei aleşi, pe care i-a ales, a scurtat acele zile."
+        },
+        {
+          "verse": 21,
+          "text": "Şi atunci dacă vă va zice cineva: Iată, aci este Hristos, sau iată acolo, să nu credeţi."
+        },
+        {
+          "verse": 22,
+          "text": "Se vor scula hristoşi mincinoşi şi prooroci mincinoşi şi vor face semne şi minuni, ca să ducă în rătăcire, de se poate, pe cei aleşi."
+        },
+        {
+          "verse": 23,
+          "text": "Dar voi luaţi seama. Iată dinainte v-am spus vouă toate."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_13_04",
+      "chapter": 13,
+      "pericope_num": "04",
+      "title_en": "The Coming of the Son of Man",
+      "title_ro": "Venirea Fiului Omului",
+      "start_verse": 24,
+      "end_verse": 27,
+      "verse_count": 4,
+      "verses": [
+        {
+          "verse": 24,
+          "text": "Ci în acele zile, după necazul acela, soarele se va întuneca şi luna nu-şi va mai da lumina ei."
+        },
+        {
+          "verse": 25,
+          "text": "Şi stelele vor cădea din cer şi puterile care sunt în ceruri se vor clătina."
+        },
+        {
+          "verse": 26,
+          "text": "Atunci vor vedea pe Fiul Omului venind pe nori, cu putere multă şi cu slavă."
+        },
+        {
+          "verse": 27,
+          "text": "Şi atunci El va trimite pe îngeri şi va aduna pe aleşii Săi din cele patru vânturi, de la marginea pământului până la marginea cerului."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_13_05",
+      "chapter": 13,
+      "pericope_num": "05",
+      "title_en": "The Lesson of the Fig Tree",
+      "title_ro": "Învățătura din smochin",
+      "start_verse": 28,
+      "end_verse": 31,
+      "verse_count": 4,
+      "verses": [
+        {
+          "verse": 28,
+          "text": "Învăţaţi de la smochin pilda: Când mlădiţa lui se face fragedă şi înfrunzeşte, cunoaşteţi că vara este aproape."
+        },
+        {
+          "verse": 29,
+          "text": "Tot aşa şi voi, când veţi vedea împlinindu-se aceste lucruri, să ştiţi că El este aproape, lângă uşi."
+        },
+        {
+          "verse": 30,
+          "text": "Adevărat grăiesc vouă că nu va trece neamul acesta până ce nu vor fi toate acestea."
+        },
+        {
+          "verse": 31,
+          "text": "Cerul şi pământul vor trece, dar cuvintele Mele nu vor trece."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_13_06",
+      "chapter": 13,
+      "pericope_num": "06",
+      "title_en": "The Necessity for Watchfulness",
+      "title_ro": "Necesitatea vegherii",
+      "start_verse": 32,
+      "end_verse": 37,
+      "verse_count": 6,
+      "verses": [
+        {
+          "verse": 32,
+          "text": "Iar despre ziua aceea şi despre ceasul acela nimeni nu ştie, nici îngerii din cer, nici Fiul, ci numai Tatăl."
+        },
+        {
+          "verse": 33,
+          "text": "Luaţi aminte, privegheaţi şi vă rugaţi, că nu ştiţi când va fi acea vreme."
+        },
+        {
+          "verse": 34,
+          "text": "Este ca un om care a plecat în altă ţară şi, lăsându-şi casa, a dat puterea în mâna slugilor, dând fiecăruia lucrul lui, iar portarului i-a poruncit să vegheze."
+        },
+        {
+          "verse": 35,
+          "text": "Vegheaţi, dar, că nu ştiţi când va veni stăpânul casei: sau seara, sau la miezul nopţii, sau la cântatul cocoşilor, sau dimineaţa."
+        },
+        {
+          "verse": 36,
+          "text": "Ca nu cumva venind fără veste, să vă afle pe voi dormind."
+        },
+        {
+          "verse": 37,
+          "text": "Iar ceea ce zic vouă, zic tuturor: Privegheaţi!"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_14_01",
+      "chapter": 14,
+      "pericope_num": "01",
+      "title_en": "The Plot to Kill Jesus",
+      "title_ro": "Uneltirea de a-L ucide pe Iisus",
+      "start_verse": 1,
+      "end_verse": 14,
+      "verse_count": 14,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi după două zile erau Paştile şi Azimile. Şi arhiereii şi cărturarii căutau cum să-l prindă cu vicleşug, ca să-L omoare."
+        },
+        {
+          "verse": 2,
+          "text": "Dar ziceau: Nu la sărbătoare, ca să nu fie tulburare în popor."
+        },
+        {
+          "verse": 3,
+          "text": "Şi fiind El în Betania, în casa lui Simon Leprosul, şi şezând la masă, a venit o femeie având un alabastru, cu mir de nard curat, de mare preţ, şi, spărgând vasul, a vărsat mirul pe capul lui Iisus."
+        },
+        {
+          "verse": 4,
+          "text": "Dar erau unii mâhniţi între ei, zicând: Pentru ce s-a făcut această risipă de mir?"
+        },
+        {
+          "verse": 5,
+          "text": "Căci putea să se vândă acest mir cu peste trei sute de dinari, şi să se dea săracilor. Şi cârteau împotriva ei."
+        },
+        {
+          "verse": 6,
+          "text": "Dar Iisus a zis: Lăsaţi-o. De ce îi faceţi supărare? Lucru bun a făcut ea cu Mine."
+        },
+        {
+          "verse": 7,
+          "text": "Că pe săraci totdeauna îi aveţi cu voi şi, oricând voiţi, puteţi să le faceţi bine, dar pe mine nu Mă aveţi totdeauna."
+        },
+        {
+          "verse": 8,
+          "text": "Ea a făcut ceea ce avea de făcut: mai dinainte a uns trupul Meu, spre înmormântare."
+        },
+        {
+          "verse": 9,
+          "text": "Adevărat zic vouă: Oriunde se va propovădui Evanghelia, în toată lumea, se va spune şi ce-a făcut aceasta, spre pomenirea ei."
+        },
+        {
+          "verse": 10,
+          "text": "Iar Iuda Iscarioteanul, unul din cei doisprezece, s-a dus la arhierei ca să li-L dea pe Iisus."
+        },
+        {
+          "verse": 11,
+          "text": "Şi, auzind ei, s-au bucurat şi au făgăduit să-i dea bani. Şi el căuta cum să-L dea lor, la timp potrivit."
+        },
+        {
+          "verse": 12,
+          "text": "Iar în ziua cea dintâi a Azimilor, când jertfeau Paştile, ucenicii Lui L-au întrebat: Unde voieşti să gătim, ca să mănânci Paştile?"
+        },
+        {
+          "verse": 13,
+          "text": "Şi a trimis doi din ucenicii Lui, zicându-le: Mergeţi în cetate şi vă va întâmpina un om, ducând un urcior cu apă; mergeţi după el."
+        },
+        {
+          "verse": 14,
+          "text": "Şi unde va intra, spuneţi stăpânului casei că Învăţătorul zice: Unde este odaia în care să mănânc Paştile împreună cu ucenicii Mei?"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_14_02",
+      "chapter": 14,
+      "pericope_num": "02",
+      "title_en": "The Anointing at Bethany",
+      "title_ro": "Ungerea la Betania",
+      "start_verse": 3,
+      "end_verse": 9,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 3,
+          "text": "Şi fiind El în Betania, în casa lui Simon Leprosul, şi şezând la masă, a venit o femeie având un alabastru, cu mir de nard curat, de mare preţ, şi, spărgând vasul, a vărsat mirul pe capul lui Iisus."
+        },
+        {
+          "verse": 4,
+          "text": "Dar erau unii mâhniţi între ei, zicând: Pentru ce s-a făcut această risipă de mir?"
+        },
+        {
+          "verse": 5,
+          "text": "Căci putea să se vândă acest mir cu peste trei sute de dinari, şi să se dea săracilor. Şi cârteau împotriva ei."
+        },
+        {
+          "verse": 6,
+          "text": "Dar Iisus a zis: Lăsaţi-o. De ce îi faceţi supărare? Lucru bun a făcut ea cu Mine."
+        },
+        {
+          "verse": 7,
+          "text": "Că pe săraci totdeauna îi aveţi cu voi şi, oricând voiţi, puteţi să le faceţi bine, dar pe mine nu Mă aveţi totdeauna."
+        },
+        {
+          "verse": 8,
+          "text": "Ea a făcut ceea ce avea de făcut: mai dinainte a uns trupul Meu, spre înmormântare."
+        },
+        {
+          "verse": 9,
+          "text": "Adevărat zic vouă: Oriunde se va propovădui Evanghelia, în toată lumea, se va spune şi ce-a făcut aceasta, spre pomenirea ei."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_14_03",
+      "chapter": 14,
+      "pericope_num": "03",
+      "title_en": "Judas Agrees to Betray Jesus",
+      "title_ro": "Iuda se învoiește să-L trădeze pe Iisus",
+      "start_verse": 10,
+      "end_verse": 11,
+      "verse_count": 2,
+      "verses": [
+        {
+          "verse": 10,
+          "text": "Iar Iuda Iscarioteanul, unul din cei doisprezece, s-a dus la arhierei ca să li-L dea pe Iisus."
+        },
+        {
+          "verse": 11,
+          "text": "Şi, auzind ei, s-au bucurat şi au făgăduit să-i dea bani. Şi el căuta cum să-L dea lor, la timp potrivit."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_14_04",
+      "chapter": 14,
+      "pericope_num": "04",
+      "title_en": "The Passover with the Disciples",
+      "title_ro": "Paștele cu ucenicii",
+      "start_verse": 12,
+      "end_verse": 21,
+      "verse_count": 10,
+      "verses": [
+        {
+          "verse": 12,
+          "text": "Iar în ziua cea dintâi a Azimilor, când jertfeau Paştile, ucenicii Lui L-au întrebat: Unde voieşti să gătim, ca să mănânci Paştile?"
+        },
+        {
+          "verse": 13,
+          "text": "Şi a trimis doi din ucenicii Lui, zicându-le: Mergeţi în cetate şi vă va întâmpina un om, ducând un urcior cu apă; mergeţi după el."
+        },
+        {
+          "verse": 14,
+          "text": "Şi unde va intra, spuneţi stăpânului casei că Învăţătorul zice: Unde este odaia în care să mănânc Paştile împreună cu ucenicii Mei?"
+        },
+        {
+          "verse": 15,
+          "text": "Iar el vă va arăta un foişor mare aşternut gata. Acolo să pregătiţi pentru noi."
+        },
+        {
+          "verse": 16,
+          "text": "Şi au ieşit ucenicii şi au venit în cetate şi au găsit aşa precum le-a spus şi au pregătit Paştile."
+        },
+        {
+          "verse": 17,
+          "text": "Iar făcându-se seară, a venit cu cei doisprezece."
+        },
+        {
+          "verse": 18,
+          "text": "Pe când şedeau la masă şi mâncau, Iisus a zis: Adevărat grăiesc vouă că unul dintre voi, care mănâncă împreună cu Mine, Mă va vinde."
+        },
+        {
+          "verse": 19,
+          "text": "Ei au început să se întristeze şi să-I zică, unul câte unul: Nu cumva sunt eu?"
+        },
+        {
+          "verse": 20,
+          "text": "Iar El le-a zis: Unul dintre cei doisprezece, care întinge cu Mine în blid."
+        },
+        {
+          "verse": 21,
+          "text": "Că Fiul Omului merge precum este scris despre El; dar vai de omul acela prin care este vândut Fiul Omului. Bine era de omul acela dacă nu s-ar fi născut."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_14_05",
+      "chapter": 14,
+      "pericope_num": "05",
+      "title_en": "The Institution of the Lord’s Supper",
+      "title_ro": "Rânduirea Cinei Domnului",
+      "start_verse": 22,
+      "end_verse": 25,
+      "verse_count": 4,
+      "verses": [
+        {
+          "verse": 22,
+          "text": "Şi, mâncând ei, a luat Iisus pâine şi binecuvântând, a frânt şi le-a dat lor şi a zis: Luaţi, mâncaţi, acesta este Trupul Meu."
+        },
+        {
+          "verse": 23,
+          "text": "Şi luând paharul, mulţumind, le-a dat şi au băut din el toţi."
+        },
+        {
+          "verse": 24,
+          "text": "Şi a zis lor: Acesta este Sângele Meu, al Legii celei noi, care pentru mulţi se varsă."
+        },
+        {
+          "verse": 25,
+          "text": "Adevărat grăiesc vouă că de acum nu voi mai bea din rodul viţei până în ziua aceea când îl voi bea nou în împărăţia lui Dumnezeu."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_14_06",
+      "chapter": 14,
+      "pericope_num": "06",
+      "title_en": "Peter’s Denial Foretold",
+      "title_ro": "Lepădarea lui Petru vestită",
+      "start_verse": 26,
+      "end_verse": 31,
+      "verse_count": 6,
+      "verses": [
+        {
+          "verse": 26,
+          "text": "Şi după ce au cântat cântări de laudă, au ieşit la Muntele Măslinilor."
+        },
+        {
+          "verse": 27,
+          "text": "Şi le-a zis Iisus: Toţi vă veţi sminti, că scris este: \"Bate-voi păstorul şi se vor risipi oile\"."
+        },
+        {
+          "verse": 28,
+          "text": "Dar după învierea Mea, voi merge mai înainte de voi în Galileea."
+        },
+        {
+          "verse": 29,
+          "text": "Iar Petru I-a zis: Chiar dacă toţi se vor sminti întru Tine, totuşi eu nu."
+        },
+        {
+          "verse": 30,
+          "text": "Şi i-a zis Iisus: Adevărat grăiesc ţie: Că tu astăzi, în noaptea aceasta, mai înainte de a cânta de două ori cocoşul, de trei ori te vei lepăda de Mine."
+        },
+        {
+          "verse": 31,
+          "text": "El însă spunea mai stăruitor: Şi de-ar fi să mor cu Tine, nu Te voi tăgădui. Şi tot aşa ziceau toţi."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_14_07",
+      "chapter": 14,
+      "pericope_num": "07",
+      "title_en": "Jesus Prays in Gethsemane",
+      "title_ro": "Iisus Se roagă în Ghetsimani",
+      "start_verse": 32,
+      "end_verse": 42,
+      "verse_count": 11,
+      "verses": [
+        {
+          "verse": 32,
+          "text": "Şi au venit la un loc al cărui nume este Ghetsimani, şi acolo a zis către ucenicii Săi: Şedeţi aici până ce Mă voi ruga."
+        },
+        {
+          "verse": 33,
+          "text": "Şi a luat cu El pe Petru şi pe Iacov şi pe Ioan şi a început a Se tulbura şi a Se mâhni."
+        },
+        {
+          "verse": 34,
+          "text": "Şi le-a zis lor: Întristat este sufletul Meu până la moarte. Rămâneţi aici şi privegheaţi."
+        },
+        {
+          "verse": 35,
+          "text": "Şi mergând puţin mai înainte, a căzut cu faţa la pământ şi Se ruga, ca, de este cu putinţă, să treacă de la El ceasul (acesta)."
+        },
+        {
+          "verse": 36,
+          "text": "Şi zicea: Avva Părinte, toate sunt Ţie cu putinţă. Depărtează paharul acesta de la Mine. Dar nu ce voiesc Eu, ci ceea ce voieşti Tu."
+        },
+        {
+          "verse": 37,
+          "text": "Şi a venit şi i-a găsit dormind şi a zis lui Petru: Simone, dormi? N-ai avut tărie ca să veghezi un ceas?"
+        },
+        {
+          "verse": 38,
+          "text": "Privegheaţi şi vă rugaţi, ca să nu intraţi în ispită. Căci duhul este osârduitor, dar trupul neputincios."
+        },
+        {
+          "verse": 39,
+          "text": "Şi iarăşi mergând, s-a rugat, acelaşi cuvânt zicând."
+        },
+        {
+          "verse": 40,
+          "text": "Şi iarăşi venind, i-a găsit dormind, căci ochii lor erau îngreuiaţi şi nu ştiau ce să-I răspundă."
+        },
+        {
+          "verse": 41,
+          "text": "Şi a venit a treia oară şi le-a zis: Dormiţi de acum şi vă odihniţi! E gata! A sosit ceasul. Iată Fiul Omului este dat în mâinile păcătoşilor."
+        },
+        {
+          "verse": 42,
+          "text": "Sculaţi-vă să mergem. Iată, cel ce M-a vândut s-a apropiat."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_14_08",
+      "chapter": 14,
+      "pericope_num": "08",
+      "title_en": "The Betrayal and Arrest of Jesus",
+      "title_ro": "Trădarea și prinderea lui Iisus",
+      "start_verse": 43,
+      "end_verse": 52,
+      "verse_count": 10,
+      "verses": [
+        {
+          "verse": 43,
+          "text": "Şi îndată, încă vorbind El, a venit Iuda Iscarioteanul, unul din cei doisprezece, şi cu el mulţime cu săbii şi cu ciomege, de la arhierei, de la cărturari şi de la bătrâni."
+        },
+        {
+          "verse": 44,
+          "text": "Iar vânzătorul le dăduse semn, zicând: Pe care-L voi săruta, Acela este. Prindeţi-L şi duceţi-L cu pază."
+        },
+        {
+          "verse": 45,
+          "text": "Şi venind îndată şi apropiindu-se de El, a zis Lui: Învăţătorule! Şi L-a sărutat."
+        },
+        {
+          "verse": 46,
+          "text": "Iar ei au pus mâna pe El şi L-au prins."
+        },
+        {
+          "verse": 47,
+          "text": "Unul din cei ce stăteau pe lângă El, scoţând sabia, a lovit pe sluga arhiereului şi i-a tăiat urechea."
+        },
+        {
+          "verse": 48,
+          "text": "Şi răspunzând, Iisus le-a zis: Ca la un tâlhar aţi ieşit cu săbii şi cu toiege, ca să Mă prindeţi."
+        },
+        {
+          "verse": 49,
+          "text": "În fiecare zi eram la voi în templu, învăţând, şi nu M-aţi prins. Dar acestea sunt ca să se împlinească Scripturile."
+        },
+        {
+          "verse": 50,
+          "text": "Şi, lăsându-L, au fugit toţi."
+        },
+        {
+          "verse": 51,
+          "text": "Iar un tânăr mergea după El, înfăşurat într-o pânzătură, pe trupul gol, şi au pus mâna pe el."
+        },
+        {
+          "verse": 52,
+          "text": "El însă, smulgându-se din pânzătură, a fugit gol."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_14_09",
+      "chapter": 14,
+      "pericope_num": "09",
+      "title_en": "Jesus before the Council",
+      "title_ro": "Iisus înaintea Sinedriului",
+      "start_verse": 53,
+      "end_verse": 65,
+      "verse_count": 13,
+      "verses": [
+        {
+          "verse": 53,
+          "text": "Şi au dus pe Iisus la arhiereu şi s-au adunat acolo toţi arhiereii şi bătrânii şi cărturarii."
+        },
+        {
+          "verse": 54,
+          "text": "Iar Petru, de departe, a mers după El, până a intrat înăuntru în curtea arhiereului şi şedea împreună cu slugile, încălzindu-se la foc."
+        },
+        {
+          "verse": 55,
+          "text": "Arhiereii şi tot sinedriul căutau împotriva lui Iisus mărturie ca să-L dea la moarte, dar nu găseau."
+        },
+        {
+          "verse": 56,
+          "text": "Că mulţi mărturiseau mincinos împotriva Lui, dar mărturiile nu se potriveau."
+        },
+        {
+          "verse": 57,
+          "text": "Şi ridicându-se unii, au dat mărturie mincinoasă împotriva Lui, zicând:"
+        },
+        {
+          "verse": 58,
+          "text": "Noi L-am auzit zicând: Voi dărâma acest templu făcut de mână, şi în trei zile altul, nefăcut de mână, voi clădi."
+        },
+        {
+          "verse": 59,
+          "text": "Dar nici aşa mărturia lor nu era la fel."
+        },
+        {
+          "verse": 60,
+          "text": "Şi, sculându-se în mijlocul lor, arhiereul L-a întrebat pe Iisus, zicând: Nu răspunzi nimic la tot ce mărturisesc împotriva Ta aceştia?"
+        },
+        {
+          "verse": 61,
+          "text": "Iar El tăcea şi nu răspundea nimic. Iarăşi L-a întrebat arhiereul şi I-a zis: Eşti tu Hristosul, Fiul Celui binecuvântat?"
+        },
+        {
+          "verse": 62,
+          "text": "Iar Iisus a zis: Eu sunt şi veţi vedea pe Fiul Omului şezând de-a dreapta Celui Atotputernic şi venind pe norii cerului."
+        },
+        {
+          "verse": 63,
+          "text": "Iar arhiereul, sfâşiindu-şi hainele, a zis: Ce trebuinţă mai avem de martori?"
+        },
+        {
+          "verse": 64,
+          "text": "Aţi auzit hula. Ce vi se pare vouă? Iar ei toţi au judecat că El este vinovat de moarte."
+        },
+        {
+          "verse": 65,
+          "text": "Şi unii au început să-L scuipe şi să-I acopere faţa şi să-L bată cu pumnii şi să-I zică: Prooroceşte! Şi slugile Îl băteau cu palmele."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_14_10",
+      "chapter": 14,
+      "pericope_num": "10",
+      "title_en": "Peter Denies Jesus",
+      "title_ro": "Petru Îl tăgăduiește pe Iisus",
+      "start_verse": 66,
+      "end_verse": 72,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 66,
+          "text": "Şi Petru fiind jos în curte, a venit una din slujnicele arhiereului,"
+        },
+        {
+          "verse": 67,
+          "text": "Şi văzându-l pe Petru, încălzindu-se, s-a uitat la el şi a zis: Şi tu erai cu Iisus Nazarineanul."
+        },
+        {
+          "verse": 68,
+          "text": "El însă a tăgăduit, zicând: Nici nu ştiu, nici nu înţeleg ce zici. Şi a ieşit afară înaintea curţii; şi a cântat cocoşul."
+        },
+        {
+          "verse": 69,
+          "text": "Iar slujnica, văzându-l, a început iarăşi să spună celor de faţă că acesta este dintre ei."
+        },
+        {
+          "verse": 70,
+          "text": "Iar el a tăgăduit iarăşi. Şi după puţin timp, cei de faţă ziceau iarăşi lui Petru: Cu adevărat eşti dintre ei, căci eşti şi galileian şi vorbirea ta se aseamănă."
+        },
+        {
+          "verse": 71,
+          "text": "Iar el a început să se blesteme şi să se jure: Nu ştiu pe omul acesta despre care ziceţi."
+        },
+        {
+          "verse": 72,
+          "text": "Şi îndată cocoşul a cântat a doua oară. Şi Petru şi-a adus aminte de cuvântul pe care i-l spusese Iisus: Înainte de a cânta de două ori cocoşul , de trei ori te vei lepăda de Mine. Şi a început să plângă."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_15_01",
+      "chapter": 15,
+      "pericope_num": "01",
+      "title_en": "Jesus before Pilate",
+      "title_ro": "Iisus înaintea lui Pilat",
+      "start_verse": 1,
+      "end_verse": 15,
+      "verse_count": 15,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi îndată dimineaţa, arhiereii, ţinând sfat cu bătrânii, cu cărturarii şi cu tot sinedriul şi legând pe Iisus, L-au dus şi L-au predat lui Pilat."
+        },
+        {
+          "verse": 2,
+          "text": "Şi L-a întrebat Pilat: Tu eşti regele iudeilor? Iar El, răspunzând, i-a zis: Tu zici."
+        },
+        {
+          "verse": 3,
+          "text": "Iar arhiereii Îl învinuiau de multe."
+        },
+        {
+          "verse": 4,
+          "text": "Iar Pilat L-a întrebat: Nu răspunzi nimic? Iată câte spun împotriva Ta."
+        },
+        {
+          "verse": 5,
+          "text": "Dar Iisus nimic n-a mai răspuns, încât Pilat se mira."
+        },
+        {
+          "verse": 6,
+          "text": "Iar la sărbătoarea Paştilor, le elibera un întemniţat pe care-l cereau ei."
+        },
+        {
+          "verse": 7,
+          "text": "Şi era unul cu numele Baraba închis împreună cu nişte răzvrătiţi, care în răscoală săvârşiseră ucidere."
+        },
+        {
+          "verse": 8,
+          "text": "Şi mulţimea, venind sus, a început să ceară lui Pilat să le facă precum obişnuia pentru ei."
+        },
+        {
+          "verse": 9,
+          "text": "Iar Pilat le-a răspuns, zicând: Voiţi să vă eliberez pe regele iudeilor?"
+        },
+        {
+          "verse": 10,
+          "text": "Fiindcă ştia că arhiereii Îl dăduseră în mâna lui din invidie."
+        },
+        {
+          "verse": 11,
+          "text": "Dar arhiereii au aţâţat mulţimea ca să le elibereze mai degrabă pe Baraba."
+        },
+        {
+          "verse": 12,
+          "text": "Iar Pilat, răspunzând iarăşi, le-a zis: Ce voi face deci cu cel despre care ziceţi că este regele iudeilor?"
+        },
+        {
+          "verse": 13,
+          "text": "Ei iarăşi au strigat: Răstigneşte-L!"
+        },
+        {
+          "verse": 14,
+          "text": "Iar Pilat le-a zis: Dar ce rău a făcut? Iar ei mai mult strigau: Răstigneşte-L!"
+        },
+        {
+          "verse": 15,
+          "text": "Şi Pilat, vrând să facă pe voia mulţimii, le-a eliberat pe Baraba, iar pe Iisus, biciuindu-L, L-a dat ca să fie răstignit."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_15_02",
+      "chapter": 15,
+      "pericope_num": "02",
+      "title_en": "Pilate Hands Jesus over to Be Crucified",
+      "title_ro": "Pilat Îl predă pe Iisus spre răstignire",
+      "start_verse": 6,
+      "end_verse": 15,
+      "verse_count": 10,
+      "verses": [
+        {
+          "verse": 6,
+          "text": "Iar la sărbătoarea Paştilor, le elibera un întemniţat pe care-l cereau ei."
+        },
+        {
+          "verse": 7,
+          "text": "Şi era unul cu numele Baraba închis împreună cu nişte răzvrătiţi, care în răscoală săvârşiseră ucidere."
+        },
+        {
+          "verse": 8,
+          "text": "Şi mulţimea, venind sus, a început să ceară lui Pilat să le facă precum obişnuia pentru ei."
+        },
+        {
+          "verse": 9,
+          "text": "Iar Pilat le-a răspuns, zicând: Voiţi să vă eliberez pe regele iudeilor?"
+        },
+        {
+          "verse": 10,
+          "text": "Fiindcă ştia că arhiereii Îl dăduseră în mâna lui din invidie."
+        },
+        {
+          "verse": 11,
+          "text": "Dar arhiereii au aţâţat mulţimea ca să le elibereze mai degrabă pe Baraba."
+        },
+        {
+          "verse": 12,
+          "text": "Iar Pilat, răspunzând iarăşi, le-a zis: Ce voi face deci cu cel despre care ziceţi că este regele iudeilor?"
+        },
+        {
+          "verse": 13,
+          "text": "Ei iarăşi au strigat: Răstigneşte-L!"
+        },
+        {
+          "verse": 14,
+          "text": "Iar Pilat le-a zis: Dar ce rău a făcut? Iar ei mai mult strigau: Răstigneşte-L!"
+        },
+        {
+          "verse": 15,
+          "text": "Şi Pilat, vrând să facă pe voia mulţimii, le-a eliberat pe Baraba, iar pe Iisus, biciuindu-L, L-a dat ca să fie răstignit."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_15_03",
+      "chapter": 15,
+      "pericope_num": "03",
+      "title_en": "The Soldiers Mock Jesus",
+      "title_ro": "Ostașii Îl batjocoresc pe Isus",
+      "start_verse": 16,
+      "end_verse": 20,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 16,
+          "text": "Iar ostaşii L-au dus înăuntrul curţii, adică în pretoriu, şi au adunat toată cohorta."
+        },
+        {
+          "verse": 17,
+          "text": "Şi L-au îmbrăcat în purpură şi, împletindu-I o cunună de spini, I-au pus-o pe cap."
+        },
+        {
+          "verse": 18,
+          "text": "Şi au început să se plece în faţa Lui, zicând: Bucură-Te regele iudeilor!"
+        },
+        {
+          "verse": 19,
+          "text": "Şi-L băteau peste cap cu o trestie şi-L scuipau şi, căzând în genunchi, I se închinau."
+        },
+        {
+          "verse": 20,
+          "text": "Şi după ce L-au batjocorit, L-au dezbrăcat de purpură şi L-au îmbrăcat cu hainele Lui. Şi L-au dus afară ca să-L răstignească."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_15_04",
+      "chapter": 15,
+      "pericope_num": "04",
+      "title_en": "The Crucifixion of Jesus",
+      "title_ro": "Răstignirea lui Iisus",
+      "start_verse": 21,
+      "end_verse": 32,
+      "verse_count": 12,
+      "verses": [
+        {
+          "verse": 21,
+          "text": "Şi au silit pe un trecător, care venea din ţarină, pe Simon Cirineul, tatăl lui Alexandru şi al lui Ruf, ca să ducă crucea Lui."
+        },
+        {
+          "verse": 22,
+          "text": "Şi L-au dus la locul zis Golgota, care se tălmăceşte \"locul Căpăţânii\"."
+        },
+        {
+          "verse": 23,
+          "text": "Şi I-au dat să bea vin amestecat cu smirnă, dar El n-a luat."
+        },
+        {
+          "verse": 24,
+          "text": "Şi L-au răstignit şi au împărţit între ei hainele Lui, aruncând sorţi pentru ele, care ce să ia."
+        },
+        {
+          "verse": 25,
+          "text": "Iar când L-au răstignit, era ceasul al treilea."
+        },
+        {
+          "verse": 26,
+          "text": "Şi vina Lui era scrisă deasupra: Regele iudeilor."
+        },
+        {
+          "verse": 27,
+          "text": "Şi împreună cu El au răstignit doi tâlhari: unul de-a dreapta şi altul de-a stânga Lui."
+        },
+        {
+          "verse": 28,
+          "text": "Şi s-a împlinit Scriptura care zice: Cu cei fără de lege a fost socotit."
+        },
+        {
+          "verse": 29,
+          "text": "Iar cei ce treceau pe acolo Îl huleau, clătinându-şi capetele şi zicând: Huu! Cel care dărâmi templul şi în trei zile îl zideşti."
+        },
+        {
+          "verse": 30,
+          "text": "Mântuieşte-Te pe Tine Însuţi, coborându-Te de pe cruce!"
+        },
+        {
+          "verse": 31,
+          "text": "De asemenea şi arhiereii, batjocorindu-L între ei, împreună cu cărturarii, ziceau: Pe alţii a mântuit, dar pe Sine nu poate să Se mântuiască!"
+        },
+        {
+          "verse": 32,
+          "text": "Hristos, regele lui Israel, să Se coboare de pe cruce, ca să vedem şi să credem. Şi cei împreună răstigniţi cu El Îl ocărau."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_15_05",
+      "chapter": 15,
+      "pericope_num": "05",
+      "title_en": "The Death of Jesus",
+      "title_ro": "Moartea lui Iisus",
+      "start_verse": 33,
+      "end_verse": 41,
+      "verse_count": 9,
+      "verses": [
+        {
+          "verse": 33,
+          "text": "Iar când a fost ceasul al şaselea, întuneric s-a făcut peste tot pământul până la ceasul al nouălea."
+        },
+        {
+          "verse": 34,
+          "text": "Şi la al nouălea ceas, a strigat Iisus cu glas mare: Eloi, Eloi, lama sabahtani?, care se tălmăceşte: Dumnezeul Meu, Dumnezeul Meu, de ce M-ai părăsit?"
+        },
+        {
+          "verse": 35,
+          "text": "Iar unii din cei ce stăteau acolo, auzind, ziceau: Iată, îl strigă pe Ilie."
+        },
+        {
+          "verse": 36,
+          "text": "Şi, alergând, unul a înmuiat un burete în oţet, l-a pus într-o trestie şi I-a dat să bea, zicând: Lăsaţi să vedem dacă vine Ilie ca să-L coboare."
+        },
+        {
+          "verse": 37,
+          "text": "Iar Iisus, scoţând un strigăt mare, Şi-a dat duhul."
+        },
+        {
+          "verse": 38,
+          "text": "Şi catapeteasma templului s-a rupt în două, de sus până jos."
+        },
+        {
+          "verse": 39,
+          "text": "Iar sutaşul care stătea în faţa Lui, văzând că astfel Şi-a dat duhul, a zis: Cu adevărat omul acesta era Fiul lui Dumnezeu!"
+        },
+        {
+          "verse": 40,
+          "text": "Şi erau şi femei care priveau de departe; între ele: Maria Magdalena, Maria, mama lui Iacov cel Mic şi a lui Iosi, şi Salomeea,"
+        },
+        {
+          "verse": 41,
+          "text": "Care, pe când era El în Galileea, mergeau după El şi Îi slujeau, şi multe altele care se suiseră cu El la Ierusalim."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_15_06",
+      "chapter": 15,
+      "pericope_num": "06",
+      "title_en": "The Burial of Jesus",
+      "title_ro": "Îngroparea lui Iisus",
+      "start_verse": 42,
+      "end_verse": 47,
+      "verse_count": 6,
+      "verses": [
+        {
+          "verse": 42,
+          "text": "Şi făcându-se seară, fiindcă era vineri, care este înaintea sâmbetei,"
+        },
+        {
+          "verse": 43,
+          "text": "Şi venind Iosif cel din Arimateea, sfetnic ales, care aştepta şi el împărăţia lui Dumnezeu, şi, îndrăznind, a intrat la Pilat şi a cerut trupul lui Iisus."
+        },
+        {
+          "verse": 44,
+          "text": "Iar Pilat s-a mirat că a şi murit şi, chemând pe sutaş, l-a întrebat dacă a murit de mult."
+        },
+        {
+          "verse": 45,
+          "text": "Şi aflând de la sutaş, a dăruit lui Iosif trupul."
+        },
+        {
+          "verse": 46,
+          "text": "Şi Iosif, cumpărând giulgiu şi coborându-L de pe cruce, L-a înfăşurat în giulgiu şi L-a pus într-un mormânt care era săpat în stâncă, şi a prăvălit o piatră la uşa mormântului."
+        },
+        {
+          "verse": 47,
+          "text": "Iar Maria Magdalena şi Maria, mama lui Iosi, priveau unde L-au pus."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_16_01",
+      "chapter": 16,
+      "pericope_num": "01",
+      "title_en": "The Resurrection of Jesus",
+      "title_ro": "Învierea lui Iisus",
+      "start_verse": 1,
+      "end_verse": 16,
+      "verse_count": 16,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi după ce a trecut ziua sâmbetei, Maria Magdalena, Maria, mama lui Iacov, şi Salomeea au cumpărat miresme, ca să vină să-L ungă."
+        },
+        {
+          "verse": 2,
+          "text": "Şi dis-de-dimineaţă, în prima zi a săptămânii (Duminică), pe când răsărea soarele, au venit la mormânt."
+        },
+        {
+          "verse": 3,
+          "text": "Şi ziceau între ele: Cine ne va prăvăli nouă piatra de la uşa mormântului?"
+        },
+        {
+          "verse": 4,
+          "text": "Dar, ridicându-şi ochii, au văzut că piatra fusese răsturnată; căci era foarte mare."
+        },
+        {
+          "verse": 5,
+          "text": "Şi, intrând în mormânt, au văzut un tânăr şezând în partea dreaptă, îmbrăcat în veşmânt alb, şi s-au spăimântat."
+        },
+        {
+          "verse": 6,
+          "text": "Iar el le-a zis: Nu vă înspăimântaţi! Căutaţi pe Iisus Nazarineanul, Cel răstignit? A înviat! Nu este aici. Iată locul unde L-au pus."
+        },
+        {
+          "verse": 7,
+          "text": "Dar mergeţi şi spuneţi ucenicilor Lui şi lui Petru că va merge în Galileea, mai înainte de voi; acolo îl veţi vedea, după cum v-a spus."
+        },
+        {
+          "verse": 8,
+          "text": "Şi ieşind, au fugit de la mormânt, că erau cuprinse de frică şi de uimire, şi nimănui nimic n-au spus, căci se temeau."
+        },
+        {
+          "verse": 9,
+          "text": "Şi înviind dimineaţa, în ziua cea dintâi a săptămânii (Duminică) El s-a arătat întâi Mariei Magdalena, din care scosese şapte demoni."
+        },
+        {
+          "verse": 10,
+          "text": "Aceea, mergând, a vestit pe cei ce fuseseră cu El şi care se tânguiau şi plângeau."
+        },
+        {
+          "verse": 11,
+          "text": "Şi ei, auzind că este viu şi că a fost văzut de ea, n-au crezut."
+        },
+        {
+          "verse": 12,
+          "text": "După aceea, S-a arătat în alt chip, la doi dintre ei, care mergeau la o ţarină."
+        },
+        {
+          "verse": 13,
+          "text": "Şi aceia, mergând, au vestit celorlalţi, dar nici pe ei nu i-au crezut."
+        },
+        {
+          "verse": 14,
+          "text": "La urmă, pe când cei unsprezece şedeau la masă, li S-a arătat şi I-a mustrat pentru necredinţa şi împietrirea inimii lor, căci n-au crezut pe cei ce-L văzuseră înviat."
+        },
+        {
+          "verse": 15,
+          "text": "Şi le-a zis: Mergeţi în toată lumea şi propovăduiţi Evanghelia la toată făptura."
+        },
+        {
+          "verse": 16,
+          "text": "Cel ce va crede şi se va boteza se va mântui; iar cel ce nu va crede se va osândi."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_16_02",
+      "chapter": 16,
+      "pericope_num": "02",
+      "title_en": "Jesus Appears to Mary Magdalene",
+      "title_ro": "Iisus Se arată Mariei Magdalena",
+      "start_verse": 9,
+      "end_verse": 11,
+      "verse_count": 3,
+      "verses": [
+        {
+          "verse": 9,
+          "text": "Şi înviind dimineaţa, în ziua cea dintâi a săptămânii (Duminică) El s-a arătat întâi Mariei Magdalena, din care scosese şapte demoni."
+        },
+        {
+          "verse": 10,
+          "text": "Aceea, mergând, a vestit pe cei ce fuseseră cu El şi care se tânguiau şi plângeau."
+        },
+        {
+          "verse": 11,
+          "text": "Şi ei, auzind că este viu şi că a fost văzut de ea, n-au crezut."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_16_03",
+      "chapter": 16,
+      "pericope_num": "03",
+      "title_en": "Jesus Appears to Two Disciples",
+      "title_ro": "Iisus Se arată celor doi ucenici",
+      "start_verse": 12,
+      "end_verse": 13,
+      "verse_count": 2,
+      "verses": [
+        {
+          "verse": 12,
+          "text": "După aceea, S-a arătat în alt chip, la doi dintre ei, care mergeau la o ţarină."
+        },
+        {
+          "verse": 13,
+          "text": "Şi aceia, mergând, au vestit celorlalţi, dar nici pe ei nu i-au crezut."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_16_04",
+      "chapter": 16,
+      "pericope_num": "04",
+      "title_en": "Jesus Commissions the Disciples",
+      "title_ro": "Iisus îi trimite pe ucenici",
+      "start_verse": 14,
+      "end_verse": 18,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 14,
+          "text": "La urmă, pe când cei unsprezece şedeau la masă, li S-a arătat şi I-a mustrat pentru necredinţa şi împietrirea inimii lor, căci n-au crezut pe cei ce-L văzuseră înviat."
+        },
+        {
+          "verse": 15,
+          "text": "Şi le-a zis: Mergeţi în toată lumea şi propovăduiţi Evanghelia la toată făptura."
+        },
+        {
+          "verse": 16,
+          "text": "Cel ce va crede şi se va boteza se va mântui; iar cel ce nu va crede se va osândi."
+        },
+        {
+          "verse": 17,
+          "text": "Iar celor ce vor crede, le vor urma aceste semne: în numele Meu, demoni vor izgoni, în limbi noi vor grăi,"
+        },
+        {
+          "verse": 18,
+          "text": "Şerpi vor lua în mână şi chiar ceva dătător de moarte de vor bea nu-i va vătăma, peste cei bolnavi îşi vor pune mâinile şi se vor face sănătoşi."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Mark_16_05",
+      "chapter": 16,
+      "pericope_num": "05",
+      "title_en": "The Ascension of Jesus",
+      "title_ro": "Înălțarea lui Iisus",
+      "start_verse": 19,
+      "end_verse": 20,
+      "verse_count": 2,
+      "verses": [
+        {
+          "verse": 19,
+          "text": "Deci Domnul Iisus, după ce a vorbit cu ei, S-a înălţat la cer şi a şezut de-a dreapta lui Dumnezeu."
+        },
+        {
+          "verse": 20,
+          "text": "Iar ei, plecând, au propovăduit pretutindeni şi Domnul lucra cu ei şi întărea cuvântul, prin semnele care urmau. Amin."
+        }
+      ]
+    }
+  ]
+}

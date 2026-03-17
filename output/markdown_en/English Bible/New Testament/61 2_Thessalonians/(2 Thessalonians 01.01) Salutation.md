@@ -1,0 +1,15 @@
+---
+testament: NT
+book: 2 Thessalonians
+chapter: 1
+pericope: 1
+pericope_title: "Salutation"
+verses_start: 1
+verses_end: 2
+verses_total: 0
+language: en
+---
+# Salutation
+
+1. Paul, Silvanus, and Timothy,
+2. Grace to you and peace from God ourFather and the Lord Jesus Christ.

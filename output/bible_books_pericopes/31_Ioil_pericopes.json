@@ -1,0 +1,268 @@
+{
+  "id": 39,
+  "book_number": 31,
+  "name_en": "Joel",
+  "name_ro": "Ioil",
+  "testament": "OT",
+  "chapter_count": 4,
+  "pericope_count": 4,
+  "url": "https://www.bibliaortodoxa.ro/carte.php?id=39",
+  "pericopes": [
+    {
+      "pericope_id": "Joel_01_01",
+      "chapter": 1,
+      "pericope_num": "01",
+      "title_en": "Lament over the Ruin of the Country",
+      "title_ro": "Plângere asupra ruinei țării",
+      "start_verse": 1,
+      "end_verse": 12,
+      "verse_count": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Cuvântul Domnului care a fost către Ioil, fiul lui Petuel."
+        },
+        {
+          "verse": 2,
+          "text": "Ascultaţi acestea, voi bătrânilor, luaţi aminte, voi toţi locuitorii ţării! Oare s-a mai întâmplat aşa în vremea voastră sau în zilele părinţilor voştri?"
+        },
+        {
+          "verse": 3,
+          "text": "Povestiţi-le feciorilor voştri, iar ei feciorilor lor, iar aceia neamului care va veni după ei!"
+        },
+        {
+          "verse": 4,
+          "text": "Ceea ce a rămas de la lăcustele mici au mâncat lăcustele mari, şi ceea ce a rămas de la cele mari au mâncat cele zburătoare, şi ceea ce a rămas de la cele zburătoare au prăpădit stolurile de lăcuste."
+        },
+        {
+          "verse": 5,
+          "text": "Deşteptaţi-vă, beţivilor, şi plângeţi! Şi voi, băutorilor de vin, tânguiţi-vă pentru vinul cel nou, căci vi s-a luat de la gură."
+        },
+        {
+          "verse": 6,
+          "text": "Căci un popor a năvălit în ţara mea, puternic şi fără de număr; dinţii lui ca dinţii de leu, iar fălcile, ca fălcile de leoaică."
+        },
+        {
+          "verse": 7,
+          "text": "Pustiit-a via mea, iar smochinul meu mi l-a făcut bucăţi; l-a jupuit de coajă şi l-a trântit la pământ. Mlădiţele de vită au rămas albe."
+        },
+        {
+          "verse": 8,
+          "text": "Tânguieşte-te ca o fecioară încinsă cu sac după bărbatul din tinereţea ei!"
+        },
+        {
+          "verse": 9,
+          "text": "Prinosul şi jertfa cu turnare nu mai sunt în templul Domnului! Preoţii, slujitorii Domnului, sunt în mare jale."
+        },
+        {
+          "verse": 10,
+          "text": "Câmpul a rămas pustiu, ţarina este plină de jale; grâul nu mai este, mustul ajuns-a de ocară, iar untdelemn n-a rămas chiar nici un strop!"
+        },
+        {
+          "verse": 11,
+          "text": "Plugarii sunt zăpăciţi, stăpânii de vii se tânguiesc pentru grâu şi pentru orz, căci secerişul din ţarini este pierdut."
+        },
+        {
+          "verse": 12,
+          "text": "Viţa de vie este fără vlagă, smochinul tânjeşte, rodiile de asemenea şi finicii, merii şi toţi copacii de pe câmp s-au uscat; ba mai mult, bucuria ajuns-a ocară pentru fiii oamenilor."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joel_01_02",
+      "chapter": 1,
+      "pericope_num": "02",
+      "title_en": "A Call to Repentance and Prayer",
+      "title_ro": "Îndemn la pocăință și la rugăciune",
+      "start_verse": 13,
+      "end_verse": 20,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 13,
+          "text": "Încingeţi-vă şi vă tânguiţi, voi preoţilor, izbucniţi în bocete, voi slujitori ai altarului! Intraţi în templu şi petreceţi noaptea în sac de jale, voi slujitori ai lui Dumnezeu, căci prinosul şi jertfa cu turnare au fost îndepărtate din templul Dumnezeului vostru!"
+        },
+        {
+          "verse": 14,
+          "text": "Postiţi post sfânt, strângeţi obşte de prăznuire, adunaţi pe bătrâni, pe toţi locuitorii ţării în templul Dumnezeului vostru şi strigaţi către Domnul rugându-L:"
+        },
+        {
+          "verse": 15,
+          "text": "\"O, ce zi! Căci aproape este ziua Domnului şi vine ca o pustiire de la Cel Atotputernic."
+        },
+        {
+          "verse": 16,
+          "text": "Oare nu ni s-a luat hrana de sub ochii noştri, bucuria şi veselia din templul Dumnezeului nostru?"
+        },
+        {
+          "verse": 17,
+          "text": "Seminţele s-au uscat sub bulgării din brazdă, grânarele sunt goale, hambarele sunt fără nimic în ele, căci nu mai este grâu."
+        },
+        {
+          "verse": 18,
+          "text": "Cum gem vitele! Cirezile de boi mugesc, căci nu află nicăieri păşune; chiar şi turmele de oi sunt în mare lipsă."
+        },
+        {
+          "verse": 19,
+          "text": "Către Tine, Doamne, strig! Căci focul a mistuit toate păşunile pustiului şi văpaia lui a dogorit toţi copacii de pe câmp."
+        },
+        {
+          "verse": 20,
+          "text": "Şi fiarele câmpului zbiară către tine, căci pâraiele de apă au secat şi focul a mistuit păşunile stepei\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joel_02_01",
+      "chapter": 2,
+      "pericope_num": "01",
+      "title_en": "God’s Response and Promise",
+      "title_ro": "Răspunsul și făgăduința lui Dumnezeu",
+      "start_verse": 1,
+      "end_verse": 27,
+      "verse_count": 27,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Sunaţi din trâmbiţă în Sion, strigaţi din răsputeri în muntele cel sfânt al Meu, ca să se cutremure toţi locuitorii ţării! Căci vine ziua Domnului; iată ea este aproape;"
+        },
+        {
+          "verse": 2,
+          "text": "O zi de întuneric şi de beznă, zi cu nori şi cu negură deasă. Precum zorile se revarsă pe deasupra munţilor, tot aşa dă năvală un popor numeros şi puternic, cum n-a mai fost niciodată şi cum nu va mai fi după el până în anii vremurilor celor mai îndepărtate."
+        },
+        {
+          "verse": 3,
+          "text": "Înaintea lui merge mistuind focul, iar după el arde văpaia. Pământul este înaintea lui ca grădina raiului, iar după trecerea lui, pustiu înfricoşător, căci nimic nu scapă din faţa lui."
+        },
+        {
+          "verse": 4,
+          "text": "Cum sunt caii, aşa le este chipul lor; şi ca sprinteni călăreţi, aşa aleargă."
+        },
+        {
+          "verse": 5,
+          "text": "Se aud ca un duruit de care de război, care se avântă în goană pe creştetul munţilor, ca pârâitul flăcărilor care mistuie o mirişte, ca o oştire puternică aşezată în linie de bătaie."
+        },
+        {
+          "verse": 6,
+          "text": "Înaintea lui popoarele tremură de spaimă, toate feţele ard ca văpaia."
+        },
+        {
+          "verse": 7,
+          "text": "Aleargă ca nişte viteji; ca războinicii încercaţi se avântă peste ziduri; om după om îşi urmează calea, fără ca vreunul să se rătăcească."
+        },
+        {
+          "verse": 8,
+          "text": "Nimeni nu se îmbrânceşte cu cel de alături, fiecare îşi vede de drumul lui; printre săgeţi îşi croiesc cale, fără ca nici unul să rupă rândul."
+        },
+        {
+          "verse": 9,
+          "text": "Dau năvală în cetate, aleargă pe deasupra zidurilor, pătrund în case şi intră pe ferestre ca furii."
+        },
+        {
+          "verse": 10,
+          "text": "Înaintea lor tremură pământul, cerul se cutremură, soarele şi luna se întunecă, iar stelele îşi pierd strălucirea lor."
+        },
+        {
+          "verse": 11,
+          "text": "Dar Domnul Îşi face auzit glasul în fruntea oştirilor Sale, căci întinsă foarte este tabăra Lui şi puternic este cel ce împlineşte poruncile Lui. Ziua Domnului este mare şi înfricoşătoare foarte şi cine va putea sta împotriva ei?"
+        },
+        {
+          "verse": 12,
+          "text": "\"Şi acum, zice Domnul, întoarceţi-vă la Mine din toată inima voastră, cu postiri, cu plâns şi cu tânguire\"."
+        },
+        {
+          "verse": 13,
+          "text": "Sfâşiaţi inimile şi nu hainele voastre, şi întoarceţi-vă către Domnul Dumnezeul vostru, căci El este milostiv şi îndurat, încet la mânie şi mult Milostiv şi-I pare rău de răul pe care l-a trimis asupra voastră."
+        },
+        {
+          "verse": 14,
+          "text": "O, de v-aţi întoarce şi v-aţi pocăi, ar rămâne de pe urma voastră o binecuvântare, un prinos şi o jertfă cu turnare pentru Domnul Dumnezeul vostru!"
+        },
+        {
+          "verse": 15,
+          "text": "Sunaţi din trâmbiţă în Sion, gătiţi postiri sfinte, prăznuiţi sărbătoarea cea pentru toţi!"
+        },
+        {
+          "verse": 16,
+          "text": "Adunaţi poporul, vestiţi o adunare sfântă, strângeţi laolaltă pe bătrâni, aduceţi copiii şi pruncii care sug la sân; să iasă mirele din cămara lui şi mireasa din iatacul ei!"
+        },
+        {
+          "verse": 17,
+          "text": "Între tindă şi altar să plângă preoţii, slujitorii Domnului, şi să zică: \"Milostiveşte-Te, Doamne, către poporul Tău şi nu face de ocară moştenirea Ta ca să-şi bată joc de ea neamurile!\" Pentru ce să se spună printre neamuri: \"Unde este Dumnezeul lor?\""
+        },
+        {
+          "verse": 18,
+          "text": "Dar Domnul este plin de zel pentru ţara Sa şi Se îndură de poporul Său."
+        },
+        {
+          "verse": 19,
+          "text": "Pentru aceasta a răspuns Domnul către poporul Său, grăind: \"Iată, Eu vă voi trimite grâu, must şi untdelemn şi vă voi sătura şi nu vă voi mai face de ocară printre neamuri!"
+        },
+        {
+          "verse": 20,
+          "text": "Prăpădul duşmanului de la miazănoapte îl voi depărta de la voi şi-l voi izgoni înspre un ţinut uscat şi pustiu; capătul lui spre marea cea de la răsărit, iar sfârşitul la marea cea dinspre apus; şi se va ridica din el duhoare şi miros de stârv va porni din el, căci a săvârşit lucruri mari\"."
+        },
+        {
+          "verse": 21,
+          "text": "Nu te teme, tu ţară, bucură-te şi te veseleşte, căci Domnul a făcut lucruri mari!"
+        },
+        {
+          "verse": 22,
+          "text": "Nu vă temeţi nici voi dobitoacele câmpului, căci au înverzit păşunile pustiului; căci pomii dau roadele lor; smochinul şi viţa de vie vor fi plini de roade."
+        },
+        {
+          "verse": 23,
+          "text": "Şi voi locuitori ai Sionului, bucuraţi-vă şi vă veseliţi în Domnul Dumnezeul vostru, căci El v-a dat pe Învăţătorul dreptăţii; şi v-a mai trimis şi ploaie, ploaie timpurie şi târzie, ca odinioară."
+        },
+        {
+          "verse": 24,
+          "text": "Şi ariile se vor umple de grâu; iar teascurile vor da peste margini de must şi de untdelemn."
+        },
+        {
+          "verse": 25,
+          "text": "Şi vă voi da ani de belşug în locul anilor în care au mâncat lăcustele mici, cele mari, cele zburătoare şi stolurile de lăcuste, marea Mea oştire pe care am trimis-o împotriva voastră."
+        },
+        {
+          "verse": 26,
+          "text": "Şi veţi mânca din destul şi vă veţi sătura şi veţi preaslăvi numele Domnului Dumnezeului vostru, Care a făcut cu voi lucruri minunate. Şi poporul Meu nu se va ruşina în veci de veci!"
+        },
+        {
+          "verse": 27,
+          "text": "Atunci vă veţi da seama că Eu sunt în mijlocul lui Israel şi că Eu sunt Domnul Dumnezeul vostru şi nu este altul, iar poporul Meu nu va mai fi niciodată de ocară!"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Joel_03_01",
+      "chapter": 3,
+      "pericope_num": "01",
+      "title_en": "Judgment in the Valley of Jehoshaphat",
+      "title_ro": "Judecata în valea lui Iosafat",
+      "start_verse": 1,
+      "end_verse": 16,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Dar după aceea, vărsa-voi Duhul Meu peste tot trupul, şi fiii şi fiicele voastre vor profeţi, bătrânii voştri visuri vor visa iar tinerii voştri vedenii vor vedea."
+        },
+        {
+          "verse": 2,
+          "text": "Chiar şi peste robi şi peste roabe voi vărsa Duhul Meu."
+        },
+        {
+          "verse": 3,
+          "text": "Şi vă voi arăta semne minunate în cer şi pe pământ: sânge, foc şi stâlpi de fum;"
+        },
+        {
+          "verse": 4,
+          "text": "Soarele se va întuneca şi luna va fi roşie ca sângele, înainte de venirea zilei celei mari şi înfricoşătoare a Domnului."
+        },
+        {
+          "verse": 5,
+          "text": "Şi oricine va chema numele Domnului se va izbăvi, căci în muntele Sionului şi în Ierusalim va fi mântuirea, precum a zis Domnul; şi între cei mântuiţi, numai cei ce cheamă pe Domnul."
+        }
+      ]
+    }
+  ]
+}

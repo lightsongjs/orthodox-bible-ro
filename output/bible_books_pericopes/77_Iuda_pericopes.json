@@ -1,0 +1,172 @@
+{
+  "id": 44,
+  "book_number": 77,
+  "name_en": "Jude",
+  "name_ro": "Iuda",
+  "testament": "NT",
+  "chapter_count": 1,
+  "pericope_count": 5,
+  "url": "https://www.bibliaortodoxa.ro/carte.php?id=44",
+  "pericopes": [
+    {
+      "pericope_id": "Jude_01_01",
+      "chapter": 1,
+      "pericope_num": "01",
+      "title_en": "Salutation",
+      "title_ro": "Salutare",
+      "start_verse": 1,
+      "end_verse": 2,
+      "verse_count": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Iuda, rob al lui Iisus Hristos şi frate al lui Iacov, celor ce sunt chemaţi, iubiţi în Dumnezeu-Tatăl şi păstraţi pentru Iisus Hristos:"
+        },
+        {
+          "verse": 2,
+          "text": "Milă vouă şi pace şi iubirea să se înmulţească!"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Jude_01_02",
+      "chapter": 1,
+      "pericope_num": "02",
+      "title_en": "Occasion of the Letter",
+      "title_ro": "Prilejul scrisorii",
+      "start_verse": 3,
+      "end_verse": 4,
+      "verse_count": 2,
+      "verses": [
+        {
+          "verse": 3,
+          "text": "Iubiţilor, punând toată râvna să vă scriu despre mântuirea cea de obşte, simţit-am nevoie să vă scriu şi să vă îndemn ca să luptaţi pentru credinţa dată sfinţilor, odată pentru totdeauna."
+        },
+        {
+          "verse": 4,
+          "text": "Căci s-au strecurat printre voi unii oameni nelegiuiţi, care de mai înainte au fost rânduiţi spre această osândă, schimbând ei harul Dumnezeului nostru în desfrânare, şi care tăgăduiesc pe singurul nostru Stăpân şi Domn, pe Iisus Hristos."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Jude_01_03",
+      "chapter": 1,
+      "pericope_num": "03",
+      "title_en": "Judgment on False Teachers",
+      "title_ro": "Judecata asupra învățătorilor mincinoși",
+      "start_verse": 5,
+      "end_verse": 16,
+      "verse_count": 12,
+      "verses": [
+        {
+          "verse": 5,
+          "text": "Voiesc dar să vă aduc aminte vouă celor ce aţi ştiut odată toate acestea că Domnul, după ce a izbăvit pe poporul Său din pământul Egiptului, a pierdut, după aceea, pe cei ce n-au crezut."
+        },
+        {
+          "verse": 6,
+          "text": "Iar pe îngerii care nu şi-au păzit vrednicia, ci au părăsit locaşul lor, i-a pus la păstrare sub întuneric, în lanţuri veşnice, spre judecata zilei celei mari."
+        },
+        {
+          "verse": 7,
+          "text": "Tot aşa, Sodoma şi Gomora şi cetăţile dimprejurul lor care, în acelaşi chip ca acestea, s-au dat la desfrânare şi au umblat după trup străin, stau înainte ca pildă, suferind pedeapsa focului celui veşnic."
+        },
+        {
+          "verse": 8,
+          "text": "Asemenea deci şi aceştia, visând, pângăresc trupul, leapădă stăpânirea şi hulesc măririle (cereşti)."
+        },
+        {
+          "verse": 9,
+          "text": "Dar Mihail Arhanghelul, când se împotrivea diavolului, certându-se cu el pentru trupul lui Moise, n-a îndrăznit să aducă judecată de hulă, ci a zis: \"Să te certe pe tine Domnul!\""
+        },
+        {
+          "verse": 10,
+          "text": "Aceştia însă defaimă cele ce nu cunosc, iar cele ce, - ca dobitoacele necuvântătoare, - ştiu din fire, într-acestea îşi găsesc pieirea."
+        },
+        {
+          "verse": 11,
+          "text": "Vai lor! Că au umblat în calea lui Cain şi, pentru plată, s-au dat cu totul în rătăcirea lui Balaam şi au pierit ca în răzvrătirea lui Core."
+        },
+        {
+          "verse": 12,
+          "text": "Aceştia sunt ca nişte pete de necurăţie la mesele voastre obşteşti, ospătând fără sfială împreună cu voi, îmbuibându-se pe ei înşişi, nori fără apă, purtaţi de vânturi, pomi tomnatici fără roade, de două ori uscaţi şi dezrădăcinaţi,"
+        },
+        {
+          "verse": 13,
+          "text": "Valuri sălbatice ale mării, care îşi spumegă ruşinea lor, stele rătăcitoare, cărora întunericul întunericului li se păstrează în veşnicie."
+        },
+        {
+          "verse": 14,
+          "text": "Dar şi Enoh, al şaptelea de la Adam, a proorocit despre aceştia, zicând: Iată, a venit Domnul cu zecile de mii de sfinţi ai Lui,"
+        },
+        {
+          "verse": 15,
+          "text": "Ca să facă judecată împotriva tuturor şi să mustre pe toţi nelegiuiţii de toate faptele nelegiuirii lor, în care au făcut fărădelege, şi de toate cuvintele de ocară pe care ei, păcătoşi, netemători de Dumnezeu, le-au rostit împotriva Lui."
+        },
+        {
+          "verse": 16,
+          "text": "Aceştia sunt cârtitori, nemulţumiţi cu starea lor, umblând după poftele lor şi gura lor grăieşte lucruri trufaşe, deşi, pentru folos, dau unor feţe mare cinste."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Jude_01_04",
+      "chapter": 1,
+      "pericope_num": "04",
+      "title_en": "Warnings and Exhortations",
+      "title_ro": "Avertismente și îndemnuri",
+      "start_verse": 17,
+      "end_verse": 23,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 17,
+          "text": "Voi, însă, iubiţilor, aduceţi-vă aminte de cuvintele zise mai dinainte de către apostolii Domnului nostru Iisus Hristos,"
+        },
+        {
+          "verse": 18,
+          "text": "Că ei vă spuneau: În vremea de pe urmă vor fi batjocoritori, umblând potrivit cu poftele lor nelegiuite."
+        },
+        {
+          "verse": 19,
+          "text": "Aceştia sunt cei ce fac dezbinări, (oameni) fireşti, care nu au Duhul."
+        },
+        {
+          "verse": 20,
+          "text": "Dar voi, iubiţilor, zidiţi-vă pe voi înşivă, întru a voastră prea sfântă credinţă, rugându-vă în Duhul Sfânt."
+        },
+        {
+          "verse": 21,
+          "text": "Păziţi-vă întru dragostea lui Dumnezeu şi aşteptaţi mila Domnului nostru Iisus Hristos, spre viaţă veşnică."
+        },
+        {
+          "verse": 22,
+          "text": "Şi pe unii, şovăitori, mustraţi-i,"
+        },
+        {
+          "verse": 23,
+          "text": "Pe alţii, smulgându-i din foc, mântuiţi-i; de alţii, însă, fie-vă milă cu frică, urând şi cămaşa spurcată de pe trupul lor."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Jude_01_05",
+      "chapter": 1,
+      "pericope_num": "05",
+      "title_en": "Benediction",
+      "title_ro": "Binecuvântare",
+      "start_verse": 24,
+      "end_verse": 25,
+      "verse_count": 2,
+      "verses": [
+        {
+          "verse": 24,
+          "text": "Iar Celui ce poate să vă păzească pe voi de orice cădere şi să vă pună înaintea slavei Lui, neprihăniţi cu bucurie mare,"
+        },
+        {
+          "verse": 25,
+          "text": "Singurului Dumnezeu, Mântuitorul nostru, prin Iisus Hristos, Domnul nostru, slavă, preamărire, putere şi stăpânire, mai înainte de tot veacul şi acum şi întru toţi vecii. Amin!"
+        }
+      ]
+    }
+  ]
+}

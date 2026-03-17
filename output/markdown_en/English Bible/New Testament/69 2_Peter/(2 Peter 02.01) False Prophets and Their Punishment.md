@@ -1,0 +1,35 @@
+---
+testament: NT
+book: 2 Peter
+chapter: 2
+pericope: 1
+pericope_title: "False Prophets and Their Punishment"
+verses_start: 2
+verses_end: 22
+verses_total: 0
+language: en
+---
+# False Prophets and Their Punishment
+
+2. But false prophets also arose among the people, just as there will be false teachers among you, who will secretly bring in destructive opinions. They will even deny the Master who bought them—bringing swift destruction on themselves.
+2. Even so, many will follow their licentious ways, and because of these teachersthe way of truth will be maligned.
+3. And in their greed they will exploit you with deceptive words. Their condemnation, pronounced against them long ago, has not been idle, and their destruction is not asleep.
+4. For if God did not spare the angels when they sinned, but cast them into helland committed them to chainsof deepest darkness to be kept until the judgment;
+5. and if he did not spare the ancient world, even though he saved Noah, a herald of righteousness, with seven others, when he brought a flood on a world of the ungodly;
+6. and if by turning the cities of Sodom and Gomorrah to ashes he condemned them to extinctionand made them an example of what is coming to the ungodly;
+7. and if he rescued Lot, a righteous man greatly distressed by the licentiousness of the lawless
+8. (for that righteous man, living among them day after day, was tormented in his righteous soul by their lawless deeds that he saw and heard),
+9. then the Lord knows how to rescue the godly from trial, and to keep the unrighteous under punishment until the day of judgment
+10. —especially those who indulge their flesh in depraved lust, and who despise authority.
+11. whereas angels, though greater in might and power, do not bring against them a slanderous judgment from the Lord.
+12. These people, however, are like irrational animals, mere creatures of instinct, born to be caught and killed. They slander what they do not understand, and when those creatures are destroyed,they also will be destroyed,
+13. sufferingthe penalty for doing wrong. They count it a pleasure to revel in the daytime. They are blots and blemishes, reveling in their dissipationwhile they feast with you.
+14. They have eyes full of adultery, insatiable for sin. They entice unsteady souls. They have hearts trained in greed. Accursed children!
+15. They have left the straight road and have gone astray, following the road of Balaam son of Bosor,who loved the wages of doing wrong,
+16. but was rebuked for his own transgression; a speechless donkey spoke with a human voice and restrained the prophet’s madness.
+17. These are waterless springs and mists driven by a storm; for them the deepest darkness has been reserved.
+18. For they speak bombastic nonsense, and with licentious desires of the flesh they entice people who have justescaped from those who live in error.
+19. They promise them freedom, but they themselves are slaves of corruption; for people are slaves to whatever masters them.
+20. For if, after they have escaped the defilements of the world through the knowledge of our Lord and Savior Jesus Christ, they are again entangled in them and overpowered, the last state has become worse for them than the first.
+21. For it would have been better for them never to have known the way of righteousness than, after knowing it, to turn back from the holy commandment that was passed on to them.
+22. It has happened to them according to the true proverb,

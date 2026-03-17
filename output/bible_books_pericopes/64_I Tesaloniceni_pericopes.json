@@ -1,0 +1,464 @@
+{
+  "id": 76,
+  "book_number": 64,
+  "name_en": "1 Thessalonians",
+  "name_ro": "I Tesaloniceni",
+  "testament": "NT",
+  "chapter_count": 5,
+  "pericope_count": 8,
+  "url": "https://www.bibliaortodoxa.ro/carte.php?id=76",
+  "pericopes": [
+    {
+      "pericope_id": "1_Thessalonians_01_01",
+      "chapter": 1,
+      "pericope_num": "01",
+      "title_en": "Salutation",
+      "title_ro": "Salutare",
+      "start_verse": 1,
+      "end_verse": 1,
+      "verse_count": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Pavel şi Silvan şi Timotei, Bisericii tesalonicenilor în Dumnezeu-Tatăl şi în Domnul Iisus Hristos: Har vouă şi pace de la Dumnezeu, Tatăl nostru, şi de la Domnul Iisus Hristos."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Thessalonians_01_02",
+      "chapter": 1,
+      "pericope_num": "02",
+      "title_en": "The Thessalonians' Faith and Example",
+      "title_ro": "Credința și exemplul tesalonicenilor",
+      "start_verse": 2,
+      "end_verse": 10,
+      "verse_count": 9,
+      "verses": [
+        {
+          "verse": 2,
+          "text": "Mulţumim lui Dumnezeu totdeauna pentru voi toţi şi vă pomenim în rugăciunile noastre,"
+        },
+        {
+          "verse": 3,
+          "text": "Aducându-ne aminte neîncetat, înaintea lui Dumnezeu, Tatăl nostru, de lucrul credinţei voastre şi de osteneala iubirii şi de stăruinţa nădejdii voastre în Domnul nostru Iisus Hristos."
+        },
+        {
+          "verse": 4,
+          "text": "Fraţilor de Dumnezeu iubiţi, noi ştim cum aţi fost aleşi;"
+        },
+        {
+          "verse": 5,
+          "text": "Că Evanghelia noastră n-a fost la voi numai în cuvânt, ci şi întru putere şi în Duhul Sfânt şi în deplină încredinţare, precum bine ştiţi ce fel am fost între voi, pentru voi."
+        },
+        {
+          "verse": 6,
+          "text": "Şi voi v-aţi făcut următori ai noştri şi ai Domnului, primind cuvântul cu bucuria Duhului Sfânt, deşi aţi avut multe necazuri."
+        },
+        {
+          "verse": 7,
+          "text": "Aşa încât v-aţi făcut pildă tuturor celor ce cred din Macedonia şi din Ahaia,"
+        },
+        {
+          "verse": 8,
+          "text": "Căci, de la voi, cuvântul Domnului a răsunat nu numai în Macedonia şi în Ahaia, ci credinţa voastră în Dumnezeu s-a răspândit în tot locul, astfel că nu e nevoie să mai spunem noi ceva."
+        },
+        {
+          "verse": 9,
+          "text": "Căci ei înşişi istorisesc despre noi cum am fost primiţi la voi şi cum v-aţi întors la Dumnezeu, de la idoli, ca să slujiţi Dumnezeului celui viu şi adevărat,"
+        },
+        {
+          "verse": 10,
+          "text": "Şi să aşteptaţi pe Fiul Său din ceruri, pe Care L-a înviat din morţi, pe Iisus, Cel ce ne izbăveşte de mânia cea viitoare."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Thessalonians_02_01",
+      "chapter": 2,
+      "pericope_num": "01",
+      "title_en": "Paul's Ministry in Thessalonica",
+      "title_ro": "Slujirea lui Pavel în Tesalonic",
+      "start_verse": 1,
+      "end_verse": 16,
+      "verse_count": 16,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Căci ştiţi voi înşivă, fraţilor, că venirea noastră la voi n-a fost zadarnică."
+        },
+        {
+          "verse": 2,
+          "text": "Ci, după ce am suferit şi am fost, precum ştiţi, ocărâţi în Filipi, am îndrăznit întru Dumnezeul nostru să grăim în faţa voastră, cu multă luptă, Evanghelia lui Dumnezeu."
+        },
+        {
+          "verse": 3,
+          "text": "Pentru că îndemnul nostru nu venea din rătăcire, nici din gânduri necurate, nici din înşelăciune,"
+        },
+        {
+          "verse": 4,
+          "text": "Ci, după cum am fost socotiţi vrednici de Dumnezeu ca să ni se încredinţeze Evanghelia, aşa vorbim, nu căutând să plăcem oamenilor, ci lui Dumnezeu care ne încearcă inimile."
+        },
+        {
+          "verse": 5,
+          "text": "Căci niciodată nu ne-am arătat cu cuvinte de linguşire, după cum ştiţi, nici cu ascunse porniri de lăcomie. Dumnezeu îmi este martor."
+        },
+        {
+          "verse": 6,
+          "text": "Nici n-am căutat slavă de la oameni, nici de la voi, nici de la alţii, deşi puteam să fim cu greutate, ca apostoli ai lui Hristos."
+        },
+        {
+          "verse": 7,
+          "text": "Noi însă am fost blânzi în mijlocul vostru, aşa precum o doică îngrijeşte pe fiii săi;"
+        },
+        {
+          "verse": 8,
+          "text": "Astfel, iubindu-vă, eram bucuroşi să vă dăm nu numai Evanghelia lui Dumnezeu, ci chiar şi sufletele noastre pentru că ne-aţi devenit iubiţi."
+        },
+        {
+          "verse": 9,
+          "text": "Vă aduceţi aminte, fraţilor, de osteneala şi de truda noastră; lucrând zi şi noapte, ca să nu fim povară nici unuia din voi, aşa v-am propovăduit Evanghelia lui Dumnezeu."
+        },
+        {
+          "verse": 10,
+          "text": "Voi sunteţi martori, şi Dumnezeu de asemenea, cât de sfânt şi cât de drept şi fără de prihană ne-am purtat între voi credincioşii;"
+        },
+        {
+          "verse": 11,
+          "text": "Ca un părinte pe copiii săi, precum ştiţi, aşa v-am rugat şi v-am mângâiat."
+        },
+        {
+          "verse": 12,
+          "text": "Şi v-am rugat cu stăruinţă să umblaţi cum se cuvine înaintea lui Dumnezeu, Celui ce vă cheamă la împărăţia şi la slava Sa."
+        },
+        {
+          "verse": 13,
+          "text": "De aceea şi noi mulţumim lui Dumnezeu neîncetat, că luând voi cuvântul ascultării de Dumnezeu de la noi, nu l-aţi primit ca pe un cuvânt al oamenilor, ci, aşa precum este într-adevăr, ca pe un cuvânt al lui Dumnezeu, care şi lucrează întru voi cei ce credeţi."
+        },
+        {
+          "verse": 14,
+          "text": "Căci voi, fraţilor, v-aţi făcut următori ai Bisericilor lui Dumnezeu, care sunt în Iudeea, întru Hristos Iisus, pentru că aţi suferit şi voi aceleaşi de la cei de un neam cu voi, după cum şi ele de la iudei,"
+        },
+        {
+          "verse": 15,
+          "text": "Care şi pe Domnul Iisus L-au omorât ca şi pe proorocii lor; şi pe noi ne-au prigonit şi sunt neplăcuţi lui Dumnezeu şi tuturor oamenilor sunt potrivnici,"
+        },
+        {
+          "verse": 16,
+          "text": "Fiindcă ne opresc să vorbim neamurilor, ca să se mântuiască, spre a se împlini pururea măsura păcatelor lor. Dar la urmă, i-a ajuns mânia lui Dumnezeu."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Thessalonians_02_02",
+      "chapter": 2,
+      "pericope_num": "02",
+      "title_en": "Paul's Desire to Visit the Thessalonians Again",
+      "title_ro": "Dorința lui Pavel de a vizita din nou tesalonicenii",
+      "start_verse": 17,
+      "end_verse": 20,
+      "verse_count": 4,
+      "verses": [
+        {
+          "verse": 17,
+          "text": "Iar noi, fraţilor, fiind despărţiţi de voi, o bucată de vreme, cu ochii nu cu inima, ne-am sârguit cu atât mai mult, cu mare dor, să vedem faţa voastră."
+        },
+        {
+          "verse": 18,
+          "text": "Pentru aceea, am voit să venim la voi, îndeosebi eu Pavel - o dată şi încă altă dată, - dar ne-a împiedicat satana."
+        },
+        {
+          "verse": 19,
+          "text": "Căci care este nădejdea noastră, sau bucuria, sau cununa laudei noastre, dacă nu chiar voi, înaintea Domnului nostru Iisus, întru a Lui venire?"
+        },
+        {
+          "verse": 20,
+          "text": "Căci voi sunteţi slava şi bucuria noastră."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Thessalonians_03_01",
+      "chapter": 3,
+      "pericope_num": "01",
+      "title_en": "Timothy's Encouraging Report",
+      "title_ro": "Raportul încurajator al lui Timotei",
+      "start_verse": 1,
+      "end_verse": 13,
+      "verse_count": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "De aceea, nemaiputând răbda, noi am hotărât să rămânem singuri la Atena."
+        },
+        {
+          "verse": 2,
+          "text": "Şi am trimis pe Timotei, fratele nostru şi slujitorul lui Dumnezeu şi împreună-lucrător cu noi la Evanghelia lui Hristos, ca să vă întărească şi să vă îndemne în credinţa voastră,"
+        },
+        {
+          "verse": 3,
+          "text": "Ca nimeni să nu se clatine în aceste necazuri, căci singuri ştiţi că spre aceasta suntem puşi."
+        },
+        {
+          "verse": 4,
+          "text": "Căci şi când eram la voi, v-am spus de mai înainte că vom avea de suferit necazuri, precum s-a şi întâmplat şi ştiţi prea bine."
+        },
+        {
+          "verse": 5,
+          "text": "Pentru aceea şi eu, fiind nerăbdător, am trimis ca să cunosc credinţa voastră, ca nu cumva să vă fi ispitit ispititorul şi în zadar să ne fie osteneala."
+        },
+        {
+          "verse": 6,
+          "text": "Acum însă, venind Timotei de la voi la noi şi dându-ne vestea bună despre credinţa şi dragostea voastră şi că aveţi bună amintire de noi totdeauna, dorind să ne vedeţi; la fel şi noi pe voi,"
+        },
+        {
+          "verse": 7,
+          "text": "De aceea, fraţilor, ne-am simţit mângâiaţi întru voi, prin credinţa voastră, în toată nevoia şi strâmtorarea noastră."
+        },
+        {
+          "verse": 8,
+          "text": "Căci acum noi suntem vii, dacă voi staţi neclintiţi întru Domnul."
+        },
+        {
+          "verse": 9,
+          "text": "Şi ce mulţumire, pentru voi, putem să dăm în schimb lui Dumnezeu, pentru toată bucuria cu care ne bucurăm pentru voi, înaintea Dumnezeului nostru?"
+        },
+        {
+          "verse": 10,
+          "text": "Noaptea şi ziua ne rugăm cu prisosinţă, ca să vedem faţa voastră şi să împlinim lipsurile credinţei voastre."
+        },
+        {
+          "verse": 11,
+          "text": "Dar însuşi Dumnezeu şi Tatăl nostru, şi Domnul nostru Iisus Hristos să îndrepteze calea noastră către voi!"
+        },
+        {
+          "verse": 12,
+          "text": "Iar pe voi, Domnul să vă înmulţească şi să prisosiţi în dragoste unul către altul şi către toţi, precum şi noi faţă de voi,"
+        },
+        {
+          "verse": 13,
+          "text": "Spre întărirea inimilor voastre, ca să fiţi fără de prihană întru sfinţenie, înaintea lui Dumnezeu, Tatăl nostru, la venirea Domnului nostru Iisus Hristos, cu toţi sfinţii Săi."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Thessalonians_04_01",
+      "chapter": 4,
+      "pericope_num": "01",
+      "title_en": "A Life Pleasing to God",
+      "title_ro": "O viață plăcută lui Dumnezeu",
+      "start_verse": 1,
+      "end_verse": 12,
+      "verse_count": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "În sfârşit, fraţilor, vă rugăm şi vă îndemnăm în Domnul Iisus, ca aşa cum aţi primit de la noi dreptar cum se cuvine să umblaţi şi să plăceţi lui Dumnezeu - în care chip şi umblaţi - aşa să sporiţi tot mai mult."
+        },
+        {
+          "verse": 2,
+          "text": "Fiindcă ştiţi ce porunci v-am dat, prin Domnul Iisus."
+        },
+        {
+          "verse": 3,
+          "text": "Căci voia lui Dumnezeu aceasta este: sfinţirea voastră; să vă feriţi de desfrânare,"
+        },
+        {
+          "verse": 4,
+          "text": "Ca să ştie fiecare dintre voi să-şi stăpânească vasul său în sfinţenie şi cinste,"
+        },
+        {
+          "verse": 5,
+          "text": "Nu în patima poftei cum fac neamurile, care nu cunosc pe Dumnezeu."
+        },
+        {
+          "verse": 6,
+          "text": "Şi nimeni să nu întreacă măsura şi să nu nedreptăţească pe fratele său, în această privinţă, căci Domnul este răzbunător pentru toate acestea, după cum v-am şi spus mai înainte şi v-am dat mărturie."
+        },
+        {
+          "verse": 7,
+          "text": "Căci Dumnezeu nu ne-a chemat la necurăţie, ci la sfinţire."
+        },
+        {
+          "verse": 8,
+          "text": "De aceea, cel ce dispreţuieşte (acestea), nu dispreţuieşte un om, ci pe Dumnezeu, Care v-a dat pe Duhul Său cel Sfânt."
+        },
+        {
+          "verse": 9,
+          "text": "Despre iubirea frăţească nu aveţi trebuinţă să vă scriu, pentru că voi înşivă sunteţi învăţaţi de Dumnezeu ca să vă iubiţi unul pe altul."
+        },
+        {
+          "verse": 10,
+          "text": "Aceasta o şi faceţi, faţă de toţi fraţii, din întreaga Macedonie. Dar vă îndemnăm, fraţilor, să prisosiţi mai mult!"
+        },
+        {
+          "verse": 11,
+          "text": "Şi să râvniţi ca să trăiţi în linişte, să faceţi fiecare cele ale sale şi să lucraţi cu mâinile voastre precum v-am dat poruncă,"
+        },
+        {
+          "verse": 12,
+          "text": "Ca să umblaţi cuviincios faţă de cei din afară (de Biserică) şi să nu aveţi trebuinţă de nimeni."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Thessalonians_04_02",
+      "chapter": 4,
+      "pericope_num": "02",
+      "title_en": "The Coming of the Lord",
+      "title_ro": "Venirea Domnului",
+      "start_verse": 13,
+      "end_verse": 18,
+      "verse_count": 6,
+      "verses": [
+        {
+          "verse": 13,
+          "text": "Fraţilor, despre cei ce au adormit, nu voim să fiţi în neştiinţă, ca să nu vă întristaţi, ca ceilalţi, care nu au nădejde,"
+        },
+        {
+          "verse": 14,
+          "text": "Pentru că de credem că Iisus a murit şi a înviat, tot aşa (credem) că Dumnezeu, pe cei adormiţi întru Iisus, îi va aduce împreună cu El."
+        },
+        {
+          "verse": 15,
+          "text": "Căci aceasta vă spunem, după cuvântul Domnului, că noi cei vii, care vom fi rămas până la venirea Domnului, nu vom lua înainte celor adormiţi,"
+        },
+        {
+          "verse": 16,
+          "text": "Pentru că Însuşi Domnul, întru poruncă, la glasul arhanghelului şi întru trâmbiţa lui Dumnezeu, Se va pogorî din cer, şi cei morţi întru Hristos vor învia întâi,"
+        },
+        {
+          "verse": 17,
+          "text": "După aceea, noi cei vii, care vom fi rămas, vom fi răpiţi, împreună cu ei, în nori, ca să întâmpinăm pe Domnul în văzduh, şi aşa pururea vom fi cu Domnul."
+        },
+        {
+          "verse": 18,
+          "text": "De aceea, mângâiaţi-vă unii pe alţii cu aceste cuvinte."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Thessalonians_05_01",
+      "chapter": 5,
+      "pericope_num": "01",
+      "title_en": "Final Exhortations, Greetings, and Benediction",
+      "title_ro": "Îndemnuri finale, salutări și binecuvântare",
+      "start_verse": 1,
+      "end_verse": 28,
+      "verse_count": 28,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Iar despre ani şi despre vremuri, fraţilor, nu aveţi nevoie să vă scriem,"
+        },
+        {
+          "verse": 2,
+          "text": "Căci voi înşivă ştiţi bine că ziua Domnului vine aşa, ca un fur noaptea."
+        },
+        {
+          "verse": 3,
+          "text": "Atunci când vor zice: pace şi linişte, atunci, fără de veste, va veni peste ei pieirea, ca şi durerile peste cea însărcinată, şi scăpare nu vor avea."
+        },
+        {
+          "verse": 4,
+          "text": "Voi însă, fraţilor, nu sunteţi în întuneric, ca să vă apuce ziua aceea ca un fur."
+        },
+        {
+          "verse": 5,
+          "text": "Căci voi toţi sunteţi fii ai luminii şi fii ai zilei; nu suntem ai nopţii, nici ai întunericului."
+        },
+        {
+          "verse": 6,
+          "text": "De aceea să nu dormim ca şi ceilalţi, ci să priveghem şi să fim treji."
+        },
+        {
+          "verse": 7,
+          "text": "Fiindcă cei ce dorm, noaptea dorm; şi cei ce se îmbată, noaptea se îmbată."
+        },
+        {
+          "verse": 8,
+          "text": "Dar noi, fiind ai zilei, să fim treji, îmbrăcându-ne în platoşa credinţei şi a dragostei şi punând coiful nădejdii de mântuire;"
+        },
+        {
+          "verse": 9,
+          "text": "Că Dumnezeu nu ne-a rânduit spre mânie, ci spre dobândirea mântuirii, prin Domnul nostru Iisus Hristos,"
+        },
+        {
+          "verse": 10,
+          "text": "Care a murit pentru noi, pentru ca noi, fie că veghem, fie că dormim, cu El împreună să vieţuim."
+        },
+        {
+          "verse": 11,
+          "text": "De aceea, îndemnaţi-vă şi zidiţi-vă unul pe altul, aşa precum şi faceţi."
+        },
+        {
+          "verse": 12,
+          "text": "Vă mai rugăm, fraţilor, să cinstiţi pe cei ce se ostenesc între voi, care sunt mai-marii voştri în Domnul şi vă povăţuiesc;"
+        },
+        {
+          "verse": 13,
+          "text": "Şi pentru lucrarea lor, să-i socotiţi pe ei vrednici de dragoste prisositoare. Trăiţi între voi în bună pace."
+        },
+        {
+          "verse": 14,
+          "text": "Vă rugăm însă, fraţilor, dojeniţi pe cei fără de rânduială, îmbărbătaţi pe cei slabi la suflet, sprijiniţi pe cei neputincioşi, fiţi îndelung-răbdători faţă de toţi."
+        },
+        {
+          "verse": 15,
+          "text": "Luaţi seama să nu răsplătească cineva cuiva răul cu rău, ci totdeauna să urmaţi cele bune unul faţă de altul şi faţă de toţi."
+        },
+        {
+          "verse": 16,
+          "text": "Bucuraţi-vă pururea."
+        },
+        {
+          "verse": 17,
+          "text": "Rugaţi-vă neîncetat."
+        },
+        {
+          "verse": 18,
+          "text": "Daţi mulţumire pentru toate, căci aceasta este voia lui Dumnezeu, întru Hristos Iisus, pentru voi."
+        },
+        {
+          "verse": 19,
+          "text": "Duhul să nu-l stingeţi."
+        },
+        {
+          "verse": 20,
+          "text": "Proorociile să nu le dispreţuiţi."
+        },
+        {
+          "verse": 21,
+          "text": "Toate să le încercaţi; ţineţi ce este bine;"
+        },
+        {
+          "verse": 22,
+          "text": "Feriţi-vă de orice înfăţişare a răului."
+        },
+        {
+          "verse": 23,
+          "text": "Însuşi Dumnezeul păcii să vă sfinţească pe voi desăvârşit, şi întreg duhul vostru, şi sufletul, şi trupul să se păzească, fără de prihană, întru venirea Domnului nostru Iisus Hristos."
+        },
+        {
+          "verse": 24,
+          "text": "Credincios este Cel care vă cheamă. El va şi îndeplini."
+        },
+        {
+          "verse": 25,
+          "text": "Fraţilor, rugaţi-vă pentru noi."
+        },
+        {
+          "verse": 26,
+          "text": "Îmbrăţişaţi pe toţi fraţii cu sărutare sfântă."
+        },
+        {
+          "verse": 27,
+          "text": "Vă îndemn stăruitor pe voi întru Domnul, ca să citiţi scrisoarea aceasta tuturor sfinţilor fraţi."
+        },
+        {
+          "verse": 28,
+          "text": "Harul Domnului nostru Iisus Hristos să fie cu voi. Amin!"
+        }
+      ]
+    }
+  ]
+}

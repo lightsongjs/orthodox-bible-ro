@@ -1,0 +1,552 @@
+{
+  "old_testament": [
+    {
+      "id": 25,
+      "name_en": "Genesis",
+      "name_ro": "Facerea",
+      "chapters": 50,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=25"
+    },
+    {
+      "id": 32,
+      "name_en": "Exodus",
+      "name_ro": "Ieșirea",
+      "chapters": 40,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=32"
+    },
+    {
+      "id": 47,
+      "name_en": "Leviticus",
+      "name_ro": "Leviticul",
+      "chapters": 27,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=47"
+    },
+    {
+      "id": 59,
+      "name_en": "Numbers",
+      "name_ro": "Numerii",
+      "chapters": 36,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=59"
+    },
+    {
+      "id": 17,
+      "name_en": "Deuteronomy",
+      "name_ro": "Deuteronomul",
+      "chapters": 34,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=17"
+    },
+    {
+      "id": 41,
+      "name_en": "Joshua",
+      "name_ro": "Iosua Navi",
+      "chapters": 24,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=41"
+    },
+    {
+      "id": 46,
+      "name_en": "Judges",
+      "name_ro": "Judecători",
+      "chapters": 21,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=46"
+    },
+    {
+      "id": 71,
+      "name_en": "Ruth",
+      "name_ro": "Rut",
+      "chapters": 4,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=71"
+    },
+    {
+      "id": 66,
+      "name_en": "1 Kings",
+      "name_ro": "I Regi",
+      "chapters": 31,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=66"
+    },
+    {
+      "id": 67,
+      "name_en": "2 Kings",
+      "name_ro": "II Regi",
+      "chapters": 24,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=67"
+    },
+    {
+      "id": 68,
+      "name_en": "3 Kings",
+      "name_ro": "III Regi",
+      "chapters": 22,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=68"
+    },
+    {
+      "id": 69,
+      "name_en": "4 Kings",
+      "name_ro": "IV Regi",
+      "chapters": 25,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=69"
+    },
+    {
+      "id": 14,
+      "name_en": "1 Chronicles",
+      "name_ro": "I Paralipomena",
+      "chapters": 29,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=14"
+    },
+    {
+      "id": 15,
+      "name_en": "2 Chronicles",
+      "name_ro": "II Paralipomena",
+      "chapters": 36,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=15"
+    },
+    {
+      "id": 23,
+      "name_en": "1 Ezra",
+      "name_ro": "I Ezdra",
+      "chapters": 10,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=23"
+    },
+    {
+      "id": 58,
+      "name_en": "Nehemiah",
+      "name_ro": "Neemia",
+      "chapters": 13,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=58"
+    },
+    {
+      "id": 21,
+      "name_en": "Esther",
+      "name_ro": "Esterei",
+      "chapters": 10,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=21"
+    },
+    {
+      "id": 42,
+      "name_en": "Job",
+      "name_ro": "Iov",
+      "chapters": 42,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=42"
+    },
+    {
+      "id": 65,
+      "name_en": "Psalms",
+      "name_ro": "Psalmi",
+      "chapters": 151,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=65"
+    },
+    {
+      "id": 63,
+      "name_en": "Proverbs",
+      "name_ro": "Pilde",
+      "chapters": 31,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=63"
+    },
+    {
+      "id": 18,
+      "name_en": "Ecclesiastes",
+      "name_ro": "Ecclesiastul",
+      "chapters": 12,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=18"
+    },
+    {
+      "id": 9,
+      "name_en": "Song of Songs",
+      "name_ro": "Cântări",
+      "chapters": 8,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=9"
+    },
+    {
+      "id": 43,
+      "name_en": "Isaiah",
+      "name_ro": "Isaia",
+      "chapters": 66,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=43"
+    },
+    {
+      "id": 31,
+      "name_en": "Jeremiah",
+      "name_ro": "Ieremia",
+      "chapters": 52,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=31"
+    },
+    {
+      "id": 64,
+      "name_en": "Lamentations",
+      "name_ro": "Plangeri",
+      "chapters": 5,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=64"
+    },
+    {
+      "id": 33,
+      "name_en": "Ezekiel",
+      "name_ro": "Iezechiel",
+      "chapters": 48,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=33"
+    },
+    {
+      "id": 16,
+      "name_en": "Daniel",
+      "name_ro": "Daniel",
+      "chapters": 12,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=16"
+    },
+    {
+      "id": 60,
+      "name_en": "Hosea",
+      "name_ro": "Osea",
+      "chapters": 14,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=60"
+    },
+    {
+      "id": 3,
+      "name_en": "Amos",
+      "name_ro": "Amos",
+      "chapters": 9,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=3"
+    },
+    {
+      "id": 56,
+      "name_en": "Micah",
+      "name_ro": "Miheia",
+      "chapters": 7,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=56"
+    },
+    {
+      "id": 39,
+      "name_en": "Joel",
+      "name_ro": "Ioil",
+      "chapters": 4,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=39"
+    },
+    {
+      "id": 6,
+      "name_en": "Obadiah",
+      "name_ro": "Avdie",
+      "chapters": 1,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=6"
+    },
+    {
+      "id": 40,
+      "name_en": "Jonah",
+      "name_ro": "Iona",
+      "chapters": 4,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=40"
+    },
+    {
+      "id": 57,
+      "name_en": "Nahum",
+      "name_ro": "Naum",
+      "chapters": 3,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=57"
+    },
+    {
+      "id": 5,
+      "name_en": "Habakkuk",
+      "name_ro": "Avacum",
+      "chapters": 3,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=5"
+    },
+    {
+      "id": 73,
+      "name_en": "Zephaniah",
+      "name_ro": "Sofonie",
+      "chapters": 3,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=73"
+    },
+    {
+      "id": 2,
+      "name_en": "Haggai",
+      "name_ro": "Agheu",
+      "chapters": 2,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=2"
+    },
+    {
+      "id": 82,
+      "name_en": "Zechariah",
+      "name_ro": "Zaharia",
+      "chapters": 14,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=82"
+    },
+    {
+      "id": 52,
+      "name_en": "Malachi",
+      "name_ro": "Maleahi",
+      "chapters": 3,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=52"
+    },
+    {
+      "id": 81,
+      "name_en": "Tobit",
+      "name_ro": "Tobit",
+      "chapters": 14,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=81"
+    },
+    {
+      "id": 45,
+      "name_en": "Judith",
+      "name_ro": "Iudita",
+      "chapters": 16,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=45"
+    },
+    {
+      "id": 8,
+      "name_en": "Baruch",
+      "name_ro": "Baruh",
+      "chapters": 5,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=8"
+    },
+    {
+      "id": 1,
+      "name_en": "Song of Three Young Men",
+      "name_ro": "3 tineri",
+      "chapters": 1,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=1"
+    },
+    {
+      "id": 24,
+      "name_en": "3 Ezra",
+      "name_ro": "III Ezdra",
+      "chapters": 9,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=24"
+    },
+    {
+      "id": 74,
+      "name_en": "Wisdom of Solomon",
+      "name_ro": "Solomon",
+      "chapters": 19,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=74"
+    },
+    {
+      "id": 72,
+      "name_en": "Sirach",
+      "name_ro": "Ecclesiasticul",
+      "chapters": 51,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=72"
+    },
+    {
+      "id": 75,
+      "name_en": "Susanna",
+      "name_ro": "Susanei",
+      "chapters": 1,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=75"
+    },
+    {
+      "id": 49,
+      "name_en": "1 Maccabees",
+      "name_ro": "I Macabei",
+      "chapters": 16,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=49"
+    },
+    {
+      "id": 50,
+      "name_en": "2 Maccabees",
+      "name_ro": "II Macabei",
+      "chapters": 15,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=50"
+    },
+    {
+      "id": 51,
+      "name_en": "3 Maccabees",
+      "name_ro": "III Macabei",
+      "chapters": 7,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=51"
+    },
+    {
+      "id": 54,
+      "name_en": "Prayer of Manasseh",
+      "name_ro": "Manase",
+      "chapters": 1,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=54"
+    }
+  ],
+  "new_testament": [
+    {
+      "id": 55,
+      "name_en": "Matthew",
+      "name_ro": "Matei",
+      "chapters": 28,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=55"
+    },
+    {
+      "id": 53,
+      "name_en": "Mark",
+      "name_ro": "Marcu",
+      "chapters": 16,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=53"
+    },
+    {
+      "id": 48,
+      "name_en": "Luke",
+      "name_ro": "Luca",
+      "chapters": 24,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=48"
+    },
+    {
+      "id": 35,
+      "name_en": "John",
+      "name_ro": "Ioan",
+      "chapters": 21,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=35"
+    },
+    {
+      "id": 26,
+      "name_en": "Acts",
+      "name_ro": "Faptele Apostolilor",
+      "chapters": 28,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=26"
+    },
+    {
+      "id": 70,
+      "name_en": "Romans",
+      "name_ro": "Romani",
+      "chapters": 16,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=70"
+    },
+    {
+      "id": 12,
+      "name_en": "1 Corinthians",
+      "name_ro": "I Corinteni",
+      "chapters": 16,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=12"
+    },
+    {
+      "id": 13,
+      "name_en": "2 Corinthians",
+      "name_ro": "II Corinteni",
+      "chapters": 13,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=13"
+    },
+    {
+      "id": 29,
+      "name_en": "Galatians",
+      "name_ro": "Galateni",
+      "chapters": 6,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=29"
+    },
+    {
+      "id": 19,
+      "name_en": "Ephesians",
+      "name_ro": "Efeseni",
+      "chapters": 6,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=19"
+    },
+    {
+      "id": 28,
+      "name_en": "Philippians",
+      "name_ro": "Filipeni",
+      "chapters": 4,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=28"
+    },
+    {
+      "id": 10,
+      "name_en": "Colossians",
+      "name_ro": "Coloseni",
+      "chapters": 4,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=10"
+    },
+    {
+      "id": 76,
+      "name_en": "1 Thessalonians",
+      "name_ro": "I Tesaloniceni",
+      "chapters": 5,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=76"
+    },
+    {
+      "id": 77,
+      "name_en": "2 Thessalonians",
+      "name_ro": "II Tesaloniceni",
+      "chapters": 3,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=77"
+    },
+    {
+      "id": 78,
+      "name_en": "1 Timothy",
+      "name_ro": "I Timotei",
+      "chapters": 6,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=78"
+    },
+    {
+      "id": 79,
+      "name_en": "2 Timothy",
+      "name_ro": "II Timotei",
+      "chapters": 4,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=79"
+    },
+    {
+      "id": 80,
+      "name_en": "Titus",
+      "name_ro": "Tit",
+      "chapters": 3,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=80"
+    },
+    {
+      "id": 27,
+      "name_en": "Philemon",
+      "name_ro": "Filimon",
+      "chapters": 1,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=27"
+    },
+    {
+      "id": 22,
+      "name_en": "Hebrews",
+      "name_ro": "Evrei",
+      "chapters": 13,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=22"
+    },
+    {
+      "id": 30,
+      "name_en": "James",
+      "name_ro": "Iacov",
+      "chapters": 5,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=30"
+    },
+    {
+      "id": 61,
+      "name_en": "1 Peter",
+      "name_ro": "I Petru",
+      "chapters": 5,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=61"
+    },
+    {
+      "id": 62,
+      "name_en": "2 Peter",
+      "name_ro": "II Petru",
+      "chapters": 3,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=62"
+    },
+    {
+      "id": 36,
+      "name_en": "1 John",
+      "name_ro": "I Ioan",
+      "chapters": 5,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=36"
+    },
+    {
+      "id": 37,
+      "name_en": "2 John",
+      "name_ro": "II Ioan",
+      "chapters": 1,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=37"
+    },
+    {
+      "id": 38,
+      "name_en": "3 John",
+      "name_ro": "III Ioan",
+      "chapters": 1,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=38"
+    },
+    {
+      "id": 44,
+      "name_en": "Jude",
+      "name_ro": "Iuda",
+      "chapters": 1,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=44"
+    },
+    {
+      "id": 4,
+      "name_en": "Revelation",
+      "name_ro": "Apocalipsa",
+      "chapters": 22,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=4"
+    }
+  ]
+}

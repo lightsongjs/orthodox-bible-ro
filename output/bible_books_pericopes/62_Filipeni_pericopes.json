@@ -1,0 +1,560 @@
+{
+  "id": 28,
+  "book_number": 62,
+  "name_en": "Philippians",
+  "name_ro": "Filipeni",
+  "testament": "NT",
+  "chapter_count": 4,
+  "pericope_count": 11,
+  "url": "https://www.bibliaortodoxa.ro/carte.php?id=28",
+  "pericopes": [
+    {
+      "pericope_id": "Philippians_01_01",
+      "chapter": 1,
+      "pericope_num": "01",
+      "title_en": "Salutation",
+      "title_ro": "Salutare",
+      "start_verse": 1,
+      "end_verse": 2,
+      "verse_count": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Pavel şi Timotei, robi ai lui Hristos Iisus, tuturor sfinţilor întru Hristos Iisus, celor ce sunt în Filipi, împreună cu episcopii şi diaconii:"
+        },
+        {
+          "verse": 2,
+          "text": "Har vouă şi pace, de la Dumnezeu, Tatăl nostru, şi de la Domnul Iisus Hristos."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Philippians_01_02",
+      "chapter": 1,
+      "pericope_num": "02",
+      "title_en": "Paul's Prayer for the Philippians",
+      "title_ro": "Rugăciunea lui Pavel pentru filipeni",
+      "start_verse": 3,
+      "end_verse": 11,
+      "verse_count": 9,
+      "verses": [
+        {
+          "verse": 3,
+          "text": "Mulţumesc Dumnezeului meu, ori de câte ori îmi amintesc de voi,"
+        },
+        {
+          "verse": 4,
+          "text": "Căci totdeauna, în toate rugăciunile mele, mă rog pentru voi toţi, cu bucurie,"
+        },
+        {
+          "verse": 5,
+          "text": "Pentru împărtăşirea voastră întru Evanghelie, din ziua dintâi până acum."
+        },
+        {
+          "verse": 6,
+          "text": "Sunt încredinţat de aceasta, că cel ce a început în voi lucrul cel bun îl va duce la capăt, până în ziua lui Hristos Iisus,"
+        },
+        {
+          "verse": 7,
+          "text": "Precum este cu dreptate să gândesc astfel despre voi toţi; căci vă port în inima mea, şi în lanţurile mele, şi în apărarea şi în întărirea Evangheliei, fiindcă voi toţi sunteţi părtaşi la acelaşi har cu mine."
+        },
+        {
+          "verse": 8,
+          "text": "Căci martor îmi este Dumnezeu, că vă doresc pe voi pe toţi, cu dragostea lui Hristos Iisus."
+        },
+        {
+          "verse": 9,
+          "text": "Şi aceasta mă rog, ca iubirea voastră să prisosească tot mai mult şi mai mult, întru cunoştinţă şi întru orice pricepere,"
+        },
+        {
+          "verse": 10,
+          "text": "Ca să cercaţi voi cele ce sunt mai de folos şi ca să fiţi curaţi şi fără poticnire în ziua lui Hristos,"
+        },
+        {
+          "verse": 11,
+          "text": "Plini de roada dreptăţii, care este prin Iisus Hristos, spre slava şi lauda lui Dumnezeu."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Philippians_01_03",
+      "chapter": 1,
+      "pericope_num": "03",
+      "title_en": "Paul's Present Circumstances",
+      "title_ro": "Situația prezentă a lui Pavel",
+      "start_verse": 12,
+      "end_verse": 30,
+      "verse_count": 19,
+      "verses": [
+        {
+          "verse": 12,
+          "text": "Voiesc ca voi să ştiţi, fraţilor, că cele petrecute cu mine s-au întors mai degrabă spre sporirea Evangheliei,"
+        },
+        {
+          "verse": 13,
+          "text": "În aşa fel că lanţurile mele, pentru Hristos, au ajuns cunoscute în tot pretoriul şi tuturor celorlalţi;"
+        },
+        {
+          "verse": 14,
+          "text": "Şi cei mai mulţi dintre fraţii întru Domnul, îmbărbătaţi prin lanţurile mele, au mai multă îndrăzneală să propovăduiască fără teamă cuvântul lui Dumnezeu."
+        },
+        {
+          "verse": 15,
+          "text": "Unii, e drept, vestesc pe Hristos din pizmă şi din duh de ceartă, alţii însă din bunăvoinţă."
+        },
+        {
+          "verse": 16,
+          "text": "Unii o fac din iubire, ştiind că stau aici pentru apărarea Evangheliei;"
+        },
+        {
+          "verse": 17,
+          "text": "Ceilalţi, însă, - din zavistie - vestesc pe Hristos, nu cu gânduri curate, ci socotind să-mi sporească necazul în lanţurile mele."
+        },
+        {
+          "verse": 18,
+          "text": "Dar ce este? Nimic altceva decât că, în tot chipul, fie din făţărie, fie în adevăr, Hristos se propovăduieşte şi întru aceasta mă bucur. Şi mereu mă voi bucura."
+        },
+        {
+          "verse": 19,
+          "text": "Căci ştiu că aceasta îmi va fi mie spre mântuire, prin rugăciunile voastre şi cu ajutorul Duhului lui Iisus Hristos,"
+        },
+        {
+          "verse": 20,
+          "text": "După aşteptarea şi nădejdea mea că întru nimic nu voi fi ruşinat, ci, întru toată îndrăzneala, precum totdeauna, aşa şi acum, Hristos va fi preaslăvit în trupul meu, fie prin viaţă, fie prin moarte;"
+        },
+        {
+          "verse": 21,
+          "text": "Căci pentru mine viaţă este Hristos şi moartea un câştig."
+        },
+        {
+          "verse": 22,
+          "text": "Dacă însă a vieţui în trup înseamnă a da roadă lucrului meu, nu ştiu ce voi alege."
+        },
+        {
+          "verse": 23,
+          "text": "Sunt strâns din două părţi: doresc să mă despart de trup şi să fiu împreună cu Hristos, şi aceasta e cu mult mai bine;"
+        },
+        {
+          "verse": 24,
+          "text": "Dar este mai de folos pentru voi să zăbovesc în trup."
+        },
+        {
+          "verse": 25,
+          "text": "Şi având această încredinţare, ştiu că voi rămâne şi împreună voi petrece cu voi cu toţi, spre sporirea voastră şi spre bucuria credinţei,"
+        },
+        {
+          "verse": 26,
+          "text": "Pentru ca lauda voastră să prisosească în Hristos Iisus prin mine, atunci când voi veni iarăşi între voi."
+        },
+        {
+          "verse": 27,
+          "text": "Să vă purtaţi numai în chip vrednic de Evanghelia lui Hristos, pentru ca, fie venind eu şi văzându-vă, fie nefiind de faţă, să aud despre voi că staţi într-un duh, nevoindu-vă împreună întru-un suflet, pentru credinţa Evangheliei,"
+        },
+        {
+          "verse": 28,
+          "text": "Fără să vă înfricoşaţi întru nimic de cei potrivnici, ceea ce pentru ei este un semn de pierzare, iar pentru voi de mântuire, şi aceasta este de la Dumnezeu."
+        },
+        {
+          "verse": 29,
+          "text": "Căci vouă vi s-a dăruit, pentru Hristos, nu numai să credeţi în El, ci să şi pătimiţi pentru El,"
+        },
+        {
+          "verse": 30,
+          "text": "Ducând aceeaşi luptă, pe care aţi văzut-o la mine şi o auziţi acum despre mine."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Philippians_02_01",
+      "chapter": 2,
+      "pericope_num": "01",
+      "title_en": "Imitating Christ's Humility",
+      "title_ro": "Imitarea smereniei lui Hristos",
+      "start_verse": 1,
+      "end_verse": 11,
+      "verse_count": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Deci, dacă este vreun îndemn în Hristos, dacă este vreo mângâiere a dragostei, dacă este vreo împărtăşire a Duhului, dacă este vreo milostivire şi îndurare,"
+        },
+        {
+          "verse": 2,
+          "text": "Faceţi-mi bucuria deplină, ca să gândiţi la fel, având aceeaşi iubire, aceleaşi simţiri, aceeaşi cugetare."
+        },
+        {
+          "verse": 3,
+          "text": "Nu faceţi nimic din duh de ceartă, nici din slavă deşartă, ci cu smerenie unul pe altul socotească-l mai de cinste decât el însuşi."
+        },
+        {
+          "verse": 4,
+          "text": "Să nu caute nimeni numai ale sale, ci fiecare şi ale altuia."
+        },
+        {
+          "verse": 5,
+          "text": "Gândul acesta să fie în voi care era şi în Hristos Iisus,"
+        },
+        {
+          "verse": 6,
+          "text": "Care, Dumnezeu fiind în chip, n-a socotit o ştirbire a fi El întocmai cu Dumnezeu,"
+        },
+        {
+          "verse": 7,
+          "text": "Ci S-a deşertat pe Sine, chip de rob luând, făcându-Se asemenea oamenilor, şi la înfăţişare aflându-Se ca un om,"
+        },
+        {
+          "verse": 8,
+          "text": "S-a smerit pe Sine, ascultător făcându-Se până la moarte, şi încă moarte pe cruce."
+        },
+        {
+          "verse": 9,
+          "text": "Pentru aceea, şi Dumnezeu L-a preaînălţat şi I-a dăruit Lui nume, care este mai presus de orice nume;"
+        },
+        {
+          "verse": 10,
+          "text": "Ca întru numele lui Iisus tot genunchiul să se plece, al celor cereşti şi al celor pământeşti şi al celor de dedesubt."
+        },
+        {
+          "verse": 11,
+          "text": "Şi să mărturisească toată limba că Domn este Iisus Hristos, întru slava lui Dumnezeu-Tatăl."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Philippians_02_02",
+      "chapter": 2,
+      "pericope_num": "02",
+      "title_en": "Shining as Lights in the World",
+      "title_ro": "Strălucind ca luminători în lume",
+      "start_verse": 12,
+      "end_verse": 18,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 12,
+          "text": "Drept aceea, iubiţii mei, precum totdeauna m-aţi ascultat, nu numai când eram de faţă, ci cu atât mai mult acum când sunt departe, cu frică şi cu cutremur lucraţi mântuirea voastră;"
+        },
+        {
+          "verse": 13,
+          "text": "Căci Dumnezeu este Cel ce lucrează în voi şi ca să voiţi şi ca să săvârşiţi, după a Lui bunăvoinţă."
+        },
+        {
+          "verse": 14,
+          "text": "Toate să le faceţi fără de cârtire şi fără de îndoială,"
+        },
+        {
+          "verse": 15,
+          "text": "Ca să fiţi fără de prihană şi curaţi, fii ai lui Dumnezeu neîntinaţi în mijlocul unui neam rău şi stricat şi întru care străluciţi ca nişte luminători în lume,"
+        },
+        {
+          "verse": 16,
+          "text": "Ţinând cu putere cuvântul vieţii, spre lauda mea în ziua lui Hristos, că nu în zadar am alergat, nici în zadar m-am ostenit."
+        },
+        {
+          "verse": 17,
+          "text": "Şi chiar dacă mi-aş vărsa sângele pentru jertfa şi slujirea credinţei voastre, mă bucur şi vă fericesc pe voi pe toţi."
+        },
+        {
+          "verse": 18,
+          "text": "Asemenea şi voi bucuraţi-vă şi fericiţi-mă."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Philippians_02_03",
+      "chapter": 2,
+      "pericope_num": "03",
+      "title_en": "Timothy and Epaphroditus",
+      "title_ro": "Timotei și Epafrodit",
+      "start_verse": 19,
+      "end_verse": 30,
+      "verse_count": 12,
+      "verses": [
+        {
+          "verse": 19,
+          "text": "Ci nădăjduiesc întru Domnul Iisus, că voi trimite pe Timotei la voi, fără de zăbavă, ca şi eu să fiu cu inima bună, aflând veşti despre voi."
+        },
+        {
+          "verse": 20,
+          "text": "Căci nu am pe nimeni altul, la un gând cu mine şi care să vă poarte grija cu adevărat,"
+        },
+        {
+          "verse": 21,
+          "text": "Fiindcă toţi caută ale lor, nu ale lui Iisus Hristos."
+        },
+        {
+          "verse": 22,
+          "text": "Dar încercarea lui o cunoaşteţi, căci împreună cu mine a slujit Evanghelia, întocmai ca un copil lângă tatăl său."
+        },
+        {
+          "verse": 23,
+          "text": "Pe el deci nădăjduiesc să-l trimit, îndată ce voi vedea ce va fi cu mine."
+        },
+        {
+          "verse": 24,
+          "text": "Sunt, însă, încredinţat în Domnul că eu însumi voi veni în curând."
+        },
+        {
+          "verse": 25,
+          "text": "Am socotit de grabnică nevoie să vă trimit pe Epafrodit, fratele şi împreună cu mine lucrător şi luptător, cum şi trimisul vostru şi slujitorul nevoilor mele,"
+        },
+        {
+          "verse": 26,
+          "text": "Fiindcă avea mare dor de voi toţi şi era mâhnit fiindcă aţi auzit că a fost bolnav."
+        },
+        {
+          "verse": 27,
+          "text": "Într-adevăr, bolnav a fost aproape de moarte, dar Dumnezeu a avut milă de el şi nu numai de el, ci şi de mine, ca să nu am întristare peste întristare."
+        },
+        {
+          "verse": 28,
+          "text": "Deci l-am trimis mai degrabă, ca, văzându-l, voi iarăşi să vă bucuraţi, iar eu să fiu mai puţin mâhnit."
+        },
+        {
+          "verse": 29,
+          "text": "Primiţi-l dar întru Domnul, cu toată bucuria şi pe unii ca aceştia întru cinste să-i aveţi,"
+        },
+        {
+          "verse": 30,
+          "text": "Fiindcă pentru lucrul lui Hristos a mers până aproape de moarte, punându-şi viaţa în primejdie, ca să împlinească lipsa voastră în slujirea mea."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Philippians_03_01",
+      "chapter": 3,
+      "pericope_num": "01",
+      "title_en": "Breaking with the Past",
+      "title_ro": "Ruptura cu trecutul",
+      "start_verse": 1,
+      "end_verse": 11,
+      "verse_count": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Mai departe, fraţii mei, bucuraţi-vă întru Domnul. Ca să vă scriu aceleaşi lucruri, mie nu-mi este anevoie, iar vouă vă este de folos."
+        },
+        {
+          "verse": 2,
+          "text": "Păziţi-vă de câini! Păziţi-vă de lucrătorii cei răi! Păziţi-vă de tăierea împrejur."
+        },
+        {
+          "verse": 3,
+          "text": "Pentru că noi suntem tăierea împrejur, noi cei ce slujim în Duhul lui Dumnezeu, şi ne lăudăm întru Hristos Iisus şi nu ne bizuim pe trup,"
+        },
+        {
+          "verse": 4,
+          "text": "Deşi eu aş putea să mă bizui şi pe trup. Dacă vreun altul socoteşte că se poate bizui pe trup, eu cu atât mai mult!"
+        },
+        {
+          "verse": 5,
+          "text": "La opt zile, am fost tăiat împrejur; sunt din neamul lui Israel, din seminţia lui Veniamin, evreu din evrei, după lege fariseu;"
+        },
+        {
+          "verse": 6,
+          "text": "În ce priveşte râvna, prigonitor al Bisericii; în ce priveşte dreptatea cea din Lege, fără de prihană."
+        },
+        {
+          "verse": 7,
+          "text": "Dar cele ce îmi erau mie câştig, acestea le-am socotit pentru Hristos pagubă."
+        },
+        {
+          "verse": 8,
+          "text": "Ba mai mult: eu pe toate le socotesc că sunt pagubă, faţă de înălţimea cunoaşterii lui Hristos Iisus, Domnul meu, pentru Care m-am lipsit de toate şi le privesc drept gunoaie, ca pe Hristos să dobândesc,"
+        },
+        {
+          "verse": 9,
+          "text": "Şi să mă aflu întru El, nu având dreptatea mea cea din Lege, ci pe aceea care este prin credinţa în Hristos, dreptatea cea de la Dumnezeu, pe temeiul credinţei,"
+        },
+        {
+          "verse": 10,
+          "text": "Ca să-L cunosc pe El şi puterea învierii Lui şi să fiu primit părtaş la patimile Lui, făcându-mă asemenea cu El în moartea Lui,"
+        },
+        {
+          "verse": 11,
+          "text": "Ca, doar, să pot ajunge la învierea cea din morţi."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Philippians_03_02",
+      "chapter": 3,
+      "pericope_num": "02",
+      "title_en": "Pressing toward the Goal",
+      "title_ro": "Înaintând spre țintă",
+      "start_verse": 12,
+      "end_verse": 21,
+      "verse_count": 10,
+      "verses": [
+        {
+          "verse": 12,
+          "text": "Nu (zic) că am şi dobândit îndreptarea, ori că sunt desăvârşit; dar o urmăresc ca doar o voi prinde, întrucât şi eu am fost prins de Hristos Iisus."
+        },
+        {
+          "verse": 13,
+          "text": "Fraţilor, eu încă nu socotesc să o fi cucerit,"
+        },
+        {
+          "verse": 14,
+          "text": "Dar una fac: uitând cele ce sunt în urma mea, şi tinzând către cele dinainte, alerg la ţintă, la răsplata chemării de sus, a lui Dumnezeu, întru Hristos Iisus."
+        },
+        {
+          "verse": 15,
+          "text": "Aşadar, câţi suntem desăvârşiţi aceasta să gândim; şi dacă gândiţi ceva în alt fel, Dumnezeu vă va descoperi şi aceea."
+        },
+        {
+          "verse": 16,
+          "text": "Dar de acolo unde am ajuns, să urmăm acelaşi dreptar, să gândim la fel."
+        },
+        {
+          "verse": 17,
+          "text": "Fraţilor, faceţi-vă urmăritorii mei şi uitaţi-vă la aceia care umblă astfel precum ne aveţi pildă pe noi."
+        },
+        {
+          "verse": 18,
+          "text": "Căci mulţi, despre care v-am vorbit adeseori, iar acum vă spun şi plângând, se poartă ca duşmani ai crucii lui Hristos."
+        },
+        {
+          "verse": 19,
+          "text": "Sfârşitul acestora este pieirea. Pântecele este dumnezeul lor, iar mărirea lor este întru ruşinea lor, ca unii care au în gând cele pământeşti."
+        },
+        {
+          "verse": 20,
+          "text": "Cât despre noi, cetatea noastră este în ceruri, de unde şi aşteptăm Mântuitor, pe Domnul Iisus Hristos,"
+        },
+        {
+          "verse": 21,
+          "text": "Care va schimba la înfăţişare trupul smereniei noastre ca să fie asemenea trupului slavei Sale, lucrând cu puterea ce are de a-Şi supune Sieşi toate."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Philippians_04_01",
+      "chapter": 4,
+      "pericope_num": "01",
+      "title_en": "Exhortations",
+      "title_ro": "Îndemnuri",
+      "start_verse": 1,
+      "end_verse": 9,
+      "verse_count": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Deci, fraţii mei iubiţi şi mult doriţi, bucuria şi cununa mea, aşa să staţi întru Domnul, iubiţii mei."
+        },
+        {
+          "verse": 2,
+          "text": "Rog pe Evodia şi rog pe Sintihi să aibă aceleaşi gânduri în Domnul."
+        },
+        {
+          "verse": 3,
+          "text": "Încă te rog şi pe tine, credinciosule Sizig, ajută-le lor, ca pe unele care au luptat pentru Evanghelie, împreună cu mine şi cu Clement şi cu ceilalţi împreună-lucrători cu mine, ale căror nume sunt scrise în cartea vieţii."
+        },
+        {
+          "verse": 4,
+          "text": "Bucuraţi-vă pururea întru Domnul. Şi iarăşi zic: Bucuraţi-vă."
+        },
+        {
+          "verse": 5,
+          "text": "Îngăduinţa voastră să se facă ştiută tuturor oamenilor. Domnul este aproape."
+        },
+        {
+          "verse": 6,
+          "text": "Nu vă împovăraţi cu nici o grijă. Ci întru toate, prin închinăciune şi prin rugă cu mulţumire, cererile voastre să fie arătate lui Dumnezeu."
+        },
+        {
+          "verse": 7,
+          "text": "Şi pacea lui Dumnezeu, care covârşeşte orice minte, să păzească inimile voastre şi cugetele voastre, întru Hristos Iisus."
+        },
+        {
+          "verse": 8,
+          "text": "Mai departe, fraţilor, câte sunt adevărate, câte sunt de cinste, câte sunt drepte, câte sunt curate, câte sunt vrednice de iubit, câte sunt cu nume bun, orice virtute şi orice laudă, la acestea să vă fie gândul."
+        },
+        {
+          "verse": 9,
+          "text": "Cele ce aţi învăţat şi aţi primit şi aţi auzit şi aţi văzut la mine, acestea să le faceţi, şi Dumnezeul păcii va fi cu voi."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Philippians_04_02",
+      "chapter": 4,
+      "pericope_num": "02",
+      "title_en": "Acknowledgment of the Philippians' Gift",
+      "title_ro": "Mulțumire pentru darul filipenilor",
+      "start_verse": 10,
+      "end_verse": 20,
+      "verse_count": 11,
+      "verses": [
+        {
+          "verse": 10,
+          "text": "M-am bucurat mult în Domnul, că a înflorit iarăşi purtarea voastră de grijă pentru mine, precum o şi aveaţi, dar v-a lipsit prilejul."
+        },
+        {
+          "verse": 11,
+          "text": "N-o spun ca şi cum aş duce lipsă, fiindcă eu m-am deprins să fiu îndestulat cu ceea ce am."
+        },
+        {
+          "verse": 12,
+          "text": "Ştiu să fiu şi smerit, ştiu să am şi de prisos; în orice şi în toate m-am învăţat să fiu şi sătul şi flămând, şi în belşug şi în lipsă."
+        },
+        {
+          "verse": 13,
+          "text": "Toate le pot întru Hristos, Cel care mă întăreşte."
+        },
+        {
+          "verse": 14,
+          "text": "Însă bine aţi făcut că aţi împărtăşit cu mine necazul."
+        },
+        {
+          "verse": 15,
+          "text": "Doar şi voi ştiţi, filipenilor, că la începutul Evangheliei, când am plecat din Macedonia, nici o Biserică nu s-a unit cu mine, când era vorba de dat şi de primit, decât voi singuri."
+        },
+        {
+          "verse": 16,
+          "text": "Pentru că şi în Tesalonic, o dată şi a doua oară, mi-aţi trimis ca să am cele trebuincioase."
+        },
+        {
+          "verse": 17,
+          "text": "Nu că doar caut darul vostru, dar caut rodul care prisoseşte, în folosul vostru."
+        },
+        {
+          "verse": 18,
+          "text": "Am de toate şi am şi de prisos; m-am îndestulat primind de la Epafrodit cele ce mi-aţi trimis, miros cu bună mireasmă, jertfă primită, bineplăcută lui Dumnezeu."
+        },
+        {
+          "verse": 19,
+          "text": "Iar Dumnezeul meu să împlinească toată lipsa voastră după bogăţia Sa, cu slavă, întru Hristos Iisus."
+        },
+        {
+          "verse": 20,
+          "text": "Iar lui Dumnezeu şi Tatălui nostru, slavă în vecii vecilor! Amin."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Philippians_04_03",
+      "chapter": 4,
+      "pericope_num": "03",
+      "title_en": "Final Greetings and Benediction",
+      "title_ro": "Salutări finale și binecuvântare",
+      "start_verse": 21,
+      "end_verse": 23,
+      "verse_count": 3,
+      "verses": [
+        {
+          "verse": 21,
+          "text": "Îmbrăţişaţi în Hristos Iisus pe toţi sfinţii. Vă îmbrăţişează pe voi fraţii care sunt împreună cu mine."
+        },
+        {
+          "verse": 22,
+          "text": "Vă îmbrăţişează pe voi toţi sfinţii, mai ales cei din casa Cesarului."
+        },
+        {
+          "verse": 23,
+          "text": "Harul Domnului Iisus Hristos să fie cu duhul vostru!"
+        }
+      ]
+    }
+  ]
+}

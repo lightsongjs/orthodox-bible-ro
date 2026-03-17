@@ -1,0 +1,576 @@
+{
+  "id": 36,
+  "book_number": 74,
+  "name_en": "1 John",
+  "name_ro": "I Ioan",
+  "testament": "NT",
+  "chapter_count": 5,
+  "pericope_count": 12,
+  "url": "https://www.bibliaortodoxa.ro/carte.php?id=36",
+  "pericopes": [
+    {
+      "pericope_id": "1_John_01_01",
+      "chapter": 1,
+      "pericope_num": "01",
+      "title_en": "The Word of Life",
+      "title_ro": "Cuvântul vieții",
+      "start_verse": 1,
+      "end_verse": 4,
+      "verse_count": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Ce era de la început, ce am auzit, ce am văzut cu ochii noştri, ce am privit şi mâinile noastre au pipăit despre Cuvântul vieţii,"
+        },
+        {
+          "verse": 2,
+          "text": "- Şi Viaţa s-a arătat şi am văzut-o şi mărturisim şi vă vestim Viaţa de veci, care era la Tatăl şi s-a arătat nouă -"
+        },
+        {
+          "verse": 3,
+          "text": "Ce am văzut şi am auzit, vă vestim şi vouă, ca şi voi să aveţi împărtăşire cu noi. Iar împărtăşirea noastră este cu Tatăl şi cu Fiul Său, Iisus Hristos."
+        },
+        {
+          "verse": 4,
+          "text": "Şi acestea noi vi le scriem, ca bucuria noastră să fie deplină."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_John_01_02",
+      "chapter": 1,
+      "pericope_num": "02",
+      "title_en": "God Is Light",
+      "title_ro": "Dumnezeu este lumină",
+      "start_verse": 5,
+      "end_verse": 10,
+      "verse_count": 6,
+      "verses": [
+        {
+          "verse": 5,
+          "text": "Şi aceasta este vestirea pe care am auzit-o de la El şi v-o vestim: că Dumnezeu este lumină şi nici un întuneric nu este întru El."
+        },
+        {
+          "verse": 6,
+          "text": "Dacă zicem că avem împărtăşire cu El şi umblăm în întuneric, minţim şi nu săvârşim adevărul."
+        },
+        {
+          "verse": 7,
+          "text": "Iar dacă umblăm întru lumină, precum El este în lumină, atunci avem împărtăşire unul cu altul şi sângele lui Iisus, Fiul Lui, ne curăţeşte pe noi de orice păcat."
+        },
+        {
+          "verse": 8,
+          "text": "Dacă zicem că păcat nu avem, ne amăgim pe noi înşine şi adevărul nu este întru noi."
+        },
+        {
+          "verse": 9,
+          "text": "Dacă mărturisim păcatele noastre, El este credincios şi drept, ca să ne ierte păcatele şi să ne curăţească pe noi de toată nedreptatea."
+        },
+        {
+          "verse": 10,
+          "text": "Dacă zicem că n-am păcătuit, Îl facem mincinos şi cuvântul Lui nu este întru noi."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_John_02_01",
+      "chapter": 2,
+      "pericope_num": "01",
+      "title_en": "Christ Our Advocate",
+      "title_ro": "Hristos, mijlocitorul nostru",
+      "start_verse": 1,
+      "end_verse": 6,
+      "verse_count": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Copiii mei, acestea vi le scriu, ca să nu păcătuiţi, şi dacă va păcătui cineva, avem mijlocitor către Tatăl, pe Iisus Hristos cel drept."
+        },
+        {
+          "verse": 2,
+          "text": "El este jertfa de ispăşire pentru păcatele noastre, dar nu numai pentru păcatele noastre, ci şi pentru ale lumii întregi."
+        },
+        {
+          "verse": 3,
+          "text": "Şi întru aceasta ştim că L-am cunoscut, dacă păzim poruncile Lui."
+        },
+        {
+          "verse": 4,
+          "text": "Cel ce zice: L-am cunoscut, dar poruncile Lui nu le păzeşte, mincinos este şi întru el adevărul nu se află."
+        },
+        {
+          "verse": 5,
+          "text": "Iar cine păzeşte cuvântul Lui, întru acela, cu adevărat, dragostea lui Dumnezeu este desăvârşită. Prin aceasta, cunoaştem că suntem întru El."
+        },
+        {
+          "verse": 6,
+          "text": "Cine zice că petrece întru El dator este, precum Acela a umblat, şi el aşa să umble."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_John_02_02",
+      "chapter": 2,
+      "pericope_num": "02",
+      "title_en": "A New Commandment",
+      "title_ro": "O poruncă nouă",
+      "start_verse": 7,
+      "end_verse": 17,
+      "verse_count": 11,
+      "verses": [
+        {
+          "verse": 7,
+          "text": "Iubiţilor, nu vă scriu poruncă nouă, ci o poruncă veche pe care o aveaţi de la început; porunca cea veche este cuvântul pe care l-aţi auzit."
+        },
+        {
+          "verse": 8,
+          "text": "Iarăşi, vă scriu poruncă nouă, ceea ce adevărat întru El şi întru voi, pentru că întunericul se duce şi lumina cea adevărată începe să răsară."
+        },
+        {
+          "verse": 9,
+          "text": "Cine zice că este în lumină şi pe fratele său îl urăşte, acela este în întuneric până acum."
+        },
+        {
+          "verse": 10,
+          "text": "Cine iubeşte pe fratele său rămâne în lumină şi sminteală nu este în el."
+        },
+        {
+          "verse": 11,
+          "text": "Iar cel ce urăşte pe fratele său este în întuneric şi umblă în întuneric şi nu ştie încotro se duce, pentru că întunericul a orbit ochii lui."
+        },
+        {
+          "verse": 12,
+          "text": "Vă scriu vouă, copiilor, fiindcă iertate v-au fost păcatele pentru numele Lui."
+        },
+        {
+          "verse": 13,
+          "text": "Vă scriu vouă, părinţilor, pentru că aţi cunoscut pe Cel ce este de la început. Vă scriu vouă, tinerilor, fiindcă aţi biruit pe cel viclean. V-am scris, copiilor, pentru că aţi cunoscut pe Tatăl."
+        },
+        {
+          "verse": 14,
+          "text": "V-am scris, părinţilor, fiindcă aţi cunoscut pe Cel ce este de la început. Scris-am vouă, tinerilor, căci sunteţi tari şi cuvântul lui Dumnezeu rămâne în voi şi aţi biruit pe cel viclean."
+        },
+        {
+          "verse": 15,
+          "text": "Nu iubiţi lumea, nici cele ce sunt în lume. Dacă cineva iubeşte lumea, iubirea Tatălui nu este întru el;"
+        },
+        {
+          "verse": 16,
+          "text": "Pentru că tot ce este în lume, adică pofta trupului şi pofta ochilor şi trufia vieţii, nu sunt de la Tatăl, ci sunt din lume."
+        },
+        {
+          "verse": 17,
+          "text": "Şi lumea trece şi pofta ei, dar cel ce face voia lui Dumnezeu rămâne în veac."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_John_02_03",
+      "chapter": 2,
+      "pericope_num": "03",
+      "title_en": "Warning against Antichrists",
+      "title_ro": "Avertisment împotriva antichrișților",
+      "start_verse": 18,
+      "end_verse": 28,
+      "verse_count": 11,
+      "verses": [
+        {
+          "verse": 18,
+          "text": "Copii, este ceasul de pe urmă, şi precum aţi auzit că vine antihrist, iar acum mulţi antihrişti s-au arătat; de aici cunoaştem noi că este ceasul de pe urmă."
+        },
+        {
+          "verse": 19,
+          "text": "Dintre noi au ieşit, dar nu erau de-ai noştri, căci de-ar fi fost de-ai noştri, ar fi rămas cu noi; ci ca să se arate că nu sunt toţi de-ai noştri, de aceea au ieşit."
+        },
+        {
+          "verse": 20,
+          "text": "Iar voi, ungere aveţi de la Cel Sfânt şi ştiţi toate."
+        },
+        {
+          "verse": 21,
+          "text": "V-am scris vouă, nu pentru că nu ştiţi adevărul, ci pentru că îl ştiţi şi ştiţi că nici o minciună nu vine din adevăr."
+        },
+        {
+          "verse": 22,
+          "text": "Cine este mincinosul, dacă nu cel ce tăgăduieşte că Iisus este Hristosul? Acesta este antihristul, cel care tăgăduieşte pe Tatăl şi pe Fiul."
+        },
+        {
+          "verse": 23,
+          "text": "Oricine tăgăduieşte pe Fiul nu are nici pe Tatăl; cine mărturiseşte pe Fiul are şi pe Tatăl."
+        },
+        {
+          "verse": 24,
+          "text": "Deci, ceea ce aţi auzit de la început, în voi să rămână; de va rămâne în voi ceea ce aţi auzit de la început, veţi rămâne şi voi în Fiul şi în Tatăl."
+        },
+        {
+          "verse": 25,
+          "text": "Şi aceasta este făgăduinţa pe care El ne-a făgăduit-o: Viaţa veşnică."
+        },
+        {
+          "verse": 26,
+          "text": "Acestea v-am scris vouă despre cei ce vă amăgesc."
+        },
+        {
+          "verse": 27,
+          "text": "Cât despre voi, ungerea pe care aţi luat-o de la El rămâne întru voi şi n-aveţi trebuinţă ca să vă înveţe cineva, ci precum ungerea Lui vă învaţă despre toate, şi adevărat este şi nu este minciună, rămâneţi întru El, aşa cum v-a învăţat."
+        },
+        {
+          "verse": 28,
+          "text": "Şi acum, copii, rămâneţi întru El, ca să avem îndrăzneală când Se va arăta şi să nu ne ruşinăm de El, la venirea Lui."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_John_02_04",
+      "chapter": 2,
+      "pericope_num": "04",
+      "title_en": "Children of God",
+      "title_ro": "Fiii lui Dumnezeu",
+      "start_verse": 29,
+      "end_verse": 29,
+      "verse_count": 1,
+      "verses": [
+        {
+          "verse": 29,
+          "text": "Dacă ştiţi că este drept, cunoaşteţi că oricine face dreptate este născut din El."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_John_03_01",
+      "chapter": 3,
+      "pericope_num": "01",
+      "title_en": "Love One Another",
+      "title_ro": "Iubiți-vă unii pe alții",
+      "start_verse": 1,
+      "end_verse": 24,
+      "verse_count": 24,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Vedeţi ce fel de iubire ne-a dăruit nouă Tatăl, ca să ne numim fii ai lui Dumnezeu, şi suntem. Pentru aceea lumea nu ne cunoaşte, fiindcă nu L-a cunoscut nici pe El."
+        },
+        {
+          "verse": 2,
+          "text": "Iubiţilor, acum suntem fii ai lui Dumnezeu şi ce vom fi nu s-a arătat până acum. Ştim că dacă El Se va arăta, noi vom fi asemenea Lui, fiindcă Îl vom vedea cum este."
+        },
+        {
+          "verse": 3,
+          "text": "Şi oricine şi-a pus în El nădejdea, acesta se curăţeşte pe sine, aşa cum Acela curat este."
+        },
+        {
+          "verse": 4,
+          "text": "Oricine făptuieşte păcatul săvârşeşte şi nelegiuirea, şi păcatul este nelegiuirea."
+        },
+        {
+          "verse": 5,
+          "text": "Şi voi ştiţi că El S-a arătat ca să ridice păcatele şi păcat întru El nu este."
+        },
+        {
+          "verse": 6,
+          "text": "Oricine rămâne întru El nu păcătuieşte; oricine păcătuieşte nu L-a văzut nici nu L-a cunoscut."
+        },
+        {
+          "verse": 7,
+          "text": "Copii, nimeni să nu vă amăgească. Cel ce săvârşeşte dreptatea este drept, precum Acela drept este."
+        },
+        {
+          "verse": 8,
+          "text": "Cine săvârşeşte păcatul este de la diavolul, pentru că de la început diavolul păcătuieşte. Pentru aceasta S-a arătat Fiul lui Dumnezeu, ca să strice lucrurile diavolului."
+        },
+        {
+          "verse": 9,
+          "text": "Oricine este născut din Dumnezeu nu săvârşeşte păcat, pentru că sămânţa lui Dumnezeu rămâne în acesta; şi nu poate să păcătuiască, fiindcă este născut din Dumnezeu."
+        },
+        {
+          "verse": 10,
+          "text": "Prin aceasta cunoaştem pe fiii lui Dumnezeu şi pe fiii diavolului; oricine nu face dreptate nu este din Dumnezeu, nici cel ce nu iubeşte pe fratele său."
+        },
+        {
+          "verse": 11,
+          "text": "Pentru că aceasta este vestea pe care aţi auzit-o de la început, ca să ne iubim unul pe altul,"
+        },
+        {
+          "verse": 12,
+          "text": "Nu precum Cain, care era de la cel viclean şi a ucis pe fratele său. Şi pentru care pricină l-a ucis? Fiindcă faptele lui erau rele, iar ale fratelui său erau drepte."
+        },
+        {
+          "verse": 13,
+          "text": "Nu vă miraţi, fraţilor, dacă lumea vă urăşte."
+        },
+        {
+          "verse": 14,
+          "text": "Noi ştim că am trecut din moarte la viaţă, pentru că iubim pe fraţi; cine nu iubeşte pe fratele său rămâne în moarte."
+        },
+        {
+          "verse": 15,
+          "text": "Oricine urăşte pe fratele său este ucigaş de oameni şi ştiţi că orice ucigaş de oameni  nu are viaţă veşnică, dăinuitoare în El."
+        },
+        {
+          "verse": 16,
+          "text": "În aceasta am cunoscut iubirea: că El Şi-a pus sufletul Său pentru noi, şi noi datori suntem să ne punem sufletele pentru fraţi."
+        },
+        {
+          "verse": 17,
+          "text": "Iar cine are bogăţia lumii acesteia şi se uită la fratele său care este în nevoie şi îşi închide inima faţă de el, cum rămâne în acela dragostea lui Dumnezeu?"
+        },
+        {
+          "verse": 18,
+          "text": "Fiii mei, să nu iubim cu vorba, numai din gură, ci cu fapta şi cu adevărul."
+        },
+        {
+          "verse": 19,
+          "text": "În aceasta vom cunoaşte că suntem din adevăr şi în faţa lui Dumnezeu vom afla odihnă inimii noastre,"
+        },
+        {
+          "verse": 20,
+          "text": "Fiindcă, dacă ne osândeşte inima noastră, Dumnezeu este mai mare decât inima noastră şi ştie toate."
+        },
+        {
+          "verse": 21,
+          "text": "Iubiţilor, dacă inima noastră nu ne osândeşte, avem îndrăznire către Dumnezeu."
+        },
+        {
+          "verse": 22,
+          "text": "Şi orice cerem, primim de la El, pentru că păzim poruncile Lui şi cele plăcute înaintea Lui facem."
+        },
+        {
+          "verse": 23,
+          "text": "Şi aceasta este porunca Lui, ca să credem întru numele lui Iisus Hristos, Fiul Său, şi să ne iubim unul pe altul, precum ne-a dat poruncă."
+        },
+        {
+          "verse": 24,
+          "text": "Cel ce păzeşte poruncile Lui rămâne în Dumnezeu şi Dumnezeu în el; şi prin aceasta cunoaştem că El rămâne în noi, din Duhul pe care ni L-a dat."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_John_04_01",
+      "chapter": 4,
+      "pericope_num": "01",
+      "title_en": "Testing the Spirits",
+      "title_ro": "Cercetarea duhurilor",
+      "start_verse": 1,
+      "end_verse": 6,
+      "verse_count": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Iubiţilor, nu daţi crezare oricărui duh, ci cercaţi duhurile dacă sunt de la Dumnezeu, fiindcă mulţi prooroci mincinoşi au ieşit în lume."
+        },
+        {
+          "verse": 2,
+          "text": "În aceasta să cunoaşteţi duhul lui Dumnezeu: orice duh care mărturiseşte că Iisus Hristos a venit în trup, este de la Dumnezeu."
+        },
+        {
+          "verse": 3,
+          "text": "Şi orice duh, care nu mărturiseşte pe Iisus Hristos, nu este de la Dumnezeu, ci este duhul lui antihrist, despre care aţi auzit că vine şi acum este chiar în lume."
+        },
+        {
+          "verse": 4,
+          "text": "Voi, copii, sunteţi din Dumnezeu şi i-aţi biruit pe acei prooroci, căci mai mare este Cel ce e în voi, decât cel ce este în lume."
+        },
+        {
+          "verse": 5,
+          "text": "Aceia sunt din lume, de aceea grăiesc ca din lume şi lumea îi ascultă."
+        },
+        {
+          "verse": 6,
+          "text": "Noi suntem din Dumnezeu; cine cunoaşte pe Dumnezeu ascultă de noi; cine nu este din Dumnezeu nu ascultă de noi. Din aceasta cunoaştem Duhul adevărului şi duhul rătăcirii."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_John_04_02",
+      "chapter": 4,
+      "pericope_num": "02",
+      "title_en": "God Is Love",
+      "title_ro": "Dumnezeu este iubire",
+      "start_verse": 7,
+      "end_verse": 21,
+      "verse_count": 15,
+      "verses": [
+        {
+          "verse": 7,
+          "text": "Iubiţilor, să ne iubim unul pe altul, pentru că dragostea este de la Dumnezeu şi oricine iubeşte este născut din Dumnezeu şi cunoaşte pe Dumnezeu."
+        },
+        {
+          "verse": 8,
+          "text": "Cel ce nu iubeşte n-a cunoscut pe Dumnezeu, pentru că Dumnezeu este iubire."
+        },
+        {
+          "verse": 9,
+          "text": "Întru aceasta s-a arătat dragostea lui Dumnezeu către noi, că pe Fiul Său cel Unul Născut L-a trimis Dumnezeu în lume, ca prin El viaţă să avem."
+        },
+        {
+          "verse": 10,
+          "text": "În aceasta este dragostea, nu fiindcă noi am iubit pe Dumnezeu, ci fiindcă El ne-a iubit pe noi şi a trimis pe Fiul Său jertfă de ispăşire pentru păcatele noastre."
+        },
+        {
+          "verse": 11,
+          "text": "Iubiţilor, dacă Dumnezeu astfel ne-a iubit pe noi, şi noi datori suntem să ne iubim unul pe altul."
+        },
+        {
+          "verse": 12,
+          "text": "Pe Dumnezeu nimeni nu L-a văzut vreodată, dar de ne iubim unul pe altul, Dumnezeu rămâne întru noi şi dragostea Lui în noi este desăvârşită."
+        },
+        {
+          "verse": 13,
+          "text": "Din aceasta cunoaştem că rămânem în El şi El întru noi, fiindcă ne-a dat din Duhul Său."
+        },
+        {
+          "verse": 14,
+          "text": "Şi noi am văzut şi mărturisim că Tatăl a trimis pe Fiul, Mântuitor al lumii."
+        },
+        {
+          "verse": 15,
+          "text": "Cine mărturiseşte că Iisus este fiul lui Dumnezeu, Dumnezeu rămâne întru el şi el în Dumnezeu."
+        },
+        {
+          "verse": 16,
+          "text": "Şi noi am cunoscut şi am crezut iubirea, pe care Dumnezeu o are către noi. Dumnezeu este iubire şi cel ce rămâne în iubire rămâne în Dumnezeu şi Dumnezeu rămâne întru el."
+        },
+        {
+          "verse": 17,
+          "text": "Întru aceasta a fost desăvârşită iubirea Lui faţă de noi, ca să avem îndrăznire în ziua judecăţii, fiindcă precum este Acela, aşa suntem şi noi, în lumea aceasta."
+        },
+        {
+          "verse": 18,
+          "text": "În iubire nu este frică, ci iubirea desăvârşită alungă frica, pentru că frica are cu sine pedeapsa, iar cel ce se teme nu este desăvârşit în iubire."
+        },
+        {
+          "verse": 19,
+          "text": "Noi iubim pe Dumnezeu, fiindcă El ne-a iubit cel dintâi."
+        },
+        {
+          "verse": 20,
+          "text": "Dacă zice cineva: iubesc pe Dumnezeu, iar pe fratele său îl urăşte, mincinos este! Pentru că cel ce nu iubeşte pe fratele său, pe care l-a văzut, pe Dumnezeu, pe Care nu L-a văzut, nu poate să-L iubească."
+        },
+        {
+          "verse": 21,
+          "text": "Şi această poruncă avem de la El: cine iubeşte pe Dumnezeu să iubească şi pe fratele său."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_John_05_01",
+      "chapter": 5,
+      "pericope_num": "01",
+      "title_en": "Faith Conquers the World",
+      "title_ro": "Credința birui lumea",
+      "start_verse": 1,
+      "end_verse": 5,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Oricine crede că Iisus este Hristos, este născut din Dumnezeu, şi oricine iubeşte pe Cel care a născut iubeşte şi pe Cel ce S-a născut din El."
+        },
+        {
+          "verse": 2,
+          "text": "Întru aceasta cunoaştem că iubim pe fiii lui Dumnezeu, dacă iubim pe Dumnezeu şi împlinim poruncile Lui."
+        },
+        {
+          "verse": 3,
+          "text": "Căci dragostea de Dumnezeu aceasta este: Să păzim poruncile Lui; şi poruncile Lui nu sunt grele."
+        },
+        {
+          "verse": 4,
+          "text": "Pentru că oricine este născut din Dumnezeu biruieşte lumea, şi aceasta este biruinţa care a biruit lumea: credinţa noastră."
+        },
+        {
+          "verse": 5,
+          "text": "Cine este cel ce biruieşte lumea dacă nu cel ce crede că Iisus este Fiul lui Dumnezeu?"
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_John_05_02",
+      "chapter": 5,
+      "pericope_num": "02",
+      "title_en": "Testimony concerning the Son of God",
+      "title_ro": "Mărturia despre Fiul lui Dumnezeu",
+      "start_verse": 6,
+      "end_verse": 12,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 6,
+          "text": "Acesta este Cel care a venit prin apă şi prin sânge: Iisus Hristos; nu numai prin apă, ci prin apă şi prin sânge; şi Duhul este Cel ce mărturiseşte, că Duhul este adevărul."
+        },
+        {
+          "verse": 7,
+          "text": "Căci trei sunt care mărturisesc în cer: Tatăl, Cuvântul şi Sfântul Duh, şi Aceşti trei Una sunt."
+        },
+        {
+          "verse": 8,
+          "text": "Şi trei sunt care mărturisesc pe pământ: Duhul şi apa şi sângele, şi aceşti trei mărturisesc la fel."
+        },
+        {
+          "verse": 9,
+          "text": "Dacă primim mărturia oamenilor, mărturia lui Dumnezeu este mai mare, că aceasta este mărturia lui Dumnezeu: că a mărturisit pentru Fiul Său."
+        },
+        {
+          "verse": 10,
+          "text": "Cine crede în Fiul lui Dumnezeu are această mărturie în el însuşi. Cine nu crede în Dumnezeu, L-a făcut mincinos, pentru că n-a crezut în mărturia pe care a mărturisit-o Dumnezeu pentru Fiul Său."
+        },
+        {
+          "verse": 11,
+          "text": "Şi aceasta este mărturia, că Dumnezeu ne-a dat viaţă veşnică şi această viaţă este în Fiul Său."
+        },
+        {
+          "verse": 12,
+          "text": "Cel ce are pe Fiul are viaţa; cel ce nu are pe Fiul lui Dumnezeu nu are viaţa."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_John_05_03",
+      "chapter": 5,
+      "pericope_num": "03",
+      "title_en": "Epilogue",
+      "title_ro": "Epilog",
+      "start_verse": 13,
+      "end_verse": 21,
+      "verse_count": 9,
+      "verses": [
+        {
+          "verse": 13,
+          "text": "Acestea am scris vouă, care credeţi în numele Fiului lui Dumnezeu, ca să ştiţi că aveţi viaţă veşnică."
+        },
+        {
+          "verse": 14,
+          "text": "Şi aceasta este încrederea pe care o avem către El, că, dacă cerem ceva după voinţa Lui, El ne ascultă."
+        },
+        {
+          "verse": 15,
+          "text": "Şi dacă ştim că El ne ascultă ceea ce Îi cerem, ştim că dobândim cererile pe care I le-am cerut."
+        },
+        {
+          "verse": 16,
+          "text": "Dacă vede cineva pe fratele său păcătuind - păcat nu de moarte - să se roage, şi Dumnezeu va da viaţă acelui frate, anume celor ce nu păcătuiesc de moarte. Este şi păcat de moarte; nu zic să se roage pentru acela."
+        },
+        {
+          "verse": 17,
+          "text": "Orice nedreptate este păcat, dar este şi păcat care nu e de moarte."
+        },
+        {
+          "verse": 18,
+          "text": "Ştim că oricine e născut din Dumnezeu nu păcătuieşte; ci cel ce s-a născut din Dumnezeu se păzeşte pe sine, şi cel rău nu se atinge de el."
+        },
+        {
+          "verse": 19,
+          "text": "Ştim că suntem din Dumnezeu şi lumea întreagă zace sub puterea celui rău."
+        },
+        {
+          "verse": 20,
+          "text": "Ştim iarăşi că Fiul lui Dumnezeu a venit şi ne-a dat nouă pricepere, ca să cunoaştem pe Dumnezeul cel adevărat; şi noi suntem în Dumnezeul cel adevărat, adică întru Fiul Său Iisus Hristos. Acesta este adevăratul Dumnezeu şi viaţa de veci."
+        },
+        {
+          "verse": 21,
+          "text": "Fiilor, păziţi-vă de idoli."
+        }
+      ]
+    }
+  ]
+}

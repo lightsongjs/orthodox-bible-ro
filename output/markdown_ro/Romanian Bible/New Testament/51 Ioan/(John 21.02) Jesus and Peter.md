@@ -1,0 +1,20 @@
+---
+testament: NT
+book: John
+book_romanian: Ioan
+chapter: 21
+pericope: 2
+pericope_title: "Jesus and Peter"
+verses_start: 15
+verses_end: 19
+verses_total: 0
+language: ro
+english_source: "[[New Testament/John/(John 21.02) Jesus and Peter]]"
+---
+# Jesus and Peter
+
+15. Deci după ce au prânzit, a zis Iisus lui Simon-Petru: Simone, fiul lui Iona, Mă iubeşti tu mai mult decât aceştia? El I-a răspuns: Da, Doamne, Tu ştii că Te iubesc. Zis-a lui: Paşte mieluşeii Mei.
+16. Iisus i-a zis iarăşi, a doua oară: Simone, fiul lui Iona, Mă iubeşti? El I-a zis: Da, Doamne, Tu ştii că Te iubesc. Zis-a Iisus lui: Păstoreşte oile Mele.
+17. Iisus i-a zis a treia oară: Simone, fiul lui Iona, Mă iubeşti? Petru s-a întristat, că i-a zis a treia oară: Mă iubeşti? şi I-a zis: Doamne, Tu ştii toate. Tu ştii că Te iubesc. Iisus i-a zis: Paşte oile Mele.
+18. Adevărat, adevărat zic ţie: Când erai mai tânăr, te încingeai singur şi umblai unde voiai; dar când vei îmbătrâni, vei întinde mâinile tale şi altul te va încinge şi te va duce unde nu voieşti.
+19. Iar aceasta a zis-o, însemnând cu ce fel de moarte va preaslăvi pe Dumnezeu. Şi spunând aceasta, i-a zis: Urmează Mie.

@@ -1,0 +1,256 @@
+{
+  "id": 80,
+  "book_number": 68,
+  "name_en": "Titus",
+  "name_ro": "Tit",
+  "testament": "NT",
+  "chapter_count": 3,
+  "pericope_count": 5,
+  "url": "https://www.bibliaortodoxa.ro/carte.php?id=80",
+  "pericopes": [
+    {
+      "pericope_id": "Titus_01_01",
+      "chapter": 1,
+      "pericope_num": "01",
+      "title_en": "Salutation",
+      "title_ro": "Salutare",
+      "start_verse": 1,
+      "end_verse": 4,
+      "verse_count": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Pavel, robul lui Dumnezeu şi apostol al lui Iisus Hristos, după credinţa aleşilor lui Dumnezeu şi după cunoştinţa adevărului cel întocmai cu dreapta credinţă,"
+        },
+        {
+          "verse": 2,
+          "text": "- Întru nădejdea vieţii veşnice, pe care a făgăduit-o mai înainte de anii veacurilor Dumnezeu, Care nu minte,"
+        },
+        {
+          "verse": 3,
+          "text": "Şi Care, la timpul cuvenit, Şi-a făcut cunoscut cuvântul Său, prin propovăduirea încredinţată mie, după porunca Mântuitorului nostru Dumnezeu -"
+        },
+        {
+          "verse": 4,
+          "text": "Lui Tit, adevăratul fiu după credinţa cea de obşte: Har, milă şi pace, de la Dumnezeu-Tatăl şi de la Domnul Iisus Hristos, Mântuitorul nostru."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Titus_01_02",
+      "chapter": 1,
+      "pericope_num": "02",
+      "title_en": "Titus in Crete",
+      "title_ro": "Tit în Creta",
+      "start_verse": 5,
+      "end_verse": 16,
+      "verse_count": 12,
+      "verses": [
+        {
+          "verse": 5,
+          "text": "Pentru aceasta te-am lăsat în Creta, ca să îndreptezi cele ce mai lipsesc şi să aşezi preoţi prin cetăţi, precum ţi-am rânduit:"
+        },
+        {
+          "verse": 6,
+          "text": "De este cineva fără de prihană, bărbat al unei femei, având fii credincioşi, nu sub învinuire de desfrânare sau neascultători."
+        },
+        {
+          "verse": 7,
+          "text": "Căci se cuvine ca episcopul să fie fără de prihană, ca un iconom al lui Dumnezeu, neîngâmfat, nu grabnic la mânie, nu dat la băutură, paşnic, nepoftitor de câştig urât,"
+        },
+        {
+          "verse": 8,
+          "text": "Ci iubitor de străini, iubitor de bine, înţelept, drept, cuvios, cumpătat,"
+        },
+        {
+          "verse": 9,
+          "text": "Ţinându-se de cuvântul cel credincios al învăţăturii, ca să fie destoinic şi să îndemne la învăţătura cea sănătoasă şi să mustre pe cei potrivnici."
+        },
+        {
+          "verse": 10,
+          "text": "Pentru că mulţi sunt răzvrătiţi, grăitori în deşert şi înşelători, mai ales cei din tăierea împrejur,"
+        },
+        {
+          "verse": 11,
+          "text": "Cărora trebuie să li se închidă gura ca unora care răzvrătesc case întregi, învăţând, pentru câştig urât, cele ce nu se cuvin."
+        },
+        {
+          "verse": 12,
+          "text": "Unul dintre ei, chiar un prooroc al lor, a rostit: Cretanii sunt pururea mincinoşi, fiare rele, pântece leneşe."
+        },
+        {
+          "verse": 13,
+          "text": "Mărturia aceasta este adevărată; pentru care pricină, mustră-i cu asprime, ca să fie sănătoşi în credinţă,"
+        },
+        {
+          "verse": 14,
+          "text": "Şi să nu dea ascultare basmelor iudaiceşti şi poruncilor unor oameni, care se întorc de la adevăr."
+        },
+        {
+          "verse": 15,
+          "text": "Toate sunt curate pentru cei curaţi; iar pentru cei întinaţi şi necredincioşi nimeni nu este curat, ci li s-au întinat lor şi mintea şi cugetul."
+        },
+        {
+          "verse": 16,
+          "text": "Ei mărturisesc că Îl cunosc pe Dumnezeu, dar cu faptele lor Îl tăgăduiesc, urâcioşi fiind, nesupuşi, şi la orice lucru bun, netrebnici."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Titus_02_01",
+      "chapter": 2,
+      "pericope_num": "01",
+      "title_en": "Teach Sound Doctrine",
+      "title_ro": "Învață doctrina sănătoasă",
+      "start_verse": 1,
+      "end_verse": 15,
+      "verse_count": 15,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Dar tu grăieşte cele ce se cuvin învăţăturii sănătoase."
+        },
+        {
+          "verse": 2,
+          "text": "Bătrânii să fie treji, cinstiţi, întregi la minte, sănătoşi în credinţă, în dragoste, în răbdare;"
+        },
+        {
+          "verse": 3,
+          "text": "Bătrânele de asemenea să aibă, în înfăţişare, sfinţită cuviinţă, să fie neclevetitoare, nerobite de vin mult, să înveţe de bine,"
+        },
+        {
+          "verse": 4,
+          "text": "Ca să înţelepţească pe cele tinere să-şi iubească bărbaţii, să-şi iubească copiii,"
+        },
+        {
+          "verse": 5,
+          "text": "Şi să fie cumpătate, curate, gospodine, bune, plecate bărbaţilor lor, ca să nu fie defăimat cuvântul lui Dumnezeu."
+        },
+        {
+          "verse": 6,
+          "text": "Îndeamnă, de asemenea, pe cei tineri să fie cumpătaţi."
+        },
+        {
+          "verse": 7,
+          "text": "Întru toate arată-te pe tine pildă de fapte bune, dovedind în învăţătură neschimbare, cuviinţă,"
+        },
+        {
+          "verse": 8,
+          "text": "Cuvânt sănătos şi fără prihană, pentru ca cel potrivnic să se ruşineze, neavând de zis nimic rău despre noi."
+        },
+        {
+          "verse": 9,
+          "text": "Slugile să se supună stăpânilor lor, întru toate, ca să fie bine-plăcute, neîntorcându-le vorba,"
+        },
+        {
+          "verse": 10,
+          "text": "Să nu dosească ceva, ci să le arate toată buna credinţă, ca să facă de cinste întru toate învăţătura Mântuitorului nostru Dumnezeu."
+        },
+        {
+          "verse": 11,
+          "text": "Căci harul mântuitor al lui Dumnezeu s-a arătat tuturor oamenilor,"
+        },
+        {
+          "verse": 12,
+          "text": "Învăţându-ne pe noi să lepădăm fărădelegea şi poftele lumeşti şi, în veacul de acum, să trăim cu înţelepciune, cu dreptate şi cu cucernicie;"
+        },
+        {
+          "verse": 13,
+          "text": "Şi să aşteptăm fericita nădejde şi arătarea slavei marelui Dumnezeu şi Mântuitorului nostru Hristos Iisus,"
+        },
+        {
+          "verse": 14,
+          "text": "Care S-a dat pe Sine pentru noi, ca să ne izbăvească de toată fărădelegea şi să-Şi curăţească Lui popor ales, râvnitor de fapte bune."
+        },
+        {
+          "verse": 15,
+          "text": "Acestea grăieşte, îndeamnă şi mustră cu toată tăria. Nimeni să nu te dispreţuiască."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Titus_03_01",
+      "chapter": 3,
+      "pericope_num": "01",
+      "title_en": "Maintain Good Deeds",
+      "title_ro": "Stăruiți în faptele bune",
+      "start_verse": 1,
+      "end_verse": 11,
+      "verse_count": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Adu-le aminte să se supună stăpânirilor şi dregătorilor, să asculte, să fie gata la orice lucru bun,"
+        },
+        {
+          "verse": 2,
+          "text": "Să nu defaime pe nimeni, să fie paşnici, să fie îngăduitori, arătând întreaga blândeţe faţă de toţi oamenii."
+        },
+        {
+          "verse": 3,
+          "text": "Căci şi noi eram altădată fără de minte, neascultători, amăgiţi, slujind poftelor şi multor feluri de desfătări, petrecând viaţa în răutate şi pizmuire, urâţi fiind şi urându-ne unul pe altul;"
+        },
+        {
+          "verse": 4,
+          "text": "Iar când bunătatea şi iubirea de oameni a Mântuitorului nostru Dumnezeu s-au arătat,"
+        },
+        {
+          "verse": 5,
+          "text": "El ne-a mântuit, nu din faptele cele întru dreptate, săvârşite de noi, ci după a Lui îndurare, prin baia naşterii celei de a doua şi prin înnoirea Duhului Sfânt,"
+        },
+        {
+          "verse": 6,
+          "text": "Pe Care L-a vărsat peste noi, din belşug, prin Iisus Hristos, Mântuitorul nostru,"
+        },
+        {
+          "verse": 7,
+          "text": "Ca îndreptându-ne prin harul Lui, să ne facem, după nădejde, moştenitorii vieţii celei veşnice."
+        },
+        {
+          "verse": 8,
+          "text": "Vrednic de crezare este cuvântul, şi voiesc să adevereşti acestea cu tărie, pentru ca acei ce au crezut în Dumnezeu să aibă grijă să fie în frunte la fapte bune. Că acestea sunt cele bune şi de folos oamenilor."
+        },
+        {
+          "verse": 9,
+          "text": "Iar de întrebările nebuneşti şi de înşirări de neamuri şi de certuri şi de sfădirile pentru lege, fereşte-te, căci sunt nefolositoare şi deşarte."
+        },
+        {
+          "verse": 10,
+          "text": "De omul eretic, după întâia şi a doua mustrare, depărtează-te,"
+        },
+        {
+          "verse": 11,
+          "text": "Ştiind că unul ca acesta s-a abătut şi a căzut în păcat, fiind singur de sine osândit."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Titus_03_02",
+      "chapter": 3,
+      "pericope_num": "02",
+      "title_en": "Final Messages and Benediction",
+      "title_ro": "Mesaje finale și binecuvântare",
+      "start_verse": 12,
+      "end_verse": 15,
+      "verse_count": 4,
+      "verses": [
+        {
+          "verse": 12,
+          "text": "Când voi trimite pe Artemas la tine sau pe Tihic, sârguieşte-te să vii la mine la Nicopole, căci acolo m-am hotărât să iernez."
+        },
+        {
+          "verse": 13,
+          "text": "Pe Zenas, cunoscătorul de lege, şi pe Apollo trimite-i mai înainte, cu bună grijă, ca nimic să nu le lipsească."
+        },
+        {
+          "verse": 14,
+          "text": "Să înveţe şi ai noştri să poarte grijă de lucrurile bune, spre treburile cele de neapărată nevoie, ca ei să nu fie fără de roadă."
+        },
+        {
+          "verse": 15,
+          "text": "Te îmbrăţişează toţi care sunt cu mine. Îmbrăţişează pe cei ce ne iubesc întru credinţă. Harul fie cu voi cu toţi! Amin."
+        }
+      ]
+    }
+  ]
+}

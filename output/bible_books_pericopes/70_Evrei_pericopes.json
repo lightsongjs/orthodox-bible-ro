@@ -1,0 +1,1592 @@
+{
+  "id": 22,
+  "book_number": 70,
+  "name_en": "Hebrews",
+  "name_ro": "Evrei",
+  "testament": "NT",
+  "chapter_count": 13,
+  "pericope_count": 28,
+  "url": "https://www.bibliaortodoxa.ro/carte.php?id=22",
+  "pericopes": [
+    {
+      "pericope_id": "Hebrews_01_01",
+      "chapter": 1,
+      "pericope_num": "01",
+      "title_en": "God Has Spoken by His Son",
+      "title_ro": "Dumnezeu a vorbit prin Fiul Său",
+      "start_verse": 1,
+      "end_verse": 4,
+      "verse_count": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "După ce Dumnezeu odinioară, în multe rânduri şi în multe chipuri, a vorbit părinţilor noştri prin prooroci,"
+        },
+        {
+          "verse": 2,
+          "text": "În zilele acestea mai de pe urmă ne-a grăit nouă prin Fiul, pe Care L-a pus moştenitor a toate şi prin Care a făcut şi veacurile;"
+        },
+        {
+          "verse": 3,
+          "text": "Care, fiind strălucirea slavei şi chipul fiinţei Lui şi Care ţine toate cu cuvântul puterii Sale, după ce a săvârşit, prin El însuşi, curăţirea păcatelor noastre, a şezut de-a dreapta slavei, întru cele prea înalte,"
+        },
+        {
+          "verse": 4,
+          "text": "Făcându-Se cu atât mai presus de îngeri, cu cât a moştenit un nume mai deosebit decât ei."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Hebrews_01_02",
+      "chapter": 1,
+      "pericope_num": "02",
+      "title_en": "The Son Is Superior to Angels",
+      "title_ro": "Fiul este mai presus de îngeri",
+      "start_verse": 5,
+      "end_verse": 14,
+      "verse_count": 10,
+      "verses": [
+        {
+          "verse": 5,
+          "text": "Căci căruia dintre îngeri i-a zis Dumnezeu vreodată: \"Fiul Meu eşti Tu, Eu astăzi Te-am născut\"; şi iarăşi: \"Eu Îi voi fi Lui Tată şi El Îmi va fi Mie Fiu\"?"
+        },
+        {
+          "verse": 6,
+          "text": "Şi iarăşi, când aduce în lume pe Cel întâi născut, El zice: \"Şi să se închine Lui toţi îngerii lui Dumnezeu\"."
+        },
+        {
+          "verse": 7,
+          "text": "Şi de îngeri zice: \"Cel ce face pe îngerii Săi duhuri şi pe slujitorii Săi pară de foc\";"
+        },
+        {
+          "verse": 8,
+          "text": "Iar către Fiul: \"Tronul Tău, Dumnezeule, în veacul veacului; şi toiagul dreptăţii este toiagul împărăţiei Tale."
+        },
+        {
+          "verse": 9,
+          "text": "Iubit-ai dreptatea şi ai urât fărădelegea; pentru aceea Te-a uns pe Tine, Dumnezeule, Dumnezeul Tău cu untdelemnul bucuriei, mai mult decât pe părtaşii Tăi\"."
+        },
+        {
+          "verse": 10,
+          "text": "Şi: \"Întru început Tu, Doamne, pământul l-ai întemeiat şi cerurile sunt lucrul mâinilor Tale;"
+        },
+        {
+          "verse": 11,
+          "text": "Ele vor pieri, dar Tu rămâi, şi toate ca o haină se vor învechi;"
+        },
+        {
+          "verse": 12,
+          "text": "Şi ca un pe un veşmânt le vei strânge şi ca o haină vor fi schimbate. Dar Tu acelaşi eşti şi anii Tăi nu se vor sfârşi\"."
+        },
+        {
+          "verse": 13,
+          "text": "Şi căruia dintre îngeri a zis Dumnezeu vreodată: \"Şezi de-a dreapta Mea până când voi pune pe vrăjmaşii tăi aşternut picioarelor Tale\"?"
+        },
+        {
+          "verse": 14,
+          "text": "Îngerii oare nu sunt toţi duhuri slujitoare, trimise ca să slujească, pentru cei ce vor fi moştenitorii mântuirii?"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Hebrews_02_01",
+      "chapter": 2,
+      "pericope_num": "01",
+      "title_en": "Warning to Pay Attention",
+      "title_ro": "Îndemn la luare aminte",
+      "start_verse": 1,
+      "end_verse": 4,
+      "verse_count": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Pentru aceea se cuvine ca noi să luăm aminte cu atât mai mult la cele auzite, ca nu cumva să ne pierdem."
+        },
+        {
+          "verse": 2,
+          "text": "Căci, dacă s-a adeverit cuvântul grăit prin îngeri şi orice călcare de poruncă şi orice neascultare şi-a primit dreapta răsplătire,"
+        },
+        {
+          "verse": 3,
+          "text": "Cum vom scăpa noi, dacă vom fi nepăsători la astfel de mântuire care, luând obârşie din propovăduirea Domnului, ne-a fost adeverită de cei ce au ascultat-o,"
+        },
+        {
+          "verse": 4,
+          "text": "Împreună mărturisind şi Dumnezeu cu semne şi cu minuni şi cu multe feluri de puteri şi cu darurile Duhului Sfânt, împărţite după a Sa voinţă?"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Hebrews_02_02",
+      "chapter": 2,
+      "pericope_num": "02",
+      "title_en": "Exaltation through Abasement",
+      "title_ro": "Înălțare prin smerenie",
+      "start_verse": 5,
+      "end_verse": 18,
+      "verse_count": 14,
+      "verses": [
+        {
+          "verse": 5,
+          "text": "Pentru că nu îngerilor a supus Dumnezeu lumea viitoare, despre care vorbim."
+        },
+        {
+          "verse": 6,
+          "text": "Iar cineva a mărturisit undeva, zicând: \"Ce este omul, că-l pomeneşti pe el, sau fiul omului, că-l cercetezi pe el?"
+        },
+        {
+          "verse": 7,
+          "text": "L-ai micşorat pe el cu puţin faţă de îngeri; şi cu mărire şi cu cinste l-ai încununat şi l-ai pus peste lucrurile mâinilor Tale."
+        },
+        {
+          "verse": 8,
+          "text": "Toate le-ai supus sub picioarele lui\". Dar prin faptul că a supus lui toate (înţelegem) că nimic nu i-a lăsat nesupus. Acum însă, încă nu vedem cum toate i-au fost supuse."
+        },
+        {
+          "verse": 9,
+          "text": "Ci pe Cel micşorat cu puţin faţă de îngeri, pe Iisus, Îl vedem încununat cu slavă şi cu cinste, din pricina morţii pe care a suferit-o, astfel că, prin harul lui Dumnezeu, El a gustat moartea pentru fiecare om."
+        },
+        {
+          "verse": 10,
+          "text": "Căci ducând pe mulţi fii la mărire, I se cădea Aceluia, pentru Care sunt toate şi prin Care sunt toate, ca să desăvârşească prin pătimire pe Începătorul mântuirii lor."
+        },
+        {
+          "verse": 11,
+          "text": "Pentru că şi Cel ce sfinţeşte şi cei ce se sfinţesc, dintr-Unul sunt toţi; de aceea nu se ruşinează să-i numească pe ei fraţi,"
+        },
+        {
+          "verse": 12,
+          "text": "Zicând: \"Spune-voi fraţilor mei numele Tău. În mijlocul Bisericii Te voi lăuda\"."
+        },
+        {
+          "verse": 13,
+          "text": "Şi iarăşi: \"Eu voi fi încrezător în El\"; şi iarăşi: \"Iată Eu şi pruncii pe care Mi i-a dat  Dumnezeu\"."
+        },
+        {
+          "verse": 14,
+          "text": "Deci, de vreme ce pruncii s-au făcut părtaşi sângelui şi trupului, în acelaşi fel şi El S-a împărtăşit de acestea, ca să surpe prin moartea Sa pe cel ce are stăpânirea morţii, adică pe diavolul,"
+        },
+        {
+          "verse": 15,
+          "text": "Şi să izbăvească pe acei pe care frica morţii îi ţinea în robie toată viaţa."
+        },
+        {
+          "verse": 16,
+          "text": "Căci, într-adevăr, nu a luat firea îngerilor, ci sămânţa lui Avraam a luat."
+        },
+        {
+          "verse": 17,
+          "text": "Pentru aceea, dator era întru toate să Se asemene fraţilor, ca să fie milostiv şi credincios arhiereu în cele către Dumnezeu, pentru curăţirea păcatelor poporului."
+        },
+        {
+          "verse": 18,
+          "text": "Căci prin ceea ce a pătimit, fiind El însuşi ispitit, poate şi celor ce se ispitesc să le ajute."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Hebrews_03_01",
+      "chapter": 3,
+      "pericope_num": "01",
+      "title_en": "Moses a Servant, Christ a Son",
+      "title_ro": "Moise rob, Hristos Fiu",
+      "start_verse": 1,
+      "end_verse": 6,
+      "verse_count": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Pentru aceea, fraţi sfinţi, părtaşi chemării cereşti, luaţi aminte la Apostolul şi Arhiereul mărturisirii noastre, la Iisus Hristos,"
+        },
+        {
+          "verse": 2,
+          "text": "Care credincios a fost Celui ce L-a rânduit, precum şi Moise în toată casa Lui."
+        },
+        {
+          "verse": 3,
+          "text": "Pentru că Acesta (Iisus) S-a învrednicit de mai multă slavă decât Moise, după cum are mai multă cinste decât casa cel ce a zidit-o."
+        },
+        {
+          "verse": 4,
+          "text": "Căci orice casă e zidită de către cineva, iar Ziditorul a toate este Dumnezeu."
+        },
+        {
+          "verse": 5,
+          "text": "Moise a fost credincios în toată casa Domnului, ca o slugă, spre mărturia celor ce erau să fie descoperite în viitor,"
+        },
+        {
+          "verse": 6,
+          "text": "Iar Hristos a fost credincios ca Fiu peste casa Sa. Şi casa Lui suntem noi, numai dacă ţinem până la sfârşit cu neclintire, îndrăzneala mărturisirii şi lauda nădejdii noastre."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Hebrews_03_02",
+      "chapter": 3,
+      "pericope_num": "02",
+      "title_en": "Warning against Unbelief",
+      "title_ro": "Avertisment împotriva necredinței",
+      "start_verse": 7,
+      "end_verse": 19,
+      "verse_count": 13,
+      "verses": [
+        {
+          "verse": 7,
+          "text": "De aceea, precum zice Duhul Sfânt: \"Dacă veţi auzi astăzi glasul Lui,"
+        },
+        {
+          "verse": 8,
+          "text": "Nu vă învârtoşaţi inimile voastre, ca la răzvrătire în ziua ispitirii din pustie,"
+        },
+        {
+          "verse": 9,
+          "text": "Unde M-au ispitit părinţii voştri, M-au încercat, şi au văzut faptele Mele, timp de patruzeci de ani."
+        },
+        {
+          "verse": 10,
+          "text": "De aceea M-am mâniat pe neamul acesta şi am zis: Pururea ei rătăcesc cu inima şi căile Mele nu le-au cunoscut,"
+        },
+        {
+          "verse": 11,
+          "text": "Că M-am jurat în mânia Mea: \"Nu vor intra întru odihna Mea!\"."
+        },
+        {
+          "verse": 12,
+          "text": "Luaţi seama, fraţilor, să nu fie cumva, în vreunul din voi, o inimă vicleană a necredinţei, ca să vă depărteze de la Dumnezeul cel viu."
+        },
+        {
+          "verse": 13,
+          "text": "Ci îndemnaţi-vă unii pe alţii, în fiecare zi, până ce putem să zicem: astăzi! ca nimeni dintre voi să nu se învârtoşeze cu înşelăciunea păcatului;"
+        },
+        {
+          "verse": 14,
+          "text": "Căci ne-am făcut părtaşi ai lui Hristos, numai dacă vom păstra temeinic, până la urmă, începutul stării noastre întru El,"
+        },
+        {
+          "verse": 15,
+          "text": "De vreme ce se zice: Dacă veţi auzi astăzi glasul Lui, nu învârtoşaţi inimile voastre, ca la răzvrătire."
+        },
+        {
+          "verse": 16,
+          "text": "Cine sunt cei care, auzind, s-au răzvrătit? Oare nu toţi care au ieşit din Egipt, prin Moise?"
+        },
+        {
+          "verse": 17,
+          "text": "Şi împotriva cui a ţinut mâine timp de patruzeci de ani? Au nu împotriva celor ce au păcătuit, ale căror oase au căzut în pustie?"
+        },
+        {
+          "verse": 18,
+          "text": "Şi cui S-a jurat că nu vor intra întru odihna Sa, decât numai celor ce au fost neascultători?"
+        },
+        {
+          "verse": 19,
+          "text": "Vedem dar că n-au putut să intre, din pricina necredinţei lor."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Hebrews_04_01",
+      "chapter": 4,
+      "pericope_num": "01",
+      "title_en": "The Rest That God Promised",
+      "title_ro": "Odihna făgăduită de Dumnezeu",
+      "start_verse": 1,
+      "end_verse": 13,
+      "verse_count": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Să ne temem, deci, ca nu cumva, câtă vreme ni se lasă făgăduinţa să intrăm în odihna Lui, să pară că a rămas pe urmă cineva dintre voi."
+        },
+        {
+          "verse": 2,
+          "text": "Pentru că şi nouă ni s-a binevestit ca şi acelora, dar cuvântul propovăduirii nu le-a fost lor de folos, nefiind unit cu credinţa la cei care l-au auzit."
+        },
+        {
+          "verse": 3,
+          "text": "Pe când noi, fiindcă am crezut, intrăm în odihnă, precum s-a zis: \"M-am jurat întru mânia Mea: nu vor intra întru odihna Mea\", măcar că lucrurile erau săvârşite de la întemeierea lumii."
+        },
+        {
+          "verse": 4,
+          "text": "Căci undeva, despre ziua a şaptea, a zis astfel: \"Şi S-a odihnit Dumnezeu în ziua a şaptea de toate lucrurile Sale\"."
+        },
+        {
+          "verse": 5,
+          "text": "Şi în acelaşi loc, zice iarăşi: \"Nu vor intra întru odihna Mea!\"."
+        },
+        {
+          "verse": 6,
+          "text": "Deci, de vreme ce rămâne ca unii să intre în odihnă, iar aceia cărora mai dinainte li s-a binevestit, pentru nesupunerea lor, n-au intrat,"
+        },
+        {
+          "verse": 7,
+          "text": "Dumnezeu hotărăşte din nou o zi, astăzi rostind prin gura lui David, după atâta vreme, precum s-a zis mai sus: \"Dacă veţi auzi astăzi glasul Lui, nu învârtoşaţi inimile voastre\"."
+        },
+        {
+          "verse": 8,
+          "text": "Căci dacă Iosua le-ar fi adus odihnă, Dumnezeu n-ar mai fi vorbit, după acestea, de o altă zi de odihnă."
+        },
+        {
+          "verse": 9,
+          "text": "Drept aceea, s-a lăsat altă sărbătoare de odihnă poporului lui Dumnezeu."
+        },
+        {
+          "verse": 10,
+          "text": "Pentru că cine a intrat în odihna lui Dumnezeu s-a odihnit şi el de lucrurile lui, precum Dumnezeu de ale Sale."
+        },
+        {
+          "verse": 11,
+          "text": "Să ne silim, deci, ca să intrăm în acea odihnă, ca nimeni să nu cadă în aceeaşi pildă a neascultării,"
+        },
+        {
+          "verse": 12,
+          "text": "Căci cuvântul lui Dumnezeu e viu şi lucrător şi mai ascuţit decât orice sabie cu două tăişuri, şi pătrunde până la despărţitura sufletului şi duhului, dintre încheieturi şi măduvă, şi destoinic este să judece simţirile şi cugetările inimii,"
+        },
+        {
+          "verse": 13,
+          "text": "Şi nu este nici o făptură ascunsă înaintea Lui, ci toate sunt goale şi descoperite, pentru ochii Celui în faţa Căruia noi vom da socoteală."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Hebrews_04_02",
+      "chapter": 4,
+      "pericope_num": "02",
+      "title_en": "Jesus the Great High Priest",
+      "title_ro": "Iisus, Marele Arhiereu",
+      "start_verse": 14,
+      "end_verse": 16,
+      "verse_count": 3,
+      "verses": [
+        {
+          "verse": 14,
+          "text": "Drept aceea, având Arhiereu mare, Care a străbătut cerurile, pe Iisus, Fiul lui Dumnezeu, să ţinem cu tărie mărturisirea."
+        },
+        {
+          "verse": 15,
+          "text": "Că nu avem Arhiereu care să nu poată suferi cu noi în slăbiciunile noastre, ci ispitit întru toate după asemănarea noastră, afară de păcat."
+        },
+        {
+          "verse": 16,
+          "text": "Să ne apropiem, deci, cu încredere de tronul harului, ca să luăm milă şi să aflăm har, spre ajutor, la timp potrivit."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Hebrews_05_01",
+      "chapter": 5,
+      "pericope_num": "01",
+      "title_en": "Warning against Falling Away",
+      "title_ro": "Avertisment împotriva căderii",
+      "start_verse": 1,
+      "end_verse": 14,
+      "verse_count": 14,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Căci orice arhiereu, fiind luat dintre oameni, este pus pentru oameni, spre cele către Dumnezeu, ca să aducă daruri şi jertfe pentru păcate;"
+        },
+        {
+          "verse": 2,
+          "text": "El poate să fie îngăduitor cu cei neştiutori şi rătăciţi, de vreme ce şi el este cuprins de slăbiciune."
+        },
+        {
+          "verse": 3,
+          "text": "Din această pricină dator este, precum pentru popor, aşa şi pentru sine să jertfească pentru păcate."
+        },
+        {
+          "verse": 4,
+          "text": "Şi nimeni nu-şi ia singur cinstea aceasta, ci dacă este chemat de Dumnezeu după cum şi Aaron."
+        },
+        {
+          "verse": 5,
+          "text": "Aşa şi Hristos nu S-a preaslăvit pe Sine însuşi, ca să Se facă arhiereu, ci Cel ce a grăit către El: \"Fiul Meu eşti Tu, Eu astăzi Te-am născut\"."
+        },
+        {
+          "verse": 6,
+          "text": "În alt loc se zice: \"Tu eşti Preot în veac după rânduiala lui Melchisedec\"."
+        },
+        {
+          "verse": 7,
+          "text": "El, în zilele trupului Său, a adus, cu strigăt şi cu lacrimi, cereri şi rugăciuni către Cel ce putea să-L mântuiască din moarte şi auzit a fost pentru evlavia Sa,"
+        },
+        {
+          "verse": 8,
+          "text": "Şi deşi era Fiu, a învăţat ascultarea din cele ce a pătimit,"
+        },
+        {
+          "verse": 9,
+          "text": "Şi desăvârşindu-Se, S-a făcut tuturor celor ce-L ascultă pricină de mântuire veşnică."
+        },
+        {
+          "verse": 10,
+          "text": "Iar de Dumnezeu a fost numit: Arhiereu după rânduiala lui Melchisedec."
+        },
+        {
+          "verse": 11,
+          "text": "În privinţa aceasta avem mult de vorbit şi lucruri grele de tâlcuit, de vreme ce v-aţi făcut greoi la auzit."
+        },
+        {
+          "verse": 12,
+          "text": "Căci voi, care de multă vreme s-ar fi cuvenit să fiţi învăţători, aveţi iarăşi trebuinţă ca cineva să vă înveţe cele dintâi începuturi ale cuvintelor lui Dumnezeu şi aţi ajuns să aveţi nevoie de lapte, nu de hrană tare."
+        },
+        {
+          "verse": 13,
+          "text": "Pentru că oricine se hrăneşte cu lapte este nepriceput în cuvântul dreptăţii, de vreme ce este prunc."
+        },
+        {
+          "verse": 14,
+          "text": "Iar hrana tare este pentru cei desăvârşiţi, care au prin obişnuinţă simţurile învăţate să deosebească binele şi răul."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Hebrews_06_01",
+      "chapter": 6,
+      "pericope_num": "01",
+      "title_en": "The Peril of Falling Away",
+      "title_ro": "Pericolul căderii",
+      "start_verse": 1,
+      "end_verse": 12,
+      "verse_count": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "De aceea, lăsând cuvântul de început despre Hristos, să ne ridicăm spre ceea ce este desăvârşit, fără să mai punem din nou temelia învăţăturii despre pocăinţa de faptele moarte şi despre credinţa în Dumnezeu,"
+        },
+        {
+          "verse": 2,
+          "text": "A învăţăturii despre botezuri, despre punerea mâinilor, despre învierea morţilor şi despre judecata veşnică."
+        },
+        {
+          "verse": 3,
+          "text": "Şi aceasta vom face-o cu voia lui Dumnezeu."
+        },
+        {
+          "verse": 4,
+          "text": "Căci este cu neputinţă pentru cei ce s-au luminat odată şi au gustat darul cel ceresc şi părtaşi s-au făcut Duhului Sfânt,"
+        },
+        {
+          "verse": 5,
+          "text": "Şi au gustat cuvântul cel bun al lui Dumnezeu şi puterile veacului viitor,"
+        },
+        {
+          "verse": 6,
+          "text": "Cu neputinţă este pentru ei, dacă au căzut, să se înnoiască iarăşi spre pocăinţă, fiindcă ei răstignesc loruşi, a doua oară, pe Fiul lui Dumnezeu şi-L fac de batjocură."
+        },
+        {
+          "verse": 7,
+          "text": "Ţarina, când absoarbe ploaia ce se coboară adeseori asupra ei şi rodeşte iarba folositoare celor pentru care a fost muncită, primeşte binecuvântarea de la Dumnezeu;"
+        },
+        {
+          "verse": 8,
+          "text": "Dar dacă aduce spini şi ciulini, se face netrebnică şi blestemul îi stă aproape iar la urmă focul o aşteaptă."
+        },
+        {
+          "verse": 9,
+          "text": "Despre voi, iubiţilor, deşi vorbim astfel, suntem încredinţaţi de lucruri mai bune şi aducătoare de mântuire."
+        },
+        {
+          "verse": 10,
+          "text": "Căci Dumnezeu nu este nedrept, ca să uite lucrul vostru şi dragostea pe care aţi arătat-o pentru numele Lui, voi, care aţi slujit şi slujiţi sfinţilor."
+        },
+        {
+          "verse": 11,
+          "text": "Dorind dar, ca fiecare dintre voi să arate aceeaşi râvnă spre adeverirea nădejdii, până la sfârşit,"
+        },
+        {
+          "verse": 12,
+          "text": "Ca să nu fiţi greoi, ci următori ai celor ce, prin credinţă şi îndelungă-răbdare, moştenesc făgăduinţele."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Hebrews_06_02",
+      "chapter": 6,
+      "pericope_num": "02",
+      "title_en": "The Certainty of God's Promise",
+      "title_ro": "Certitudinea făgăduinței lui Dumnezeu",
+      "start_verse": 13,
+      "end_verse": 20,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 13,
+          "text": "Căci Dumnezeu, când a dat făgăduinţă lui Avraam, de vreme ce n-avea pe nimeni mai mare, pe care să Se jure, S-a jurat pe Sine însuşi,"
+        },
+        {
+          "verse": 14,
+          "text": "Zicând: \"Cu adevărat, binecuvântând te voi binecuvânta, şi înmulţind te voi înmulţi\"."
+        },
+        {
+          "verse": 15,
+          "text": "Şi aşa, având Avraam îndelungă-răbdare, a dobândit făgăduinţa."
+        },
+        {
+          "verse": 16,
+          "text": "Pentru că oamenii se jură pe cel ce e mai mare şi jurământul e la ei o chezăşie şi sfârşitul oricărei neînţelegeri."
+        },
+        {
+          "verse": 17,
+          "text": "În aceasta, Dumnezeu voind să arate şi mai mult, moştenitorilor făgăduinţei, nestrămutarea hotărârii Sale, a pus la mijloc jurământul:"
+        },
+        {
+          "verse": 18,
+          "text": "Ca prin două fapte nestrămutate - făgăduinţa şi jurământul - în care e cu neputinţă ca Dumnezeu să fi minţit, noi, cei ce căutăm scăpare, să avem îndemn puternic ca să ţinem nădejdea pusă înainte,"
+        },
+        {
+          "verse": 19,
+          "text": "Pe care o avem ca o ancoră a sufletului, neclintită şi tare, intrând dincolo de catapeteasmă,"
+        },
+        {
+          "verse": 20,
+          "text": "Unde Iisus a intrat pentru noi ca înaintemergător, fiind făcut Arhiereu în veac, după rânduiala lui Melchisedec."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Hebrews_07_01",
+      "chapter": 7,
+      "pericope_num": "01",
+      "title_en": "The Priestly Order of Melchizedek",
+      "title_ro": "Rânduiala preoției lui Melchisedec",
+      "start_verse": 1,
+      "end_verse": 10,
+      "verse_count": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Căci acest Melchisedec, rege al Salemului, preot al lui Dumnezeu cel Preaînalt, care a întâmpinat pe Avraam, pe când se întorcea de la nimicirea regilor şi l-a binecuvântat,"
+        },
+        {
+          "verse": 2,
+          "text": "Căruia Avraam i-a dat şi zeciuială din toate, se tâlcuieşte mai întâi: rege al dreptăţii, apoi şi rege al Salemului, adică rege al păcii,"
+        },
+        {
+          "verse": 3,
+          "text": "Fără tată, fără mamă, fără spiţă de neam, neavând nici început al zilelor, nici sfârşit al vieţii, ci, asemănat fiind Fiului lui Dumnezeu, el rămâne preot pururea."
+        },
+        {
+          "verse": 4,
+          "text": "Vedeţi, dar, cât de mare e acesta, căruia chiar patriarhul Avraam i-a dat zeciuială din prada de război."
+        },
+        {
+          "verse": 5,
+          "text": "Şi cei dintre fiii lui Levi, care primesc preoţia, au poruncă după lege, ca să ia zeciuială de la popor, adică de la fraţii lor, măcar că şi aceştia au ieşit din coapsele lui Avraam;"
+        },
+        {
+          "verse": 6,
+          "text": "Iar Melchisedec, care nu-şi trage neamul din ei, a primit zeciuială de la Avraam şi pe Avraam, care avea făgăduinţele, l-a binecuvântat."
+        },
+        {
+          "verse": 7,
+          "text": "Fără de nici o îndoială, cel mai mic ia binecuvântare de la cel mai mare."
+        },
+        {
+          "verse": 8,
+          "text": "Şi aici iau zeciuială nişte oameni muritori, pe când dincolo, unul care e dovedit că este viu."
+        },
+        {
+          "verse": 9,
+          "text": "Şi ca să spun aşa, prin Avraam, a dat zeciuială şi Levi, cel ce lua zeciuială,"
+        },
+        {
+          "verse": 10,
+          "text": "Fiindcă el era încă în coapsele lui Avraam, când l-a întâmpinat Melchisedec."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Hebrews_07_02",
+      "chapter": 7,
+      "pericope_num": "02",
+      "title_en": "Another Priest, Like Melchizedek",
+      "title_ro": "Un alt preot, ca Melchisedec",
+      "start_verse": 11,
+      "end_verse": 28,
+      "verse_count": 18,
+      "verses": [
+        {
+          "verse": 11,
+          "text": "Dacă deci desăvârşirea ar fi fost prin preoţia Leviţilor (căci legea s-a dat poporului pe temeiul preoţiei lor), ce nevoie mai era să se ridice un alt preot după rânduiala lui Melchisedec, şi să nu se zică după rânduiala lui Aaron?"
+        },
+        {
+          "verse": 12,
+          "text": "Iar dacă preoţia s-a schimbat urmează numaidecât şi schimbarea Legii."
+        },
+        {
+          "verse": 13,
+          "text": "Căci Acela, despre Care se spun acestea, îşi ia obârşia dintr-o altă seminţie, de unde nimeni n-a slujit altarului,"
+        },
+        {
+          "verse": 14,
+          "text": "Ştiut fiind că Domnul nostru a răsărit din Iuda, iar despre seminţia acestora, cu privire la preoţi, Moise n-a vorbit nimic."
+        },
+        {
+          "verse": 15,
+          "text": "Apoi este lucru şi mai lămurit că, dacă se ridică un alt preot după asemănarea lui Melchisedec,"
+        },
+        {
+          "verse": 16,
+          "text": "El s-a făcut nu după legea unei porunci trupeşti, ci cu puterea unei vieţi nepieritoare,"
+        },
+        {
+          "verse": 17,
+          "text": "Căci se mărturiseşte: \"Tu eşti Preot în veac, după rânduiala lui Melchisedec\"."
+        },
+        {
+          "verse": 18,
+          "text": "Astfel, porunca dată întâi se desfiinţează, pentru neputinţa şi nefolosul ei;"
+        },
+        {
+          "verse": 19,
+          "text": "Căci Legea n-a desăvârşit nimic, iar în locul ei îşi face cale o nădejde mai bună, prin care ne apropiem de Dumnezeu."
+        },
+        {
+          "verse": 20,
+          "text": "Ci încă a fost la mijloc şi un jurământ, căci pe când aceia s-au făcut preoţi fără de jurământ,"
+        },
+        {
+          "verse": 21,
+          "text": "El S-a făcut cu jurământul Celui ce I-a grăit: \"Juratu-S-a Domnul şi nu Se va căi: Tu eşti Preot în veac, după rânduiala lui Melchisedec\"."
+        },
+        {
+          "verse": 22,
+          "text": "Cu aceasta, Iisus S-a făcut chezaşul unui mai bun testament."
+        },
+        {
+          "verse": 23,
+          "text": "Apoi acolo s-a ridicat un şir de preoţi, fiindcă moartea îi împiedica să dăinuiască."
+        },
+        {
+          "verse": 24,
+          "text": "Aici însă, Iisus, prin aceea că rămâne în veac, are o preoţie netrecătoare (veşnică)."
+        },
+        {
+          "verse": 25,
+          "text": "Pentru aceasta, şi poate să mântuiască desăvârşit pe cei ce se apropie prin El de Dumnezeu, căci pururea e viu ca să mijlocească pentru ei."
+        },
+        {
+          "verse": 26,
+          "text": "Un astfel de Arhiereu se cuvenea să avem: sfânt, fără de răutate, fără de pată, osebit de cei păcătoşi, şi fiind mai presus decât cerurile."
+        },
+        {
+          "verse": 27,
+          "text": "El nu are nevoie să aducă zilnic jertfe, ca arhiereii: întâi pentru păcatele lor, apoi pentru ale poporului, căci El a făcut aceasta o dată pentru totdeauna, aducându-Se jertfă pe Sine însuşi."
+        },
+        {
+          "verse": 28,
+          "text": "Căci Legea pune ca arhierei oameni care au slăbiciune, pe când cuvântul jurământului, venit în urma Legii, pune pe Fiul, desăvârşit în veacul veacului."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Hebrews_08_01",
+      "chapter": 8,
+      "pericope_num": "01",
+      "title_en": "Mediator of a Better Covenant",
+      "title_ro": "Mijlocitorul unui legământ mai bun",
+      "start_verse": 1,
+      "end_verse": 13,
+      "verse_count": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Lucru de căpetenie din cele spuse este că avem astfel de Arhiereu care a şezut de-a dreapta tronului slavei în ceruri,"
+        },
+        {
+          "verse": 2,
+          "text": "Slujitor Altarului şi Cortului celui adevărat, pe care l-a înfipt Dumnezeu şi nu omul."
+        },
+        {
+          "verse": 3,
+          "text": "Apoi, orice arhiereu este pus ca să aducă daruri şi jertfe; de aceea trebuincios era ca şi acest Arhiereu să fi avut ceva ce să aducă."
+        },
+        {
+          "verse": 4,
+          "text": "Dacă ar fi pe pământ, nici n-ar fi preot, fiindcă aici sunt aceia care aduc darurile potrivit Legii,"
+        },
+        {
+          "verse": 5,
+          "text": "Care slujesc închipuirii şi umbrei celor cereşti, precum a primit poruncă Moise, când era să facă cortul: \"Ia seama, zice Domnul, să faci toate după chipul ce ţi-a fost arătat în munte\"."
+        },
+        {
+          "verse": 6,
+          "text": "Acum însă, Arhiereul nostru a dobândit o slujire cu atât mai osebită, cu cât este şi Mijlocitorul unui testament mai bun, ca unul care este întemeiat pe mai bune făgăduinţe."
+        },
+        {
+          "verse": 7,
+          "text": "Căci dacă (testamentul) cel dintâi ar fi fost fără de prihană, nu s-ar mai fi căutat loc pentru al doilea;"
+        },
+        {
+          "verse": 8,
+          "text": "Ci Dumnezeu îi mustră şi le zice: \"Iată vin zile, zice Domnul, când voi face, cu casa lui Israel şi cu casa lui Iuda, testament nou,"
+        },
+        {
+          "verse": 9,
+          "text": "Nu ca testamentul pe care l-am făcut cu părinţii lor, în ziua când i-am apucat de mână ca să-i scot din pământul Egiptului; căci ei n-au rămas în testamentul Meu, de aceea şi Eu i-am părăsit - zice Domnul."
+        },
+        {
+          "verse": 10,
+          "text": "Că acesta e testamentul pe care îl voi face cu casa lui Israel, după acele zile, zice Domnul: Pune-voi legile Mele în cugetul lor şi în inima lor le voi scrie, şi voi fi lor Dumnezeu şi ei vor fi poporul Meu."
+        },
+        {
+          "verse": 11,
+          "text": "Şi nu va mai învăţa fiecare pe vecinul său şi fiecare pe fratele său zicând: Cunoaşte pe Domnul! - căci toţi Mă vor cunoaşte, de la cel mai mic până la cel mai mare al lor;"
+        },
+        {
+          "verse": 12,
+          "text": "Căci voi fi milostiv cu nedreptăţile lor şi de păcatele lor nu-Mi voi mai aduce aminte\"."
+        },
+        {
+          "verse": 13,
+          "text": "Şi zicând: \"Nou\", Domnul a învechit pe cel dintâi. Iar ce se învecheşte şi îmbătrâneşte, aproape este de pieire."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Hebrews_09_01",
+      "chapter": 9,
+      "pericope_num": "01",
+      "title_en": "The Earthly and the Heavenly Sanctuaries",
+      "title_ro": "Sanctuarul pământesc și cel ceresc",
+      "start_verse": 1,
+      "end_verse": 22,
+      "verse_count": 22,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Deci şi cei dintâi (Aşezământ) avea orânduieli pentru slujba dumnezeiască şi un altar pământesc,"
+        },
+        {
+          "verse": 2,
+          "text": "Căci s-a pregătit cortul mărturiei. În el se aflau, mai întâi, sfeşnicul şi masa şi pâinile punerii înainte; partea aceasta se numeşte Sfânta."
+        },
+        {
+          "verse": 3,
+          "text": "Apoi, după catapeteasma a doua, era cortul numit Sfânta Sfintelor,"
+        },
+        {
+          "verse": 4,
+          "text": "Având altarul tămâierii de aur şi chivotul Aşezământului ferecat peste tot cu aur, în care era năstrapa de aur, care avea mana, era toiagul lui Aaron ce odrăslise şi tablele Legii."
+        },
+        {
+          "verse": 5,
+          "text": "Deasupra chivotului erau heruvimii slavei, care umbreau altarul împăcării; despre acestea nu putem acum să vorbim cu de-amănuntul."
+        },
+        {
+          "verse": 6,
+          "text": "Astfel fiind întocmite aceste încăperi, preoţii intrau totdeauna în cortul cel dintâi, săvârşind slujbele dumnezeieşti;"
+        },
+        {
+          "verse": 7,
+          "text": "În cel de-al doilea însă numai arhiereul, o dată pe an, şi nu fără de sânge, pe care îl aducea pentru sine însuşi şi pentru greşealele poporului."
+        },
+        {
+          "verse": 8,
+          "text": "Prin aceasta, Duhul Sfânt ne lămureşte că drumul către Sfânta Sfintelor nu era să fie arătat, câtă vreme cortul întâi mai sta în picioare,"
+        },
+        {
+          "verse": 9,
+          "text": "Care era o pildă pentru timpul de faţă şi însemna că darurile şi jertfele ce se aduceau n-aveau putere să desăvârşească cugetul închinătorului."
+        },
+        {
+          "verse": 10,
+          "text": "Acestea erau numai legiuiri pământeşti - despre mâncăruri, despre băuturi, despre felurite spălări - şi erau porunci până la vremea îndreptării."
+        },
+        {
+          "verse": 11,
+          "text": "Iar Hristos, venind Arhiereu al bunătăţilor celor viitoare, a trecut prin cortul cel mai mare şi mai desăvârşit, nu făcut de mână, adică nu din zidirea aceasta;"
+        },
+        {
+          "verse": 12,
+          "text": "El a intrat o dată pentru totdeauna în Sfânta Sfintelor, nu cu sânge de ţapi şi de viţei, ci cu însuşi sângele Său, şi a dobândit o veşnică răscumpărare."
+        },
+        {
+          "verse": 13,
+          "text": "Căci dacă sângele ţapilor şi al taurilor şi cenuşa junincii, stropind pe cei spurcaţi, îi sfinţeşte spre curăţirea trupului,"
+        },
+        {
+          "verse": 14,
+          "text": "Cu cât mai mult sângele lui Hristos, Care, prin Duhul cel veşnic, S-a adus lui Dumnezeu pe Sine, jertfă fără de prihană, va curăţi cugetul vostru de faptele cele moarte, ca să slujiţi Dumnezeului celui viu?"
+        },
+        {
+          "verse": 15,
+          "text": "Şi pentru aceasta El este Mijlocitorul unui nou testament, ca prin moartea suferită spre răscumpărarea greşealelor de sub întâiul testament, cei chemaţi să ia făgăduinţa moştenirii veşnice."
+        },
+        {
+          "verse": 16,
+          "text": "Căci unde este testament, trebuie neapărat să fie vorba despre moartea celui ce a făcut testamentul."
+        },
+        {
+          "verse": 17,
+          "text": "Un testament ajunge temeinic după moarte, fiindcă nu are nici o putere, câtă vreme trăieşte cel ce l-a făcut."
+        },
+        {
+          "verse": 18,
+          "text": "De aceea, nici cel dintâi n-a fost sfinţit fără sânge."
+        },
+        {
+          "verse": 19,
+          "text": "Într-adevăr Moise, după ce a rostit faţă cu tot poporul toate poruncile din Lege, luând sângele cel de viţei şi de ţapi, cu apă şi cu lână roşie şi cu isop, a stropit şi cartea şi pe tot poporul,"
+        },
+        {
+          "verse": 20,
+          "text": "Şi a zis: \"Acesta este sângele testamentului pe care l-a poruncit vouă Dumnezeu\"."
+        },
+        {
+          "verse": 21,
+          "text": "Şi a stropit, de asemenea, cu sânge, cortul şi toate vasele pentru slujbă."
+        },
+        {
+          "verse": 22,
+          "text": "După Lege, aproape toate se curăţesc cu sânge, şi fără vărsare de sânge nu se dă iertare."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Hebrews_09_02",
+      "chapter": 9,
+      "pericope_num": "02",
+      "title_en": "Christ's Sacrifice Takes Away Sin",
+      "title_ro": "Jertfa lui Hristos șterge păcatul",
+      "start_verse": 23,
+      "end_verse": 28,
+      "verse_count": 6,
+      "verses": [
+        {
+          "verse": 23,
+          "text": "Trebuie dar ca chipurile celor din ceruri să fie curăţite prin acestea, iar cele cereşti înseşi cu jertfe mai bune decât acestea."
+        },
+        {
+          "verse": 24,
+          "text": "Căci Hristos n-a intrat într-o Sfântă a Sfintelor făcută de mâini - închipuirea celei adevărate - ci chiar în cer, ca să Se înfăţişeze pentru noi înaintea lui Dumnezeu;"
+        },
+        {
+          "verse": 25,
+          "text": "Iar nu ca să Se aducă pe Sine însuşi jertfă de mai multe ori - ca arhiereul care intră în Sfânta Sfintelor cu sânge străin, în fiecare an."
+        },
+        {
+          "verse": 26,
+          "text": "Altfel, ar fi trebuit să pătimească de mai multe ori, de la întemeierea lumii; ci acum, la sfârşitul veacurilor, S-a arătat o dată, spre ştergerea păcatului, prin jertfa Sa."
+        },
+        {
+          "verse": 27,
+          "text": "Şi precum este rânduit oamenilor o dată să moară, iar după aceea să fie judecata,"
+        },
+        {
+          "verse": 28,
+          "text": "Tot aşa şi Hristos, după ce a fost adus o dată jertfă, ca să ridice păcatele multora, a doua oară fără de păcat Se va arăta celor ce cu stăruinţă Îl aşteaptă spre mântuire."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Hebrews_10_01",
+      "chapter": 10,
+      "pericope_num": "01",
+      "title_en": "Christ's Sacrifice Once for All",
+      "title_ro": "Jertfa lui Hristos, odată pentru totdeauna",
+      "start_verse": 1,
+      "end_verse": 18,
+      "verse_count": 18,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "În adevăr, Legea având umbra bunurilor viitoare, iar nu însuşi chipul lucrurilor, nu poate niciodată - cu aceleaşi jertfe, aduse neîncetat în fiecare an - să facă desăvârşiţi pe cei ce se apropie."
+        },
+        {
+          "verse": 2,
+          "text": "Altfel, n-ar fi încetat oare jertfele aduse, dacă cei ce săvârşesc slujba dumnezeiască, fiind o dată curăţiţi, n-ar mai avea nici o conştiinţă a păcatelor?"
+        },
+        {
+          "verse": 3,
+          "text": "Ci prin ele, an de an, se face amintirea păcatelor."
+        },
+        {
+          "verse": 4,
+          "text": "Pentru că este cu neputinţă ca sângele de tauri şi de ţapi să înlăture păcatele."
+        },
+        {
+          "verse": 5,
+          "text": "Drept aceea, intrând în lume, zice: \"Jertfă şi prinos n-ai voit, dar mi-ai întocmit trup."
+        },
+        {
+          "verse": 6,
+          "text": "Arderi de tot şi jertfe pentru păcat nu ţi-au plăcut;"
+        },
+        {
+          "verse": 7,
+          "text": "Atunci am zis: Iată vin, în sulul cărţii este scris despre mine, să fac voia Ta, Dumnezeule\"."
+        },
+        {
+          "verse": 8,
+          "text": "Zicând mai sus că: \"Jertfă şi prinoase şi arderile de tot şi jertfele pentru păcat n-ai voit, nici nu Ţi-au plăcut\", care se aduc după Lege,"
+        },
+        {
+          "verse": 9,
+          "text": "Atunci a zis: \"Iată vin ca să fac voia Ta, Dumnezeule\". El desfiinţează deci pe cei dintâi ca să statornicească pe al doilea."
+        },
+        {
+          "verse": 10,
+          "text": "Întru această voinţă suntem sfinţiţi, prin jertfa trupului lui Iisus Hristos, o dată pentru totdeauna."
+        },
+        {
+          "verse": 11,
+          "text": "Şi orice preot stă şi slujeşte în fiecare zi şi aceleaşi jertfe aduce de multe ori, ca unele care niciodată nu pot să înlăture păcatele."
+        },
+        {
+          "verse": 12,
+          "text": "Acesta dimpotrivă, aducând o singură jertfă pentru păcate, a şezut în vecii vecilor, de-a dreapta lui Dumnezeu,"
+        },
+        {
+          "verse": 13,
+          "text": "Şi aşteaptă până ce vrăjmaşii Lui vor fi puşi aşternut picioarelor Lui."
+        },
+        {
+          "verse": 14,
+          "text": "Căci printr-o singură jertfă adusă, a adus la veşnică desăvârşire pe cei ce se sfinţesc;"
+        },
+        {
+          "verse": 15,
+          "text": "Dar şi Duhul cel Sfânt ne mărturiseşte aceasta, fiindcă după ce a zis:"
+        },
+        {
+          "verse": 16,
+          "text": "\"Acesta este aşezământul pe care îl voi întocmi cu ei, după acele zile - zice Domnul: Da-voi legile Mele în inimile lor şi le voi scrie în cugetele lor\"."
+        },
+        {
+          "verse": 17,
+          "text": "Şi adaugă: \"Iar de păcatele lor şi de fărădelegile lor nu-Mi voi mai aduce aminte\"."
+        },
+        {
+          "verse": 18,
+          "text": "Unde este dar iertarea acestora, nu mai este jertfă pentru păcate."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Hebrews_10_02",
+      "chapter": 10,
+      "pericope_num": "02",
+      "title_en": "A Call to Persevere",
+      "title_ro": "Îndemn la stăruință",
+      "start_verse": 19,
+      "end_verse": 39,
+      "verse_count": 21,
+      "verses": [
+        {
+          "verse": 19,
+          "text": "Drept aceea, fraţilor, având îndrăzneală, să intrăm în Sfânta Sfintelor, prin sângele lui Iisus,"
+        },
+        {
+          "verse": 20,
+          "text": "Pe calea cea nouă şi vie pe care pentru noi a înnoit-o, prin catapeteasmă, adică prin trupul Său,"
+        },
+        {
+          "verse": 21,
+          "text": "Şi având mare preot peste casa lui Dumnezeu,"
+        },
+        {
+          "verse": 22,
+          "text": "Să ne apropiem cu inimă curată, întru plinătatea credinţei, curăţindu-ne prin stropire inimile de orice cuget rău, şi spălându-ne trupul în apă curată,"
+        },
+        {
+          "verse": 23,
+          "text": "Să ţinem mărturisirea nădejdii cu neclintire, pentru că credincios este Cel ce a făgăduit,"
+        },
+        {
+          "verse": 24,
+          "text": "Şi să luăm seama unul altuia, ca să ne îndemnăm la dragoste şi la fapte bune,"
+        },
+        {
+          "verse": 25,
+          "text": "Fără să părăsim Biserica noastră, precum le este obiceiul unora, ci îndemnători făcându-ne, cu atât mai mult, cu cât vedeţi că se apropie ziua aceea."
+        },
+        {
+          "verse": 26,
+          "text": "Căci dacă păcătuim de voia noastră, după ce am luat cunoştiinţă despre adevăr, nu ne mai rămâne, pentru păcate, nici o jertfă,"
+        },
+        {
+          "verse": 27,
+          "text": "Ci o înfricoşată aşteptare a judecăţii şi iuţimea focului care va mistui pe cei potrivnici."
+        },
+        {
+          "verse": 28,
+          "text": "Călcând cineva Legea lui Moise, e ucis fără de milă, pe cuvântul a doi sau trei martori;"
+        },
+        {
+          "verse": 29,
+          "text": "Gândiţi-vă: cu cât mai aspră fi-va pedeapsa cuvenită celui ce a călcat în picioare pe Fiul lui Dumnezeu, şi a nesocotit sângele testamentului cu care s-a sfinţit, şi a batjocorit duhul harului."
+        },
+        {
+          "verse": 30,
+          "text": "Căci cunoaştem pe Cel ce a zis: \"A Mea este răzbunarea; Eu voi răsplăti\". Şi iarăşi: \"Domnul va judeca pe poporul Său\"."
+        },
+        {
+          "verse": 31,
+          "text": "Înfricoşător lucru este să cădem în mâinile Dumnezeului celui viu."
+        },
+        {
+          "verse": 32,
+          "text": "Aduceţi-vă, dar, aminte mai întâi de zilele în care, după ce aţi fost luminaţi, aţi răbdat luptă grea de suferinţe,"
+        },
+        {
+          "verse": 33,
+          "text": "Parte făcându-vă privelişte cu ocările şi cu necazurile îndurate, parte suferind împreună cu cei ce treceau prin unele ca acestea,"
+        },
+        {
+          "verse": 34,
+          "text": "Căci aţi avut milă de cei închişi, iar răpirea averilor voastre aţi primit-o cu bucurie, bine ştiind că voi aveţi o mai bună şi statornică avere."
+        },
+        {
+          "verse": 35,
+          "text": "Nu lepădaţi dar încrederea voastră, care are mare răsplătire."
+        },
+        {
+          "verse": 36,
+          "text": "Căci aveţi nevoie de răbdare ca, făcând voia lui Dumnezeu, să dobândiţi făgăduinţa."
+        },
+        {
+          "verse": 37,
+          "text": "\"Căci mai este puţin timp, prea puţin, şi Cel ce e să vină, va veni şi nu va întârzia;"
+        },
+        {
+          "verse": 38,
+          "text": "Iar dreptul din credinţă va fi viu; şi de se va îndoi cineva, nu va binevoi sufletul Meu întru el\"."
+        },
+        {
+          "verse": 39,
+          "text": "Noi nu suntem (fii) ai îndoielii spre pieire, ci ai credinţei spre dobândirea sufletului."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Hebrews_11_01",
+      "chapter": 11,
+      "pericope_num": "01",
+      "title_en": "The Meaning of Faith",
+      "title_ro": "Înțelesul credinței",
+      "start_verse": 1,
+      "end_verse": 11,
+      "verse_count": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Iar credinţa este încredinţarea celor nădăjduite, dovedirea lucrurilor celor nevăzute."
+        },
+        {
+          "verse": 2,
+          "text": "Prin ea, cei din vechime au dat buna lor mărturie."
+        },
+        {
+          "verse": 3,
+          "text": "Prin credinţă înţelegem că s-au întemeiat veacurile prin cuvântul lui Dumnezeu, de s-au făcut din nimic cele ce se văd."
+        },
+        {
+          "verse": 4,
+          "text": "Prin credinţă, Abel a adus lui Dumnezeu mai bună jertfă decât Cain, pentru care a luat mărturie că este drept, mărturisind Dumnezeu despre darurile lui; şi prin credinţă grăieşte şi azi, deşi a murit."
+        },
+        {
+          "verse": 5,
+          "text": "Prin credinţă, Enoh a fost luat de pe pământ ca să nu vadă moartea, şi nu s-a mai aflat, pentru că Dumnezeu îl strămutase, căci mai înainte de a-l strămuta, el a avut mărturie că a bine-plăcut lui Dumnezeu."
+        },
+        {
+          "verse": 6,
+          "text": "Fără credinţă, dar, nu este cu putinţă să fim plăcuţi lui Dumnezeu, căci cine se apropie de Dumnezeu trebuie să creadă că El este şi că Se face răsplătitor celor care Îl caută."
+        },
+        {
+          "verse": 7,
+          "text": "Prin credinţă, luând Noe înştiinţare de la Dumnezeu despre cele ce nu se vedeau încă, a gătit, cu evlavie, o corabie spre mântuirea casei sale; prin credinţă el a osândit lumea şi dreptăţii celei din credinţă s-a făcut moştenitor."
+        },
+        {
+          "verse": 8,
+          "text": "Prin credinţă, Avraam, când a fost chemat, a ascultat şi a ieşit la locul pe care era să-l ia spre moştenire şi a ieşit neştiind încotro merge."
+        },
+        {
+          "verse": 9,
+          "text": "Prin credinţă, a locuit vremelnic în pământul făgăduinţei, ca într-un pământ străin, locuind în corturi cu Isaac şi cu Iacov, cei dimpreună moştenitori ai aceleiaşi făgăduinţe;"
+        },
+        {
+          "verse": 10,
+          "text": "Căci aştepta cetatea cu temelii puternice, al cărei meşter şi lucrător este Dumnezeu."
+        },
+        {
+          "verse": 11,
+          "text": "Prin credinţă, şi Sara însăşi a primit putere să zămislească fiu, deşi trecuse de vârsta cuvenită, pentru că ea L-a socotit credincios pe Cel ce făgăduise."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Hebrews_11_02",
+      "chapter": 11,
+      "pericope_num": "02",
+      "title_en": "The Examples of Abel, Enoch, and Noah",
+      "title_ro": "Pildele lui Abel, Enoh și Noe",
+      "start_verse": 4,
+      "end_verse": 7,
+      "verse_count": 4,
+      "verses": [
+        {
+          "verse": 4,
+          "text": "Prin credinţă, Abel a adus lui Dumnezeu mai bună jertfă decât Cain, pentru care a luat mărturie că este drept, mărturisind Dumnezeu despre darurile lui; şi prin credinţă grăieşte şi azi, deşi a murit."
+        },
+        {
+          "verse": 5,
+          "text": "Prin credinţă, Enoh a fost luat de pe pământ ca să nu vadă moartea, şi nu s-a mai aflat, pentru că Dumnezeu îl strămutase, căci mai înainte de a-l strămuta, el a avut mărturie că a bine-plăcut lui Dumnezeu."
+        },
+        {
+          "verse": 6,
+          "text": "Fără credinţă, dar, nu este cu putinţă să fim plăcuţi lui Dumnezeu, căci cine se apropie de Dumnezeu trebuie să creadă că El este şi că Se face răsplătitor celor care Îl caută."
+        },
+        {
+          "verse": 7,
+          "text": "Prin credinţă, luând Noe înştiinţare de la Dumnezeu despre cele ce nu se vedeau încă, a gătit, cu evlavie, o corabie spre mântuirea casei sale; prin credinţă el a osândit lumea şi dreptăţii celei din credinţă s-a făcut moştenitor."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Hebrews_11_03",
+      "chapter": 11,
+      "pericope_num": "03",
+      "title_en": "The Faith of Abraham",
+      "title_ro": "Credința lui Avraam",
+      "start_verse": 8,
+      "end_verse": 22,
+      "verse_count": 15,
+      "verses": [
+        {
+          "verse": 8,
+          "text": "Prin credinţă, Avraam, când a fost chemat, a ascultat şi a ieşit la locul pe care era să-l ia spre moştenire şi a ieşit neştiind încotro merge."
+        },
+        {
+          "verse": 9,
+          "text": "Prin credinţă, a locuit vremelnic în pământul făgăduinţei, ca într-un pământ străin, locuind în corturi cu Isaac şi cu Iacov, cei dimpreună moştenitori ai aceleiaşi făgăduinţe;"
+        },
+        {
+          "verse": 10,
+          "text": "Căci aştepta cetatea cu temelii puternice, al cărei meşter şi lucrător este Dumnezeu."
+        },
+        {
+          "verse": 11,
+          "text": "Prin credinţă, şi Sara însăşi a primit putere să zămislească fiu, deşi trecuse de vârsta cuvenită, pentru că ea L-a socotit credincios pe Cel ce făgăduise."
+        },
+        {
+          "verse": 12,
+          "text": "Pentru aceea, dintr-un singur om, şi acela ca şi mort, s-au născut atâţia urmaşi - mulţi \"ca stelele cerului şi ca nisipul cel fără de număr de pe ţărmul mării\"."
+        },
+        {
+          "verse": 13,
+          "text": "Toţi aceştia au murit întru credinţă, fără să primească făgăduinţele, ci văzându-le de departe şi iubindu-le cu dor şi mărturisind că pe pământ ei sunt străini şi călători."
+        },
+        {
+          "verse": 14,
+          "text": "Iar cei ce grăiesc unele ca acestea dovedesc că ei îşi caută lor patrie."
+        },
+        {
+          "verse": 15,
+          "text": "Într-adevăr, dacă ar fi avut în minte pe aceea din care ieşiseră, aveau vreme să se întoarcă."
+        },
+        {
+          "verse": 16,
+          "text": "Dar acum ei doresc una mai bună, adică pe cea cerească. Pentru aceea Dumnezeu nu Se ruşinează de ei ca să Se numească Dumnezeul lor, căci le-a gătit lor cetate."
+        },
+        {
+          "verse": 17,
+          "text": "Prin credinţă, Avraam, când a fost încercat, a adus pe Isaac (jertfă). Cel ce primise făgăduinţele aducea jertfă pe fiul său unul născut!"
+        },
+        {
+          "verse": 18,
+          "text": "Către el grăise Dumnezeu: \"Că în Isaac ţi se va chema ţie urmaş\"."
+        },
+        {
+          "verse": 19,
+          "text": "Dar Avraam a socotit că Dumnezeu este puternic să-l învieze şi din morţi; drept aceea l-a dobândit înapoi ca un fel de pildă (a învierii) Lui."
+        },
+        {
+          "verse": 20,
+          "text": "Prin credinţa despre cele viitoare a binecuvântat Isaac pe Iacov şi pe Esau."
+        },
+        {
+          "verse": 21,
+          "text": "Prin credinţă Iacov, când a fost să moară, a binecuvântat pe fiecare din fiii lui Iosif şi s-a închinat, rezemându-se pe vârful toiagului său."
+        },
+        {
+          "verse": 22,
+          "text": "Prin credinţă Iosif, la sfârşitul vieţii, a pomenit despre ieşirea fiilor lui Israel şi a dat porunci cu privire la oasele sale."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Hebrews_11_04",
+      "chapter": 11,
+      "pericope_num": "04",
+      "title_en": "The Faith of Moses",
+      "title_ro": "Credința lui Moise",
+      "start_verse": 23,
+      "end_verse": 28,
+      "verse_count": 6,
+      "verses": [
+        {
+          "verse": 23,
+          "text": "Prin credinţă, când s-a născut Moise, a fost ascuns de părinţii lui trei luni, căci l-au văzut prunc frumos şi nu s-au temut de porunca regelui."
+        },
+        {
+          "verse": 24,
+          "text": "Prin credinţă, Moise, când s-a făcut mare, n-a vrut să fie numit fiul fiicei lui Faraon,"
+        },
+        {
+          "verse": 25,
+          "text": "Ci a ales mai bine să pătimească cu poporul lui Dumnezeu, decât să aibă dulceaţa cea trecătoare a păcatului,"
+        },
+        {
+          "verse": 26,
+          "text": "Socotind că batjocorirea pentru Hristos este mai mare bogăţie decât comorile Egiptului, fiindcă se uita la răsplătire."
+        },
+        {
+          "verse": 27,
+          "text": "Prin credinţă, a părăsit Egiptul, fără să se teamă de urgia regelui, căci a rămas neclintit, ca cel care vede pe Cel nevăzut."
+        },
+        {
+          "verse": 28,
+          "text": "Prin credinţă, a rânduit Paştile şi stropirea cu sânge, ca îngerul nimicitor să nu se atingă de cei întâi-născuţi ai lor."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Hebrews_11_05",
+      "chapter": 11,
+      "pericope_num": "05",
+      "title_en": "The Faith of Other Israelite Heroes",
+      "title_ro": "Credința altor eroi israeliți",
+      "start_verse": 29,
+      "end_verse": 40,
+      "verse_count": 12,
+      "verses": [
+        {
+          "verse": 29,
+          "text": "Prin credinţă au trecut israeliţii Marea Roşie, ca pe uscat, pe care egiptenii, încercând şi ei s-o treacă, s-au înecat."
+        },
+        {
+          "verse": 30,
+          "text": "Prin credinţă, zidurile Ierihonului au căzut, după ce au fost înconjurate şapte zile."
+        },
+        {
+          "verse": 31,
+          "text": "Prin credinţă Rahav, desfrânata, fiindcă primise cu pace iscoadele, n-a pierit împreună cu cei neascultători."
+        },
+        {
+          "verse": 32,
+          "text": "Şi ce voi mai zice? Căci timpul nu-mi va ajunge, ca să vorbesc de Ghedeon, de Barac, de Samson, de Ieftae, de David, de Samuel şi de prooroci,"
+        },
+        {
+          "verse": 33,
+          "text": "Care prin credinţă, au biruit împărăţii, au făcut dreptate, au dobândit făgăduinţele, au astupat gurile leilor,"
+        },
+        {
+          "verse": 34,
+          "text": "Au stins puterea focului, au scăpat de ascuţişul sabiei, s-au împuternicit, din slabi ce erau s-au făcut tari în război, au întors taberele vrăjmaşilor pe fugă;"
+        },
+        {
+          "verse": 35,
+          "text": "Unele femei şi-au luat pe morţii lor înviaţi. Iar alţii au fost chinuiţi, neprimind izbăvirea, ca să dobândească mai bună înviere;"
+        },
+        {
+          "verse": 36,
+          "text": "Alţii au suferit batjocură şi bici, ba chiar lanţuri şi închisoare;"
+        },
+        {
+          "verse": 37,
+          "text": "Au fost ucişi cu pietre, au fost puşi la cazne, au fost tăiaţi cu fierăstrăul, au murit ucişi cu sabia, au pribegit în piei de oaie şi în piei de capră, lipsiţi, strâmtoraţi, rău primiţi."
+        },
+        {
+          "verse": 38,
+          "text": "Ei, de care lumea nu era vrednică, au rătăcit în pustii, şi în munţi, şi în peşteri, şi în crăpăturile pământului."
+        },
+        {
+          "verse": 39,
+          "text": "Şi toţi aceştia, mărturisiţi fiind prin credinţă, n-au primit făgăduinţa,"
+        },
+        {
+          "verse": 40,
+          "text": "Pentru că Dumnezeu rânduise pentru noi ceva mai bun, ca ei să nu ia fără noi desăvârşirea."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Hebrews_12_01",
+      "chapter": 12,
+      "pericope_num": "01",
+      "title_en": "The Example of Jesus",
+      "title_ro": "Pilda lui Iisus",
+      "start_verse": 1,
+      "end_verse": 13,
+      "verse_count": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "De aceea şi noi, având împrejurul nostru atâta nor de mărturii, să lepădăm orice povară şi păcatul ce grabnic ne împresoară şi să alergăm cu stăruinţă în lupta care ne stă înainte."
+        },
+        {
+          "verse": 2,
+          "text": "Cu ochii aţintiţi asupra lui Iisus, începătorul şi plinitorul credinţei, Care, pentru bucuria pusă înainte-I, a suferit crucea, n-a ţinut seama de ocara ei şi a şezut de-a dreapta tronului lui Dumnezeu."
+        },
+        {
+          "verse": 3,
+          "text": "Luaţi aminte, dar, la Cel ce a răbdat de la păcătoşi, asupra Sa, o atât de mare împotrivire, ca să nu vă lăsaţi osteniţi, slăbind în sufletele voastre."
+        },
+        {
+          "verse": 4,
+          "text": "În lupta voastră cu păcatul, nu v-aţi împotrivit încă până la sânge."
+        },
+        {
+          "verse": 5,
+          "text": "Şi aţi uitat îndemnul care vă grăieşte ca unor fii: \"Fiul meu, nu dispreţui certarea Domnului, nici nu te descuraja, când eşti mustrat de El."
+        },
+        {
+          "verse": 6,
+          "text": "Căci pe cine îl iubeşte Domnul îl ceartă, şi biciuieşte pe tot fiul pe care îl primeşte\"."
+        },
+        {
+          "verse": 7,
+          "text": "Răbdaţi spre înţelepţire, Dumnezeu se poartă cu voi ca faţă de fii. Căci care este fiul pe care tatăl său nu-l pedepseşte?"
+        },
+        {
+          "verse": 8,
+          "text": "Iar dacă sunteţi fără de certare, de care toţi au parte, atunci sunteţi fii nelegitimi şi nu fii adevăraţi."
+        },
+        {
+          "verse": 9,
+          "text": "Apoi dacă am avut pe părinţii noştri după trup, care să ne certe, şi ne sfiam de ei, oare nu ne vom supune cu atât mai vârtos Tatălui duhurilor, ca să avem viaţă?"
+        },
+        {
+          "verse": 10,
+          "text": "Pentru că ei, precum găseau cu cale, ne pedepseau pentru puţine zile, iar Acesta, spre folosul nostru, ca să ne împărtăşim de sfinţenia Lui."
+        },
+        {
+          "verse": 11,
+          "text": "Orice mustrare, la început, nu pare că e de bucurie, ci de întristare, dar mai pe urmă dă celor încercaţi cu ea roada paşnică a dreptăţii."
+        },
+        {
+          "verse": 12,
+          "text": "Pentru aceea, \"îndreptaţi mâinile cele ostenite şi genunchii cei slăbănogiţi."
+        },
+        {
+          "verse": 13,
+          "text": "Faceţi cărări drepte pentru picioarele voastre\", aşa încât cine este şchiop să nu se abată, ci mai vârtos să se vindece."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Hebrews_12_02",
+      "chapter": 12,
+      "pericope_num": "02",
+      "title_en": "Warnings against Rejecting God's Grace",
+      "title_ro": "Avertismente împotriva respingerii harului lui Dumnezeu",
+      "start_verse": 14,
+      "end_verse": 29,
+      "verse_count": 16,
+      "verses": [
+        {
+          "verse": 14,
+          "text": "Căutaţi pacea cu toţi şi sfinţenia, fără de care nimeni nu va vedea pe Domnul,"
+        },
+        {
+          "verse": 15,
+          "text": "Veghind cu luare aminte ca nimeni să nu rămână lipsit de harul lui Dumnezeu şi ca nu cumva, odrăslind vreo pricină de amărăciune, să vă tulbure, şi prin ea mulţi să se molipsească."
+        },
+        {
+          "verse": 16,
+          "text": "Şi să nu fie vreunul desfrânat sau întinat ca Esau, care pentru o mâncare şi-a vândut dreptul de întâi născut."
+        },
+        {
+          "verse": 17,
+          "text": "Ştiţi că mai pe urmă, când a dorit să moştenească binecuvântarea, nu a fost luat în seamă, căci, deşi cu lacrimi a căutat, n-a mai avut cum să schimbe hotărârea."
+        },
+        {
+          "verse": 18,
+          "text": "Căci voi nu v-aţi apropiat nici de muntele ce putea fi pipăit, nici de focul care ardea cu flacără, nici de nor, nici de beznă, nici de vijelie,"
+        },
+        {
+          "verse": 19,
+          "text": "Nici de glasul trâmbiţei, nici de răsunetul cuvintelor despre care cei ce îl auzeau s-au rugat să nu li se mai grăiască,"
+        },
+        {
+          "verse": 20,
+          "text": "Deoarece nu puteau să sufere porunca: \"Chiar dacă şi fiară de s-ar atinge de munte, să fie ucisă cu pietre, sau să fie străpunsă cu săgeata\","
+        },
+        {
+          "verse": 21,
+          "text": "Şi atât de înfricoşătoare era arătarea, încât Moise a zis: \"Sunt înspăimântat şi mă cutremur!\"."
+        },
+        {
+          "verse": 22,
+          "text": "Ci v-aţi apropiat de muntele Sion şi de cetatea Dumnezeului celui viu, de Ierusalimul cel ceresc şi de zeci de mii de îngeri, în adunare sărbătorească,"
+        },
+        {
+          "verse": 23,
+          "text": "Şi de Biserica celor întâi născuţi, care sunt scrişi în ceruri şi de Dumnezeu, Judecătorul tuturor, şi de duhurile drepţilor celor desăvârşiţi,"
+        },
+        {
+          "verse": 24,
+          "text": "Şi de Iisus, Mijlocitorul noului testament, şi de sângele stropirii care grăieşte mai bine decât al lui Abel."
+        },
+        {
+          "verse": 25,
+          "text": "Luaţi seama să nu vă lepădaţi de Cel care vorbeşte. Căci dacă aceia n-au scăpat de pedeapsă, nevoind să asculte pe cel ce le grăia pe pământ, cu atât mai mult noi - îndepărtându-ne de Cel ce ne grăieşte din ceruri -"
+        },
+        {
+          "verse": 26,
+          "text": "Al Cărui glas, odinioară, a zguduit pământul, iar acum, vorbind, a făgăduit: \"Încă o dată voi clătina nu numai pământul, ci şi cerul\"."
+        },
+        {
+          "verse": 27,
+          "text": "Iar prin aceea că zice: \"Încă o dată\" arată schimbarea celor clătinate, ca a unor lucruri făcute, ca să rămână cele neclintite."
+        },
+        {
+          "verse": 28,
+          "text": "De aceea, fiindcă primim o împărăţie neclintită, să fim mulţumitori, şi aşa să-I aducem lui Dumnezeu închinare plăcută, cu evlavie şi cu sfială."
+        },
+        {
+          "verse": 29,
+          "text": "Căci \"Dumnezeul nostru este şi foc mistuitor\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Hebrews_13_01",
+      "chapter": 13,
+      "pericope_num": "01",
+      "title_en": "Service Well-Pleasing to God",
+      "title_ro": "Slujire plăcută lui Dumnezeu",
+      "start_verse": 1,
+      "end_verse": 19,
+      "verse_count": 19,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Rămâneţi întru dragostea frăţească."
+        },
+        {
+          "verse": 2,
+          "text": "Primirea de oaspeţi să n-o uitaţi căci prin aceasta unii, fără ca să ştie, au primit în gazdă, îngeri."
+        },
+        {
+          "verse": 3,
+          "text": "Aduceţi-vă aminte de cei închişi, ca şi cum aţi fi închişi cu ei; aduceţi-vă aminte de cei ce îndură rele, întrucât şi voi sunteţi în trup."
+        },
+        {
+          "verse": 4,
+          "text": "Cinstită să fie nunta întru toate şi patul nespurcat. Iar pe desfrânaţi îi va judeca Dumnezeu."
+        },
+        {
+          "verse": 5,
+          "text": "Feriţi-vă de iubirea de argint şi îndestulaţi-vă cu cele ce aveţi, căci însuşi Dumnezeu a zis: \"Nu te voi lăsa, nici nu te voi părăsi\"."
+        },
+        {
+          "verse": 6,
+          "text": "Pentru aceea, având bună îndrăzneală, să zicem: \"Domnul este într-ajutorul meu; nu mă voi teme! Ce-mi va face mie omul?\"."
+        },
+        {
+          "verse": 7,
+          "text": "Aduceţi-vă aminte de mai-marii voştri, care v-au grăit vouă cuvântul lui Dumnezeu; priviţi cu luare aminte cum şi-au încheiat viaţa şi urmaţi-le credinţa."
+        },
+        {
+          "verse": 8,
+          "text": "Iisus Hristos, ieri şi azi şi în veci, este acelaşi."
+        },
+        {
+          "verse": 9,
+          "text": "Nu vă lăsaţi furaţi de învăţăturile străine cele de multe feluri; căci bine este să vă întăriţi prin har inima voastră, nu cu mâncăruri, de la care n-au avut nici un folos cei ce au umblat cu ele."
+        },
+        {
+          "verse": 10,
+          "text": "Avem altar, de la care nu au dreptul să mănânce cei ce slujesc cortului."
+        },
+        {
+          "verse": 11,
+          "text": "Într-adevăr, trupurile dobitoacelor - al căror sânge e adus de arhiereu, pentru împăcare, în Sfânta Sfintelor - sunt arse afară din tabără."
+        },
+        {
+          "verse": 12,
+          "text": "Pentru aceea şi Iisus, ca să sfinţească poporul cu sângele Său, a pătimit în afara porţii."
+        },
+        {
+          "verse": 13,
+          "text": "Deci dar să ieşim la El, afară din tabără, luând asupra noastră ocara Lui."
+        },
+        {
+          "verse": 14,
+          "text": "Căci nu avem aici cetate stătătoare, ci o căutăm pe aceea ce va să fie."
+        },
+        {
+          "verse": 15,
+          "text": "Aşadar, prin El să aducem pururea lui Dumnezeu jertfă de laudă, adică rodul buzelor, care preaslăvesc numele Lui."
+        },
+        {
+          "verse": 16,
+          "text": "Iar facerea de bine şi întrajutorarea nu le daţi uitării; căci astfel de jertfe sunt bine plăcute lui Dumnezeu."
+        },
+        {
+          "verse": 17,
+          "text": "Ascultaţi pe mai-marii voştri şi vă supuneţi lor, fiindcă ei priveghează pentru sufletele voastre, având să dea de ele seamă, ca să facă aceasta cu bucurie şi nu suspinând, căci aceasta nu v-ar fi de folos."
+        },
+        {
+          "verse": 18,
+          "text": "Rugaţi-vă pentru noi; căci suntem încredinţaţi că avem un cuget bun, dorind ca întru toate cu cinste să trăim."
+        },
+        {
+          "verse": 19,
+          "text": "Şi mai mult vă rog să faceţi aceasta, ca să vă fiu dat înapoi mai curând."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Hebrews_13_02",
+      "chapter": 13,
+      "pericope_num": "02",
+      "title_en": "Benediction",
+      "title_ro": "Binecuvântare",
+      "start_verse": 20,
+      "end_verse": 21,
+      "verse_count": 2,
+      "verses": [
+        {
+          "verse": 20,
+          "text": "Iar Dumnezeul păcii, Cel ce, prin sângele unui testament veşnic, a sculat din morţi pe Păstorul cel mare al oilor, pe Domnul nostru Iisus,"
+        },
+        {
+          "verse": 21,
+          "text": "Să vă întărească în orice lucru bun, ca să faceţi voia Lui, şi să lucreze în noi ceea ce este bine plăcut în faţa Lui, prin Iisus Hristos, Căruia fie slava în vecii vecilor. Amin!"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Hebrews_13_03",
+      "chapter": 13,
+      "pericope_num": "03",
+      "title_en": "Final Exhortation and Greetings",
+      "title_ro": "Îndemnuri finale și salutări",
+      "start_verse": 22,
+      "end_verse": 25,
+      "verse_count": 4,
+      "verses": [
+        {
+          "verse": 22,
+          "text": "Şi vă rog, fraţilor, să îngăduiţi acest cuvânt de îndemn, căci vi l-am scris pe scurt."
+        },
+        {
+          "verse": 23,
+          "text": "Să ştiţi că fratele Timotei este slobod. Dacă vine mai degrabă, vă voi vedea împreună cu el."
+        },
+        {
+          "verse": 24,
+          "text": "Îmbrăţişaţi pe toţi mai-marii voştri şi pe toţi sfinţii. Vă îmbrăţişează cei din Italia."
+        },
+        {
+          "verse": 25,
+          "text": "Harul fie cu voi cu toţi! Amin."
+        }
+      ]
+    }
+  ]
+}

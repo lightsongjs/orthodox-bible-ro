@@ -1,0 +1,2236 @@
+{
+  "id": 12,
+  "book_number": 58,
+  "name_en": "1 Corinthians",
+  "name_ro": "I Corinteni",
+  "testament": "NT",
+  "chapter_count": 16,
+  "pericope_count": 34,
+  "url": "https://www.bibliaortodoxa.ro/carte.php?id=12",
+  "pericopes": [
+    {
+      "pericope_id": "1_Corinthians_01_01",
+      "chapter": 1,
+      "pericope_num": "01",
+      "title_en": "Salutation",
+      "title_ro": "Salutare",
+      "start_verse": 1,
+      "end_verse": 9,
+      "verse_count": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Pavel, chemat apostol al lui Hristos, prin voia lui Dumnezeu, şi fratele Sostene,"
+        },
+        {
+          "verse": 2,
+          "text": "Bisericii lui Dumnezeu care este în Corint, celor sfinţiţi în Iisus Hristos, celor numiţi sfinţi, împreună cu toţi cei ce cheamă numele Domnului nostru Iisus Hristos în tot locul, şi al lor şi al nostru:"
+        },
+        {
+          "verse": 3,
+          "text": "Har vouă şi pace de la Dumnezeu, Tatăl nostru, şi de la Domnul nostru Iisus Hristos."
+        },
+        {
+          "verse": 4,
+          "text": "Mulţumesc totdeauna Dumnezeului meu pentru voi, pentru harul lui Dumnezeu, dat vouă în Hristos Iisus."
+        },
+        {
+          "verse": 5,
+          "text": "Căci întru El v-aţi îmbogăţit deplin întru toate, în tot cuvântul şi în toată cunoştinţa;"
+        },
+        {
+          "verse": 6,
+          "text": "Astfel mărturia lui Hristos s-a întărit în voi,"
+        },
+        {
+          "verse": 7,
+          "text": "Încât voi nu sunteţi lipsiţi de nici un dar, aşteptând arătarea Domnului nostru Iisus Hristos,"
+        },
+        {
+          "verse": 8,
+          "text": "Care vă va şi întări până la sfârşit, ca să fiţi nevinovaţi în ziua Domnului nostru Iisus Hristos."
+        },
+        {
+          "verse": 9,
+          "text": "Credincios este Dumnezeu, prin Care aţi fost chemaţi la împărtăşirea cu Fiul Său Iisus Hristos, Domnul nostru."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Corinthians_01_02",
+      "chapter": 1,
+      "pericope_num": "02",
+      "title_en": "Divisions in the Church",
+      "title_ro": "Dezbinări în Biserică",
+      "start_verse": 10,
+      "end_verse": 17,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 10,
+          "text": "Vă îndemn, fraţilor, pentru numele Domnului nostru Iisus Hristos, ca toţi să vorbiţi la fel şi să nu fie dezbinări între voi; ci să fiţi cu totul uniţi în acelaşi cuget şi în aceeaşi înţelegere."
+        },
+        {
+          "verse": 11,
+          "text": "Căci, fraţii mei, despre voi, prin cei din casa lui Hloe mi-a venit ştire că la voi sunt certuri;"
+        },
+        {
+          "verse": 12,
+          "text": "Şi spun aceasta, că fiecare dintre voi zice: Eu sunt al lui Pavel, iar eu sunt al lui Apollo, iar eu sunt al lui Chefa, iar eu sunt al lui Hristos!"
+        },
+        {
+          "verse": 13,
+          "text": "Oare s-a împărţit Hristos? Nu cumva s-a răstignit Pavel pentru voi? Sau fost-aţi botezaţi în numele lui Pavel?"
+        },
+        {
+          "verse": 14,
+          "text": "Mulţumesc lui Dumnezeu că pe nici unul din voi n-am botezat, decât pe Crispus şi pe Gaius,"
+        },
+        {
+          "verse": 15,
+          "text": "Ca să nu zică cineva că aţi fost botezaţi în numele meu."
+        },
+        {
+          "verse": 16,
+          "text": "Am botezat şi casa lui Ştefana; afară de aceştia nu ştiu să mai fi botezat pe altcineva."
+        },
+        {
+          "verse": 17,
+          "text": "Căci Hristos nu m-a trimis ca să botez, ci să binevestesc, dar nu cu înţelepciunea cuvântului, ca să nu rămână zadarnică crucea lui Hristos."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Corinthians_01_03",
+      "chapter": 1,
+      "pericope_num": "03",
+      "title_en": "Christ the Power and Wisdom of God",
+      "title_ro": "Hristos, puterea și înțelepciunea lui Dumnezeu",
+      "start_verse": 18,
+      "end_verse": 31,
+      "verse_count": 14,
+      "verses": [
+        {
+          "verse": 18,
+          "text": "Căci cuvântul Crucii, pentru cei ce pier, este nebunie; iar pentru noi, cei ce ne mântuim, este puterea lui Dumnezeu."
+        },
+        {
+          "verse": 19,
+          "text": "Căci scris este: \"Pierde-voi înţelepciunea înţelepţilor şi ştiinţa celor învăţaţi voi nimici-o\"."
+        },
+        {
+          "verse": 20,
+          "text": "Unde este înţeleptul? Unde e cărturarul? Unde e cercetătorul acestui veac? Au n-a dovedit Dumnezeu nebună înţelepciunea lumii acesteia?"
+        },
+        {
+          "verse": 21,
+          "text": "Căci de vreme ce întru înţelepciunea lui Dumnezeu lumea n-a cunoscut prin înţelepciune pe Dumnezeu, a binevoit Dumnezeu să mântuiască pe cei ce cred prin nebunia propovăduirii."
+        },
+        {
+          "verse": 22,
+          "text": "Fiindcă şi iudeii cer semne, iar elinii caută înţelepciune,"
+        },
+        {
+          "verse": 23,
+          "text": "Însă noi propovăduim pe Hristos cel răstignit: pentru iudei, sminteală; pentru neamuri, nebunie."
+        },
+        {
+          "verse": 24,
+          "text": "Dar pentru cei chemaţi, şi iudei şi elini: pe Hristos, puterea lui Dumnezeu şi înţelepciunea lui Dumnezeu."
+        },
+        {
+          "verse": 25,
+          "text": "Pentru că fapta lui Dumnezeu, socotită de către oameni nebunie, este mai înţeleaptă decât înţelepciunea lor şi ceea ce se pare ca slăbiciune a lui Dumnezeu, mai puternică decât tăria oamenilor."
+        },
+        {
+          "verse": 26,
+          "text": "Căci, priviţi chemarea voastră, fraţilor, că nu mulţi sunt înţelepţi după trup, nu mulţi sunt puternici, nu mulţi sunt de bun neam;"
+        },
+        {
+          "verse": 27,
+          "text": "Ci Dumnezeu Şi-a ales pe cele nebune ale lumii, ca să ruşineze pe cei înţelepţi; Dumnezeu Şi-a ales pe cele slabe ale lumii, ca să le ruşineze pe cele tari;"
+        },
+        {
+          "verse": 28,
+          "text": "Dumnezeu Şi-a ales pe cele de neam jos ale lumii, pe cele nebăgate în seamă, pe cele ce nu sunt, ca să nimicească pe cele ce sunt,"
+        },
+        {
+          "verse": 29,
+          "text": "Ca nici un trup să nu se laude înaintea lui Dumnezeu."
+        },
+        {
+          "verse": 30,
+          "text": "Din El, dar, sunteţi voi în Hristos Iisus, Care pentru noi S-a făcut înţelepciune de la Dumnezeu şi dreptate şi sfinţire şi răscumpărare,"
+        },
+        {
+          "verse": 31,
+          "text": "Pentru ca, după cum este scris: \"Cel ce se laudă în Domnul să se laude\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Corinthians_02_01",
+      "chapter": 2,
+      "pericope_num": "01",
+      "title_en": "Proclaiming Christ Crucified",
+      "title_ro": "Vestirea lui Hristos cel răstignit",
+      "start_verse": 1,
+      "end_verse": 5,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi eu, fraţilor, când am venit la voi şi v-am vestit taina lui Dumnezeu, n-am venit ca iscusit cuvântător sau ca înţelept."
+        },
+        {
+          "verse": 2,
+          "text": "Căci am judecat să nu ştiu între voi altceva, decât pe Iisus Hristos, şi pe Acesta răstignit."
+        },
+        {
+          "verse": 3,
+          "text": "Şi eu întru slăbiciune şi cu frică şi cu cutremur mare am fost la voi."
+        },
+        {
+          "verse": 4,
+          "text": "Iar cuvântul meu şi propovăduirea mea nu stăteau în cuvinte de înduplecare ale înţelepciunii omeneşti, ci în adeverirea Duhului şi a puterii,"
+        },
+        {
+          "verse": 5,
+          "text": "Pentru ca credinţa voastră să nu fie în înţelepciunea oamenilor, ci în puterea lui Dumnezeu."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Corinthians_02_02",
+      "chapter": 2,
+      "pericope_num": "02",
+      "title_en": "The True Wisdom of God",
+      "title_ro": "Adevărata înțelepciune a lui Dumnezeu",
+      "start_verse": 6,
+      "end_verse": 16,
+      "verse_count": 11,
+      "verses": [
+        {
+          "verse": 6,
+          "text": "Şi înţelepciunea o propovăduim la cei desăvârşiţi, dar nu înţelepciunea acestui veac, nici a stăpânitorilor acestui veac, care sunt pieritori,"
+        },
+        {
+          "verse": 7,
+          "text": "Ci propovăduim înţelepciunea de taină a lui Dumnezeu, ascunsă, pe care Dumnezeu a rânduit-o mai înainte de veci, spre slava noastră,"
+        },
+        {
+          "verse": 8,
+          "text": "Pe care nici unul dintre stăpânitorii acestui veac n-a cunoscut-o, căci, dacă ar fi cunoscut-o, n-ar fi răstignit pe Domnul slavei;"
+        },
+        {
+          "verse": 9,
+          "text": "Ci precum este scris: \"Cele ce ochiul n-a văzut şi urechea n-a auzit, şi la inima omului nu s-au suit, pe acestea le-a gătit Dumnezeu celor ce-L iubesc pe El\"."
+        },
+        {
+          "verse": 10,
+          "text": "Iar nouă ni le-a descoperit Dumnezeu prin Duhul Său, fiindcă Duhul toate le cercetează, chiar şi adâncurile lui Dumnezeu."
+        },
+        {
+          "verse": 11,
+          "text": "Căci cine dintre oameni ştie ale omului, decât duhul omului, care este în el? Aşa şi cele ale lui Dumnezeu, nimeni nu le-a cunoscut, decât Duhul lui Dumnezeu."
+        },
+        {
+          "verse": 12,
+          "text": "Iar noi n-am primit duhul lumii, ci Duhul cel de la Dumnezeu, ca să cunoaştem cele dăruite nouă de Dumnezeu;"
+        },
+        {
+          "verse": 13,
+          "text": "Pe care le şi grăim, dar nu în cuvinte învăţate din înţelepciunea omenească, ci în cuvinte învăţate de la Duhul Sfânt, lămurind lucruri duhovniceşti oamenilor duhovniceşti."
+        },
+        {
+          "verse": 14,
+          "text": "Omul firesc nu primeşte cele ale Duhului lui Dumnezeu, căci pentru el sunt nebunie şi nu poate să le înţeleagă, fiindcă ele se judecă duhovniceşte."
+        },
+        {
+          "verse": 15,
+          "text": "Dar omul duhovnicesc toate le judecă, pe el însă nu-l judecă nimeni;"
+        },
+        {
+          "verse": 16,
+          "text": "Căci \"Cine a cunoscut gândul Domnului, ca să-L înveţe pe El?\" Noi însă avem gândul lui Hristos."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Corinthians_03_01",
+      "chapter": 3,
+      "pericope_num": "01",
+      "title_en": "On Divisions in the Corinthian Church",
+      "title_ro": "Despre dezbinările din Biserica corinteană",
+      "start_verse": 1,
+      "end_verse": 23,
+      "verse_count": 23,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi eu, fraţilor, n-am putut să vă vorbesc ca unor oameni duhovniceşti, ci ca unora trupeşti, ca unor prunci în Hristos."
+        },
+        {
+          "verse": 2,
+          "text": "Cu lapte v-am hrănit, nu cu bucate, căci încă nu puteaţi mânca şi încă nici acum nu puteţi,"
+        },
+        {
+          "verse": 3,
+          "text": "Fiindcă sunteţi tot trupeşti. Câtă vreme este între voi pizmă şi ceartă şi dezbinări, nu sunteţi, oare, trupeşti şi nu după firea omenească umblaţi?"
+        },
+        {
+          "verse": 4,
+          "text": "Căci, când zice unul: Eu sunt al lui Pavel, iar altul: Eu sunt al lui Apollo, au nu sunteţi oameni trupeşti?"
+        },
+        {
+          "verse": 5,
+          "text": "Dar ce este Apollo? Şi ce este Pavel? Slujitori prin care aţi crezut voi şi după cum i-a dat Domnul fiecăruia."
+        },
+        {
+          "verse": 6,
+          "text": "Eu am sădit, Apollo a udat, dar Dumnezeu a făcut să crească."
+        },
+        {
+          "verse": 7,
+          "text": "Astfel nici cel ce sădeşte nu e ceva, nici cel ce udă, ci numai Dumnezeu care face să crească."
+        },
+        {
+          "verse": 8,
+          "text": "Cel care sădeşte şi cel care udă sunt una şi fiecare îşi va lua plata după osteneala sa."
+        },
+        {
+          "verse": 9,
+          "text": "Căci noi împreună-lucrători cu Dumnezeu suntem; voi sunteţi ogorul lui Dumnezeu, zidirea lui Dumnezeu."
+        },
+        {
+          "verse": 10,
+          "text": "După harul lui Dumnezeu, cel dat mie, eu, ca un înţelept meşter, am pus temelia; iar altul zideşte. Dar fiecare să ia seama cum zideşte;"
+        },
+        {
+          "verse": 11,
+          "text": "Căci nimeni nu poate pune altă temelie, decât cea pusă, care este Iisus Hristos."
+        },
+        {
+          "verse": 12,
+          "text": "Iar de zideşte cineva pe această temelie: aur, argint, sau pietre scumpe, lemne, fân, trestie."
+        },
+        {
+          "verse": 13,
+          "text": "Lucrul fiecăruia se va face cunoscut; îl va vădi ziua (Domnului). Pentru că în foc se descoperă, şi focul însuşi va lămuri ce fel este lucrul fiecăruia."
+        },
+        {
+          "verse": 14,
+          "text": "Dacă lucrul cuiva, pe care l-a zidit, va rămâne, va lua plată."
+        },
+        {
+          "verse": 15,
+          "text": "Dacă lucrul cuiva se va arde, el va fi păgubit; el însă se va mântui, dar aşa ca prin foc."
+        },
+        {
+          "verse": 16,
+          "text": "Nu ştiţi, oare, că voi sunteţi templu al lui Dumnezeu şi că Duhul lui Dumnezeu locuieşte în voi?"
+        },
+        {
+          "verse": 17,
+          "text": "De va strica cineva templul lui Dumnezeu, îl va strica Dumnezeu pe el, pentru că sfânt este templul lui Dumnezeu, care sunteţi voi."
+        },
+        {
+          "verse": 18,
+          "text": "Nimeni să nu se amăgească. Dacă i se pare cuiva, între voi, că este înţelept în veacul acesta, să se facă nebun, ca să fie înţelept."
+        },
+        {
+          "verse": 19,
+          "text": "Căci înţelepciunea lumii acesteia este nebunie înaintea lui Dumnezeu, pentru că scris este: \"El prinde pe cei înţelepţi în viclenia lor\"."
+        },
+        {
+          "verse": 20,
+          "text": "Şi iarăşi: \"Domnul cunoaşte gândurile înţelepţilor, că sunt deşarte\"."
+        },
+        {
+          "verse": 21,
+          "text": "Aşa că nimeni să nu se laude cu oameni. Căci toate sunt ale voastre:"
+        },
+        {
+          "verse": 22,
+          "text": "Fie Pavel, fie Apollo, fie Chefa, fie lumea, fie viaţa, fie moartea, fie cele de faţă, fie cele viitoare, toate sunt ale voastre."
+        },
+        {
+          "verse": 23,
+          "text": "Iar voi sunteţi ai lui Hristos, iar Hristos al lui Dumnezeu."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Corinthians_04_01",
+      "chapter": 4,
+      "pericope_num": "01",
+      "title_en": "The Ministry of the Apostles",
+      "title_ro": "Slujirea apostolilor",
+      "start_verse": 1,
+      "end_verse": 13,
+      "verse_count": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Aşa să ne socotească pe noi fiecare om: ca slujitori ai lui Hristos şi ca iconomi ai tainelor lui Dumnezeu."
+        },
+        {
+          "verse": 2,
+          "text": "Iar, la iconomi, mai ales, se cere ca fiecare să fie aflat credincios."
+        },
+        {
+          "verse": 3,
+          "text": "Dar mie prea puţin îmi este că sunt judecat de voi sau de vreo omenească judecată de toată ziua; fiindcă nici eu nu mă judec pe mine însumi."
+        },
+        {
+          "verse": 4,
+          "text": "Căci nu mă ştiu vinovat cu nimic, dar nu întru aceasta m-am îndreptat. Cel care mă judecă pe mine este Domnul."
+        },
+        {
+          "verse": 5,
+          "text": "De aceea, nu judecaţi ceva înainte de vreme, până ce nu va veni Domnul, Care va lumina cele ascunse ale întunericului şi va vădi sfaturile inimilor. Şi atunci fiecare va avea de la Dumnezeu lauda."
+        },
+        {
+          "verse": 6,
+          "text": "Şi acestea, fraţilor, le-am zis ca despre mine şi despre Apollo, dar ele sunt pentru voi, ca să învăţaţi din pilda noastră, să nu treceţi peste ce e scris, ca să nu vă făliţi unul cu altul împotriva celuilalt."
+        },
+        {
+          "verse": 7,
+          "text": "Căci cine te deosebeşte pe tine? Şi ce ai, pe care să nu-l fi primit? Iar dacă l-ai primit, de ce te făleşti, ca şi cum nu l-ai fi primit?"
+        },
+        {
+          "verse": 8,
+          "text": "Iată, sunteţi sătui; iată, v-aţi îmbogăţit; fără de noi aţi domnit, şi, măcar nu aţi domnit, ca şi noi să domnim împreună cu voi."
+        },
+        {
+          "verse": 9,
+          "text": "Căci mi se pare că Dumnezeu, pe noi, apostolii, ne-a arătat ca pe cei din urmă oameni, ca pe nişte osândiţi la moarte, fiindcă ne-am făcut privelişte lumii şi îngerilor şi oamenilor."
+        },
+        {
+          "verse": 10,
+          "text": "Noi suntem nebuni pentru Hristos; voi însă înţelepţi întru Hristos. Noi suntem slabi; voi însă sunteţi tari. Voi sunteţi întru slavă, iar noi suntem întru necinste!"
+        },
+        {
+          "verse": 11,
+          "text": "Până în ceasul de acum flămânzim şi însetăm; suntem goi şi suntem pălmuiţi şi pribegim,"
+        },
+        {
+          "verse": 12,
+          "text": "Şi ne ostenim, lucrând cu mâinile noastre. Ocărâţi fiind, binecuvântăm. Prigoniţi fiind, răbdăm."
+        },
+        {
+          "verse": 13,
+          "text": "Huliţi fiind, ne rugăm. Am ajuns ca gunoiul lumii, ca măturătura tuturor, până astăzi."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Corinthians_04_02",
+      "chapter": 4,
+      "pericope_num": "02",
+      "title_en": "Fatherly Admonition",
+      "title_ro": "Îndemn părintesc",
+      "start_verse": 14,
+      "end_verse": 21,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 14,
+          "text": "Nu ca să vă ruşinez vă scriu acestea, ci ca să vă dojenesc, ca pe nişte copii ai mei iubiţi."
+        },
+        {
+          "verse": 15,
+          "text": "Căci de aţi avea zeci de mii de învăţători în Hristos, totuşi nu aveţi mulţi părinţi. Căci eu v-am născut prin Evanghelie în Iisus Hristos."
+        },
+        {
+          "verse": 16,
+          "text": "Deci, vă rog, să-mi fiţi mie următori, precum şi eu lui Hristos."
+        },
+        {
+          "verse": 17,
+          "text": "Pentru aceasta am trimis la voi pe Timotei, care este fiul meu iubit şi credincios în Domnul. El vă va aduce aminte căile mele cele în Hristos Iisus, cum învăţ eu pretutindeni în toată Biserica."
+        },
+        {
+          "verse": 18,
+          "text": "Şi unii, crezând că n-am să mai vin la voi, s-au semeţit."
+        },
+        {
+          "verse": 19,
+          "text": "Dar eu voi veni la voi degrabă - dacă Domnul va voi - şi voi cunoaşte nu cuvântul celor ce s-au semeţit, ci puterea lor."
+        },
+        {
+          "verse": 20,
+          "text": "Căci împărăţia lui Dumnezeu nu stă în cuvânt, ci în putere."
+        },
+        {
+          "verse": 21,
+          "text": "Ce voiţi? Să vin la voi cu toiagul sau să vin cu dragoste şi cu duhul blândeţii?"
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Corinthians_05_01",
+      "chapter": 5,
+      "pericope_num": "01",
+      "title_en": "Sexual Immorality Defiles the Church",
+      "title_ro": "Imoralitatea sexuală pângărește Biserica",
+      "start_verse": 1,
+      "end_verse": 8,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Îndeobşte se aude că la voi e desfrânare, şi o astfel de desfrânare cum nici între neamuri nu se pomeneşte, ca unul să trăiască cu femeia tatălui său."
+        },
+        {
+          "verse": 2,
+          "text": "Iar voi v-aţi semeţit, în loc mai degrabă să vă fi întristat, ca să fie scos din mijlocul vostru cel ce a săvârşit această faptă."
+        },
+        {
+          "verse": 3,
+          "text": "Ci eu, deşi departe cu trupul, însă de faţă cu duhul, am şi judecat, ca şi cum aş fi de faţă, pe cel ce a făcut una ca aceasta:"
+        },
+        {
+          "verse": 4,
+          "text": "În numele Domnului nostru Iisus Hristos, adunându-vă voi şi duhul meu, cu puterea Domnului nostru Iisus Hristos,"
+        },
+        {
+          "verse": 5,
+          "text": "Să daţi pe unul ca acesta satanei, spre pieirea trupului, ca duhul să se mântuiască în ziua Domnului Iisus."
+        },
+        {
+          "verse": 6,
+          "text": "Semeţia voastră nu e bună. Oare nu ştiţi că puţin aluat dospeşte toată frământătura?"
+        },
+        {
+          "verse": 7,
+          "text": "Curăţiţi aluatul cel vechi, ca să fiţi frământătură nouă, precum şi sunteţi fără aluat; căci Paştile nostru Hristos S-a jertfit pentru noi."
+        },
+        {
+          "verse": 8,
+          "text": "De aceea să prăznuim nu cu aluatul cel vechi, nici cu aluatul răutăţii şi al vicleşugului, ci cu azimele curăţiei şi ale adevărului."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Corinthians_05_02",
+      "chapter": 5,
+      "pericope_num": "02",
+      "title_en": "Sexual Immorality Must Be Judged",
+      "title_ro": "Imoralitatea sexuală trebuie judecată",
+      "start_verse": 9,
+      "end_verse": 13,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 9,
+          "text": "V-am scris în epistolă să nu vă amestecaţi cu desfrânaţii;"
+        },
+        {
+          "verse": 10,
+          "text": "Dar nu am spus, desigur, despre desfrânaţii acestei lumi, sau despre lacomi, sau despre răpitori, sau despre închinătorii la idoli, căci altfel ar trebui să ieşiţi afară din lume."
+        },
+        {
+          "verse": 11,
+          "text": "Dar eu v-am scris acum să nu vă amestecaţi cu vreunul, care, numindu-se frate, va fi desfrânat, sau lacom, sau închinător la idoli, sau ocărâtor, sau beţiv, sau răpitor. Cu unul ca acesta nici să nu şedeţi la masă."
+        },
+        {
+          "verse": 12,
+          "text": "Căci ce am eu ca să judec şi pe cei din afară? Însă pe cei dinăuntru, oare, nu-i judecaţi voi?"
+        },
+        {
+          "verse": 13,
+          "text": "Iar pe cei din afară îi va judeca Dumnezeu. Scoateţi afară dintre voi pe cel rău."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Corinthians_06_01",
+      "chapter": 6,
+      "pericope_num": "01",
+      "title_en": "Lawsuits among Believers",
+      "title_ro": "Procese între credincioși",
+      "start_verse": 1,
+      "end_verse": 11,
+      "verse_count": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Îndrăzneşte, oare, cineva dintre voi, având vreo pâră împotriva altuia, să se judece înaintea celor nedrepţi şi nu înaintea celor sfinţi?"
+        },
+        {
+          "verse": 2,
+          "text": "Au nu ştiţi că sfinţii vor judeca lumea? Şi dacă lumea este judecată de voi, oare sunteţi voi nevrednici să judecaţi lucruri atât de mici?"
+        },
+        {
+          "verse": 3,
+          "text": "Nu ştiţi, oare, că noi vom judeca pe îngeri? Cu cât mai mult cele lumeşti?"
+        },
+        {
+          "verse": 4,
+          "text": "Deci dacă aveţi judecăţi lumeşti, puneţi pe cei nebăgaţi în seamă din Biserică, ca să vă judece."
+        },
+        {
+          "verse": 5,
+          "text": "O spun spre ruşinea voastră. Nu este, oare, între voi nici un om înţelept, care să poată judeca între frate şi frate?"
+        },
+        {
+          "verse": 6,
+          "text": "Ci frate cu frate se judecă, şi aceasta înaintea necredincioşilor?"
+        },
+        {
+          "verse": 7,
+          "text": "Negreşit, şi aceasta este o scădere pentru voi, că aveţi judecăţi unii cu alţii. Pentru ce nu suferiţi mai bine strâmbătatea? Pentru ce nu răbdaţi mai bine paguba?"
+        },
+        {
+          "verse": 8,
+          "text": "Ci voi înşivă faceţi strâmbătate şi aduceţi pagubă, şi aceasta, fraţilor!"
+        },
+        {
+          "verse": 9,
+          "text": "Nu ştiţi, oare, că nedrepţii nu vor moşteni împărăţia lui Dumnezeu? Nu vă amăgiţi: Nici desfrânaţii, nici închinătorii la idoli, nici adulterii, nici malahienii, nici sodomiţii,"
+        },
+        {
+          "verse": 10,
+          "text": "Nici furii, nici lacomii, nici beţivii, nici batjocoritorii, nici răpitorii nu vor moşteni împărăţia lui Dumnezeu."
+        },
+        {
+          "verse": 11,
+          "text": "Şi aşa eraţi unii dintre voi. Dar v-aţi spălat, dar v-aţi sfinţit, dar v-aţi îndreptat în numele Domnului Iisus Hristos şi în Duhul Dumnezeului nostru."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Corinthians_06_02",
+      "chapter": 6,
+      "pericope_num": "02",
+      "title_en": "Glorify God in Body and Spirit",
+      "title_ro": "Preaslăviți pe Dumnezeu în trup și în duh",
+      "start_verse": 12,
+      "end_verse": 20,
+      "verse_count": 9,
+      "verses": [
+        {
+          "verse": 12,
+          "text": "Toate îmi sunt îngăduite, dar nu toate îmi sunt de folos. Toate îmi sunt îngăduite, dar nu mă voi lăsa biruit de ceva."
+        },
+        {
+          "verse": 13,
+          "text": "Bucatele sunt pentru pântece şi pântecele pentru bucate şi Dumnezeu va nimici şi pe unul şi pe celelalte. Trupul însă nu e pentru desfrânare, ci pentru Domnul, şi Domnul este pentru trup."
+        },
+        {
+          "verse": 14,
+          "text": "Iar Dumnezeu, Care a înviat pe Domnul, ne va învia şi pe noi prin puterea Sa."
+        },
+        {
+          "verse": 15,
+          "text": "Au nu ştiţi că trupurile voastre sunt mădularele lui Hristos? Luând deci mădularele lui Hristos le voi face mădularele unei desfrânate? Nicidecum!"
+        },
+        {
+          "verse": 16,
+          "text": "Sau nu ştiţi că cel ce se alipeşte de desfrânate este un singur trup cu ea? \"Căci vor fi - zice Scriptura - cei doi un singur trup\"."
+        },
+        {
+          "verse": 17,
+          "text": "Iar cel ce se alipeşte de Domnul este un duh cu El."
+        },
+        {
+          "verse": 18,
+          "text": "Fugiţi de desfrânare! Orice păcat pe care-l va săvârşi omul este în afară de trup. Cine se dedă însă desfrânării păcătuieşte în însuşi trupul său."
+        },
+        {
+          "verse": 19,
+          "text": "Sau nu ştiţi că trupul vostru este templu al Duhului Sfânt care este în voi, pe care-L aveţi de la Dumnezeu şi că voi nu sunteţi ai voştri?"
+        },
+        {
+          "verse": 20,
+          "text": "Căci aţi fost cumpăraţi cu preţ! Slăviţi, dar, pe Dumnezeu în trupul vostru şi în duhul vostru, care sunt ale lui Dumnezeu."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Corinthians_07_01",
+      "chapter": 7,
+      "pericope_num": "01",
+      "title_en": "Directions concerning Marriage",
+      "title_ro": "Îndrumări privind căsătoria",
+      "start_verse": 1,
+      "end_verse": 16,
+      "verse_count": 16,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Cât despre cele ce mi-aţi scris, bine este pentru om să nu se atingă de femeie."
+        },
+        {
+          "verse": 2,
+          "text": "Dar din cauza desfrânării, fiecare să-şi aibă femeia sa şi fiecare femeie să-şi aibă bărbatul său."
+        },
+        {
+          "verse": 3,
+          "text": "Bărbatul să-i dea femeii iubirea datorată, asemenea şi femeia bărbatului."
+        },
+        {
+          "verse": 4,
+          "text": "Femeia nu este stăpână pe trupul său, ci bărbatul; asemenea nici bărbatul nu este stăpân pe trupul său, ci femeia."
+        },
+        {
+          "verse": 5,
+          "text": "Să nu vă lipsiţi unul de altul, decât cu bună învoială pentru un timp, ca să vă îndeletniciţi cu postul şi cu rugăciunea, şi iarăşi să fiţi împreună, ca să nu vă ispitească satana, din pricina neînfrânării voastre."
+        },
+        {
+          "verse": 6,
+          "text": "Şi aceasta o spun ca un sfat, nu ca o poruncă."
+        },
+        {
+          "verse": 7,
+          "text": "Eu voiesc ca toţi oamenii să fie cum sunt eu însumi. Dar fiecare are de la Dumnezeu darul lui: unul aşa, altul într-alt fel."
+        },
+        {
+          "verse": 8,
+          "text": "Celor ce sunt necăsătoriţi şi văduvelor le spun: Bine este pentru ei să rămână ca şi mine."
+        },
+        {
+          "verse": 9,
+          "text": "Dacă însă nu pot să se înfrâneze, să se căsătorească. Fiindcă mai bine este să se căsătorească, decât să ardă."
+        },
+        {
+          "verse": 10,
+          "text": "Iar celor ce sunt căsătoriţi, le poruncesc, nu eu, ci Domnul: Femeia să nu se despartă de bărbat!"
+        },
+        {
+          "verse": 11,
+          "text": "Iar dacă s-a despărţit, să rămână nemăritată, sau să se împace cu bărbatul său; tot aşa bărbatul să nu-şi lase femeia."
+        },
+        {
+          "verse": 12,
+          "text": "Celorlalţi le grăiesc eu, nu Domnul: Dacă un frate are o femeie necredincioasă, şi ea voieşte să vieţuiască cu el, să nu o lase."
+        },
+        {
+          "verse": 13,
+          "text": "Şi o femeie, dacă are bărbat necredincios, şi el binevoieşte să locuiască cu ea, să nu-şi lase bărbatul."
+        },
+        {
+          "verse": 14,
+          "text": "Căci bărbatul necredincios se sfinţeşte prin femeia credincioasă şi femeia necredincioasă se sfinţeşte prin bărbatul credincios. Altminterea, copiii voştri ar fi necuraţi, dar acum ei sunt sfinţi."
+        },
+        {
+          "verse": 15,
+          "text": "Dacă însă cel necredincios se desparte, să se despartă. În astfel de împrejurare, fratele sau sora nu sunt legaţi; căci Dumnezeu ne-a chemat spre pace."
+        },
+        {
+          "verse": 16,
+          "text": "Căci, ce ştii tu, femeie, dacă îţi vei mântui bărbatul? Sau ce ştii tu, bărbate, dacă îţi vei mântui femeia?"
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Corinthians_07_02",
+      "chapter": 7,
+      "pericope_num": "02",
+      "title_en": "The Life that the Lord Has Assigned",
+      "title_ro": "Viața pe care Domnul a rânduit-o",
+      "start_verse": 17,
+      "end_verse": 24,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 17,
+          "text": "Numai că, aşa cum a dat Domnul fiecăruia, aşa cum l-a chemat Dumnezeu pe fiecare, astfel să umble. Şi aşa rânduiesc în toate Bisericile."
+        },
+        {
+          "verse": 18,
+          "text": "A fost cineva chemat, fiind tăiat împrejur? Să nu se ascundă. A fost cineva chemat în netăiere împrejur? Să nu se taie împrejur."
+        },
+        {
+          "verse": 19,
+          "text": "Tăierea împrejur nu este nimic; şi netăierea împrejur nu este nimic, ci paza poruncilor lui Dumnezeu."
+        },
+        {
+          "verse": 20,
+          "text": "Fiecare, în chemarea în care a fost chemat, în aceasta să rămână."
+        },
+        {
+          "verse": 21,
+          "text": "Ai fost chemat fiind rob? Fii fără grijă. Iar de poţi să fii liber, mai mult foloseşte-te!"
+        },
+        {
+          "verse": 22,
+          "text": "Căci robul, care a fost chemat în Domnul, este un liberat al Domnului. Tot aşa cel chemat liber este rob al lui Hristos."
+        },
+        {
+          "verse": 23,
+          "text": "Cu preţ aţi fost cumpăraţi. Nu vă faceţi robi oamenilor."
+        },
+        {
+          "verse": 24,
+          "text": "Fiecare, fraţilor, în starea în care a fost chemat, în aceea să rămână înaintea lui Dumnezeu."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Corinthians_07_03",
+      "chapter": 7,
+      "pericope_num": "03",
+      "title_en": "The Unmarried and the Widows",
+      "title_ro": "Necăsătoriții și văduvele",
+      "start_verse": 25,
+      "end_verse": 40,
+      "verse_count": 16,
+      "verses": [
+        {
+          "verse": 25,
+          "text": "Cât despre feciorie, n-am poruncă de la Domnul. Vă dau însă sfatul meu, ca unul care am fost miluit de Domnul să fiu vrednic de crezare."
+        },
+        {
+          "verse": 26,
+          "text": "Socotesc deci că aceasta este bine pentru nevoia ceasului de faţă: Bine este pentru om să fie aşa."
+        },
+        {
+          "verse": 27,
+          "text": "Te-ai legat de femeie? Nu căuta dezlegare. Te-ai dezlegat de femeie? Nu căuta femeie."
+        },
+        {
+          "verse": 28,
+          "text": "Dacă însă te vei însura, n-ai greşit. Ci fecioara, de se va mărita, n-a greşit. Numai că unii ca aceştia vor avea suferinţă în trupul lor. Eu însă vă cruţ pe voi."
+        },
+        {
+          "verse": 29,
+          "text": "Şi aceasta v-o spun, fraţilor: Că vremea s-a scurtat de acum, aşa încât şi cei ce au femei să fie ca şi cum n-ar avea."
+        },
+        {
+          "verse": 30,
+          "text": "Şi cei ce plâng să fie ca şi cum n-ar plânge; şi cei ce se bucură, ca şi cum nu s-ar bucura; şi cei ce cumpără, ca şi cum n-ar stăpâni;"
+        },
+        {
+          "verse": 31,
+          "text": "Şi cei ce se folosesc de lumea aceasta, ca şi cum nu s-ar folosi deplin de ea. Căci chipul acestei lumi trece."
+        },
+        {
+          "verse": 32,
+          "text": "Dar eu vreau ca voi să fiţi fără de  grijă. Cel necăsătorit se îngrijeşte de cele ale Domnului, cum să placă Domnului."
+        },
+        {
+          "verse": 33,
+          "text": "Cel ce s-a căsătorit se îngrijeşte de cele ale lumii, cum să placă femeii."
+        },
+        {
+          "verse": 34,
+          "text": "Şi este împărţire: şi femeia nemăritată şi fecioara poartă de grijă de cele ale Domnului, ca să fie sfântă şi cu trupul şi cu duhul. Iar cea care s-a măritat poartă de grijă de cele ale lumii, cum să placă bărbatului."
+        },
+        {
+          "verse": 35,
+          "text": "Şi aceasta o spun chiar în folosul vostru, nu ca să vă întind o cursă, ci spre bunul chip şi alipirea de Domnul, fără clintire."
+        },
+        {
+          "verse": 36,
+          "text": "Iar de socoteşte cineva că i se va face vreo necinste pentru fecioara sa, dacă trece de floarea vârstei, şi că trebuie să facă aşa, facă ce voieşte. Nu păcătuieşte; căsătorească-se."
+        },
+        {
+          "verse": 37,
+          "text": "Dar cel ce stă neclintit în inima sa şi nu este silit, ci are stăpânire peste voinţa sa şi a hotărât aceasta în inima sa, ca să-şi ţină fecioara, bine va face."
+        },
+        {
+          "verse": 38,
+          "text": "Aşa că, cel ce îşi mărită fecioara bine face; dar cel ce n-o mărită şi mai bine face."
+        },
+        {
+          "verse": 39,
+          "text": "Femeia este legată prin lege atâta vreme cât trăieşte bărbatul ei. Iar dacă bărbatul ei va muri, este liberă să se mărite cu cine vrea, numai întru Domnul."
+        },
+        {
+          "verse": 40,
+          "text": "Dar mai fericită este dacă rămâne aşa, după părerea mea. Şi socot că şi eu am Duhul lui Dumnezeu."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Corinthians_08_01",
+      "chapter": 8,
+      "pericope_num": "01",
+      "title_en": "Food Offered to Idols",
+      "title_ro": "Mâncarea jertfită idolilor",
+      "start_verse": 1,
+      "end_verse": 13,
+      "verse_count": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Cât despre cele jertfite idolilor, ştim că toţi avem cunoştinţă. Cunoştinţa însă semeţeşte, iar iubirea zideşte."
+        },
+        {
+          "verse": 2,
+          "text": "Iar dacă i se pare cuiva că cunoaşte ceva, încă n-a cunoscut cum trebuie să cunoască."
+        },
+        {
+          "verse": 3,
+          "text": "Dar dacă iubeşte cineva pe Dumnezeu, acela este cunoscut de El."
+        },
+        {
+          "verse": 4,
+          "text": "Iar despre mâncarea celor jertfite idolilor, ştim că idolul nu este nimic în lume şi că nu este alt Dumnezeu decât Unul singur."
+        },
+        {
+          "verse": 5,
+          "text": "Căci deşi sunt aşa-zişi dumnezei, fie în cer, fie pe pământ, - precum şi sunt dumnezei mulţi şi domni mulţi,"
+        },
+        {
+          "verse": 6,
+          "text": "Totuşi, pentru noi, este un singur Dumnezeu, Tatăl, din Care sunt toate şi noi întru El; şi un singur Domn, Iisus Hristos, prin Care sunt toate şi noi prin El."
+        },
+        {
+          "verse": 7,
+          "text": "Dar nu toţi au cunoştinţa. Căci unii, din obişnuinţa de până acum cu idolul, mănâncă din cărnuri jertfite idolilor, şi conştiinţa lor fiind slabă, se întinează."
+        },
+        {
+          "verse": 8,
+          "text": "Dar nu mâncarea ne va pune înaintea lui Dumnezeu. Că nici dacă vom mânca, nu ne prisoseşte, nici dacă nu vom mânca, nu ne lipseşte."
+        },
+        {
+          "verse": 9,
+          "text": "Dar vedeţi ca nu cumva această libertate a voastră să ajungă poticnire pentru cei slabi."
+        },
+        {
+          "verse": 10,
+          "text": "Căci dacă cineva te-ar vedea pe tine, cel ce ai cunoştinţă, şezând la masă în templul idolilor, oare conştiinţa lui, slab fiind el, nu se va întări să mănânce din cele jertfite idolilor?"
+        },
+        {
+          "verse": 11,
+          "text": "Şi va pieri prin cunoştinţa ta cel slab, fratele tău, pentru care a murit Hristos!"
+        },
+        {
+          "verse": 12,
+          "text": "Şi aşa, păcătuind împotriva fraţilor şi lovind conştiinţa lor slabă, păcătuiţi faţă de Hristos."
+        },
+        {
+          "verse": 13,
+          "text": "De aceea, dacă o mâncare sminteşte pe fratele meu, nu voi mânca în veac carne, ca să nu aduc sminteală fratelui meu."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Corinthians_09_01",
+      "chapter": 9,
+      "pericope_num": "01",
+      "title_en": "The Rights of an Apostle",
+      "title_ro": "Drepturile unui apostol",
+      "start_verse": 1,
+      "end_verse": 27,
+      "verse_count": 27,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Oare nu sunt eu liber? Nu sunt eu apostol? N-am văzut eu pe Iisus Domnul nostru? Nu sunteţi voi lucrul meu întru Domnul?"
+        },
+        {
+          "verse": 2,
+          "text": "Dacă altora nu le sunt apostol, vouă, negreşit, vă sunt. Căci voi sunteţi pecetea apostoliei mele în Domnul."
+        },
+        {
+          "verse": 3,
+          "text": "Apărarea mea către cei ce mă judecă aceasta este."
+        },
+        {
+          "verse": 4,
+          "text": "N-avem, oare, dreptul, să mâncăm şi să bem?"
+        },
+        {
+          "verse": 5,
+          "text": "N-avem, oare, dreptul să purtăm cu noi o femeie soră, ca şi ceilalţi apostoli, ca şi fraţii Domnului, ca şi Chefa?"
+        },
+        {
+          "verse": 6,
+          "text": "Sau numai eu şi Barnaba nu avem dreptul de a nu lucra?"
+        },
+        {
+          "verse": 7,
+          "text": "Cine slujeşte vreodată, în oaste, cu solda lui? Cine sădeşte vie şi nu mănâncă din roada ei? Sau cine paşte o turmă şi nu mănâncă din laptele turmei?"
+        },
+        {
+          "verse": 8,
+          "text": "Nu în felul oamenilor spun eu acestea. Nu spune, oare, şi legea acestea?"
+        },
+        {
+          "verse": 9,
+          "text": "Căci în Legea lui Moise este scris: \"Să nu legi gura boului care treieră\". Oare de boi se îngrijeşte Dumnezeu?"
+        },
+        {
+          "verse": 10,
+          "text": "Sau în adevăr pentru noi zice? Căci pentru noi s-a scris: \"Cel ce ară trebuie să are cu nădejde, şi cel ce treieră, cu nădejdea că va avea parte de roade\"."
+        },
+        {
+          "verse": 11,
+          "text": "Dacă noi am semănat la voi cele duhovniceşti, este, oare, mare lucru dacă noi vom secera cele pământeşti ale voastre?"
+        },
+        {
+          "verse": 12,
+          "text": "Dacă alţii se bucură de acest drept asupra voastră, oare, nu cu atât mai mult noi? Dar nu ne-am folosit de dreptul acesta, ci toate le răbdăm, ca să nu punem piedică Evangheliei lui Hristos."
+        },
+        {
+          "verse": 13,
+          "text": "Au nu ştiţi că cei ce săvârşesc cele sfinte mănâncă de la templu şi cei ce slujesc altarului au parte de la altar?"
+        },
+        {
+          "verse": 14,
+          "text": "Tot aşa a poruncit şi Domnul celor ce propovăduiesc Evanghelia, ca să trăiască din Evanghelie."
+        },
+        {
+          "verse": 15,
+          "text": "Dar eu nu m-am folosit de nimic din acestea şi nu am scris acestea, ca să se facă cu mine aşa. Căci mai bine este pentru mine să mor, decât să-mi zădărnicească cineva lauda."
+        },
+        {
+          "verse": 16,
+          "text": "Căci dacă vestesc Evanghelia, nu-mi este laudă, pentru că stă asupra mea datoria. Căci, vai mie dacă nu voi binevesti!"
+        },
+        {
+          "verse": 17,
+          "text": "Căci dacă fac aceasta de bună voie, am plată; dar dacă o fac fără voie, am numai o slujire încredinţată."
+        },
+        {
+          "verse": 18,
+          "text": "Care este, deci, plata mea? Că, binevestind, pun fără plată Evanghelia lui Hristos înaintea oamenilor, fără să mă folosesc de dreptul meu din Evanghelie."
+        },
+        {
+          "verse": 19,
+          "text": "Căci, deşi sunt liber faţă de toţi, m-am făcut rob tuturor, ca să dobândesc pe cei mai mulţi;"
+        },
+        {
+          "verse": 20,
+          "text": "Cu iudeii am fost ca un iudeu, ca să dobândesc pe iudei; cu cei de sub lege, ca unul de sub lege, deşi eu nu sunt sub lege, ca să dobândesc pe cei de sub lege;"
+        },
+        {
+          "verse": 21,
+          "text": "Cu cei ce n-au Legea, m-am făcut ca unul fără lege, deşi nu sunt fără Legea lui Dumnezeu, ci având Legea lui Hristos, ca să dobândesc pe cei ce n-au Legea;"
+        },
+        {
+          "verse": 22,
+          "text": "Cu cei slabi m-am făcut slab, ca pe cei slabi să-i dobândesc; tuturor toate m-am făcut, ca, în orice chip, să mântuiesc pe unii."
+        },
+        {
+          "verse": 23,
+          "text": "Dar toate le fac pentru Evanghelie, ca să fiu părtaş la ea."
+        },
+        {
+          "verse": 24,
+          "text": "Nu ştiţi voi că acei care aleargă în stadion, toţi aleargă, dar numai unul ia premiul? Alergaţi aşa ca să-l luaţi."
+        },
+        {
+          "verse": 25,
+          "text": "Şi oricine se luptă se înfrânează de la toate. Şi aceia, ca să ia o cunună stricăcioasă, iar noi, nestricăcioasă."
+        },
+        {
+          "verse": 26,
+          "text": "Eu, deci, aşa alerg, nu ca la întâmplare. Aşa mă lupt, nu ca lovind în aer,"
+        },
+        {
+          "verse": 27,
+          "text": "Ci îmi chinuiesc trupul meu şi îl supun robiei; ca nu cumva, altora propovăduind, eu însumi să mă fac netrebnic."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Corinthians_10_01",
+      "chapter": 10,
+      "pericope_num": "01",
+      "title_en": "Warnings from Israel's History",
+      "title_ro": "Avertismente din istoria lui Israel",
+      "start_verse": 1,
+      "end_verse": 22,
+      "verse_count": 22,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Căci nu voiesc, fraţilor, ca voi să nu ştiţi că părinţii noştri au fost toţi sub nor şi că toţi au trecut prin mare."
+        },
+        {
+          "verse": 2,
+          "text": "Şi toţi, întru Moise, au fost botezaţi în nor şi în mare."
+        },
+        {
+          "verse": 3,
+          "text": "Şi toţi au mâncat aceeaşi mâncare duhovnicească;"
+        },
+        {
+          "verse": 4,
+          "text": "Şi toţi, aceeaşi băutură duhovnicească au băut, pentru că beau din piatra duhovnicească ce îi urma. Iar piatra era Hristos."
+        },
+        {
+          "verse": 5,
+          "text": "Dar cei mai mulţi dintre ei nu au plăcut lui Dumnezeu, căci au căzut în pustie."
+        },
+        {
+          "verse": 6,
+          "text": "Şi acestea s-au făcut pilde pentru noi, ca să nu poftim la cele rele, cum au poftit aceia;"
+        },
+        {
+          "verse": 7,
+          "text": "Nici închinători la idoli să nu vă faceţi, ca unii dintre ei, precum este scris: \"A şezut poporul să mănânce şi să bea şi s-au sculat la joc\";"
+        },
+        {
+          "verse": 8,
+          "text": "Nici să ne desfrânăm cum s-au desfrânat unii dintre ei, şi au căzut, într-o zi, douăzeci şi trei de mii;"
+        },
+        {
+          "verse": 9,
+          "text": "Nici să ispitim pe Domnul, precum L-au ispitit unii dintre ei şi au pierit de şerpi;"
+        },
+        {
+          "verse": 10,
+          "text": "Nici să cârtiţi, precum au cârtit unii dintre ei şi au fost nimiciţi de către pierzătorul."
+        },
+        {
+          "verse": 11,
+          "text": "Şi toate acestea li s-au întâmplat acelora, ca preînchipuiri ale viitorului, şi au fost scrise spre povăţuirea noastră, la care au ajuns sfârşiturile veacurilor."
+        },
+        {
+          "verse": 12,
+          "text": "De aceea, cel căruia i se pare că stă neclintit să ia seama să nu cadă."
+        },
+        {
+          "verse": 13,
+          "text": "Nu v-a cuprins ispită care să fi fost peste puterea omenească. Dar credincios este Dumnezeu; El nu va îngădui ca să fiţi ispitiţi mai mult decât puteţi, ci odată cu ispita va aduce şi scăparea din ea, ca să puteţi răbda."
+        },
+        {
+          "verse": 14,
+          "text": "De aceea, iubiţii mei, fugiţi de închinarea la idoli."
+        },
+        {
+          "verse": 15,
+          "text": "Ca unor înţelepţi vă vorbesc. Judecaţi voi ce vă spun."
+        },
+        {
+          "verse": 16,
+          "text": "Paharul binecuvântării, pe care-l binecuvântăm, nu este, oare, împărtăşirea cu sângele lui Hristos? Pâinea pe care o frângem nu este, oare, împărtăşirea cu trupul lui Hristos?"
+        },
+        {
+          "verse": 17,
+          "text": "Că o pâine, un trup, suntem cei mulţi; căci toţi ne împărtăşim dintr-o pâine."
+        },
+        {
+          "verse": 18,
+          "text": "Priviţi pe Israel după trup: Cei care mănâncă jertfele nu sunt ei, oare, părtaşi altarului?"
+        },
+        {
+          "verse": 19,
+          "text": "Deci ce spun eu? Că ce s-a jertfit pentru idol e ceva? Sau idolul este ceva?"
+        },
+        {
+          "verse": 20,
+          "text": "Ci (zic) că cele ce jertfesc neamurile, jertfesc demonilor şi nu lui Dumnezeu. Şi nu voiesc ca voi să fiţi părtaşi ai demonilor."
+        },
+        {
+          "verse": 21,
+          "text": "Nu puteţi să beţi paharul Domnului şi paharul demonilor; nu puteţi să vă împărtăşiţi din masa Domnului şi din masa demonilor."
+        },
+        {
+          "verse": 22,
+          "text": "Oare vrem să mâniem pe Domnul? Nu cumva suntem mai tari decât El?"
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Corinthians_10_02",
+      "chapter": 10,
+      "pericope_num": "02",
+      "title_en": "Do All to the Glory of God",
+      "title_ro": "Faceți totul spre slava lui Dumnezeu",
+      "start_verse": 23,
+      "end_verse": 33,
+      "verse_count": 11,
+      "verses": [
+        {
+          "verse": 23,
+          "text": "Toate îmi sunt îngăduite, dar nu toate îmi folosesc. Toate îmi sunt îngăduite, dar nu toate zidesc."
+        },
+        {
+          "verse": 24,
+          "text": "Nimeni să nu caute pe ale sale, ci fiecare pe ale aproapelui."
+        },
+        {
+          "verse": 25,
+          "text": "Mâncaţi tot ce se vinde în măcelărie, fără să întrebaţi nimic pentru cugetul vostru."
+        },
+        {
+          "verse": 26,
+          "text": "Căci \"al Domnului este pământul şi plinirea lui\"."
+        },
+        {
+          "verse": 27,
+          "text": "Dacă cineva dintre necredincioşi vă cheamă pe voi la masă şi voiţi să vă duceţi, mâncaţi orice vă este pus înainte, fără să întrebaţi nimic pentru conştiinţă."
+        },
+        {
+          "verse": 28,
+          "text": "Dar de vă va spune cineva: Aceasta este din jertfa idolilor, să nu mâncaţi pentru cel care v-a spus şi pentru conştiinţă."
+        },
+        {
+          "verse": 29,
+          "text": "Iar conştiinţa, zic, nu a ta însuţi, ci a altuia. Căci de ce libertatea mea să fie judecată de o altă conştiinţă?"
+        },
+        {
+          "verse": 30,
+          "text": "Dacă eu sunt părtaş harului, de ce să fiu hulit pentru ceea ce aduc mulţumire?"
+        },
+        {
+          "verse": 31,
+          "text": "De aceea, ori de mâncaţi, ori de beţi, ori altceva de faceţi, toate spre slava lui Dumnezeu să le faceţi."
+        },
+        {
+          "verse": 32,
+          "text": "Nu fiţi piatră de poticnire nici iudeilor, nici elinilor, nici Bisericii lui Dumnezeu,"
+        },
+        {
+          "verse": 33,
+          "text": "Precum şi eu plac tuturor în toate, necăutând folosul meu, ci pe al celor mulţi, ca să se mântuiască."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Corinthians_11_01",
+      "chapter": 11,
+      "pericope_num": "01",
+      "title_en": "Head Coverings",
+      "title_ro": "Acoperămintele capului",
+      "start_verse": 1,
+      "end_verse": 16,
+      "verse_count": 16,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Fiţi următori ai mei, precum şi eu sunt al lui Hristos."
+        },
+        {
+          "verse": 2,
+          "text": "Fraţilor, vă laud că în toate vă aduceţi aminte de mine şi ţineţi predaniile cum vi le-am dat."
+        },
+        {
+          "verse": 3,
+          "text": "Dar voiesc ca voi să ştiţi că Hristos este capul oricărui bărbat, iar capul femeii este bărbatul, iar capul lui Hristos: Dumnezeu."
+        },
+        {
+          "verse": 4,
+          "text": "Orice bărbat care se roagă sau prooroceşte, având capul acoperit, necinsteşte capul său."
+        },
+        {
+          "verse": 5,
+          "text": "Iar orice femeie care se roagă sau prooroceşte, cu capul neacoperit, îşi necinsteşte capul; căci tot una este ca şi cum ar fi rasă."
+        },
+        {
+          "verse": 6,
+          "text": "Căci dacă o femeie nu-şi pune văl pe cap, atunci să se şi tundă. Iar dacă este lucru de ruşine pentru femeie ca să se tundă ori să se radă, să-şi pună văl."
+        },
+        {
+          "verse": 7,
+          "text": "Căci bărbatul nu trebuie să-şi acopere capul, fiind chip şi slavă a lui Dumnezeu, iar femeia este slava bărbatului."
+        },
+        {
+          "verse": 8,
+          "text": "Pentru că nu bărbatul este din femeie, ci femeia din bărbat."
+        },
+        {
+          "verse": 9,
+          "text": "Şi pentru că n-a fost zidit bărbatul pentru femeie, ci femeia pentru bărbat."
+        },
+        {
+          "verse": 10,
+          "text": "De aceea şi femeia este datoare să aibă (semn de) supunere asupra capului ei, pentru îngeri."
+        },
+        {
+          "verse": 11,
+          "text": "Totuşi, nici femeia fără bărbat, nici bărbatul fără femeie, în Domnul."
+        },
+        {
+          "verse": 12,
+          "text": "Căci precum femeia este din bărbat, aşa şi bărbatul este prin femeie şi toate sunt de la Dumnezeu."
+        },
+        {
+          "verse": 13,
+          "text": "Judecaţi în voi înşivă: Este, oare, cuviincios ca o femeie să se roage lui Dumnezeu cu capul descoperit?"
+        },
+        {
+          "verse": 14,
+          "text": "Nu vă învaţă oare însăşi firea că necinste este pentru un bărbat să-şi lase părul lung?"
+        },
+        {
+          "verse": 15,
+          "text": "Şi că pentru o femeie, dacă îşi lasă părul lung, este cinste? Căci părul i-a fost dat ca acoperământ."
+        },
+        {
+          "verse": 16,
+          "text": "Iar dacă se pare cuiva că aici poate să ne găsească pricină, un astfel de obicei (ca femeile să se roage cu capul descoperit) noi nu avem, nici Bisericile lui Dumnezeu."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Corinthians_11_02",
+      "chapter": 11,
+      "pericope_num": "02",
+      "title_en": "Abuses at the Lord's Supper",
+      "title_ro": "Abuzuri la Cina Domnului",
+      "start_verse": 17,
+      "end_verse": 22,
+      "verse_count": 6,
+      "verses": [
+        {
+          "verse": 17,
+          "text": "Şi aceasta poruncindu-vă, nu vă laud, fiindcă voi vă adunaţi nu spre mai bine, ci spre mai rău."
+        },
+        {
+          "verse": 18,
+          "text": "Căci mai întâi aud că atunci când vă adunaţi în biserică, între voi sunt dezbinări, şi în parte cred."
+        },
+        {
+          "verse": 19,
+          "text": "Căci trebuie să fie între voi şi eresuri, ca să se învedereze între voi cei încercaţi."
+        },
+        {
+          "verse": 20,
+          "text": "Când vă adunaţi deci laolaltă, nu se poate mânca Cina Domnului;"
+        },
+        {
+          "verse": 21,
+          "text": "Căci, şezând la masă, fiecare se grăbeşte să ia mâncarea sa, încât unuia îi este foame, iar altul se îmbată."
+        },
+        {
+          "verse": 22,
+          "text": "N-aveţi, oare, case ca să mâncaţi şi să beţi? Sau dispreţuiţi Biserica lui Dumnezeu şi ruşinaţi pe cei ce nu au? Ce să vă zic? Să vă laud? În aceasta nu vă laud."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Corinthians_11_03",
+      "chapter": 11,
+      "pericope_num": "03",
+      "title_en": "The Institution of the Lord's Supper",
+      "title_ro": "Rânduirea Cinei Domnului",
+      "start_verse": 23,
+      "end_verse": 26,
+      "verse_count": 4,
+      "verses": [
+        {
+          "verse": 23,
+          "text": "Căci eu de la Domnul am primit ceea ce v-am dat şi vouă: Că Domnul Iisus, în noaptea în care a fost vândut, a luat pâine,"
+        },
+        {
+          "verse": 24,
+          "text": "Şi, mulţumind, a frânt şi a zis: Luaţi, mâncaţi; acesta este trupul Meu care se frânge pentru voi. Aceasta să faceţi spre pomenirea Mea."
+        },
+        {
+          "verse": 25,
+          "text": "Asemenea şi paharul după Cină, zicând: Acest pahar este Legea cea nouă întru sângele Meu. Aceasta să faceţi ori de câte ori veţi bea, spre pomenirea Mea."
+        },
+        {
+          "verse": 26,
+          "text": "Căci de câte ori veţi mânca această pâine şi veţi bea acest pahar, moartea Domnului vestiţi până când va veni."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Corinthians_11_04",
+      "chapter": 11,
+      "pericope_num": "04",
+      "title_en": "Partaking of the Supper Unworthily",
+      "title_ro": "Participarea nevrednic la Cină",
+      "start_verse": 27,
+      "end_verse": 34,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 27,
+          "text": "Astfel, oricine va mânca pâinea aceasta sau va bea paharul Domnului cu nevrednicie, va fi vinovat faţă de trupul şi sângele Domnului."
+        },
+        {
+          "verse": 28,
+          "text": "Să se cerceteze însă omul pe sine şi aşa să mănânce din pâine şi să bea din pahar."
+        },
+        {
+          "verse": 29,
+          "text": "Căci cel ce mănâncă şi bea cu nevrednicie, osândă îşi mănâncă şi bea, nesocotind trupul Domnului."
+        },
+        {
+          "verse": 30,
+          "text": "De aceea, mulţi dintre voi sunt neputincioşi şi bolnavi şi mulţi au murit."
+        },
+        {
+          "verse": 31,
+          "text": "Căci de ne-am fi judecat noi înşine, nu am mai fi judecaţi."
+        },
+        {
+          "verse": 32,
+          "text": "Dar, fiind judecaţi de Domnul, suntem pedepsiţi, ca să nu fim osândiţi împreună cu lumea."
+        },
+        {
+          "verse": 33,
+          "text": "De aceea, fraţii mei, când vă adunaţi ca să mâncaţi, aşteptaţi-vă unii pe alţii."
+        },
+        {
+          "verse": 34,
+          "text": "Iar dacă îi este cuiva foame, să mănânce acasă, ca să nu vă adunaţi spre osândă. Celelalte însă le voi rândui când voi veni."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Corinthians_12_01",
+      "chapter": 12,
+      "pericope_num": "01",
+      "title_en": "Spiritual Gifts",
+      "title_ro": "Darurile duhovnicești",
+      "start_verse": 1,
+      "end_verse": 12,
+      "verse_count": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Iar cât priveşte darurile duhovniceşti nu vreau, fraţilor, să fiţi în necunoştinţă."
+        },
+        {
+          "verse": 2,
+          "text": "Ştiţi că, pe când eraţi păgâni, vă duceaţi la idolii cei muţi, ca şi cum eraţi mânaţi."
+        },
+        {
+          "verse": 3,
+          "text": "De aceea, vă fac cunoscut că precum nimeni, grăind în Duhul lui Dumnezeu, nu zice: Anatema fie Iisus! - tot aşa nimeni nu poate să zică: Domn este Iisus, - decât în Duhul Sfânt."
+        },
+        {
+          "verse": 4,
+          "text": "Darurile sunt felurite, dar acelaşi Duh."
+        },
+        {
+          "verse": 5,
+          "text": "Şi felurite slujiri sunt, dar acelaşi Domn."
+        },
+        {
+          "verse": 6,
+          "text": "Şi lucrările sunt felurite, dar este acelaşi Dumnezeu, care lucrează toate în toţi."
+        },
+        {
+          "verse": 7,
+          "text": "Şi fiecăruia se dă arătarea Duhului spre folos."
+        },
+        {
+          "verse": 8,
+          "text": "Că unuia i se dă prin Duhul Sfânt cuvânt de înţelepciune, iar altuia, după acelaşi Duh, cuvântul cunoştinţei."
+        },
+        {
+          "verse": 9,
+          "text": "Şi unuia i se dă întru acelaşi Duh credinţă, iar altuia, darurile vindecărilor, întru acelaşi Duh;"
+        },
+        {
+          "verse": 10,
+          "text": "Unuia faceri de minuni, iar altuia proorocie; unuia deosebirea duhurilor, iar altuia feluri de limbi şi altuia tălmăcirea limbilor."
+        },
+        {
+          "verse": 11,
+          "text": "Şi toate acestea le lucrează unul şi acelaşi Duh, împărţind fiecăruia deosebi, după cum voieşte."
+        },
+        {
+          "verse": 12,
+          "text": "Căci precum trupul unul este, şi are mădulare multe, iar toate mădularele trupului, multe fiind, sunt un trup, aşa şi Hristos."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Corinthians_12_02",
+      "chapter": 12,
+      "pericope_num": "02",
+      "title_en": "One Body with Many Members",
+      "title_ro": "Un singur trup cu multe mădulare",
+      "start_verse": 12,
+      "end_verse": 31,
+      "verse_count": 20,
+      "verses": [
+        {
+          "verse": 12,
+          "text": "Căci precum trupul unul este, şi are mădulare multe, iar toate mădularele trupului, multe fiind, sunt un trup, aşa şi Hristos."
+        },
+        {
+          "verse": 13,
+          "text": "Pentru că într-un Duh ne-am botezat noi toţi, ca să fim un singur trup, fie iudei, fie elini, fie robi, fie liberi, şi toţi la un Duh ne-am adăpat."
+        },
+        {
+          "verse": 14,
+          "text": "Căci şi trupul nu este un mădular, ci multe."
+        },
+        {
+          "verse": 15,
+          "text": "Dacă piciorul ar zice: Fiindcă nu sunt mână nu sunt din trup, pentru aceasta nu este el din trup?"
+        },
+        {
+          "verse": 16,
+          "text": "Şi urechea dacă ar zice: Fiindcă nu sunt ochi, nu fac parte din trup, - pentru aceasta nu este ea din trup?"
+        },
+        {
+          "verse": 17,
+          "text": "Dacă tot trupul ar fi ochi, unde ar fi auzul? Şi dacă ar fi tot auz, unde ar fi mirosul?"
+        },
+        {
+          "verse": 18,
+          "text": "Dar acum Dumnezeu a pus mădularele, pe fiecare din ele, în trup, cum a voit."
+        },
+        {
+          "verse": 19,
+          "text": "Dacă toate ar fi un singur mădular, unde ar fi trupul?"
+        },
+        {
+          "verse": 20,
+          "text": "Dar acum sunt multe mădulare, însă un singur trup."
+        },
+        {
+          "verse": 21,
+          "text": "Şi nu poate ochiul să zică mâinii: N-am trebuinţă de tine; sau, iarăşi capul să zică picioarelor: N-am trebuinţă de voi."
+        },
+        {
+          "verse": 22,
+          "text": "Ci cu mult mai mult mădularele trupului, care par a fi mai slabe, sunt mai trebuincioase."
+        },
+        {
+          "verse": 23,
+          "text": "Şi pe cele ale trupului care ni se par că sunt mai de necinste, pe acelea cu mai multă evlavie le îmbrăcăm; şi cele necuviincioase ale noastre au mai multă cuviinţă."
+        },
+        {
+          "verse": 24,
+          "text": "Iar cele cuviincioase ale noastre n-au nevoie de acoperământ. Dar Dumnezeu a întocmit astfel trupul, dând mai multă cinste celui căruia îi lipseşte,"
+        },
+        {
+          "verse": 25,
+          "text": "Ca să nu fie dezbinare în trup, ci mădularele să se îngrijească deopotrivă unele de altele."
+        },
+        {
+          "verse": 26,
+          "text": "Şi dacă un mădular suferă, toate mădularele suferă împreună; şi dacă un mădular este cinstit, toate mădularele se bucură împreună."
+        },
+        {
+          "verse": 27,
+          "text": "Iar voi sunteţi trupul lui Hristos şi mădulare (fiecare) în parte."
+        },
+        {
+          "verse": 28,
+          "text": "Şi pe unii i-a pus Dumnezeu, în Biserică: întâi apostoli, al doilea prooroci, al treilea învăţători; apoi pe cei ce au darul de a face minuni; apoi darurile vindecărilor, ajutorările, cârmuirile, felurile limbilor."
+        },
+        {
+          "verse": 29,
+          "text": "Oare toţi sunt apostoli? Oare toţi sunt prooroci? Oare toţi învăţători? Oare toţi au putere să săvârşească minuni?"
+        },
+        {
+          "verse": 30,
+          "text": "Oare toţi au darurile vindecărilor? Oare toţi vorbesc în limbi? Oare toţi pot să tălmăcească?"
+        },
+        {
+          "verse": 31,
+          "text": "Râvniţi însă la darurile cele mai bune. Şi vă arăt încă o cale care le întrece pe toate:"
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Corinthians_13_01",
+      "chapter": 13,
+      "pericope_num": "01",
+      "title_en": "The Gift of Love",
+      "title_ro": "Darul dragostei",
+      "start_verse": 1,
+      "end_verse": 13,
+      "verse_count": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "De aş grăi în limbile oamenilor şi ale îngerilor, iar dragoste nu am, făcutu-m-am aramă sunătoare şi chimval răsunător."
+        },
+        {
+          "verse": 2,
+          "text": "Şi de aş avea darul proorociei şi tainele toate le-aş cunoaşte şi orice ştiinţă, şi de aş avea atâta credinţă încât să mut şi munţii, iar dragoste nu am, nimic nu sunt."
+        },
+        {
+          "verse": 3,
+          "text": "Şi de aş împărţi toată avuţia mea şi de aş da trupul meu ca să fie ars, iar dragoste nu am, nimic nu-mi foloseşte."
+        },
+        {
+          "verse": 4,
+          "text": "Dragostea îndelung rabdă; dragostea este binevoitoare, dragostea nu pizmuieşte, nu se laudă, nu se trufeşte."
+        },
+        {
+          "verse": 5,
+          "text": "Dragostea nu se poartă cu necuviinţă, nu caută ale sale, nu se aprinde de mânie, nu gândeşte răul."
+        },
+        {
+          "verse": 6,
+          "text": "Nu se bucură de nedreptate, ci se bucură de adevăr."
+        },
+        {
+          "verse": 7,
+          "text": "Toate le suferă, toate le crede, toate le nădăjduieşte, toate le rabdă."
+        },
+        {
+          "verse": 8,
+          "text": "Dragostea nu cade niciodată. Cât despre proorocii - se vor desfiinţa; darul limbilor va înceta; ştiinţa se va sfârşi;"
+        },
+        {
+          "verse": 9,
+          "text": "Pentru că în parte cunoaştem şi în parte proorocim."
+        },
+        {
+          "verse": 10,
+          "text": "Dar când va veni ceea ce e desăvârşit, atunci ceea ce este în parte se va desfiinţa."
+        },
+        {
+          "verse": 11,
+          "text": "Când eram copil, vorbeam ca un copil, simţeam ca un copil; judecam ca un copil; dar când m-am făcut bărbat, am lepădat cele ale copilului."
+        },
+        {
+          "verse": 12,
+          "text": "Căci vedem acum ca prin oglindă, în ghicitură, iar atunci, faţă către faţă; acum cunosc în parte, dar atunci voi cunoaşte pe deplin, precum am fost cunoscut şi eu."
+        },
+        {
+          "verse": 13,
+          "text": "Şi acum rămân acestea trei: credinţa, nădejdea şi dragostea. Iar mai mare dintre acestea este dragostea."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Corinthians_14_01",
+      "chapter": 14,
+      "pericope_num": "01",
+      "title_en": "Gifts of Prophecy and Tongues",
+      "title_ro": "Darurile proorociei și limbilor",
+      "start_verse": 1,
+      "end_verse": 25,
+      "verse_count": 25,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Căutaţi dragostea. Râvniţi însă cele duhovniceşti, dar mai ales ca să proorociţi."
+        },
+        {
+          "verse": 2,
+          "text": "Pentru că cel ce vorbeşte într-o limbă străină nu vorbeşte oamenilor, ci lui Dumnezeu; şi nimeni nu-l înţelege, fiindcă el, în duh, grăieşte taine."
+        },
+        {
+          "verse": 3,
+          "text": "Cel ce prooroceşte vorbeşte oamenilor, spre zidire, îndemn şi mângâiere."
+        },
+        {
+          "verse": 4,
+          "text": "Cel ce grăieşte într-o limbă străină pe sine singur se zideşte, iar cel ce prooroceşte zideşte Biserica."
+        },
+        {
+          "verse": 5,
+          "text": "Voiesc ca voi toţi să grăiţi în limbi; dar mai cu seamă să proorociţi. Cel ce prooroceşte e mai mare decât cel ce grăieşte în limbi, afară numai dacă tălmăceşte, ca Biserica să ia întărire."
+        },
+        {
+          "verse": 6,
+          "text": "Iar acum, fraţilor, dacă aş veni la voi, grăind în limbi, de ce folos v-aş fi, dacă nu v-aş vorbi - sau în descoperire, sau în cunoştinţă, sau în proorocie, sau în învăţătură?"
+        },
+        {
+          "verse": 7,
+          "text": "Că precum cele neînsufleţite, care dau sunet, fie fluier, fie chitară, de nu vor da sunete deosebite, cum se va cunoaşte ce este din fluier, sau ce este din chitară?"
+        },
+        {
+          "verse": 8,
+          "text": "Şi dacă trâmbiţa va da sunet nelămurit, cine se va pregăti de război?"
+        },
+        {
+          "verse": 9,
+          "text": "Aşa şi voi: Dacă prin limbă nu veţi da cuvânt lesne de înţeles, cum se va cunoaşte ce aţi grăit? Veţi fi nişte oameni care vorbesc în vânt."
+        },
+        {
+          "verse": 10,
+          "text": "Sunt aşa de multe feluri de limbi în lume, dar nici una din ele nu este fără înţelesul ei."
+        },
+        {
+          "verse": 11,
+          "text": "Deci dacă nu voi şti înţelesul cuvintelor, voi fi barbar pentru cel care vorbeşte, şi cel care vorbeşte barbar pentru mine."
+        },
+        {
+          "verse": 12,
+          "text": "Aşa şi voi, de vreme ce sunteţi râvnitori după cele duhovniceşti, căutaţi să prisosiţi în ele, spre zidirea Bisericii."
+        },
+        {
+          "verse": 13,
+          "text": "De aceea, cel ce grăieşte într-o limbă străină să se roage ca să şi tălmăcească."
+        },
+        {
+          "verse": 14,
+          "text": "Căci, dacă mă rog într-o limbă străină, duhul meu se roagă, dar mintea mea este neroditoare."
+        },
+        {
+          "verse": 15,
+          "text": "Atunci ce voi face? Mă voi ruga cu duhul, dar mă voi ruga şi cu mintea; voi cânta cu duhul, dar voi cânta şi cu mintea."
+        },
+        {
+          "verse": 16,
+          "text": "Fiindcă dacă vei binecuvânta cu duhul, cum va răspunde omul simplu \"Amin\" la mulţumirea ta, de vreme ce el nu ştie ce zici?"
+        },
+        {
+          "verse": 17,
+          "text": "Căci tu, într-adevăr, mulţumeşti bine, dar celălalt nu se zideşte."
+        },
+        {
+          "verse": 18,
+          "text": "Mulţumesc Dumnezeului meu, că vorbesc în limbi mai mult decât voi toţi;"
+        },
+        {
+          "verse": 19,
+          "text": "Dar în Biserică vreau să grăiesc cinci cuvinte cu mintea mea, ca să învăţ şi pe alţii, decât zeci de mii de cuvinte într-o limbă străină."
+        },
+        {
+          "verse": 20,
+          "text": "Fraţilor, nu fiţi copii la minte. Fiţi copii când e vorba de răutate. La minte însă, fiţi desăvârşiţi."
+        },
+        {
+          "verse": 21,
+          "text": "În Lege este scris: \"Voi grăi acestui popor în alte limbi şi prin buzele altora, şi nici aşa nu vor asculta de Mine, zice Domnul\"."
+        },
+        {
+          "verse": 22,
+          "text": "Aşa că vorbirea în limbi este semn nu pentru cei credincioşi ci pentru cei necredincioşi; iar proorocia nu pentru cei necredincioşi, ci pentru cei ce cred."
+        },
+        {
+          "verse": 23,
+          "text": "Deci, dacă s-ar aduna Biserica toată laolaltă şi toţi ar vorbi în limbi şi ar intra neştiutori sau necredincioşi, nu vor zice, oare, că sunteţi nebuni?"
+        },
+        {
+          "verse": 24,
+          "text": "Iar dacă toţi ar prooroci şi ar intra vreun necredincios sau vreun neştiutor, el este dovedit de toţi, el este judecat de toţi;"
+        },
+        {
+          "verse": 25,
+          "text": "Cele ascunse ale inimii lui se învederează, şi astfel, căzând cu faţa la pământ, se va închina lui Dumnezeu, mărturisind că Dumnezeu este într-adevăr printre voi."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Corinthians_14_02",
+      "chapter": 14,
+      "pericope_num": "02",
+      "title_en": "Orderly Worship",
+      "title_ro": "Închinare ordonată",
+      "start_verse": 26,
+      "end_verse": 40,
+      "verse_count": 15,
+      "verses": [
+        {
+          "verse": 26,
+          "text": "Ce este deci, fraţilor? Când vă adunaţi împreună, fiecare din voi are psalm, are învăţătură, are descoperire, are limbă, are tălmăcire: toate spre zidire să se facă."
+        },
+        {
+          "verse": 27,
+          "text": "Dacă grăieşte cineva într-o limbă străină, să fie câte doi, sau cel mult trei şi pe rând să grăiască şi unul să tălmăcească."
+        },
+        {
+          "verse": 28,
+          "text": "Iar dacă nu e tălmăcitor, să tacă în biserică şi să-şi grăiască numai lui şi lui Dumnezeu."
+        },
+        {
+          "verse": 29,
+          "text": "Iar proorocii să vorbească doi sau trei, iar ceilalţi să judece."
+        },
+        {
+          "verse": 30,
+          "text": "Iar dacă se va descoperi ceva altuia care şade, să tacă cei dintâi."
+        },
+        {
+          "verse": 31,
+          "text": "Căci puteţi să proorociţi toţi câte unul, ca toţi să înveţe şi toţi să se mângâie."
+        },
+        {
+          "verse": 32,
+          "text": "Şi duhurile proorocilor se supun proorocilor."
+        },
+        {
+          "verse": 33,
+          "text": "Pentru că Dumnezeu nu este al neorânduielii, ci al păcii."
+        },
+        {
+          "verse": 34,
+          "text": "Ca în toate Bisericile sfinţilor, femeile voastre să tacă în biserică, căci lor nu le este îngăduit să vorbească, ci să se supună, precum zice şi Legea."
+        },
+        {
+          "verse": 35,
+          "text": "Iar dacă voiesc să înveţe ceva, să întrebe acasă pe bărbaţii lor, căci este ruşinos ca femeile să vorbească în biserică."
+        },
+        {
+          "verse": 36,
+          "text": "Oare de la voi a ieşit cuvântul lui Dumnezeu sau a ajuns numai la voi?"
+        },
+        {
+          "verse": 37,
+          "text": "Dacă i se pare cuiva că este prooroc sau om duhovnicesc, să cunoască că cele ce vă scriu sunt porunci ale Domnului."
+        },
+        {
+          "verse": 38,
+          "text": "Iar dacă cineva nu vrea să ştie, să nu ştie."
+        },
+        {
+          "verse": 39,
+          "text": "Aşa că, fraţii mei, râvniţi a prooroci şi nu opriţi să se grăiască în limbi."
+        },
+        {
+          "verse": 40,
+          "text": "Dar toate să se facă cu cuviinţă şi după rânduială."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Corinthians_15_01",
+      "chapter": 15,
+      "pericope_num": "01",
+      "title_en": "The Resurrection of Christ",
+      "title_ro": "Învierea lui Hristos",
+      "start_verse": 1,
+      "end_verse": 15,
+      "verse_count": 15,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Vă aduc aminte, fraţilor, Evanghelia pe care v-am binevestit-o, pe care aţi şi primit-o, întru care şi staţi,"
+        },
+        {
+          "verse": 2,
+          "text": "Prin care şi sunteţi mântuiţi; cu ce cuvânt v-am binevestit-o - dacă o ţineţi cu tărie, afară numai dacă n-aţi crezut în zadar S"
+        },
+        {
+          "verse": 3,
+          "text": "Căci v-am dat, întâi de toate, ceea ce şi eu am primit, că Hristos a murit pentru păcatele noastre după Scripturi;"
+        },
+        {
+          "verse": 4,
+          "text": "Şi că a fost îngropat şi că a înviat a treia zi, după Scripturi;"
+        },
+        {
+          "verse": 5,
+          "text": "Şi că S-a arătat lui Chefa, apoi celor doisprezece;"
+        },
+        {
+          "verse": 6,
+          "text": "În urmă S-a arătat deodată la peste cinci sute de fraţi, dintre care cei mai mulţi trăiesc până astăzi, iar unii au şi adormit;"
+        },
+        {
+          "verse": 7,
+          "text": "După aceea S-a arătat lui Iacov, apoi tuturor apostolilor;"
+        },
+        {
+          "verse": 8,
+          "text": "Iar la urma tuturor, ca unui născut înainte de vreme, mi S-a arătat şi mie."
+        },
+        {
+          "verse": 9,
+          "text": "Căci eu sunt cel mai mic dintre apostoli, care nu sunt vrednic să mă numesc apostol, pentru că am prigonit Biserica lui Dumnezeu."
+        },
+        {
+          "verse": 10,
+          "text": "Dar prin harul lui Dumnezeu sunt ceea ce sunt; şi harul Lui care este în mine n-a fost în zadar, ci m-am ostenit mai mult decât ei toţi. Dar nu eu, ci harul lui Dumnezeu care este cu mine."
+        },
+        {
+          "verse": 11,
+          "text": "Deci ori eu, ori aceia, aşa propovăduim şi voi aşa aţi crezut."
+        },
+        {
+          "verse": 12,
+          "text": "Iar dacă se propovăduieşte că Hristos a înviat din morţi, cum zic unii dintre voi că nu este înviere a morţilor?"
+        },
+        {
+          "verse": 13,
+          "text": "Dacă nu este înviere a morţilor, nici Hristos n-a înviat."
+        },
+        {
+          "verse": 14,
+          "text": "Şi dacă Hristos n-a înviat, zadarnică este atunci propovăduirea noastră, zadarnică este şi credinţa voastră."
+        },
+        {
+          "verse": 15,
+          "text": "Ne aflăm încă şi martori mincinoşi ai lui Dumnezeu, pentru că am mărturisit împotriva lui Dumnezeu că a înviat pe Hristos, pe Care nu L-a înviat, dacă deci morţii nu înviază."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Corinthians_15_02",
+      "chapter": 15,
+      "pericope_num": "02",
+      "title_en": "The Resurrection of the Dead",
+      "title_ro": "Învierea morților",
+      "start_verse": 12,
+      "end_verse": 34,
+      "verse_count": 23,
+      "verses": [
+        {
+          "verse": 12,
+          "text": "Iar dacă se propovăduieşte că Hristos a înviat din morţi, cum zic unii dintre voi că nu este înviere a morţilor?"
+        },
+        {
+          "verse": 13,
+          "text": "Dacă nu este înviere a morţilor, nici Hristos n-a înviat."
+        },
+        {
+          "verse": 14,
+          "text": "Şi dacă Hristos n-a înviat, zadarnică este atunci propovăduirea noastră, zadarnică este şi credinţa voastră."
+        },
+        {
+          "verse": 15,
+          "text": "Ne aflăm încă şi martori mincinoşi ai lui Dumnezeu, pentru că am mărturisit împotriva lui Dumnezeu că a înviat pe Hristos, pe Care nu L-a înviat, dacă deci morţii nu înviază."
+        },
+        {
+          "verse": 16,
+          "text": "Căci dacă morţii nu înviază, nici Hristos n-a înviat."
+        },
+        {
+          "verse": 17,
+          "text": "Iar dacă Hristos n-a înviat, zadarnică este credinţa voastră, sunteţi încă în păcatele voastre;"
+        },
+        {
+          "verse": 18,
+          "text": "Şi atunci şi cei ce au adormit în Hristos au pierit."
+        },
+        {
+          "verse": 19,
+          "text": "Iar dacă nădăjduim în Hristos numai în viaţa aceasta, suntem mai de plâns decât toţi oamenii."
+        },
+        {
+          "verse": 20,
+          "text": "Dar acum Hristos a înviat din morţi, fiind începătură (a învierii) celor adormiţi."
+        },
+        {
+          "verse": 21,
+          "text": "Că de vreme ce printr-un om a venit moartea, tot printr-un om şi învierea morţilor."
+        },
+        {
+          "verse": 22,
+          "text": "Căci, precum în Adam toţi mor, aşa şi în Hristos toţi vor învia."
+        },
+        {
+          "verse": 23,
+          "text": "Dar fiecare în rândul cetei sale: Hristos începătură, apoi cei ai lui Hristos, la venirea Lui,"
+        },
+        {
+          "verse": 24,
+          "text": "După aceea, sfârşitul, când Domnul va preda împărăţia lui Dumnezeu şi Tatălui, când va desfiinţa orice domnie şi orice stăpânire şi orice putere."
+        },
+        {
+          "verse": 25,
+          "text": "Căci El trebuie să împărăţească până ce va pune pe toţi vrăjmaşii Săi sub picioarele Sale."
+        },
+        {
+          "verse": 26,
+          "text": "Vrăjmaşul cel din urmă, care va fi nimicit, este moartea."
+        },
+        {
+          "verse": 27,
+          "text": "\"Căci toate le-a supus sub picioarele Lui\". Dar când zice: \"Că toate I-au fost supuse Lui\" - învederat este că afară de Cel care I-a supus Lui toate."
+        },
+        {
+          "verse": 28,
+          "text": "Iar când toate vor fi supuse Lui, atunci şi Fiul însuşi Se va supune Celui ce I-a supus Lui toate, ca Dumnezeu să fie toate în toţi."
+        },
+        {
+          "verse": 29,
+          "text": "Fiindcă ce vor face cei care se botează pentru morţi? Dacă morţii nu înviază nicidecum, pentru ce se mai botează pentru ei?"
+        },
+        {
+          "verse": 30,
+          "text": "De ce mai suntem şi noi în primejdie în tot ceasul?"
+        },
+        {
+          "verse": 31,
+          "text": "Mor în fiecare zi! V-o spun, fraţilor, pe lauda pe care o am pentru voi, în Hristos Iisus, Domnul nostru."
+        },
+        {
+          "verse": 32,
+          "text": "Dacă m-am luptat, ca om, cu fiarele în Efes, care îmi este folosul? Dacă morţii nu înviază, să bem şi să mâncăm, căci mâine vom muri!"
+        },
+        {
+          "verse": 33,
+          "text": "Nu vă lăsaţi înşelaţi. Tovărăşiile rele strică obiceiurile bune."
+        },
+        {
+          "verse": 34,
+          "text": "Treziţi-vă cum se cuvine şi nu păcătuiţi. Căci unii nu au cunoştinţă de Dumnezeu; o spun spre ruşinea voastră."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Corinthians_15_03",
+      "chapter": 15,
+      "pericope_num": "03",
+      "title_en": "The Resurrection Body",
+      "title_ro": "Trupul învierii",
+      "start_verse": 35,
+      "end_verse": 58,
+      "verse_count": 24,
+      "verses": [
+        {
+          "verse": 35,
+          "text": "Dar va zice cineva: Cum înviază morţii? Şi cu ce trup au să vină?"
+        },
+        {
+          "verse": 36,
+          "text": "Nebun ce eşti! Tu ce semeni nu dă viaţă, dacă nu va fi murit."
+        },
+        {
+          "verse": 37,
+          "text": "Şi ceea ce semeni nu este trupul ce va să fie, ci grăunte gol, poate de grâu, sau de altceva din celelalte;"
+        },
+        {
+          "verse": 38,
+          "text": "Iar Dumnezeu îi dă un trup, precum a voit, şi fiecărei seminţe un trup al său."
+        },
+        {
+          "verse": 39,
+          "text": "Nu toate trupurile sunt acelaşi trup, ci unul este trupul oamenilor şi altul este trupul dobitoacelor şi altul este trupul păsărilor şi altul este trupul peştilor."
+        },
+        {
+          "verse": 40,
+          "text": "Sunt şi trupuri cereşti şi trupuri pământeşti; dar alta este slava celor cereşti şi alta a celor pământeşti."
+        },
+        {
+          "verse": 41,
+          "text": "Alta este strălucirea soarelui şi alta strălucirea lunii şi alta strălucirea stelelor. Căci stea de stea se deosebeşte în strălucire."
+        },
+        {
+          "verse": 42,
+          "text": "Aşa este şi învierea morţilor: Se seamănă (trupul) întru stricăciune, înviază întru nestricăciune;"
+        },
+        {
+          "verse": 43,
+          "text": "Se seamănă întru necinste, înviază întru slavă, se seamănă întru slăbiciune, înviază întru putere;"
+        },
+        {
+          "verse": 44,
+          "text": "Se seamănă trup firesc, înviază trup duhovnicesc. Dacă este trup firesc, este şi trup duhovnicesc."
+        },
+        {
+          "verse": 45,
+          "text": "Precum şi este scris: \"Făcutu-s-a omul cel dintâi, Adam, cu suflet viu; iar Adam cel de pe urmă cu duh dătător de viaţă\";"
+        },
+        {
+          "verse": 46,
+          "text": "Dar nu este întâi cel duhovnicesc, ci cel firesc, apoi cel duhovnicesc."
+        },
+        {
+          "verse": 47,
+          "text": "Omul cel dintâi este din pământ, pământesc; omul cel de-al doilea este din cer."
+        },
+        {
+          "verse": 48,
+          "text": "Cum este cel pământesc, aşa sunt şi cei pământeşti; şi cum este cel ceresc, aşa sunt şi cei cereşti."
+        },
+        {
+          "verse": 49,
+          "text": "Şi după cum am purtat chipul celui pământesc, să purtăm şi chipul celui ceresc."
+        },
+        {
+          "verse": 50,
+          "text": "Aceasta însă zic, fraţilor: Carnea şi sângele nu pot să moştenească împărăţia lui Dumnezeu, nici stricăciunea nu moşteneşte nestricăciunea."
+        },
+        {
+          "verse": 51,
+          "text": "Iată, taină vă spun vouă: Nu toţi vom muri, dar toţi ne vom schimba,"
+        },
+        {
+          "verse": 52,
+          "text": "Deodată, într-o clipeală de ochi la trâmbiţa cea de apoi. Căci trâmbiţa va suna şi morţii vor învia nestricăcioşi, iar noi ne vom schimba."
+        },
+        {
+          "verse": 53,
+          "text": "Căci trebuie ca acest trup stricăcios să se îmbrace în nestricăciune şi acest (trup) muritor să se îmbrace în nemurire."
+        },
+        {
+          "verse": 54,
+          "text": "Iar când acest (trup) stricăcios se va îmbrăca în nestricăciune şi acest (trup) muritor se va îmbrăca în nemurire, atunci va fi cuvântul care este scris: \"Moartea a fost înghiţită de biruinţă."
+        },
+        {
+          "verse": 55,
+          "text": "Unde îţi este, moarte, biruinţa ta? Unde îţi este, moarte, boldul tău?\"."
+        },
+        {
+          "verse": 56,
+          "text": "Şi boldul morţii este păcatul, iar puterea păcatului este legea."
+        },
+        {
+          "verse": 57,
+          "text": "Dar să dăm mulţumire lui Dumnezeu, Care ne-a dat biruinţa prin Domnul nostru Iisus Hristos!"
+        },
+        {
+          "verse": 58,
+          "text": "Drept aceea, fraţii mei iubiţi, fiţi tari, neclintiţi, sporind totdeauna în lucrul Domnului, ştiind că osteneala voastră nu este zadarnică în Domnul."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Corinthians_16_01",
+      "chapter": 16,
+      "pericope_num": "01",
+      "title_en": "The Collection for the Saints",
+      "title_ro": "Colecta pentru sfinți",
+      "start_verse": 1,
+      "end_verse": 16,
+      "verse_count": 16,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Cât despre strângerea de ajutoare pentru sfinţi, precum am rânduit pentru Bisericile Galatiei, aşa să faceţi şi voi."
+        },
+        {
+          "verse": 2,
+          "text": "În ziua întâi a săptămânii (Duminică), fiecare dintre voi să-şi pună deoparte, strângând cât poate, ca să nu se facă strângerea abia atunci când voi veni."
+        },
+        {
+          "verse": 3,
+          "text": "Iar când voi veni, pe cei pe care îi veţi socoti, pe aceia îi voi trimite cu scrisori să ducă darul vostru la Ierusalim."
+        },
+        {
+          "verse": 4,
+          "text": "Şi de se va cuveni să merg şi eu, vor merge împreună cu mine."
+        },
+        {
+          "verse": 5,
+          "text": "Ci voi veni la voi, când voi trece prin Macedonia, căci prin Macedonia trec."
+        },
+        {
+          "verse": 6,
+          "text": "La voi mă voi opri, poate, sau voi şi ierna, ca să mă petreceţi în călătoria ce voi face."
+        },
+        {
+          "verse": 7,
+          "text": "Căci nu vreau să vă văd acum numai în treacăt, ci nădăjduiesc să rămân la voi câtăva vreme, dacă va îngădui Domnul."
+        },
+        {
+          "verse": 8,
+          "text": "Voi rămâne însă în Efes, până la praznicul Cincizecimii."
+        },
+        {
+          "verse": 9,
+          "text": "Căci mi s-a deschis uşă mare spre lucru mult, dar sunt mulţi potrivnici."
+        },
+        {
+          "verse": 10,
+          "text": "Iar de va veni Timotei, vedeţi să fie fără teamă la voi, căci lucrează ca şi mine lucrul Domnului."
+        },
+        {
+          "verse": 11,
+          "text": "Nimeni deci să nu-l dispreţuiască; ci să-l petreceţi cu pace, ca să vină la mine; că îl aştept cu fraţii."
+        },
+        {
+          "verse": 12,
+          "text": "Cât despre fratele Apollo, l-am rugat mult să vină la voi cu fraţii; totuşi nu i-a fost voia să vină acum. Ci va veni când va găsi prilej."
+        },
+        {
+          "verse": 13,
+          "text": "Privegheaţi, staţi tari în credinţă, îmbărbătaţi-vă, întăriţi-vă."
+        },
+        {
+          "verse": 14,
+          "text": "Toate ale voastre cu dragoste să se facă."
+        },
+        {
+          "verse": 15,
+          "text": "Vă îndemn însă, fraţilor, - ştiţi casa lui Ştefanas, că este pârga Ahaei şi că spre slujirea sfinţilor s-au rânduit pe ei înşişi S"
+        },
+        {
+          "verse": 16,
+          "text": "Ca şi voi să vă supuneţi unora ca aceştia şi oricui lucrează şi se osteneşte împreună cu ei."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Corinthians_16_02",
+      "chapter": 16,
+      "pericope_num": "02",
+      "title_en": "Plans for Travel",
+      "title_ro": "Planuri de călătorie",
+      "start_verse": 5,
+      "end_verse": 12,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 5,
+          "text": "Ci voi veni la voi, când voi trece prin Macedonia, căci prin Macedonia trec."
+        },
+        {
+          "verse": 6,
+          "text": "La voi mă voi opri, poate, sau voi şi ierna, ca să mă petreceţi în călătoria ce voi face."
+        },
+        {
+          "verse": 7,
+          "text": "Căci nu vreau să vă văd acum numai în treacăt, ci nădăjduiesc să rămân la voi câtăva vreme, dacă va îngădui Domnul."
+        },
+        {
+          "verse": 8,
+          "text": "Voi rămâne însă în Efes, până la praznicul Cincizecimii."
+        },
+        {
+          "verse": 9,
+          "text": "Căci mi s-a deschis uşă mare spre lucru mult, dar sunt mulţi potrivnici."
+        },
+        {
+          "verse": 10,
+          "text": "Iar de va veni Timotei, vedeţi să fie fără teamă la voi, căci lucrează ca şi mine lucrul Domnului."
+        },
+        {
+          "verse": 11,
+          "text": "Nimeni deci să nu-l dispreţuiască; ci să-l petreceţi cu pace, ca să vină la mine; că îl aştept cu fraţii."
+        },
+        {
+          "verse": 12,
+          "text": "Cât despre fratele Apollo, l-am rugat mult să vină la voi cu fraţii; totuşi nu i-a fost voia să vină acum. Ci va veni când va găsi prilej."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Corinthians_16_03",
+      "chapter": 16,
+      "pericope_num": "03",
+      "title_en": "Final Messages and Greetings",
+      "title_ro": "Mesaje finale și salutări",
+      "start_verse": 13,
+      "end_verse": 24,
+      "verse_count": 12,
+      "verses": [
+        {
+          "verse": 13,
+          "text": "Privegheaţi, staţi tari în credinţă, îmbărbătaţi-vă, întăriţi-vă."
+        },
+        {
+          "verse": 14,
+          "text": "Toate ale voastre cu dragoste să se facă."
+        },
+        {
+          "verse": 15,
+          "text": "Vă îndemn însă, fraţilor, - ştiţi casa lui Ştefanas, că este pârga Ahaei şi că spre slujirea sfinţilor s-au rânduit pe ei înşişi S"
+        },
+        {
+          "verse": 16,
+          "text": "Ca şi voi să vă supuneţi unora ca aceştia şi oricui lucrează şi se osteneşte împreună cu ei."
+        },
+        {
+          "verse": 17,
+          "text": "Mă bucur de venirea lui Ştefanas, a lui Fortunat şi a lui Ahaic, pentru că aceştia au împlinit lipsa voastră."
+        },
+        {
+          "verse": 18,
+          "text": "Şi au liniştit duhul meu şi al vostru. Cunoaşteţi bine deci pe unii ca aceştia."
+        },
+        {
+          "verse": 19,
+          "text": "Vă îmbrăţişează Bisericile Asiei. Vă îmbrăţişează mult, în Domnul, Acvila şi Priscila, împreună cu Biserica din casa lor."
+        },
+        {
+          "verse": 20,
+          "text": "Vă îmbrăţişează fraţii toţi. Îmbrăţişaţi-vă unii pe alţii cu sărutare sfântă."
+        },
+        {
+          "verse": 21,
+          "text": "Salutarea cu mâna mea, Pavel."
+        },
+        {
+          "verse": 22,
+          "text": "Cel ce nu iubeşte pe Domnul să fie anatema! Maran atha! (Domnul vine)."
+        },
+        {
+          "verse": 23,
+          "text": "Harul Domnului Iisus Hristos cu voi."
+        },
+        {
+          "verse": 24,
+          "text": "Dragostea mea cu voi toţi, în Hristos Iisus! Amin."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+---
+testament: NT
+book: Luke
+book_romanian: Luca
+chapter: 8
+pericope: 7
+pericope_title: "Jesus Calms a Storm"
+verses_start: 22
+verses_end: 25
+verses_total: 0
+language: ro
+english_source: "[[New Testament/Luke/(Luke 08.07) Jesus Calms a Storm]]"
+---
+# Jesus Calms a Storm
+
+22. Şi într-una din zile a intrat în corabie cu ucenicii Săi şi a zis către ei: Să trecem de cealaltă parte a lacului. Şi au plecat.
+23. Dar, pe când ei vâsleau, El a adormit. Şi s-a lăsat pe lac o furtună de vânt, şi corabia se umplea de apă şi erau în primejdie.
+24. Şi, apropiindu-se, L-au deşteptat, zicând: Învăţătorule, Învăţătorule, pierim. Iar El, sculându-Se, a certat vântul şi valul apei şi ele au încetat şi s-a făcut linişte.
+25. Şi le-a zis: Unde este credinţa voastră? Iar ei, temându-se, s-au mirat, zicând unii către alţii: Oare cine este Acesta, că porunceşte şi vânturilor şi apei, şi-L ascultă?

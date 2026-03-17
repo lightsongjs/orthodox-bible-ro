@@ -1,0 +1,27 @@
+---
+testament: NT
+book: John
+book_romanian: Ioan
+chapter: 6
+pericope: 4
+pericope_title: "The Words of Eternal Life"
+verses_start: 60
+verses_end: 71
+verses_total: 0
+language: ro
+english_source: "[[New Testament/John/(John 06.04) The Words of Eternal Life]]"
+---
+# The Words of Eternal Life
+
+60. Deci mulţi din ucenicii Lui, auzind, au zis: Greu este cuvântul acesta! Cine poate să-l asculte?
+61. Iar Iisus, ştiind în Sine că ucenicii Lui murmură împotriva Lui, le-a zis: Vă sminteşte aceasta?
+62. Dacă veţi vedea pe Fiul Omului, suindu-Se acolo unde era mai înainte?
+63. Duhul este cel ce dă viaţă; trupul nu foloseşte la nimic. Cuvintele pe care vi le-am spus sunt duh şi sunt viaţă.
+64. Dar sunt unii dintre voi care nu cred. Căci Iisus ştia de la început cine sunt cei ce nu cred şi cine este cel care Îl va vinde.
+65. Şi zicea: De aceea am spus vouă că nimeni nu poate să vină la Mine, dacă nu-i este dat de la Tatăl.
+66. Şi de atunci mulţi dintre ucenicii Săi s-au dus înapoi şi nu mai umblau cu El.
+67. Deci a zis Iisus celor doisprezece: Nu vreţi şi voi să vă duceţi?
+68. Simon Petru I-a răspuns: Doamne, la cine ne vom duce? Tu ai cuvintele vieţii celei veşnice.
+69. Şi noi am crezut şi am cunoscut că Tu eşti Hristosul, Fiul Dumnezeului Celui viu.
+70. Le-a răspuns Iisus: Oare, nu v-am ales Eu pe voi, cei doisprezece? Şi unul dintre voi este diavol!
+71. Iar El zicea de Iuda al lui Simon Iscarioteanul, căci acesta, unul din cei doisprezece fiind, avea să-L vândă.

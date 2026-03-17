@@ -1,0 +1,688 @@
+{
+  "id": 64,
+  "book_number": 25,
+  "name_en": "Lamentations",
+  "name_ro": "Plangeri",
+  "testament": "OT",
+  "chapter_count": 5,
+  "pericope_count": 5,
+  "url": "https://www.bibliaortodoxa.ro/carte.php?id=64",
+  "pericopes": [
+    {
+      "pericope_id": "Lamentations_01_01",
+      "chapter": 1,
+      "pericope_num": "01",
+      "title_en": "The Deserted City",
+      "title_ro": "Cetatea pustie",
+      "start_verse": 1,
+      "end_verse": 22,
+      "verse_count": 22,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "O, cum a rămas pustie cetatea cea cu mult popor! Cum a ajuns ca o văduvă cea mai de frunte dintre neamuri; doamna cetăţilor a ajuns birnică."
+        },
+        {
+          "verse": 2,
+          "text": "Noaptea plânge întruna cu lacrimi pe obraz şi dintre toţi câţi o iubeau, nici unul n-o mai mângâie; toţi prietenii au devenit duşmani."
+        },
+        {
+          "verse": 3,
+          "text": "Iuda s-a dus în robie, la suferinţă şi la muncă grea; sălăşluieşte printre neamuri şi nu-şi află odihnă. Toţi asupritorii lui l-au prins la strâmtorare."
+        },
+        {
+          "verse": 4,
+          "text": "Toate căile Sionului sunt pline de jale şi nimeni nu mai vine la sărbătoare. Toate porţile (cetăţii) sunt pustii, preoţii ei suspină; fecioarele sunt deznădăjduite şi ea este plină de amar."
+        },
+        {
+          "verse": 5,
+          "text": "Vrăjmaşii ei sunt biruitori, duşmanii ei sunt cu voie bună; căci Domnul a umilit-o din pricina multelor ei păcate, iar feciorii ei au plecat în robie înaintea asupritorului."
+        },
+        {
+          "verse": 6,
+          "text": "Aşa şi-a irosit fiica Sionului toată strălucirea! Căpeteniile ei sunt asemenea cerbilor care nu află păşune şi fug sleiţi de puteri dinaintea urmăritorului."
+        },
+        {
+          "verse": 7,
+          "text": "Ierusalimul îşi aduce aminte de zilele ticăloşiei lui şi ale rătăcirii lui, de toate strălucirile pe care le-a avut în străvechile vremuri. Acum însă, când poporul a căzut în mâna vrăjmaşului şi când nimeni nu-i poate veni în ajutor, duşmanii lui se uită la el şi râd de prăbuşirea lui."
+        },
+        {
+          "verse": 8,
+          "text": "Ierusalimul a păcătuit de moarte, pentru aceasta a ajuns de spaimă; toţi cei ce-l cinsteau nu-l mai iau în seamă, căci au văzut goliciunea lui, iar el suspină şi îşi întoarce faţa."
+        },
+        {
+          "verse": 9,
+          "text": "Necurăţia lui e lipită de poala hainelor lui căci la sfârşitul lui el nu s-a gândit. El s-a prăbuşit în chip uluitor şi n-are pe nimeni să-l mângâie! \"Vezi, Doamne, necazul meu, căci vrăjmaşul biruieşte\"."
+        },
+        {
+          "verse": 10,
+          "text": "Duşmanii au întins mâna spre toate vistieriile lui. El a văzut neamuri intrând în templul său, neamuri cărora le-ai dat poruncă: \"Să nu intre în obştea ta!\""
+        },
+        {
+          "verse": 11,
+          "text": "Tot poporul Tău suspină căutând pâine, şi îşi dau odoarele lor pentru mâncare, ca să-şi ţină viaţa. Vezi, Doamne, şi ia aminte cum am ajuns de ocară!"
+        },
+        {
+          "verse": 12,
+          "text": "O, voi trecătorilor, priviţi şi vedeţi dacă este vreo durere ca aceea care mă copleşeşte şi cu care Domnul m-a umplut de necaz în ziua întăririi mâniei Lui."
+        },
+        {
+          "verse": 13,
+          "text": "Foc a trimis de sus peste oasele mele şi m-a smerit, picioarelor mele le-a întins cursă, şi m-a făcut să dau înapoi; pustiitu-m-a cu totul, iar eu toată ziua bolesc."
+        },
+        {
+          "verse": 14,
+          "text": "Jugul păcatelor mele mi-a fost legat de gât de către mâna Lui; strânse ca într-un mănunchi, ele atârnă de grumazul meu; El a făcut să se destrame puterea mea şi m-a dat în mâna celor cărora nu puteam să mă împotrivesc."
+        },
+        {
+          "verse": 15,
+          "text": "Domnul a spulberat pe toţi voinicii din mijlocul meu, El a chemat oaste împotriva mea, ca să sfărâme pe voinicii mei. Stăpânul a toate a strivit ca în teasc pe fecioara, fiica lui Iuda."
+        },
+        {
+          "verse": 16,
+          "text": "Pentru aceasta eu plâng mereu, din ochii mei izvorăsc lacrimi, căci departe de mine este Mângâietorul, Cel ce-mi îmbărbăta inima. Feciorii mei cu toţii au fost daţi pieirii, căci duşmanul a avut biruinţă."
+        },
+        {
+          "verse": 17,
+          "text": "Sionul întinde mâinile sale şi nimeni nu-l mângâie! Domnul a dat poruncă tuturor vrăjmaşilor lui Iacov ca să-l împresoare. Ajuns-a Ierusalimul înaintea ochilor lor ca un lucru spurcat."
+        },
+        {
+          "verse": 18,
+          "text": "Drept este Domnul, căci împotriva poruncilor Lui m-am răzvrătit. Luaţi aminte, voi, toate popoarele, şi vedeţi necazul meu: fecioarele mele şi flăcăii mei au fost duşi în robie."
+        },
+        {
+          "verse": 19,
+          "text": "Strigat-am către iubiţii mei, dar ei m-au înşelat; preoţii mei şi bătrânii mei au pierit în cetate, când căutau hrană ca să-şi ţină viaţa."
+        },
+        {
+          "verse": 20,
+          "text": "Vezi, Doamne, cât sunt de strâmtorat, lăuntrul meu arde! Inima mea se zbuciumă în trupul meu, pentru că m-am răzvrătit foarte. Afară sabia seceră pe feciorii mei, iar înăuntru, moartea."
+        },
+        {
+          "verse": 21,
+          "text": "Toţi aud suspinul meu, dar nimeni nu mă mângâie! Toii duşmanii, aflând de nenorocirea mea, se bucură că ai făcut aşa. Să vină peste ei ziua pe care ai făgăduit-o şi să ajungă şi ei ca mine!"
+        },
+        {
+          "verse": 22,
+          "text": "Toată fărădelegea lor să vină înaintea Ta şi să le faci lor precum mi-ai făcut mie, pentru toate păcatele mele! Căci suspinele mele sunt fără de număr, iar inima mea boleşte!"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Lamentations_02_01",
+      "chapter": 2,
+      "pericope_num": "01",
+      "title_en": "God's Warnings Fulfilled",
+      "title_ro": "Avertismentele lui Dumnezeu împlinite",
+      "start_verse": 1,
+      "end_verse": 22,
+      "verse_count": 22,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "O, cum a acoperit cu nori Domnul întru mânia Lui pe fiica Sionului! Din cer a aruncat pe pământ măreţia lui Israel şi în ziua mâniei Sale nu şi-a adus aminte de aşternutul picioarelor Sale."
+        },
+        {
+          "verse": 2,
+          "text": "Domnul a nimicit fără milă toate sălaşele lui Iacov; întru întărâtarea urgiei Lui a doborât la pământ întăriturile fiicei lui Iuda; le-a făcut una cu pământul, a pângărit regatul şi căpeteniile lui."
+        },
+        {
+          "verse": 3,
+          "text": "Întru aprinderea mâniei Lui a zdrobit toată puterea lui Israel; înaintea duşmanului şi-a tras dreapta înapoi. El a aprins pe Iacov cu un foc arzător care prăpădeşte de jur împrejur."
+        },
+        {
+          "verse": 4,
+          "text": "El a încordat arcul Său ca un duşman, dreapta Sa a stat gata ca a unui vrăjmaş şi a ucis tot ce desfăta ochiul în cortul fiicei Sionului; vărsat-a ca un foc mânia Lui."
+        },
+        {
+          "verse": 5,
+          "text": "Stăpînul s-a arătat ca un dușman nimicind Israelul; i-a dărîmat toate palatele şi cetăţile întărite şi asupra fiicei lui Iuda a adus multă supărare."
+        },
+        {
+          "verse": 6,
+          "text": "Prăbuşit-a la pământ ca pe o dumbravă cortul lui, stricat-a locul de sărbătoare. Domnul a făcut să se uite zilele de odihnă în Sion, dispreţuind, în văpaia mâniei Lui, pe rege şi pe preot."
+        },
+        {
+          "verse": 7,
+          "text": "Dispreţuit-a Domnul jertfelnicul Său şi S-a îndepărtat de locaşul Său cel sfânt; dat-a zidurile palatelor Sale în mâna duşmanilor care au strigat în templul Domnului ca în zilele de sărbătoare."
+        },
+        {
+          "verse": 8,
+          "text": "Găsit-a Domnul cu cale să surpe zidurile fiicei Sionului; întins-a funia şi n-a tras înapoi mâna Sa, până nu le-a nimicit. El a întins jalea peste ziduri şi întărituri, ce stau laolaltă dărăpănate."
+        },
+        {
+          "verse": 9,
+          "text": "Porţile lui s-au afundat în pământ, zăvoarele lor El le-a sfărâmat; regele lui şi căpeteniile sunt pribegi printre neamuri. Lege nu mai au, chiar şi profeţii nu mai primesc vedenii de la Domnul."
+        },
+        {
+          "verse": 10,
+          "text": "Stau la pământ şi tac bătrânii fiicei Sionului; pe capul lor şi-au pus ţărână şi s-au încins cu sac; la pământ îşi pleacă fecioarele Ierusalimului capetele lor."
+        },
+        {
+          "verse": 11,
+          "text": "Ochii mei se sfârşesc de plâns, lăuntrul meu arde ca văpaia, măruntaiele mele fierb şi fierea mi se varsă pe pământ din pricina zdrobirii fiicei neamului meu, când copiii şi pruncii stau sleiţi de putere în pieţele cetăţii,"
+        },
+        {
+          "verse": 12,
+          "text": "Zicând mamei lor: \"Unde este pâine, unde este vin?\" Ei cad sleiţi de putere ca doborâţi de sabie pe pieţele cetăţii şi îşi dau sufletul la sânul maicii lor."
+        },
+        {
+          "verse": 13,
+          "text": "Cu cine te voi asemăna, cu cine aş putea să te pun alături, o, fiică a Ierusalimului! Cu cine te-aş pune faţă în faţă, ca să te pot mângâia, o, fecioară, fiică a Sionului? Căci neţărmurită ca marea este năruirea ta! Cine ar putea să te tămăduiască?"
+        },
+        {
+          "verse": 14,
+          "text": "Profeţii tăi au avut pentru tine vedenii zadarnice şi arătări şi nu ţi-au dat pe faţă fărădelegea ta, ca să-ţi schimbe calea ta, ci ţi-au arătat vedenii înşelătoare şi aducătoare de pieire."
+        },
+        {
+          "verse": 15,
+          "text": "Bat spre tine din palme toţi cei ce trec pe cale, fluieră şi clatină din cap pentru fiica Ierusalimului: \"Aceasta este, oare, cetatea pe care o numeau cununa frumuseţii, bucuria a tot pământul?\""
+        },
+        {
+          "verse": 16,
+          "text": "Către tine toţi vrăjmaşii tăi cască gura lor, fluieră, scrâşnesc din dinţi, zicând: \"Am nimicit-o. Da, aceasta este ziua pe care noi o aşteptam; am aflat-o şi o vedem\"."
+        },
+        {
+          "verse": 17,
+          "text": "Împlinit-a Domnul hotărârea Sa, adus-a la îndeplinire cuvântul Său, spus din zilele străvechi; prăbuşit-a fără milă, bucurat-a pe vrăjmaşul tău, înălţat-a puterea apăsătorilor tăi."
+        },
+        {
+          "verse": 18,
+          "text": "Strigă către Domnul, tu fecioară, fiică a Sionului! Să curgă lacrimile tale ca un şuvoi, zi şi noapte; nu înceta, ochiul tău să nu zăbovească!"
+        },
+        {
+          "verse": 19,
+          "text": "Scoală, jeleşte-te în timpul nopţii, la început do strajă; varsă-ţi inima ta ca apa înaintea feţei Celui Atotstăpânitor. Către El ridică mâna ta pentru viata pruncilor tăi, care se prăpădesc de foame la colţul tuturor uliţelor."
+        },
+        {
+          "verse": 20,
+          "text": "Vezi, o, Doamne, şi priveşte cui ai făcut aceasta! Să mănânce femeile rodul pântecelui lor, copiii pe care îi poartă în braţe? Să fie ucişi în templu, Doamne, preotul şi profetul?"
+        },
+        {
+          "verse": 21,
+          "text": "Stau culcaţi la pământ pe uliţe tânăr şi bătrân. Fecioarele şi flăcăii mei de sabie au căzut; Tu i-ai ucis în ziua mâniei Tale, jertfitu-i-ai fără de milă."
+        },
+        {
+          "verse": 22,
+          "text": "Chemat-ai ca la sărbătoare pe toţi cei ce au sălaş în jurul meu. Şi în ziua mâniei Domnului n-a scăpat, nici n-a rămas vreunul; pe cei care i-am purtat în braţe şi i-am făcut mari, mi i-a nimicit duşmanul."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Lamentations_03_01",
+      "chapter": 3,
+      "pericope_num": "01",
+      "title_en": "God's Steadfast Love Endures",
+      "title_ro": "Dragostea neclintită a lui Dumnezeu dăinuiește",
+      "start_verse": 1,
+      "end_verse": 66,
+      "verse_count": 66,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Eu sunt omul care am văzut nenorocirea sub varga aprinderii Lui."
+        },
+        {
+          "verse": 2,
+          "text": "El m-a purtat şi m-a dus în întuneric şi în beznă."
+        },
+        {
+          "verse": 3,
+          "text": "Da, împotriva mea întoarce şi iar întoarce în toată vremea mâna Sa."
+        },
+        {
+          "verse": 4,
+          "text": "Mistuit-a trupul meu şi pielea mea, zdrobit-a oasele mele;"
+        },
+        {
+          "verse": 5,
+          "text": "A ridicat zid împotriva mea şi m-a înconjurat de venin şi de zbucium,"
+        },
+        {
+          "verse": 6,
+          "text": "Mutându-mă în împărăţia morii, ca pe morţii cei din veac."
+        },
+        {
+          "verse": 7,
+          "text": "M-a împrejmuit cu zid şi n-am pe unde să ies, îngreuiat-a lanţurile mele;"
+        },
+        {
+          "verse": 8,
+          "text": "Chiar când strig şi răcnesc, rugăciunea mea nu se aude;"
+        },
+        {
+          "verse": 9,
+          "text": "El a astupat cărările mele cu piatră şi a întortochiat potecile mele."
+        },
+        {
+          "verse": 10,
+          "text": "El a ajuns pentru mine ca un urs la pândă, ca un leu în ascunzătoare."
+        },
+        {
+          "verse": 11,
+          "text": "Rătăcit-a căile mele, m-a sfâşiat şi m-a pustiit;"
+        },
+        {
+          "verse": 12,
+          "text": "A încordat arcul Său şi m-a aşezat ca ţintă săgeţii Sale,"
+        },
+        {
+          "verse": 13,
+          "text": "Trimiţând în rărunchii mei pe fiii tolbei Sale."
+        },
+        {
+          "verse": 14,
+          "text": "Făcutu-m-am de râs faţă de poporul meu, cântecul lor de batjocură în fiecare zi."
+        },
+        {
+          "verse": 15,
+          "text": "El m-a săturat de amărăciuni, adăpatu-m-a cu pelin."
+        },
+        {
+          "verse": 16,
+          "text": "A zdrobit de piatră dinţii mei şi m-a afundat în cenuşă."
+        },
+        {
+          "verse": 17,
+          "text": "Tu ai răpit pacea sufletului meu, uitat-am fericirea"
+        },
+        {
+          "verse": 18,
+          "text": "ţi am zis: \"S-a dus puterea vieţii mele şi nădejdea mea în Domnul\"."
+        },
+        {
+          "verse": 19,
+          "text": "Adu-ţi aminte de nevoia şi necazul meu, de pelin şi otravă!"
+        },
+        {
+          "verse": 20,
+          "text": "Să-ţi aduci aminte că împovărat este în mine sufletul meu."
+        },
+        {
+          "verse": 21,
+          "text": "Aceasta voi pune-o la inimă, de aceea voi nădăjdui:"
+        },
+        {
+          "verse": 22,
+          "text": "Milele Domnului nu s-au sfârşit, milostivirile Lui nu încetează."
+        },
+        {
+          "verse": 23,
+          "text": "În fiecare dimineaţă sunt altele, credincioşia Ta este mare!"
+        },
+        {
+          "verse": 24,
+          "text": "\"Partea mea este Domnul, a zis sufletul meu, de aceea voi nădăjdui în El\"."
+        },
+        {
+          "verse": 25,
+          "text": "Bun este Domnul cu cei ce se încred în El, pentru omul care Îl caută."
+        },
+        {
+          "verse": 26,
+          "text": "Bine este să aştepţi în tăcere ajutorul Domnului."
+        },
+        {
+          "verse": 27,
+          "text": "Bine este omului să poarte un jug din tinereţile lui."
+        },
+        {
+          "verse": 28,
+          "text": "Să stea la o parte în tăcere, dacă Domnul îi dă poruncă!"
+        },
+        {
+          "verse": 29,
+          "text": "Să atingă pulberea cu buzele lui; poate mai este nădejde!"
+        },
+        {
+          "verse": 30,
+          "text": "Să dea obrazul lui spre lovire şi să se sature de ocară!"
+        },
+        {
+          "verse": 31,
+          "text": "Căci Domnul nu aruncă pe oameni pentru totdeauna;"
+        },
+        {
+          "verse": 32,
+          "text": "Ci El pedepseşte şi are milă după mulţimea milelor Lui."
+        },
+        {
+          "verse": 33,
+          "text": "Că nu de bună voie umileşte şi pedepseşte pe fiii oamenilor."
+        },
+        {
+          "verse": 34,
+          "text": "Când călcăm în picioare pe toţi robii pământului,"
+        },
+        {
+          "verse": 35,
+          "text": "Când călcăm dreptatea omului înaintea feţei Celui Preaînalt,"
+        },
+        {
+          "verse": 36,
+          "text": "Când nu dăm dreptate cuiva în pricina lui, oare Stăpânul a toate nu vede?"
+        },
+        {
+          "verse": 37,
+          "text": "Cine este Cel ce a grăit şi s-a făcut, fără numai Domnul, Care a poruncit?"
+        },
+        {
+          "verse": 38,
+          "text": "Nu iese oare din gura Celui Preaînalt binele şi răul?"
+        },
+        {
+          "verse": 39,
+          "text": "De ce suspină omul toată viaţa, fiecare pentru păcatul lui?"
+        },
+        {
+          "verse": 40,
+          "text": "Să cercetăm căile noastre, luând aminte şi întorcându-ne la Domnul!"
+        },
+        {
+          "verse": 41,
+          "text": "Să ridicăm inimile şi mâinile noastre la Domnul din cer!"
+        },
+        {
+          "verse": 42,
+          "text": "Noi am păcătuit şi ne-am răzvrătit şi Tu ne-ai iertat."
+        },
+        {
+          "verse": 43,
+          "text": "Tu Te-ai învesmântat cu mânie şi ne-ai urmărit; Tu ai ucis fără milă;"
+        },
+        {
+          "verse": 44,
+          "text": "Tu Te-ai ascuns în nori, ca să nu străbată rugăciunea la Tine;"
+        },
+        {
+          "verse": 45,
+          "text": "Tu ai făcut din mine o măturătură şi un gunoi, în mijlocul popoarelor."
+        },
+        {
+          "verse": 46,
+          "text": "Toţi duşmanii noştri au deschis gura împotriva noastră;"
+        },
+        {
+          "verse": 47,
+          "text": "De spaimă şi de groapă am avut parte, de pustiire şi de ruină."
+        },
+        {
+          "verse": 48,
+          "text": "Şuvoaie de apă lăcrimează ochiul meu, din pricina prăpădului fiicei poporului meu."
+        },
+        {
+          "verse": 49,
+          "text": "Ochiul meu varsă lacrimi fără încetare, căci nu este uşurare,"
+        },
+        {
+          "verse": 50,
+          "text": "Până să se uite în jos şi să privească Domnul din ceruri."
+        },
+        {
+          "verse": 51,
+          "text": "Ochiul meu mă doare din pricina fiicelor cetăţii mele."
+        },
+        {
+          "verse": 52,
+          "text": "Ca pe o pasăre m-au vânat fără cuvânt vrăjmaşii mei,"
+        },
+        {
+          "verse": 53,
+          "text": "Au vrut să nimicească în groapă viaţa mea, şi au aruncat cu pietre în mine."
+        },
+        {
+          "verse": 54,
+          "text": "Ape năvăleau peste capul meu şi cugetam: \"Sunt pierdut!\""
+        },
+        {
+          "verse": 55,
+          "text": "Chemat-am numele Tău, Doamne, din groapa cea mai dedesubt."
+        },
+        {
+          "verse": 56,
+          "text": "Tu ai auzit glasul meu: \"Nu astupa urechea la suspinul şi strigătul meu\"."
+        },
+        {
+          "verse": 57,
+          "text": "Tu erai aproape în ziua când Te-am strigat şi ai zis: \"Nu-ţi fie frică!\""
+        },
+        {
+          "verse": 58,
+          "text": "O, Doamne, Tu ai judecat pricina mea, Tu ai izbăvit viaţa mea!"
+        },
+        {
+          "verse": 59,
+          "text": "Văzut-ai, Doamne, apăsarea mea, ajută-mi şi-mi fă dreptate!"
+        },
+        {
+          "verse": 60,
+          "text": "Tu ai văzut toată răzbunarea lor, toate uneltirile lor împotriva mea;"
+        },
+        {
+          "verse": 61,
+          "text": "O, Doamne, Tu ai auzit ocările lor, toate chibzuielile lor împotriva mea,"
+        },
+        {
+          "verse": 62,
+          "text": "Graiurile potrivnicilor mei şi gândul lor ascuns împotriva mea."
+        },
+        {
+          "verse": 63,
+          "text": "Priveşte: de stau sau de se scoală, eu sunt de râsul lor!"
+        },
+        {
+          "verse": 64,
+          "text": "Răsplăteşte-le, Doamne, după faptele mâinilor lor,"
+        },
+        {
+          "verse": 65,
+          "text": "Dă-le învârtoşare inimii, blestemul Tău să fie pentru ei!"
+        },
+        {
+          "verse": 66,
+          "text": "Urmăreşte-i cu mânie şi nimiceşte-i sub cerurile Tale, Doamne!"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Lamentations_04_01",
+      "chapter": 4,
+      "pericope_num": "01",
+      "title_en": "The Punishment of Zion",
+      "title_ro": "Pedeapsa Sionului",
+      "start_verse": 1,
+      "end_verse": 22,
+      "verse_count": 22,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "O, cum s-a întunecat aurul, şi cel mai curat aur şi-a schimbat faţa; pietrele nestemate vărsate au fost la colţul tuturor uliţelor!"
+        },
+        {
+          "verse": 2,
+          "text": "Feciorii Sionului, cei mai de seamă altădată, cântăriţi cu aur, cum au ajuns să fie socotiţi ca vasele de lut, lucru de mână de olar!"
+        },
+        {
+          "verse": 3,
+          "text": "Chiar şi şacalii îşi dau sânul, ca puii lor să sugă, dar fiica poporului meu ajuns-a crudă, ca struţii în pustiu."
+        },
+        {
+          "verse": 4,
+          "text": "Din pricina setei lipitu-s-a limba sugaciului de cerul gurii lui; copiii cer pâine, dar nimeni nu le-o întinde."
+        },
+        {
+          "verse": 5,
+          "text": "Cei care mâncau odinioară mâncăruri alese cad de foame pe uliţe; cei care au fost crescuţi în purpură stau trântiţi în gunoi."
+        },
+        {
+          "verse": 6,
+          "text": "Vina fiicei poporului meu a fost mai mare decât a Sodomei, prăbuşită într-o clipă, nu de mână omenească."
+        },
+        {
+          "verse": 7,
+          "text": "Căpeteniile ei erau mai strălucitoare decât zăpada, mai albe decât laptele; trupul lor era mai roşu decât mărgeanul, ca safirul era înfăţişarea lor."
+        },
+        {
+          "verse": 8,
+          "text": "Chipul lor a ajuns mai negru decât funinginea, pe uliţe nu-i poţi cunoaşte; pielea lor s-a zbârcit pe oase, s-a uscat ca o aşchie de lemn."
+        },
+        {
+          "verse": 9,
+          "text": "Mai fericiţi au fost cei care au căzut de sabie, decât cei morţi de foame, care se prăpădesc încet, doborâţi de lipsa roadelor de pe câmp."
+        },
+        {
+          "verse": 10,
+          "text": "Femeile, deşi miloase, au fiert cu mâinile lor copiii şi i-au mâncat în vremea căderii fiicei poporului meu."
+        },
+        {
+          "verse": 11,
+          "text": "Sfârşit-a Domnul mânia, vărsat-a pe deplin urgia aprinderii Lui; şi în Sion a aprins un fac care l-a mistuit."
+        },
+        {
+          "verse": 12,
+          "text": "Nici n-ar fi putut să creadă regii pământului şi toţi locuitorii lumii că vrăjmaşul şi apăsătorul ar putea să intre pe porţile Ierusalimului!"
+        },
+        {
+          "verse": 13,
+          "text": "Dar s-a întâmplat, din pricina păcatelor profeţilor (mincinoşi) şi a fărădelegilor preoţilor, care au vărsat în mijlocul lui sângele celor drepţi."
+        },
+        {
+          "verse": 14,
+          "text": "Pe uliţe rătăceau pătaţi de sânge, şi nimeni nu se atingea de hainele lor."
+        },
+        {
+          "verse": 15,
+          "text": "\"Păziţi-vă! Un necurat!\" Striga lumea după ei. \"Fugiţi, la o parte, nu-i atingeţi!\" Şi dacă mai voiesc să rătăcească undeva - se zicea printre neamuri - n-ar trebui să rămână aici!"
+        },
+        {
+          "verse": 16,
+          "text": "Faţa plină de mânie a Domnului i-a risipit pe ei. Pe preoţi nimeni nu-i mai lua în seamă, de bătrâni nu se îndura."
+        },
+        {
+          "verse": 17,
+          "text": "Şi ochii noştri se sting de supărare, aşteptând zadarnic un ajutor! Din turnul nostru ne-am uitat departe spre un popor al cărui ajutor nu vine."
+        },
+        {
+          "verse": 18,
+          "text": "Şi pândeau paşii noştri ca să nu umblăm prin pieţele noastre. Sfârşitul nostru se apropia, sosise!"
+        },
+        {
+          "verse": 19,
+          "text": "Prigonitorii noştri erau mai iuţi decât vulturii de pe cer; umblau după noi prin munţi, ne pândeau în pustiu."
+        },
+        {
+          "verse": 20,
+          "text": "Suflarea vieţii noastre, unsul Domnului, a fost prins în groapa lor - acela despre care noi ziceam: \"La umbra lui vom vieţui printre popoare\"."
+        },
+        {
+          "verse": 21,
+          "text": "Bucură-te şi te veseleşte, fiica Edomului, tu care locuieşti în pământul Uţ; şi la tine va veni cupa; vei bea şi te vei lăsa goală."
+        },
+        {
+          "verse": 22,
+          "text": "Fărădelegea ta, o, fiică a Sionului, s-a sfârşit; la fel robia. Dar ţie îţi cercetează păcatele, o, fiică a Edomului, şi dă pe faţă fărădelegile tale!"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Lamentations_05_01",
+      "chapter": 5,
+      "pericope_num": "01",
+      "title_en": "A Plea for Mercy",
+      "title_ro": "O rugăminte pentru milă",
+      "start_verse": 1,
+      "end_verse": 22,
+      "verse_count": 22,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Adu-ţi aminte, Doamne, de cele întâmplate, şi vezi ocara noastră!"
+        },
+        {
+          "verse": 2,
+          "text": "Moştenirea şi casele noastre au căzut în mâna celor străini, de alt neam."
+        },
+        {
+          "verse": 3,
+          "text": "Am ajuns orfani, fără de tată, mamele noastre sunt văduve."
+        },
+        {
+          "verse": 4,
+          "text": "Bem apa noastră cu bani, lemnele noastre le primim cu plată."
+        },
+        {
+          "verse": 5,
+          "text": "Pe grumajii noştri stau prigonitorii şi, deşi n-avem puteri, nu ne dau răgaz."
+        },
+        {
+          "verse": 6,
+          "text": "Întindem mâna către Egipt şi Asiria ca să ne sature de pâine."
+        },
+        {
+          "verse": 7,
+          "text": "Părinţii noştri au greşit şi nu mai sunt, dar noi purtăm fărădelegile lor."
+        },
+        {
+          "verse": 8,
+          "text": "Slugi ne stăpânesc şi nimeni nu vine să ne scoată din mina lor."
+        },
+        {
+          "verse": 9,
+          "text": "Cu primejdia vieţii noastre ne agonisim pâinea, în faţa sabiei care ne ameninţă în pustiu."
+        },
+        {
+          "verse": 10,
+          "text": "Pielea noastră s-a înnegrit ca un cuptor de văpaia foametei."
+        },
+        {
+          "verse": 11,
+          "text": "Ei au batjocorit femeile în Sion, fecioarele din cetăţile lui Iuda."
+        },
+        {
+          "verse": 12,
+          "text": "Căpeteniile au fost spânzurate de mâna lor, feţele bătrânilor nu au mai fost luate în seamă."
+        },
+        {
+          "verse": 13,
+          "text": "Flăcăii au învârtit la râşniţă şi tinerii s-au poticnit cărând lemne."
+        },
+        {
+          "verse": 14,
+          "text": "Bătrânii nu mai stau la poartă, cei tineri nu mai cântă din alăute."
+        },
+        {
+          "verse": 15,
+          "text": "S-a dus veselia inimii noastre, jocul nostru s-a schimbat în plâns."
+        },
+        {
+          "verse": 16,
+          "text": "Căzut-a cununa de pe capul nostru; vai nouă, că am păcătuit!"
+        },
+        {
+          "verse": 17,
+          "text": "Pentru aceasta inima noastră tânjeşte şi ochii s-au întunecat."
+        },
+        {
+          "verse": 18,
+          "text": "Muntele Sionului a rămas pustiu şi pe el se plimbă vulpile."
+        },
+        {
+          "verse": 19,
+          "text": "Tu, Doamne, împărăţeşti în veci şi scaunul Tău în neam de neam!"
+        },
+        {
+          "verse": 20,
+          "text": "Pentru ce vrei să ne uiţi, să ne părăseşti atât de multă vreme?"
+        },
+        {
+          "verse": 21,
+          "text": "Întoarce-Te către noi şi ne vom întoarce; înnoieşte zilele noastre ca în vremea cea de demult!"
+        },
+        {
+          "verse": 22,
+          "text": "Sau Tu ne-ai urgisit şi Te-ai mâniat pe noi, fără măsură?"
+        }
+      ]
+    }
+  ]
+}

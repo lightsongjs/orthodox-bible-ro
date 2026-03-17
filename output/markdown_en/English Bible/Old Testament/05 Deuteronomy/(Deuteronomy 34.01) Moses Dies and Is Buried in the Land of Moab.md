@@ -1,0 +1,25 @@
+---
+testament: OT
+book: Deuteronomy
+chapter: 34
+pericope: 1
+pericope_title: "Moses Dies and Is Buried in the Land of Moab"
+verses_start: 2
+verses_end: 34
+verses_total: 0
+language: en
+---
+# Moses Dies and Is Buried in the Land of Moab
+
+34. Then Moses went up from the plains of Moab to Mount Nebo, to the top of Pisgah, which is opposite Jericho, and theLordshowed him the whole land: Gilead as far as Dan,
+2. all Naphtali, the land of Ephraim and Manasseh, all the land of Judah as far as the Western Sea,
+3. the Negeb, and the Plain—that is, the valley of Jericho, the city of palm trees—as far as Zoar.
+4. TheLordsaid to him, “This is the land of which I swore to Abraham, to Isaac, and to Jacob, saying, ‘I will give it to your descendants’; I have let you see it with your eyes, but you shall not cross over there.”
+5. Then Moses, the servant of theLord, died there in the land of Moab, at theLord’s command.
+6. He was buried in a valley in the land of Moab, opposite Beth-peor, but no one knows his burial place to this day.
+7. Moses was one hundred twenty years old when he died; his sight was unimpaired and his vigor had not abated.
+8. The Israelites wept for Moses in the plains of Moab thirty days; then the period of mourning for Moses was ended.
+9. Joshua son of Nun was full of the spirit of wisdom, because Moses had laid his hands on him; and the Israelites obeyed him, doing as theLordhad commanded Moses.
+10. Never since has there arisen a prophet in Israel like Moses, whom theLordknew face to face.
+11. He was unequaled for all the signs and wonders that theLordsent him to perform in the land of Egypt, against Pharaoh and all his servants and his entire land,
+12. and for all the mighty deeds and all the terrifying displays of power that Moses performed in the sight of all Israel.

@@ -1,0 +1,2472 @@
+{
+  "id": 74,
+  "book_number": 45,
+  "name_en": "Wisdom of Solomon",
+  "name_ro": "Solomon",
+  "testament": "OT",
+  "chapter_count": 19,
+  "pericope_count": 45,
+  "url": "https://www.bibliaortodoxa.ro/carte.php?id=74",
+  "pericopes": [
+    {
+      "pericope_id": "Wisdom_01_01",
+      "chapter": 1,
+      "pericope_num": "01",
+      "title_en": "Exhortation to Uprightness",
+      "title_ro": "Îndemn la neprihănire",
+      "start_verse": 1,
+      "end_verse": 15,
+      "verse_count": 15,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Iubiţi dreptatea, judecători ai pământului; cugetaţi drept despre Domnul şi căutaţi-L cu inimă smerită,"
+        },
+        {
+          "verse": 2,
+          "text": "Căci El Se lasă găsit celor care nu-L ispitesc şi Se arată celor care au credinţă în El."
+        },
+        {
+          "verse": 3,
+          "text": "Într-adevăr, cugetele viclene depărtează de Dumnezeu, şi puterea Lui, când Îl ispiteşti, mustră pe cei fără de minte."
+        },
+        {
+          "verse": 4,
+          "text": "Înţelepciunea nu pătrunde în sufletul viclean şi nu sălăşluieşte în trupul supus păcatului."
+        },
+        {
+          "verse": 5,
+          "text": "Duhul cel Sfânt, povăţuitorul oamenilor, fuge de vicleşug, Se depărtează de minţile fără de pricepere şi Se dă în lături când se apropie fărădelegea;"
+        },
+        {
+          "verse": 6,
+          "text": "Înţelepciunea este duh iubitor de oameni şi nu lasă nepedepsit pe cel care huleşte prin vorbele sale, căci Dumnezeu este martor gândurilor celor mai ascunse şi pătrunde fără greş inimile şi aude toate cuvintele."
+        },
+        {
+          "verse": 7,
+          "text": "Duhul lui Dumnezeu umple lumea, El cuprinde toate şi ştie orice şoaptă."
+        },
+        {
+          "verse": 8,
+          "text": "Pentru aceea, cel care grăieşte lucruri nedrepte nu poate să se ascundă şi dreptatea răzbunătoare nu-l uită."
+        },
+        {
+          "verse": 9,
+          "text": "Căci chibzuinţele nelegiuitului vor fi cercetate şi zvonul vorbelor sale va ajunge până la Domnul spre pedeapsa strâmbătăţilor sale."
+        },
+        {
+          "verse": 10,
+          "text": "O ureche geloasă aude totul şi sunetul şoaptelor nu-i scapă."
+        },
+        {
+          "verse": 11,
+          "text": "Păziţi-vă deci de vorbele cârtitoare şi deşarte şi feriţi limba voastră de clevetire, fiindcă vorba cea mai tainică nu va trece fără pedeapsă şi gura mincinoasă aduce sufletului moarte."
+        },
+        {
+          "verse": 12,
+          "text": "Nu vă grăbiţi moartea prin rătăcirile vieţii voastre şi nu vă atrageţi pieirea prin fapta mâinilor voastre."
+        },
+        {
+          "verse": 13,
+          "text": "Căci Dumnezeu n-a făcut moartea şi nu se bucură de pieirea celor vii."
+        },
+        {
+          "verse": 14,
+          "text": "El a zidit toate lucrurile spre viaţă şi făpturile lumii sunt izbăvitoare; întru ele nu este sămânţă de pieire şi moartea n-are putere asupra pământului."
+        },
+        {
+          "verse": 15,
+          "text": "Dreptatea este nemuritoare, iar nedreptatea aduce moarte."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_01_02",
+      "chapter": 1,
+      "pericope_num": "02",
+      "title_en": "Life as the Ungodly See It",
+      "title_ro": "Viața așa cum o văd cei neevlavioși",
+      "start_verse": 16,
+      "end_verse": 16,
+      "verse_count": 1,
+      "verses": [
+        {
+          "verse": 16,
+          "text": "Dar cei necredincioşi îşi atrag moartea cu mâinile şi cu glasul, se uită la ea ca la o prietenă, sunt pătimaşi după ea şi au făcut legătură cu ea şi cu adevărat vrednici sunt să fie ai ei."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_02_01",
+      "chapter": 2,
+      "pericope_num": "01",
+      "title_en": "Error of the Wicked",
+      "title_ro": "Eroarea celor răi",
+      "start_verse": 1,
+      "end_verse": 24,
+      "verse_count": 24,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Cei care cugetă nedrept şi-au zis în sine: \"Viaţa noastră este scurtă şi tristă şi omul nu poate scăpa de moarte, nici nu cunoaşte cine l-ar izbăvi de şeol."
+        },
+        {
+          "verse": 2,
+          "text": "Din întâmplare am ajuns să fim cum suntem şi după viaţa aceasta vom fi ca şi cum n-am fi fost niciodată; căci fum este suflarea din nările noastre şi cugetarea o scânteie care se aprinde din mişcarea inimii noastre."
+        },
+        {
+          "verse": 3,
+          "text": "Când se va stinge, trupul nostru se va face cenuşă şi duhul se va risipi ca aerul cel uşor."
+        },
+        {
+          "verse": 4,
+          "text": "Numele nostru se va uita cu vremea şi nimeni nu-şi va aduce aminte de lucrurile noastre şi viaţa noastră va trece ca urma norului şi se va risipi ca negura, pe care o alungă razele soarelui şi căldura lui o îngreuiază."
+        },
+        {
+          "verse": 5,
+          "text": "Ca umbra de trecătoare este viaţa noastră şi sfârşitul ei este fără înapoiere, că s-a pecetluit şi nimeni nu mai vine înapoi."
+        },
+        {
+          "verse": 6,
+          "text": "Veniţi deci şi să ne desfătăm cu bunătăţile cele de acum şi de făpturi să ne folosim cu toată căldura tinereţii."
+        },
+        {
+          "verse": 7,
+          "text": "Să avem din belşug vinuri scumpe şi miresme şi să nu lăsăm să treacă florile de primăvară."
+        },
+        {
+          "verse": 8,
+          "text": "Să ne încununăm cu flori de trandafir, până nu se veştejesc."
+        },
+        {
+          "verse": 9,
+          "text": "Nimeni dintre noi să nu lipsească de la petrecerile noastre, să lăsăm pretutindeni semnele veseliei noastre, căci aceasta este partea şi menirea noastră."
+        },
+        {
+          "verse": 10,
+          "text": "Să asuprim pe cel sărac şi drept, să nu ne fie milă de văduvă, şi de cărunteţile bătrânului încărcat de ani să nu ne ruşinăm."
+        },
+        {
+          "verse": 11,
+          "text": "Puterea noastră să fie legea dreptăţii noastre, că ce este slab nu este de nici un folos."
+        },
+        {
+          "verse": 12,
+          "text": "Să vânăm pe cel drept, fiindcă ne stinghereşte şi se împotriveşte isprăvilor noastre şi ne scoate vină că stricăm legea şi ne învinovăţeşte că nu umblăm cum am fost învăţaţi din copilărie."
+        },
+        {
+          "verse": 13,
+          "text": "El se face pe sine că are cunoştinţă despre Dumnezeu şi se numeşte: fiul Domnului."
+        },
+        {
+          "verse": 14,
+          "text": "El este pentru noi ca o osândă a gândurilor noastre şi ne este greu chiar când ne uităm la el."
+        },
+        {
+          "verse": 15,
+          "text": "Căci viaţa lui nu seamănă cu viaţa celorlalţi şi cărările lui sunt schimbate."
+        },
+        {
+          "verse": 16,
+          "text": "Înaintea lui suntem socotiţi ca necuraţi şi de căile noastre se fereşte ca de o spurcăciune; el fericeşte sfârşitul celor drepţi şi se laudă că are pe Dumnezeu drept tată."
+        },
+        {
+          "verse": 17,
+          "text": "Deci să vedem dacă cuvintele lui sunt adevărate şi să cercetăm ce i se va întâmpla ieşind din această viaţă."
+        },
+        {
+          "verse": 18,
+          "text": "Căci dacă dreptul este fiul lui Dumnezeu, atunci Dumnezeu îl va apăra şi-l va scoate din mâna potrivnicilor săi."
+        },
+        {
+          "verse": 19,
+          "text": "Să-l încercăm cu ocări şi cu chinuri, ca să vedem cât este de răbdător şi să încercăm suferinţa lui."
+        },
+        {
+          "verse": 20,
+          "text": "Să-l dăm unei morţi de ocară căci, după vorba lui, Dumnezeu va avea grijă de el\"."
+        },
+        {
+          "verse": 21,
+          "text": "Acestea sunt gândurile lor, dar ei se amăgesc, viclenia lor i-a orbit."
+        },
+        {
+          "verse": 22,
+          "text": "Ei nu cunosc tainicele puneri la cale ale lui Dumnezeu, ei n-au nădejde în răsplata sfinţeniei şi nu cred că sufletele curate vor avea. cununa lor."
+        },
+        {
+          "verse": 23,
+          "text": "Dumnezeu a zidit pe om spre nestricăciune şi l-a făcut după chipul fiinţei Sale."
+        },
+        {
+          "verse": 24,
+          "text": "Iar prin pizma diavolului moartea a intrat în lume şi cei ce sunt de partea lui vor ajunge s-o cunoască."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_03_01",
+      "chapter": 3,
+      "pericope_num": "01",
+      "title_en": "The Destiny of the Righteous",
+      "title_ro": "Destinul celor drepți",
+      "start_verse": 1,
+      "end_verse": 9,
+      "verse_count": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Sufletele drepţilor sunt în mâna lui Dumnezeu şi chinul nu se va atinge de ele."
+        },
+        {
+          "verse": 2,
+          "text": "În ochii celor fără de minte, drepţii sunt morţi cu desăvârşire şi ieşirea lor din lume li se pare mare nenorocire."
+        },
+        {
+          "verse": 3,
+          "text": "Şi plecarea lor dintre noi, un prăpăd, dar ei sunt în pace."
+        },
+        {
+          "verse": 4,
+          "text": "Chiar dacă, în faţa oamenilor, ei au îndurat suferinţe, nădejdea lor este plină de nemurire."
+        },
+        {
+          "verse": 5,
+          "text": "Şi fiind pedepsiţi cu puţin, mare răsplată vor primi, căci Dumnezeu i-a pus la încercare şi i-a găsit vrednici de El."
+        },
+        {
+          "verse": 6,
+          "text": "Ca pe aur în topitoare, aşa i-a lămurit, şi ca pe o jertfă de ardere întreagă i-a primit."
+        },
+        {
+          "verse": 7,
+          "text": "Străluci-vor în ziua răsplătirii şi ca nişte scântei care se lasă pe mirişte, aşa vor fi."
+        },
+        {
+          "verse": 8,
+          "text": "Judeca-vor neamurile şi stăpâni vor fi peste popoare şi Domnul va împărăţi întru ei, în veci."
+        },
+        {
+          "verse": 9,
+          "text": "Ei vor înţelege adevărul, ca unii care şi-au pus încrederea în Domnul; cei credincioşi vor petrece cu El în iubire, căci harul şi îndurarea sunt partea aleşilor Lui."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_03_02",
+      "chapter": 3,
+      "pericope_num": "02",
+      "title_en": "The Destiny of the Ungodly",
+      "title_ro": "Destinul celor neevlavioși",
+      "start_verse": 10,
+      "end_verse": 13,
+      "verse_count": 4,
+      "verses": [
+        {
+          "verse": 10,
+          "text": "Cei nelegiuiţi vor fi pedepsiţi după cugetul lor cel viclean, pentru că nu le-a păsat de cel drept, iar de Dumnezeu s-au depărtat."
+        },
+        {
+          "verse": 11,
+          "text": "Defăimătorii înţelepciunii şi ai învăţăturii sunt ticăloşi, şi nădejdea lor este deşartă şi ostenelile lor fără de folos şi lucrurile lor netrebnice."
+        },
+        {
+          "verse": 12,
+          "text": "Femeile lor sunt fără de minte şi copiii lor sunt stricaţi şi spiţa lor este blestemată."
+        },
+        {
+          "verse": 13,
+          "text": "Drept aceea, fericită este cea stearpă care nu s-a pângărit şi care n-a cunoscut pat cu păcat; ea va avea roadă la cercetarea sufletelor."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_03_03",
+      "chapter": 3,
+      "pericope_num": "03",
+      "title_en": "On Childlessness",
+      "title_ro": "Despre lipsa de copii",
+      "start_verse": 14,
+      "end_verse": 19,
+      "verse_count": 6,
+      "verses": [
+        {
+          "verse": 14,
+          "text": "Tot aşa famenul ale cărui mâini n-au săvârşit fărădelegea şi împotriva Domnului n-a gândit cele rele; el va primi aleasă plată pentru credinţa lui şi în templul Domnului locul cel mai de dorit."
+        },
+        {
+          "verse": 15,
+          "text": "Căci roada bunelor osteneli este slăvită şi rădăcina înţelepciunii n-are pieire."
+        },
+        {
+          "verse": 16,
+          "text": "Fiii desfrânaţilor nu vor avea desăvârşire şi sămânţa ieşită din patul nelegiuit se va stinge."
+        },
+        {
+          "verse": 17,
+          "text": "Că de vor şi avea viaţă lungă, nu vor fi de nici o treabă şi bătrâneţile lor, la urmă de tot, vor fi fără cinste."
+        },
+        {
+          "verse": 18,
+          "text": "Iar de vor muri de timpuriu, vor fi fără nădejde şi fără mângâiere vor fi în ziua judecăţii,"
+        },
+        {
+          "verse": 19,
+          "text": "Căci neamul celui nedrept are sfârşit groaznic."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_04_01",
+      "chapter": 4,
+      "pericope_num": "01",
+      "title_en": "The Triumph of the Righteous",
+      "title_ro": "Triumful celor drepți",
+      "start_verse": 1,
+      "end_verse": 19,
+      "verse_count": 19,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Mai bine este să nu ai copii, dar să ai bunătate, căci pomenirea bunătăţii este nemuritoare; şi Dumnezeu o ştie şi oamenii o cunosc."
+        },
+        {
+          "verse": 2,
+          "text": "Când este de faţă, o urmezi şi când s-a dus, îţi pare rău după ea. Bunătatea poartă veşnică cunună, veşnic biruitoare, ieşind fără pată din lupte câştigate."
+        },
+        {
+          "verse": 3,
+          "text": "Mulţimea pruncilor la cei nelegiuiţi nu este de nici un folos; din mlădiţele lor spurcate nu se va înfige rădăcină în adânc şi nu vor avea temei nezdruncinat."
+        },
+        {
+          "verse": 4,
+          "text": "Chiar dacă se vor îmbrăca vremelnic întru ramuri, fiind fără temeinicie, se vor zgudui de vânt şi se vor dezrădăcina de puterea vijeliei."
+        },
+        {
+          "verse": 5,
+          "text": "Ramurile lor vor fi frânte mai înainte de vârsta deplină, rodul lor va fi netrebnic, crud la mâncare şi de nimic bun,"
+        },
+        {
+          "verse": 6,
+          "text": "Fiindcă pruncii născuţi din somnul necurat sunt martori ai nelegiuirii părinţilor, când stai să-i cercetezi."
+        },
+        {
+          "verse": 7,
+          "text": "Cel drept, chiar când apucă să moară mai devreme, dă de odihnă."
+        },
+        {
+          "verse": 8,
+          "text": "Bătrâneţile cinstite nu sunt cele aduse de o viaţă lungă, nici nu le măsori după numărul anilor."
+        },
+        {
+          "verse": 9,
+          "text": "Înţelepciunea este la om adevărata cărunteţe şi vârsta bătrâneţilor înseamnă o viaţă neîntinată."
+        },
+        {
+          "verse": 10,
+          "text": "Plăcut fiind lui Dumnezeu, Domnul l-a iubit şi, fiindcă trăia între păcătoşi, l-a mutat de pe pământ."
+        },
+        {
+          "verse": 11,
+          "text": "A fost răpit, ca răutatea să nu-i schimbe mintea sa, înşelăciunea să nu-i amăgească sufletul."
+        },
+        {
+          "verse": 12,
+          "text": "Căci vraja viciului întunecă cele bune şi ameţeala poftei schimbă gândul cel fără de răutate."
+        },
+        {
+          "verse": 13,
+          "text": "Ajungând curând la desăvârşire, dreptul a apucat ani îndelungaţi."
+        },
+        {
+          "verse": 14,
+          "text": "Sufletul lui era plăcut lui Dumnezeu, pentru aceasta Domnul S-a grăbit să-l scoată din mijlocul răutăţii."
+        },
+        {
+          "verse": 15,
+          "text": "Neamurile văd, dar nu pricep nimic şi nu-şi bat capul cu aşa ceva, că adică harul lui Dumnezeu şi mila Lui sunt cu aleşii Săi şi că poartă grijă de sfinţii Săi."
+        },
+        {
+          "verse": 16,
+          "text": "Dreptul care moare osândeşte pe nelegiuiţii care trăiesc, iar tinereţea ajunsă la grabnică desăvârşire osândeşte lungile bătrâneţi ale celui nedrept."
+        },
+        {
+          "verse": 17,
+          "text": "Vor vedea sfârşitul înţeleptului, dar nu vor înţelege ce sfat a avut Dumnezeu cu el şi pentru ce l-a pus bine pentru Sine."
+        },
+        {
+          "verse": 18,
+          "text": "Vor vedea şi-şi vor bate joc, dar Domnul îi va face de ocară."
+        },
+        {
+          "verse": 19,
+          "text": "Căci vor fi pe urmă hoit fără de cinste, printre morţi, întru ruşine, în veac de veac; Domnul îi va zdrobi şi, muţi, îi va azvârli cu capul în jos, îi va zgudui din temelie şi vor pieri până la cel mai mic; chinul îi va măcina şi pomenirea lor se va şterge."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_04_02",
+      "chapter": 4,
+      "pericope_num": "02",
+      "title_en": "The Final Judgment",
+      "title_ro": "Judecata de Apoi",
+      "start_verse": 20,
+      "end_verse": 20,
+      "verse_count": 1,
+      "verses": [
+        {
+          "verse": 20,
+          "text": "Vor veni înspăimântaţi de ştiinţa păcatelor lor şi fărădelegile lor îi vor mustra faţă în faţă."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_05_01",
+      "chapter": 5,
+      "pericope_num": "01",
+      "title_en": "The Reward of the Righteous",
+      "title_ro": "Răsplata celor drepți",
+      "start_verse": 1,
+      "end_verse": 23,
+      "verse_count": 23,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Atunci cel drept va sta cu multă îndrăzneală înaintea celor care l-au prigonit şi au dispreţuit ostenelile sale."
+        },
+        {
+          "verse": 2,
+          "text": "Iar ei, văzându-l, se vor tulbura cu cumplită frică şi se vor minuna de minunea mântuirii dreptului."
+        },
+        {
+          "verse": 3,
+          "text": "Ei vor zice, căindu-se în inima lor şi gemând întru strâmtorarea duhului lor: \"Acesta este pe care-l aveam altădată de batjocură şi ţinta ocărilor noastre."
+        },
+        {
+          "verse": 4,
+          "text": "Nebunii de noi! Am socotit viaţa lui o nebunie şi moartea lui o ticăloşie."
+        },
+        {
+          "verse": 5,
+          "text": "Şi iată cum a fost socotit între fiii lui Dumnezeu şi partea lui între sfinţi!"
+        },
+        {
+          "verse": 6,
+          "text": "Aşadar noi am rătăcit de la calea adevărului şi lumina dreptăţii n-a strălucit pentru noi şi nouă soarele nu ne-a răsărit."
+        },
+        {
+          "verse": 7,
+          "text": "Ne-am săturat de cărările fărădelegii şi ale pierzării; am străbătut pustietăţi neumblate, iar calea Domnului n-am cunoscut-o."
+        },
+        {
+          "verse": 8,
+          "text": "Ce folos ne-a adus trufia? La ce ne-a slujit bogăţia Şi toată fala ei?"
+        },
+        {
+          "verse": 9,
+          "text": "Toate acestea au trecut ca umbra şi ca o veste care se duce pe aci încolo."
+        },
+        {
+          "verse": 10,
+          "text": "Au trecut la fel cu corabia care răzbate marea învolburată şi a cărei urmă în apă nu poţi s-o mai găseşti şi nici trecerea ei, în mijlocul valurilor;"
+        },
+        {
+          "verse": 11,
+          "text": "Sau ca pasărea ce zboară în aer şi a cărei călătorie nu lasă nici un semn; căci ea, bătând cu aripile vântul cel uşor şi despicându-l cu avântul pornirii, îşi taie cale prin mişcarea penelor, iar după aceea nimic nu mai arată pe unde a trecut."
+        },
+        {
+          "verse": 12,
+          "text": "Sau la fel cu săgeata care zboară spre locul însemnat, iar aerul pe care l-a spintecat se împreună la loc şi nu poţi să mai ştii care i-a fost urma."
+        },
+        {
+          "verse": 13,
+          "text": "Tot aşa şi noi ne-am născut şi am isprăvit cu viaţa şi nu putem să arătăm nici un semn de faptă bună, ci în răutatea noastră ne-am risipit."
+        },
+        {
+          "verse": 14,
+          "text": "Într-adevăr, nădejdea celui nelegiuit este ca praful pe care-l spulberă vântul, este ca pâcla subţire pe care o împrăştie vijelia, ca fumul pe care-l suflă o adiere şi ca amintirea unui oaspete de o singură zi care se destramă."
+        },
+        {
+          "verse": 15,
+          "text": "Însă cei drepţi vor fi vii în veacul veacului şi răsplata lor este la Domnul şi Cel Atotputernic are grijă de ei."
+        },
+        {
+          "verse": 16,
+          "text": "Drept aceea, vor primi din mâna Domnului împărăţia frumuseţii şi cununa cea strălucitoare, căci El îi va ocroti cu dreapta Sa şi cu braţul Său; asemenea unui scut, îi va acoperi."
+        },
+        {
+          "verse": 17,
+          "text": "El va face arme din mânia Sa şi cu ele va întări făptura mâinilor Sale ca să răsplătească vrăjmaşilor."
+        },
+        {
+          "verse": 18,
+          "text": "Din dreptate El Îşi va face platoşă şi din judecata cea nefăţarnică Îşi va face coif."
+        },
+        {
+          "verse": 19,
+          "text": "Din sfinţenia Sa va face pavăză nebiruită;"
+        },
+        {
+          "verse": 20,
+          "text": "Iar din cumplita Sa mânie va face sabie ascuţită şi lumea va porni război împreună cu El împotriva celor fără de minte."
+        },
+        {
+          "verse": 21,
+          "text": "Săgeţile fulgerului Său vor porni bine îndreptate şi vor lovi în ţintă, zburând din arcul puternic încordat al norilor."
+        },
+        {
+          "verse": 22,
+          "text": "Mânia Lui, ca o praştie, va azvârli noian de grindină; apele mării se vor întărâta asupra lor şi râurile îi vor îneca vijelios."
+        },
+        {
+          "verse": 23,
+          "text": "Duhul puterii dumnezeieşti se va ridica împotriva lor şi ca viscolul îi va vântura. Astfel fărădelegea va aduce pustiire pe pământ şi răutatea va răsturna scaunele celor puternici."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_06_01",
+      "chapter": 6,
+      "pericope_num": "01",
+      "title_en": "Kings Should Seek Wisdom",
+      "title_ro": "Regii ar trebui să caute Înțelepciunea",
+      "start_verse": 1,
+      "end_verse": 11,
+      "verse_count": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Ascultaţi deci, regilor, şi înţelegeţi, luaţi învăţătură, voi, care judecaţi marginile pământului."
+        },
+        {
+          "verse": 2,
+          "text": "Băgaţi în urechi, voi cei ce stăpâniţi peste mulţimi şi care vă mândriţi cu mulţimea popoarelor voastre\"."
+        },
+        {
+          "verse": 3,
+          "text": "Pricepeţi că stăpânirea vi s-a dat de la Domnul şi puterea de la Cel Preaînalt, Care va cerceta faptele voastre şi va pune la încercare gândurile voastre."
+        },
+        {
+          "verse": 4,
+          "text": "Fiindcă, deşi dregători ai împărăţiei Lui, n-aţi judecat drept, nici legea n-aţi păzit-o, nici n-aţi umblat după sfatul lui Dumnezeu."
+        },
+        {
+          "verse": 5,
+          "text": "Groaznic şi fără de veste El va sta asupra voastră, căci pentru cei mari judecata va fi cumplită."
+        },
+        {
+          "verse": 6,
+          "text": "Celor mici, Domnul le va arăta iertare şi milă, însă cei puternici vor fi pedepsiţi cu străşnicie."
+        },
+        {
+          "verse": 7,
+          "text": "Stăpânul tuturor nu Se va ruşina de nici un obraz, nici nu Se va sfii de vreo mărire, căci şi pe cel mic şi pe cel mare El i-a făcut şi pronia Lui e la fel pentru toţi."
+        },
+        {
+          "verse": 8,
+          "text": "Însă cei puternici vor avea parte de o încercare mai grea."
+        },
+        {
+          "verse": 9,
+          "text": "Deci către voi, regilor, îndrept cuvintele mele ca să învăţaţi înţelepciune şi să nu cădeţi."
+        },
+        {
+          "verse": 10,
+          "text": "Pentru că cei ce au păzit cu sfinţenie pravila sfântă se vor sfinţi şi cei ce vor învăţa-o vor şti ce să răspundă."
+        },
+        {
+          "verse": 11,
+          "text": "Iubiţi deci cuvintele mele şi le doriţi şi vă veţi învăţa din ele."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_06_02",
+      "chapter": 6,
+      "pericope_num": "02",
+      "title_en": "Description of Wisdom",
+      "title_ro": "Descrierea Înțelepciunii",
+      "start_verse": 12,
+      "end_verse": 25,
+      "verse_count": 14,
+      "verses": [
+        {
+          "verse": 12,
+          "text": "Înţelepciunea este luminată şi neînserată şi cei care o iubesc o văd uşor şi cei care o caută o găsesc."
+        },
+        {
+          "verse": 13,
+          "text": "Ea iese în cale celor care o doresc şi li se arată ea, întâi."
+        },
+        {
+          "verse": 14,
+          "text": "Cel care se scoală pentru ea dis-de-dimineaţă nu se va osteni, căci o va afla şezând la poarta lui."
+        },
+        {
+          "verse": 15,
+          "text": "Cel care îşi bate capul cu înţelepciunea îndeplineşte desăvârşirea minţii şi cel care îşi pierde somnul pentru ea va fi în curând fără de grijă."
+        },
+        {
+          "verse": 16,
+          "text": "Ea umblă în toate părţile căutând pe cei vrednici de ea şi se arată prietenoasă în drumurile lor şi îi întâmpină în tot ce pun la cale."
+        },
+        {
+          "verse": 17,
+          "text": "Începutul ei este pofta cea adevărată de învăţătură."
+        },
+        {
+          "verse": 18,
+          "text": "Iar pofta de învăţătură are în sine iubirea, iar iubirea este paznica legilor ei, iar păzirea legilor ei este adeverirea nemuririi."
+        },
+        {
+          "verse": 19,
+          "text": "Şi nemurirea ne face să fim aproape de Dumnezeu."
+        },
+        {
+          "verse": 20,
+          "text": "Drept aceea, pofta înţelepciunii duce la împărăţia cea veşnică."
+        },
+        {
+          "verse": 21,
+          "text": "Deci dar, o, regi ai popoarelor, dacă ţineţi la tronurile şi la sceptrele voastre, cinstiţi înţelepciunea, ca în veac să domniţi."
+        },
+        {
+          "verse": 22,
+          "text": "Iar ce este înţelepciunea şi cum s-a făcut, sunt gata să vă spun fără să ascund tainele lui Dumnezeu. Ci voi cerceta de la începutul făpturii şi voi da la lumină cunoştinţa ei şi nu voi trece pe alături de adevăr."
+        },
+        {
+          "verse": 23,
+          "text": "Nu voi merge pe acelaşi drum cu pizma care roade, căci ea n-are nici o părtăşie cu înţelepciunea."
+        },
+        {
+          "verse": 24,
+          "text": "Mulţimea înţelepţilor este mântuirea lumii şi un rege cuminte înseamnă bunăstarea poporului."
+        },
+        {
+          "verse": 25,
+          "text": "Drept aceea, luaţi învăţătură din cuvintele mele şi folosul va fi al vostru."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_07_01",
+      "chapter": 7,
+      "pericope_num": "01",
+      "title_en": "Solomon Like Other Mortals",
+      "title_ro": "Solomon ca și ceilalți muritori",
+      "start_verse": 1,
+      "end_verse": 7,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Sunt şi eu om muritor asemenea tuturor şi coborând din neamul celui dintâi om zidit din pământ."
+        },
+        {
+          "verse": 2,
+          "text": "Şi am fost înfiripat, cu trupul, în pântecele mamei mele, închegându-mă din sânge, vreme de zece luni, din sămânţă bărbătească şi în ceasul somnului odihnitor."
+        },
+        {
+          "verse": 3,
+          "text": "Şi după ce m-am născut, am respirat aerul obştesc şi pe pământul obşteştii pătimiri am căzut şi eu, şi glasul meu dintâi, la fel ca la toată lumea, a fost plânsul meu."
+        },
+        {
+          "verse": 4,
+          "text": "Am fost înfăşat în scutece şi am dat părinţilor grijă şi bătaie de cap."
+        },
+        {
+          "verse": 5,
+          "text": "Şi nici un rege n-a început altfel, când s-a născut."
+        },
+        {
+          "verse": 6,
+          "text": "Că toţi intră în viaţă în acelaşi fel şi ies iarăşi la fel."
+        },
+        {
+          "verse": 7,
+          "text": "Pentru aceea m-am rugat şi mi s-a dat înţelepciune, am chemat, şi duhul cuminţeniei a coborât în mine."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_07_02",
+      "chapter": 7,
+      "pericope_num": "02",
+      "title_en": "Solomon’s Respect for Wisdom",
+      "title_ro": "Respectul lui Solomon pentru Înțelepciune",
+      "start_verse": 7,
+      "end_verse": 14,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 7,
+          "text": "Pentru aceea m-am rugat şi mi s-a dat înţelepciune, am chemat, şi duhul cuminţeniei a coborât în mine."
+        },
+        {
+          "verse": 8,
+          "text": "Am ţinut la ea mai mult decât la sceptre şi decât la tronuri şi am socotit bogăţiile deşarte faţă de ea."
+        },
+        {
+          "verse": 9,
+          "text": "N-am pus alături cu ea nici pietrele cele mai scumpe, fiindcă tot aurul din lume pe lângă ea nu e decât nisip, iar argintul, înaintea ei, mi se pare noroi."
+        },
+        {
+          "verse": 10,
+          "text": "Am preţuit înţelepciunea mai mult decât sănătatea şi frumuseţea; am pus-o chiar înaintea luminii, fiindcă strălucirea ei nu se stinge niciodată."
+        },
+        {
+          "verse": 11,
+          "text": "Împreună cu ea mi-au venit toate bunătăţile, căci în mâinile ei sunt bogăţii nenumărate."
+        },
+        {
+          "verse": 12,
+          "text": "Şi m-am bucurat de toate acestea, căci înţelepciunea le aduce cu sine. Totuşi eu nu ştiam că ea este născătoarea lor."
+        },
+        {
+          "verse": 13,
+          "text": "Am învăţat-o fără viclenie, o împărtăşesc fără părere de rău şi nu ascund comorile ei."
+        },
+        {
+          "verse": 14,
+          "text": "Ea este pentru oameni comoară nesfârşită; cei care se folosesc de ea se fac prietenii lui Dumnezeu, pentru darurile agonisite de învăţătură."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_07_03",
+      "chapter": 7,
+      "pericope_num": "03",
+      "title_en": "Solomon Prays for Wisdom",
+      "title_ro": "Solomon se roagă pentru Înțelepciune",
+      "start_verse": 15,
+      "end_verse": 22,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 15,
+          "text": "Iar mie să-mi dăruiască Dumnezeu să grăiesc precum gândesc şi să cuget în chip vrednic despre darurile Sale, căci El este povăţuitorul înţelepciunii şi îndreptătorul înţelepţilor."
+        },
+        {
+          "verse": 16,
+          "text": "Că în mâna Lui suntem şi noi şi cuvintele noastre şi toată înţelepciunea şi ştiinţa lucrurilor."
+        },
+        {
+          "verse": 17,
+          "text": "El mi-a dat cunoştinţa cea adevărată despre cele ce sunt, ca să ştiu întocmirea lumii şi lucrarea stihiilor."
+        },
+        {
+          "verse": 18,
+          "text": "Începutul şi sfârşitul şi mijlocul vremurilor, întoarcerile anotimpurilor şi prefacerile văzduhului,"
+        },
+        {
+          "verse": 19,
+          "text": "Cursurile anilor şi rânduiala stelelor,"
+        },
+        {
+          "verse": 20,
+          "text": "Firea dobitoacelor şi apucăturile fiarelor, puterea duhurilor şi gândurile oamenilor, feluritele neamuri ale plantelor şi însuşirile rădăcinilor."
+        },
+        {
+          "verse": 21,
+          "text": "Toate cele ascunse şi cele arătate le-am cunoscut, fiindcă înţelepciunea, lucrătoarea tuturor, mi-a dat învăţătură."
+        },
+        {
+          "verse": 22,
+          "text": "Într-adevăr, în ea se află un duh de înţelegere, sfânt, fără pereche, cu multe laturi, nepământesc, ager, pătrunzător, neîntinat, preaînţelept, fără de patimă, iubitor de bine, ascuţit, neoprit, binefăcător,"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_07_04",
+      "chapter": 7,
+      "pericope_num": "04",
+      "title_en": "The Nature of Wisdom",
+      "title_ro": "Natura Înțelepciunii",
+      "start_verse": 23,
+      "end_verse": 30,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 23,
+          "text": "Iubitor de oameni, neclintit, temeinic, netulburat, atotputernic, atotveghetor şi răzbătând prin toate duhurile isteţe, curate şi oricât de subţiri."
+        },
+        {
+          "verse": 24,
+          "text": "Pentru că înţelepciunea este mai sprintenă decât orice mişcare, ea pătrunde şi îşi face loc pretutindeni prin curăţia ei."
+        },
+        {
+          "verse": 25,
+          "text": "Ea este suflul puterii lui Dumnezeu, ea este curata revărsare a slavei Celui Atotputernic, astfel că nimic nu poate s-o mânjească."
+        },
+        {
+          "verse": 26,
+          "text": "Ea este strălucirea luminii celei veşnice şi oglinda fără pată a lucrării lui Dumnezeu şi chipul bunătăţii Sale."
+        },
+        {
+          "verse": 27,
+          "text": "Fiindcă este una, toate le poate, şi rămânând una cu sine însăşi, ea toate le înnoieşte, şi răspândindu-se, prin veacuri, în sufletele sfinte, ea întocmeşte din ele prieteni ai lui Dumnezeu şi prooroci."
+        },
+        {
+          "verse": 28,
+          "text": "Cu adevărat Dumnezeu nimic nu iubeşte, fără numai pe cel ce petrece întru înţelepciune."
+        },
+        {
+          "verse": 29,
+          "text": "Ea este mai frumoasă decât soarele şi decât toată orânduirea stelelor; dacă o pui alături cu lumina, înţelepciunea o întrece."
+        },
+        {
+          "verse": 30,
+          "text": "Fiindcă după lumină urmează noaptea, pe când înţelepciunea rămâne nebiruită în faţa răutăţii."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_08_01",
+      "chapter": 8,
+      "pericope_num": "01",
+      "title_en": "Solomon’s Love for Wisdom",
+      "title_ro": "Dragostea lui Solomon pentru Înțelepciune",
+      "start_verse": 1,
+      "end_verse": 8,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "\"Dumnezeule al părinţilor şi Doamne al milei, Cel care ai făcut toate cu cuvântul Tău,"
+        },
+        {
+          "verse": 2,
+          "text": "Şi cu înţelepciunea Ta ai rânduit pe om ca să stăpânească peste zidirile cele făcute de Tine,"
+        },
+        {
+          "verse": 3,
+          "text": "Şi să cârmuiască lumea cu cuviinţă şi cu dreptate şi cu suflet drept să facă judecată,"
+        },
+        {
+          "verse": 4,
+          "text": "Dă-mi mie înţelepciunea care stă aproape de scaunul Tău şi nu mă lepăda dintre slujitorii Tăi."
+        },
+        {
+          "verse": 5,
+          "text": "Căci robul Tău sunt eu şi fiul roabei Tale, om slab şi cu viaţă scurtă şi puţin destoinic să înţeleg judecata şi legile."
+        },
+        {
+          "verse": 6,
+          "text": "Căci, chiar când ar fi cineva desăvârşit între fiii oamenilor, de-i va lipsi înţelepciunea cea de la Tine, ca nimica toată se va socoti."
+        },
+        {
+          "verse": 7,
+          "text": "Tu m-ai ales pe mine mai dinainte ca să stăpânesc poporul Tău şi să judec pe fiii şi pe fiicele Tale."
+        },
+        {
+          "verse": 8,
+          "text": "Tu mi-ai poruncit să zidesc templul în muntele Tău cel sfânt şi un jertfelnic în cetatea în care locuieşti, după chipul cortului celui sfânt, pe care l-ai pregătit dintru început."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_08_02",
+      "chapter": 8,
+      "pericope_num": "02",
+      "title_en": "Wisdom Indispensible to Rulers",
+      "title_ro": "Înțelepciunea indispensabilă pentru conducători",
+      "start_verse": 9,
+      "end_verse": 21,
+      "verse_count": 13,
+      "verses": [
+        {
+          "verse": 9,
+          "text": "Cu Tine este înţelepciunea care ştie faptele Tale şi care era de faţă când ai făcut lumea şi care ştie ce este plăcut înaintea ochilor Tăi şi ce este drept, potrivit poruncilor Tale."
+        },
+        {
+          "verse": 10,
+          "text": "Trimite această înţelepciune, din sfintele Tale ceruri, de lângă tronul slavei Tale, ca să mă ajute în ostenelile mele şi ca să cunosc ce este bineplăcut înaintea Ta,"
+        },
+        {
+          "verse": 11,
+          "text": "Fiindcă înţelepciunea toate le ştie şi le înţelege şi mă va povăţui înţelepţeşte în lucrările mele şi prin slava sa mă va păzi."
+        },
+        {
+          "verse": 12,
+          "text": "Şi astfel, faptele mele Îţi vor fi plăcute şi voi judeca poporul Tău cu dreptate şi voi fi vrednic de tronul tatălui meu."
+        },
+        {
+          "verse": 13,
+          "text": "Cu adevărat, ce om poate să cunoască sfatul lui Dumnezeu sau cine poate să pătrundă voinţa lui Dumnezeu?"
+        },
+        {
+          "verse": 14,
+          "text": "Gândurile muritorilor sunt şovăielnice şi cugetările noastre sunt cu greşeală."
+        },
+        {
+          "verse": 15,
+          "text": "Căci trupul cel putrezitor îngreuiază sufletul şi locuinţa cea pământească împovărează mintea cea plină de grijă."
+        },
+        {
+          "verse": 16,
+          "text": "Cu greu ne dăm seama despre cele ce sunt pe pământ şi cu osteneală găsim cele ce sunt chiar în mâna noastră; atunci, cine a putut să pătrundă cele ce sunt în ceruri?"
+        },
+        {
+          "verse": 17,
+          "text": "Cine a cunoscut voinţa Ta, dacă Tu nu i-ai dat înţelepciune şi dacă nu i-ai trimis de sus Duhul Tău cel Sfânt?"
+        },
+        {
+          "verse": 18,
+          "text": "Astfel, s-au făcut drepte cărările celor de pe pământ şi oamenii au învăţat ceea ce este plăcut înaintea Ta, şi prin înţelepciune au cunoscut mântuirea\"."
+        },
+        {
+          "verse": 19,
+          "text": "Am fost copil bun şi am avut parte de un suflet fără răutate."
+        },
+        {
+          "verse": 20,
+          "text": "Sau mai vîrtos, aşa bun cum eram, am venit într-un trup nespurcat."
+        },
+        {
+          "verse": 21,
+          "text": "Ci cunoscînd că nu voi putea altfel să am înţelepciune de nu-mi va da Dumnezeu, cu toate că şi aceasta era înţelepciune, să ştiu de la cine vine darul, m-am rugat Domnului şi m-am smerit înaintea Lui şi am zis din toată inima mea:"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_09_01",
+      "chapter": 9,
+      "pericope_num": "01",
+      "title_en": "Solomon’s Prayer for Wisdom",
+      "title_ro": "Rugăciunea lui Solomon pentru Înțelepciune",
+      "start_verse": 1,
+      "end_verse": 18,
+      "verse_count": 18,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "\"Dumnezeule al părinţilor şi Doamne al milei, Cel care ai făcut toate cu cuvântul Tău,"
+        },
+        {
+          "verse": 2,
+          "text": "Şi cu înţelepciunea Ta ai rânduit pe om ca să stăpânească peste zidirile cele făcute de Tine,"
+        },
+        {
+          "verse": 3,
+          "text": "Şi să cârmuiască lumea cu cuviinţă şi cu dreptate şi cu suflet drept să facă judecată,"
+        },
+        {
+          "verse": 4,
+          "text": "Dă-mi mie înţelepciunea care stă aproape de scaunul Tău şi nu mă lepăda dintre slujitorii Tăi."
+        },
+        {
+          "verse": 5,
+          "text": "Căci robul Tău sunt eu şi fiul roabei Tale, om slab şi cu viaţă scurtă şi puţin destoinic să înţeleg judecata şi legile."
+        },
+        {
+          "verse": 6,
+          "text": "Căci, chiar când ar fi cineva desăvârşit între fiii oamenilor, de-i va lipsi înţelepciunea cea de la Tine, ca nimica toată se va socoti."
+        },
+        {
+          "verse": 7,
+          "text": "Tu m-ai ales pe mine mai dinainte ca să stăpânesc poporul Tău şi să judec pe fiii şi pe fiicele Tale."
+        },
+        {
+          "verse": 8,
+          "text": "Tu mi-ai poruncit să zidesc templul în muntele Tău cel sfânt şi un jertfelnic în cetatea în care locuieşti, după chipul cortului celui sfânt, pe care l-ai pregătit dintru început."
+        },
+        {
+          "verse": 9,
+          "text": "Cu Tine este înţelepciunea care ştie faptele Tale şi care era de faţă când ai făcut lumea şi care ştie ce este plăcut înaintea ochilor Tăi şi ce este drept, potrivit poruncilor Tale."
+        },
+        {
+          "verse": 10,
+          "text": "Trimite această înţelepciune, din sfintele Tale ceruri, de lângă tronul slavei Tale, ca să mă ajute în ostenelile mele şi ca să cunosc ce este bineplăcut înaintea Ta,"
+        },
+        {
+          "verse": 11,
+          "text": "Fiindcă înţelepciunea toate le ştie şi le înţelege şi mă va povăţui înţelepţeşte în lucrările mele şi prin slava sa mă va păzi."
+        },
+        {
+          "verse": 12,
+          "text": "Şi astfel, faptele mele Îţi vor fi plăcute şi voi judeca poporul Tău cu dreptate şi voi fi vrednic de tronul tatălui meu."
+        },
+        {
+          "verse": 13,
+          "text": "Cu adevărat, ce om poate să cunoască sfatul lui Dumnezeu sau cine poate să pătrundă voinţa lui Dumnezeu?"
+        },
+        {
+          "verse": 14,
+          "text": "Gândurile muritorilor sunt şovăielnice şi cugetările noastre sunt cu greşeală."
+        },
+        {
+          "verse": 15,
+          "text": "Căci trupul cel putrezitor îngreuiază sufletul şi locuinţa cea pământească împovărează mintea cea plină de grijă."
+        },
+        {
+          "verse": 16,
+          "text": "Cu greu ne dăm seama despre cele ce sunt pe pământ şi cu osteneală găsim cele ce sunt chiar în mâna noastră; atunci, cine a putut să pătrundă cele ce sunt în ceruri?"
+        },
+        {
+          "verse": 17,
+          "text": "Cine a cunoscut voinţa Ta, dacă Tu nu i-ai dat înţelepciune şi dacă nu i-ai trimis de sus Duhul Tău cel Sfânt?"
+        },
+        {
+          "verse": 18,
+          "text": "Astfel, s-au făcut drepte cărările celor de pe pământ şi oamenii au învăţat ceea ce este plăcut înaintea Ta, şi prin înţelepciune au cunoscut mântuirea\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_10_01",
+      "chapter": 10,
+      "pericope_num": "01",
+      "title_en": "The Work of Wisdom from Adam to Moses",
+      "title_ro": "Lucrarea Înțelepciunii de la Adam la Moise",
+      "start_verse": 1,
+      "end_verse": 14,
+      "verse_count": 14,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Înţelepciunea a păzit pe primul om zidit de Dumnezeu ca să fie părintele neamului omenesc, atunci când a fost zidit întâiul."
+        },
+        {
+          "verse": 2,
+          "text": "Ea l-a scos din păcatul lui şi i-a dat putere să stăpânească toată făptura."
+        },
+        {
+          "verse": 3,
+          "text": "Fiindcă s-a depărtat de ea, mâniindu-se, cel nedrept a pierit în nebunia sa ucigaşă de frate."
+        },
+        {
+          "verse": 4,
+          "text": "Iar când pământul a fost acoperit de ape, înţelepciunea l-a mântuit şi pe cel drept l-a purtat în slaba arcă de lemn."
+        },
+        {
+          "verse": 5,
+          "text": "Când popoarele şi-au amestecat nelegiuirile toate, de-a valma, înţelepciunea a ştiut pe cel drept şi l-a păstrat fără vină în faţa lui Dumnezeu şi l-a păzit nebiruit, când a fost să-l doboare mila de copilul său."
+        },
+        {
+          "verse": 6,
+          "text": "Tot ea a mântuit pe cel drept din prăpădul celor răi şi el a fugit departe de focul coborât peste cele cinci cetăţi."
+        },
+        {
+          "verse": 7,
+          "text": "Şi ca dovadă, arătând nelegiuirea lor, acest ţinut pustiit fumegă şi azi, pomii dau roadă în afară de vreme şi un stâlp de sare se înalţă acolo, spre pomenirea necredinciosului suflet al femeii lui Lot."
+        },
+        {
+          "verse": 8,
+          "text": "Nu le-a păsat de înţelepciune şi de aceea n-au ştiut ce este binele şi au lăsat celor care sunt în viaţă amintirea nebuniei lor, aşa încât ticăloşiile lor să nu fie înghiţite de uitare,"
+        },
+        {
+          "verse": 9,
+          "text": "Dar înţelepciunea a smuls din necazuri pe cei care sunt credincioşi."
+        },
+        {
+          "verse": 10,
+          "text": "Iarăşi înţelepciunea a purtat pe căi drepte pe dreptul care fugea de mânia fratelui său, arătându-i împărăţia lui Dumnezeu şi dându-i învăţătură despre lucrurile sfinte; ea l-a îmbogăţit când el muncea din greu şi spor i-a dat în strădaniile lui."
+        },
+        {
+          "verse": 11,
+          "text": "Înţelepciunea l-a sprijinit când a fost să-l jecmănească stăpânii hrăpăreţi şi l-a ajutat să dobândească mari averi."
+        },
+        {
+          "verse": 12,
+          "text": "Ea l-a ferit de duşmani; ea l-a ocrotit de cei care îi întindeau curse; ea l-a făcut biruitor într-o luptă crâncenă, ca să-l înveţe că mai tare decât toate este cucernicia."
+        },
+        {
+          "verse": 13,
+          "text": "Înţelepciunea n-a părăsit pe dreptul cel vândut, ci l-a ferit de păcat."
+        },
+        {
+          "verse": 14,
+          "text": "Ea s-a coborât cu el în groapă şi în lanţurile lui nu l-a părăsit, până ce i-a dat sceptrul domniei şi puterea peste cei ce-l asupreau; ea a dovedit de minciună pe pârâşii lui şi i-a dat o veşnică mărire."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_10_02",
+      "chapter": 10,
+      "pericope_num": "02",
+      "title_en": "Wisdom Led the Israelites out of Egypt",
+      "title_ro": "Înțelepciunea i-a condus pe israeliți din Egipt",
+      "start_verse": 15,
+      "end_verse": 21,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 15,
+          "text": "Înţelepciunea a izbăvit pe poporul cel cuvios şi seminţia cea nevinovată de neamurile care o împilau."
+        },
+        {
+          "verse": 16,
+          "text": "Ea a pătruns în sufletul robului lui Dumnezeu şi cu semne şi cu minuni ea a ţinut piept unor regi temuţi."
+        },
+        {
+          "verse": 17,
+          "text": "Celor cuvioşi datu-le-a plata ostenelilor lor şi i-a călăuzit pe o cale preaminunată şi ziua le-a fost acoperământ şi noaptea lumină de stele;"
+        },
+        {
+          "verse": 18,
+          "text": "I-a trecut prin Marea Roşie şi i-a purtat prin ape mari."
+        },
+        {
+          "verse": 19,
+          "text": "A acoperit cu ape pe duşmani, apoi din adâncurile mării i-a aruncat afară."
+        },
+        {
+          "verse": 20,
+          "text": "Pentru aceea, drepţii au jefuit pe cei necredincioşi şi au slăvit cântând numele Tău cel sfânt, Stăpâne, şi toţi laolaltă au lăudat mâna Ta care lupta pentru ei."
+        },
+        {
+          "verse": 21,
+          "text": "Căci înţelepciunea a deschis gura celor muţi şi limba pruncilor a făcut-o bine grăitoare."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_11_01",
+      "chapter": 11,
+      "pericope_num": "01",
+      "title_en": "Wisdom Led the Israelites through the Desert",
+      "title_ro": "Înțelepciunea i-a condus pe israeliți prin pustiu",
+      "start_verse": 1,
+      "end_verse": 14,
+      "verse_count": 14,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Făcut-a să sporească lucrările lor prin mâna sfântului prooroc,"
+        },
+        {
+          "verse": 2,
+          "text": "Şi-au făcut cale prin pustiul cel nelocuit, şi-au întins corturile lor în locuri neumblate."
+        },
+        {
+          "verse": 3,
+          "text": "Au stat dârji împotriva duşmanilor lor şi au respins pe potrivnicii lor."
+        },
+        {
+          "verse": 4,
+          "text": "Au îndurat setea şi au chemat numele Tău şi apă li s-a dat dintr-o stâncă aspră şi din piatră şi-au astâmpărat astfel setea."
+        },
+        {
+          "verse": 5,
+          "text": "Ceea ce fusese pedeapsă pentru vrăjmaşi s-a făcut pentru ei, în nevoia lor, binecuvântare."
+        },
+        {
+          "verse": 6,
+          "text": "Şi pe când apa marelui fluviu se prefăcuse în sânge necurat,"
+        },
+        {
+          "verse": 7,
+          "text": "Spre pedeapsă că Faraon poruncise să ucidă pe copii, Tu ai dat celor ce-şi pierduseră nădejdea apă din belşug;"
+        },
+        {
+          "verse": 8,
+          "text": "Şi astfel le-ai arătat prin setea de care suferiseră, cu ce pedeapsă pedepseşti pe potrivnicii lor."
+        },
+        {
+          "verse": 9,
+          "text": "Şi din această certare, cu toate că fuseseră certaţi cu cruţare, ei au ştiut cum sunt chinuiţi nelegiuiţii, judecaţi sub mânie."
+        },
+        {
+          "verse": 10,
+          "text": "Cercatu-i-ai pe unii ca un părinte care dojeneşte, iar pe ceilalţi i-ai pedepsit ca un împărat aspru care osândeşte."
+        },
+        {
+          "verse": 11,
+          "text": "Şi cei care erau de faţă şi cei de departe se chinuiau deopotrivă."
+        },
+        {
+          "verse": 12,
+          "text": "O îndoită durere i-a cuprins şi suspinau, aducându-şi aminte de lucrurile trecute."
+        },
+        {
+          "verse": 13,
+          "text": "Căci dându-şi seama că pedepsele lor au fost spre binele celor scăpaţi, au cunoscut puterea lui Dumnezeu,"
+        },
+        {
+          "verse": 14,
+          "text": "Acela pe Care mai înainte L-au lepădat şi L-au avut de batjocură, mai pe urmă s-au minunat în faţa Lui, după ce au suferit o sete cu totul altfel decât cei drepţi."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_11_02",
+      "chapter": 11,
+      "pericope_num": "02",
+      "title_en": "Punishment of the Wicked",
+      "title_ro": "Pedeapsa celor răi",
+      "start_verse": 15,
+      "end_verse": 20,
+      "verse_count": 6,
+      "verses": [
+        {
+          "verse": 15,
+          "text": "Pentru gândurile cele neînţelegătoare ale destrăbălării lor, care îi rătăceau şi-i aduceau să cinstească animalele cele necuvântătoare şi fiarele netrebnice, ai trimis peste ei, Stăpâne, spre pedeapsă, mulţime de animale fără minte,"
+        },
+        {
+          "verse": 16,
+          "text": "Ca să înveţe că prin ceea ce păcătuieşte cineva, prin aceea se şi pedepseşte."
+        },
+        {
+          "verse": 17,
+          "text": "Nu era cu anevoie mâinii Tale atotputernice, care a zidit lumea din nimic, să trimită asupra lor mulţime de urşi şi lei fioroşi,"
+        },
+        {
+          "verse": 18,
+          "text": "Sau de fiare nou-create, necunoscute şi pline de turbare, suflând aburi arzători, scoţând pe nas fum puturos, sau risipind din ochi înfricoşătoare fulgere."
+        },
+        {
+          "verse": 19,
+          "text": "Şi aceste fiare puteau să-i omoare nu numai cu muşcătura, dar să-i îngrozească şi chiar să-i ucidă cu vederea lor."
+        },
+        {
+          "verse": 20,
+          "text": "Şi fără de acestea, puteau să piară numai la o suflare, urmăriţi de dreptatea răzbunătoare şi vânturaţi de vântul puterii Tale; ci toate le-ai rânduit cu măsură, cu număr şi cu cumpănă."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_11_03",
+      "chapter": 11,
+      "pericope_num": "03",
+      "title_en": "God Is Powerful and Merciful",
+      "title_ro": "Dumnezeu este Puternic și Milostiv",
+      "start_verse": 21,
+      "end_verse": 26,
+      "verse_count": 6,
+      "verses": [
+        {
+          "verse": 21,
+          "text": "Căci Tu pururea ai putere nemărginită şi tăriei braţului Tău cine va sta împotrivă?"
+        },
+        {
+          "verse": 22,
+          "text": "Lumea toată, înaintea Ta, este ca acel pic de praf, care face cumpăna să se plece şi ca picătura de rouă cea de dimineaţă, ce se coboară pe pământ."
+        },
+        {
+          "verse": 23,
+          "text": "Şi miluieşti pe toţi, că toate le poţi şi treci cu vederea greşelile oamenilor, ca să se pocăiască."
+        },
+        {
+          "verse": 24,
+          "text": "Pentru că iubeşti toate cele ce sunt şi nimic nu urgiseşti din cele ce ai făcut, că dacă ai fi urât un lucru, nu l-ai fi plăsmuit."
+        },
+        {
+          "verse": 25,
+          "text": "Şi cum ar fi rămas ceva, de n-ai fi voit Tu? Sau cum ar dăinui, dacă n-ar fi fost chemat de Tine la fiinţă?"
+        },
+        {
+          "verse": 26,
+          "text": "Dar Tu ierţi tuturor, că toate ale Tale sunt, Stăpâne, iubitorule de suflete."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_12_01",
+      "chapter": 12,
+      "pericope_num": "01",
+      "title_en": "The Sins of the Canaanites",
+      "title_ro": "Păcatele canaaniților",
+      "start_verse": 1,
+      "end_verse": 11,
+      "verse_count": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Duhul Tău cel fără stricăciune este întru toate."
+        },
+        {
+          "verse": 2,
+          "text": "Pentru aceea pedepseşti cu măsură pe cei care cad şi, când păcătuiesc, le deschizi ochii şi-i dojeneşti, ca să se lase de răutatea lor şi să creadă întru Tine, Doamne."
+        },
+        {
+          "verse": 3,
+          "text": "De locuitorii cei de demult ai sfântului Tău pământ Te-ai scârbit,"
+        },
+        {
+          "verse": 4,
+          "text": "Căci făceau lucruri nelegiuite, vrăjitoreşti şi aduceau jertfe necurate,"
+        },
+        {
+          "verse": 5,
+          "text": "Omorând fără milă pe prunci, mâncând carne omenească şi adăpându-se cu sânge; pe aceşti jertfitori spurcaţi"
+        },
+        {
+          "verse": 6,
+          "text": "Şi părinţi ucigaşi ai unor prunci fără de apărare ai voit să-i nimiceşti prin mâinile părinţilor noştri,"
+        },
+        {
+          "verse": 7,
+          "text": "Aşa încât acest pământ, care este mai de cinste înaintea Ta decât toate celelalte, să primească - vrednici locuitori - pe fiii lui Dumnezeu."
+        },
+        {
+          "verse": 8,
+          "text": "Dar şi pe aceia ca pe nişte oameni i-ai iertat şi le-ai trimis, ca soli ai oştirii Tale pedepsitoare, tăuni care înţeapă, ca să-i ucidă cu încetul."
+        },
+        {
+          "verse": 9,
+          "text": "Nu pentru că n-ai fi putut supune cu război pe cei necredincioşi celor drepţi, sau să-i pierzi dintr-odată cu groaznice fiare, sau cu o poruncă scurtă,"
+        },
+        {
+          "verse": 10,
+          "text": "Ci ai judecat să-i iei cu încetul dându-le loc de pocăinţă, deşi bine ştiai că neamul lor este viclean şi răutatea lor este firească şi răsădită înlăuntru şi că gândul lor nu se va schimba în veac,"
+        },
+        {
+          "verse": 11,
+          "text": "Pentru că din început a fost sămânţă blestemată. Apoi nici pentru aceea că Te-ai teme de cineva, Te-ai arătat îndelung-răbdător cu păcatele lor."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_12_02",
+      "chapter": 12,
+      "pericope_num": "02",
+      "title_en": "God Is Sovereign",
+      "title_ro": "Dumnezeu este Suveran",
+      "start_verse": 12,
+      "end_verse": 18,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 12,
+          "text": "Căci cine ar putea să-ţi zică: Ce-ai făcut? Sau cine va sta împotriva judecăţii Tale? Sau cine Te va scoate vinovat pentru neamurile cele nimicite, pe care Tu însuţi le-ai făcut? Sau cine se va ridica asupra Ta cu judecată pentru oamenii cei nedrepţi?"
+        },
+        {
+          "verse": 13,
+          "text": "Că nu este alt dumnezeu afară de Tine, care să aibă grijă de toate şi căruia să-i dovedeşti că judecăţile Tale sunt totdeauna drepte."
+        },
+        {
+          "verse": 14,
+          "text": "Nu este nici împărat, nici stăpânitor care să poată să ridice ochii în faţa Ta şi să-ţi ceară socoteală pentru cei pe care i-ai nimicit."
+        },
+        {
+          "verse": 15,
+          "text": "Ci, fiind drept, toate le cârmuieşti cu dreptate şi socoteşti lucru nepotrivit cu puterea Ta ca să osândeşti pe cel care nu trebuie pedepsit."
+        },
+        {
+          "verse": 16,
+          "text": "Puterea Ta este începutul dreptăţii şi, pentru că eşti Stăpân a toate, către toţi cu îngăduinţă Te arăţi."
+        },
+        {
+          "verse": 17,
+          "text": "Arăţi tăria Ta celor care nu cred în atotputernicia Ta şi înfrângi cutezanţa celor care o cunosc."
+        },
+        {
+          "verse": 18,
+          "text": "Stăpân al puterii cum eşti, judeci cu blândeţe şi ne cârmuieşti cu multă cruţare, că la Tine este puterea, când voieşti."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_12_03",
+      "chapter": 12,
+      "pericope_num": "03",
+      "title_en": "God’s Lessons for Israel",
+      "title_ro": "Învățăturile lui Dumnezeu pentru Israel",
+      "start_verse": 19,
+      "end_verse": 22,
+      "verse_count": 4,
+      "verses": [
+        {
+          "verse": 19,
+          "text": "Prin lucruri ca acestea ai învăţat pe poporul Tău că cel drept trebuie să fie iubitor de oameni şi ai dat fiilor Tăi bună nădejde, că le laşi timp să se pocăiască de păcate."
+        },
+        {
+          "verse": 20,
+          "text": "Că de vreme ce ai pedepsit cu atâta încetineală şi îngăduinţă pe duşmanii slujitorilor Tăi, deşi erau vinovaţi până la moarte, dându-le timp şi loc să se abată de la nelegiuirea lor,"
+        },
+        {
+          "verse": 21,
+          "text": "Atunci cu câtă luare aminte judeci Tu pe robii Tăi, ai căror părinţi au primit de la Tine jurăminte şi legămintele unor strălucite făgăduinţe!"
+        },
+        {
+          "verse": 22,
+          "text": "Deci când ne mustri, Tu baţi pe vrăjmaşii noştri de mii de ori mai mult, ca să ţinem în seamă bunătatea Ta, când judecăm; iar când suntem judecaţi, să nădăjduim în îndurarea Ta."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_12_04",
+      "chapter": 12,
+      "pericope_num": "04",
+      "title_en": "The Punishment of the Egyptians",
+      "title_ro": "Pedeapsa egiptenilor",
+      "start_verse": 23,
+      "end_verse": 27,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 23,
+          "text": "Drept aceea, pe cei nedrepţi care şi-au trăit viaţa nebuneşte, i-ai pedepsit cu înseşi faptele lor urâcioase."
+        },
+        {
+          "verse": 24,
+          "text": "Căci au mers atât de departe pe căile rătăcirii, încât socoteau drept dumnezei dobitoacele cele mai respingătoare, înşelându-se ca pruncii cei fără de înţelepciune."
+        },
+        {
+          "verse": 25,
+          "text": "Pentru aceea, ca unor prunci fără de minte le-ai trimis o pedeapsă de râs."
+        },
+        {
+          "verse": 26,
+          "text": "Iar cei care nu s-au pătruns de această certare neînsemnată vor simţi o pedeapsă vrednică de Dumnezeu."
+        },
+        {
+          "verse": 27,
+          "text": "Suferind şi tulburându-se cu ceea ce ei socoteau a fi dumnezei, au cunoscut pe Dumnezeul cel adevărat, pe Care altădată au zis că nu-L cunosc; pentru aceea, osânda cea mai de pe urmă a venit asupra lor."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_13_01",
+      "chapter": 13,
+      "pericope_num": "01",
+      "title_en": "The Foolishness of Nature Worship",
+      "title_ro": "Nebunia închinării la natură",
+      "start_verse": 1,
+      "end_verse": 13,
+      "verse_count": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Deşerţi sunt din fire toţi oamenii care nu cunosc pe Dumnezeu şi care n-au ştiut, plecând de la bunătăţile văzute, să vadă pe Cel care este, nici din cercetarea lucrurilor Sale să înţeleagă pe meşter;"
+        },
+        {
+          "verse": 2,
+          "text": "Ci au socotit că sunt dumnezei cârmuitori ai lumii sau focul, sau vântul, sau arcul cel iute, sau mersul stelelor, sau apa năvalnică, sau luminătorii cerului;"
+        },
+        {
+          "verse": 3,
+          "text": "Ei, care, desfătaţi de frumuseţea acestora, le-au luat drept dumnezei, să ştie acum cu cât este Stăpânul mai presus decât acestea, că El, Cel Care Însuşi este începătorul frumuseţii, este făcătorul lor."
+        },
+        {
+          "verse": 4,
+          "text": "Iar dacă se minunează de putere şi de lucrare, să înţeleagă din acestea cu cât este mai puternic Cel care le-a făcut."
+        },
+        {
+          "verse": 5,
+          "text": "Căci din mărimea şi frumuseţea făpturilor poţi să cunoşti bine, socotindu-te, pe Cel care le-a zidit."
+        },
+        {
+          "verse": 6,
+          "text": "Dar, în acelaşi timp, în toate acestea este oarecare neajuns, căci doar unii ca aceştia rătăcesc căutând pe Dumnezeu şi străduindu-se să-L afle."
+        },
+        {
+          "verse": 7,
+          "text": "Căci, îndeletnicindu-se cu lucrările lui Dumnezeu şi cercetându-le, ei se încredinţează cu vederea cât de frumoase sunt cele văzute."
+        },
+        {
+          "verse": 8,
+          "text": "De altă parte, ei n-au cuvânt să li se ierte rătăcirea."
+        },
+        {
+          "verse": 9,
+          "text": "Că dacă au putut să adune atâta învăţătură, ca să cerceteze lumea, cum n-au aflat ei mai degrabă pe Stăpânul lumii?"
+        },
+        {
+          "verse": 10,
+          "text": "Dar sunt cu totul ticăloşi şi şi-au pus nădejdea în lucruri fără de viaţă cei care au numit dumnezei lucrurile mâinilor omeneşti, aurul şi argintul cu meşteşug lucrat şi închipuiri de dobitoace sau piatră netrebnică, cioplită de mână de demult."
+        },
+        {
+          "verse": 11,
+          "text": "Un meşter lemnar a tăiat din pădure un lemn bun de lucrat, l-a jupuit de coajă şi apoi cu îndemânarea sa a făcut din el o unealtă folositoare spre slujba vieţii."
+        },
+        {
+          "verse": 12,
+          "text": "Rămăşiţele de la lemnul lucrat le pune pe foc să îşi fiarbă de mâncare şi îşi potoleşte foamea."
+        },
+        {
+          "verse": 13,
+          "text": "Şi ce-a mai rămas dintr-acestea, nefiind de nici o treabă, pentru că este lemn strâmb şi noduros, îl ciopleşte ca să-i treacă de urât şi, potrivindu-l şi meşteşugindu-l, l-a făcut asemenea cu chipul de om."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_13_02",
+      "chapter": 13,
+      "pericope_num": "02",
+      "title_en": "The Foolishness of Idolatry",
+      "title_ro": "Nebunia idolatriei",
+      "start_verse": 10,
+      "end_verse": 19,
+      "verse_count": 10,
+      "verses": [
+        {
+          "verse": 10,
+          "text": "Dar sunt cu totul ticăloşi şi şi-au pus nădejdea în lucruri fără de viaţă cei care au numit dumnezei lucrurile mâinilor omeneşti, aurul şi argintul cu meşteşug lucrat şi închipuiri de dobitoace sau piatră netrebnică, cioplită de mână de demult."
+        },
+        {
+          "verse": 11,
+          "text": "Un meşter lemnar a tăiat din pădure un lemn bun de lucrat, l-a jupuit de coajă şi apoi cu îndemânarea sa a făcut din el o unealtă folositoare spre slujba vieţii."
+        },
+        {
+          "verse": 12,
+          "text": "Rămăşiţele de la lemnul lucrat le pune pe foc să îşi fiarbă de mâncare şi îşi potoleşte foamea."
+        },
+        {
+          "verse": 13,
+          "text": "Şi ce-a mai rămas dintr-acestea, nefiind de nici o treabă, pentru că este lemn strâmb şi noduros, îl ciopleşte ca să-i treacă de urât şi, potrivindu-l şi meşteşugindu-l, l-a făcut asemenea cu chipul de om."
+        },
+        {
+          "verse": 14,
+          "text": "Sau l-a făcut asemenea vreunui dobitoc de nimic şi, vopsindu-l peste tot şi rumenindu-l la faţă cu vopsea roşie, i-a ascuns toate metehnele."
+        },
+        {
+          "verse": 15,
+          "text": "Apoi i-a făcut în perete bună aşezare, l-a pus acolo şi l-a întărit cu piroane de fier."
+        },
+        {
+          "verse": 16,
+          "text": "El are grijă de idol să nu cadă, ştiind bine că nu-şi poate ajuta singur, căci nu este decât un chip care are nevoie de ajutor."
+        },
+        {
+          "verse": 17,
+          "text": "Dar el se roagă chipului pentru averea sa, pentru nunţile sale şi pentru fiii săi şi nu se ruşinează a vorbi către lucrul cel neînsufleţit."
+        },
+        {
+          "verse": 18,
+          "text": "El cere sănătate de la cel neputincios, se roagă de viaţă celui mort şi de ajutor celui ce nu poate să dea nici unul; el se roagă de bună călătorie cui nu poate să meargă în picioare."
+        },
+        {
+          "verse": 19,
+          "text": "Ca să-şi pună la adăpost averea, alergătura şi izbânda muncii sale, el cere putere de la cel care are mâinile cele mai betege."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_14_01",
+      "chapter": 14,
+      "pericope_num": "01",
+      "title_en": "Folly of a Navigator Praying to an Idol",
+      "title_ro": "Nebunia unui navigator care se roagă la un idol",
+      "start_verse": 1,
+      "end_verse": 14,
+      "verse_count": 14,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Altul voind să meargă pe apă şi să călătorească prin cumplitele valuri se roagă la un lemn mai şubred decât luntrea care îl poartă."
+        },
+        {
+          "verse": 2,
+          "text": "Această luntre a fost născocită de pofta de câştig şi a întruchipat-o agerimea lucrătorului."
+        },
+        {
+          "verse": 3,
+          "text": "Ci, o, Părinte, pronia Ta o cârmuieşte, Tu, Care ai deschis cărări în mare şi drum nerătăcitor în volbura valurilor."
+        },
+        {
+          "verse": 4,
+          "text": "Şi cu aceasta arătat-ai că poţi să izbăveşti din orice primejdie, aşa încât cineva, chiar fără să aibă ştiinţa corăbierului, să poată porni pe mare. Tu nu voieşti ca preaînţeleptele Tale lucrări să rămână deşarte, de aceea oamenii, încredinţându-şi viaţa unui lemn de tot slab,"
+        },
+        {
+          "verse": 5,
+          "text": "Trec prin valuri pe o plută şi scapă de moarte."
+        },
+        {
+          "verse": 6,
+          "text": "Iar de demult, când au pierit trufaşii uriaşi, nădejdea întregii lumi a scăpat într-o barcă şi barca, îndrumată de mâna Ta, a lăsat omenirii sămânţa urmaşilor."
+        },
+        {
+          "verse": 7,
+          "text": "Şi binecuvântat este lemnul care slujeşte la o trebuinţă binecuvântată."
+        },
+        {
+          "verse": 8,
+          "text": "Dar idolul făcut de mâna omenească este blestemat, şi el şi acel care l-a făcut; acesta pentru că l-a făcut, iar idolul pentru că, stricăcios fiind, i s-a zis dumnezeu."
+        },
+        {
+          "verse": 9,
+          "text": "Că Dumnezeu urăşte deopotrivă şi pe nelegiuiţi şi nelegiuirea lor."
+        },
+        {
+          "verse": 10,
+          "text": "Lucrul şi lucrătorul var fi deopotrivă pedepsiţi."
+        },
+        {
+          "verse": 11,
+          "text": "Pentru aceea, idolii neamurilor vor fi cercetaţi spre pieire, fiindcă, deşi sunt făpturi, au ajuns urâciune, sminteală pentru sufletele oamenilor şi laţ pentru picioarele celor fără de minte."
+        },
+        {
+          "verse": 12,
+          "text": "Gândul plăsmuirii de idoli a fost începutul aprinderii spre desfrâu, şi născocirea lor a fost pierderea vieţii."
+        },
+        {
+          "verse": 13,
+          "text": "Fiindcă n-au fost de la început şi nu vor fi totdeauna."
+        },
+        {
+          "verse": 14,
+          "text": "Prin deşarta mărire omenească au intrat în lume, astfel că apropiatul lor sfârşit este hotărât înaintea lui Dumnezeu."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_14_02",
+      "chapter": 14,
+      "pericope_num": "02",
+      "title_en": "The Origin and Evils of Idolatry",
+      "title_ro": "Originea și relele idolatriei",
+      "start_verse": 12,
+      "end_verse": 31,
+      "verse_count": 20,
+      "verses": [
+        {
+          "verse": 12,
+          "text": "Gândul plăsmuirii de idoli a fost începutul aprinderii spre desfrâu, şi născocirea lor a fost pierderea vieţii."
+        },
+        {
+          "verse": 13,
+          "text": "Fiindcă n-au fost de la început şi nu vor fi totdeauna."
+        },
+        {
+          "verse": 14,
+          "text": "Prin deşarta mărire omenească au intrat în lume, astfel că apropiatul lor sfârşit este hotărât înaintea lui Dumnezeu."
+        },
+        {
+          "verse": 15,
+          "text": "Un tată, întristându-se cu amară jale pentru copilul său răpit înainte de vreme, i-a făcut chipul şi pe cel care ieri încă nu era decât un om mort, îl cinsteşte acum ca pe un dumnezeu şi a rânduit celor din casa sa taine şi slujbe."
+        },
+        {
+          "verse": 16,
+          "text": "După aceea, cu vremea, întărindu-se acest păgânesc obicei, s-a păzit ca o lege şi, din poruncile tiranilor, a ieşit cinstirea chipurilor cioplite."
+        },
+        {
+          "verse": 17,
+          "text": "Când popoarele nu puteau să-i cinstească de faţă, pentru că locuiau departe, făceau o asemuire după chipul depărtat şi potriveau un chip văzut al împăratului preacinstit, aşa încât să dea celui ce nu era de faţă aceleaşi sârguincioase închinări ca şi cum ar fi de faţă."
+        },
+        {
+          "verse": 18,
+          "text": "Şi pentru izbânda acestei închinări, cei care erau neştiutori au fost şi ei împinşi de pofta de slavă a meşterului."
+        },
+        {
+          "verse": 19,
+          "text": "Pentru că el, voind să placă stăpânitorului, şi-a pus tot meşteşugul ca să facă asemănarea cât mai frumoasă."
+        },
+        {
+          "verse": 20,
+          "text": "Iar mulţimile, înşelându-se prin frumuseţea lucrului, l-au socotit acum ca dumnezeu pe cel care mai înainte îl cinsteau ca pe un om."
+        },
+        {
+          "verse": 21,
+          "text": "Şi aceasta a fost o înşelăciune pentru viaţa oamenilor, că ei, bătuţi de nevoi sau robiţi de tiranie, au dat pietrelor şi lemnelor numele ce nu se poate da la nimic de pe pământ."
+        },
+        {
+          "verse": 22,
+          "text": "Apoi n-a fost destul că au rătăcit întru cunoaşterea lui Dumnezeu, ci, vieţuind - din întunericul minţii lor - în război necurmat, au numit pace atâtea rele."
+        },
+        {
+          "verse": 23,
+          "text": "Ei făceau slujbe în care ucideau chiar pe copiii lor, sau săvârşeau taine ascunse sau beţii nebuneşti după barbare obiceiuri."
+        },
+        {
+          "verse": 24,
+          "text": "Şi nici viaţa, nici căsătoriile nu le mai păzeau curate, ci unul pe altul ucidea prin viclenie sau îl batjocorea prin desfrânare."
+        },
+        {
+          "verse": 25,
+          "text": "Toate se învălmăşesc în sânge şi ucidere, în furtişag şi vicleşug, în stricăciune şi necredinţă, în răzvrătire şi jurământ strâmb,"
+        },
+        {
+          "verse": 26,
+          "text": "În prigonirea celor buni şi uitarea binefacerilor primite, în pângărirea sufletelor şi răsturnarea trupeştilor nevoi, în tulburarea căsătoriilor şi desfrânare şi dezmăţ sub ochii tuturor."
+        },
+        {
+          "verse": 27,
+          "text": "Căci închinarea la idolii cei deşerţi, care nici n-ar trebui pomeniţi, este începutul, pricina şi sfârşitul a tot răul."
+        },
+        {
+          "verse": 28,
+          "text": "Desfătările lor sunt nişte bucurii smintite, proorociile lor sunt mincinoase, ei trăiesc în nedreptate şi jură strâmb cu uşurinţă."
+        },
+        {
+          "verse": 29,
+          "text": "Ca unii care nădăjduiesc în idolii cei fără de suflet, când jură strâmb, ei nu se tem că li se va dovedi nedreptatea."
+        },
+        {
+          "verse": 30,
+          "text": "Şi din două părţi pedeapsa va da peste ei, întâi pentru că au cugetat greşit despre Dumnezeu, închinându-se idolilor, şi al doilea pentru că, vicleni fiind, au jurat împotriva adevărului, dispreţuind tot ce este sfânt."
+        },
+        {
+          "verse": 31,
+          "text": "Căci nu puterea idolilor pe care s-au jurat, ci pedeapsa cuvenită păcătoşilor, aceea prigoneşte pururea păcatul celor ce au greşit."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_15_01",
+      "chapter": 15,
+      "pericope_num": "01",
+      "title_en": "Benefits of Worshiping the True God",
+      "title_ro": "Beneficiile închinării la Dumnezeul Adevărat",
+      "start_verse": 1,
+      "end_verse": 15,
+      "verse_count": 15,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Iar Tu, Dumnezeul nostru, eşti bun şi adevărat, îndelung-răbdător şi cu milă cârmuitor a toate."
+        },
+        {
+          "verse": 2,
+          "text": "Chiar când păcătuim, ai Tăi suntem, noi cei ce cunoaştem puterea Ta, dar nu vom păcătui, ştiind bine că suntem din numărul celor număraţi ai Tăi."
+        },
+        {
+          "verse": 3,
+          "text": "Că a Te cunoaşte pe Tine este dreptate desăvârşită şi a şti puterea Ta este rădăcina nemuririi."
+        },
+        {
+          "verse": 4,
+          "text": "Pe noi nu ne-au înşelat născocirile omeneşti ale unui meşteşug viclean;  ici truda deşartă a zugravilor, adică chipul mânjit cu multe feluri de vopsele,"
+        },
+        {
+          "verse": 5,
+          "text": "A cărui înfăţişare aţâţă patima celor nebuni, cu pofta chipului neînsufleţit al unei arătări fără viaţă."
+        },
+        {
+          "verse": 6,
+          "text": "Iubitori de rele precum sunt, ei sunt vrednici să aibă asemenea nădejdi, şi cei care le fac şi cei care le poftesc şi li se închină."
+        },
+        {
+          "verse": 7,
+          "text": "Olarul frământă pământul moale cu osteneală şi face spre slujba noastră orice vas şi din acelaşi pământ face vase spre curată întrebuinţare şi altele dimpotrivă, dar toate asemenea; şi care vas de ce treabă să fie, hotărăşte olarul."
+        },
+        {
+          "verse": 8,
+          "text": "Apoi cu nelegiuită trudă, din acelaşi pământ, tot el scoate un deşert chip de idol, el care, cu puţin mai înainte, din pământ a fost făcut şi după puţin se va întoarce iarăşi de unde a fost luat, când se va cere să dea sufletul cu care este dator."
+        },
+        {
+          "verse": 9,
+          "text": "Dar el se îngrijeşte nu de aceea că puterile lui slăbesc, nici că viaţa este scurtă, ci se ia la întrecere cu meşterii aurari şi argintari şi face ce fac făurarii în aramă şi, ca mare cinste pentru el, ţine să facă chipuri amăgitoare."
+        },
+        {
+          "verse": 10,
+          "text": "Inima lui este cenuşă şi nădejdea lui mai slabă ca pământul şi viaţa lui mai mică în cinste decât lutul."
+        },
+        {
+          "verse": 11,
+          "text": "Fiindcă el n-a cunoscut pe Făcătorul său, şi pe Cel care i-a insuflat duhul faptelor şi a pus în el putere de viaţă,"
+        },
+        {
+          "verse": 12,
+          "text": "Ci socoteşte că viaţa noastră este jucărie şi traiul nostru ca un târg de câştig, pentru că - aşa zic ei - trebuie să câştigi bani în orice chip, chiar făcând rău."
+        },
+        {
+          "verse": 13,
+          "text": "Dar bine să ştie că păcătuieşte mai mult decât toţi ceilalţi acela care, din acelaşi lut, scoate vase care se pot uşor sparge şi chipuri idoleşti."
+        },
+        {
+          "verse": 14,
+          "text": "Ci toţi aceştia sunt mai nebuni şi mai de plâns decât sufletul unui copil; sunt toţi duşmanii poporului tău şi asupritorii lui;"
+        },
+        {
+          "verse": 15,
+          "text": "Căci pe toţi idolii neamurilor i-au socotit drept dumnezei pe cei care nici cu ochii nu văd, nici cu nasul nu respiră, nici cu urechile nu aud, nici cu degetele mâinilor nu pipăie, nici cu picioarele nu umblă."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_15_02",
+      "chapter": 15,
+      "pericope_num": "02",
+      "title_en": "The Foolishness of Worshiping Clay Idols",
+      "title_ro": "Nebunia închinării la idoli de lut",
+      "start_verse": 7,
+      "end_verse": 17,
+      "verse_count": 11,
+      "verses": [
+        {
+          "verse": 7,
+          "text": "Olarul frământă pământul moale cu osteneală şi face spre slujba noastră orice vas şi din acelaşi pământ face vase spre curată întrebuinţare şi altele dimpotrivă, dar toate asemenea; şi care vas de ce treabă să fie, hotărăşte olarul."
+        },
+        {
+          "verse": 8,
+          "text": "Apoi cu nelegiuită trudă, din acelaşi pământ, tot el scoate un deşert chip de idol, el care, cu puţin mai înainte, din pământ a fost făcut şi după puţin se va întoarce iarăşi de unde a fost luat, când se va cere să dea sufletul cu care este dator."
+        },
+        {
+          "verse": 9,
+          "text": "Dar el se îngrijeşte nu de aceea că puterile lui slăbesc, nici că viaţa este scurtă, ci se ia la întrecere cu meşterii aurari şi argintari şi face ce fac făurarii în aramă şi, ca mare cinste pentru el, ţine să facă chipuri amăgitoare."
+        },
+        {
+          "verse": 10,
+          "text": "Inima lui este cenuşă şi nădejdea lui mai slabă ca pământul şi viaţa lui mai mică în cinste decât lutul."
+        },
+        {
+          "verse": 11,
+          "text": "Fiindcă el n-a cunoscut pe Făcătorul său, şi pe Cel care i-a insuflat duhul faptelor şi a pus în el putere de viaţă,"
+        },
+        {
+          "verse": 12,
+          "text": "Ci socoteşte că viaţa noastră este jucărie şi traiul nostru ca un târg de câştig, pentru că - aşa zic ei - trebuie să câştigi bani în orice chip, chiar făcând rău."
+        },
+        {
+          "verse": 13,
+          "text": "Dar bine să ştie că păcătuieşte mai mult decât toţi ceilalţi acela care, din acelaşi lut, scoate vase care se pot uşor sparge şi chipuri idoleşti."
+        },
+        {
+          "verse": 14,
+          "text": "Ci toţi aceştia sunt mai nebuni şi mai de plâns decât sufletul unui copil; sunt toţi duşmanii poporului tău şi asupritorii lui;"
+        },
+        {
+          "verse": 15,
+          "text": "Căci pe toţi idolii neamurilor i-au socotit drept dumnezei pe cei care nici cu ochii nu văd, nici cu nasul nu respiră, nici cu urechile nu aud, nici cu degetele mâinilor nu pipăie, nici cu picioarele nu umblă."
+        },
+        {
+          "verse": 16,
+          "text": "Cel care i-a făcut a fost un om, şi cel care a primit duhul în dar, tocmai el i-a închipuit, căci nici un om nu poate să facă un dumnezeu la fel cu el."
+        },
+        {
+          "verse": 17,
+          "text": "El fiind muritor, el face un lucru fără viaţă cu mâinile lui nelegiuite, el preţuieşte mai mult decât idolii săi, fiindcă el este viu, iar aceia nicidecum."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_15_03",
+      "chapter": 15,
+      "pericope_num": "03",
+      "title_en": "Serpents in the Desert",
+      "title_ro": "Șerpi în pustiu",
+      "start_verse": 18,
+      "end_verse": 19,
+      "verse_count": 2,
+      "verses": [
+        {
+          "verse": 18,
+          "text": "Ei se închină dobitoacelor celor mai urâcioase, care, după prostia lor, sunt mai rele decât celelalte."
+        },
+        {
+          "verse": 19,
+          "text": "N-au în ele nici o bunătate care să ni le facă dragi şi ele sunt în afară şi de la lauda lui Dumnezeu, şi de la binecuvântarea Lui."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_16_01",
+      "chapter": 16,
+      "pericope_num": "01",
+      "title_en": "Disastrous Storms Strike Egypt",
+      "title_ro": "Furtuni dezastruoase lovesc Egiptul",
+      "start_verse": 1,
+      "end_verse": 19,
+      "verse_count": 19,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Drept aceea, au fost cu dreptate pedepsiţi prin unele făpturi ca acestea şi au fost chinuiţi de mulţime de fiare."
+        },
+        {
+          "verse": 2,
+          "text": "În locul acestor pedepse, Tu ai dăruit cele bune poporului Tău şi foamea lui cea mare ai potolit-o cu o mâncare nouă, cu carne de prepeliţă."
+        },
+        {
+          "verse": 3,
+          "text": "Aşa încât unii (Egiptenii), deşi pofteau să mănânce, văzând urâciunea fiarelor trimise, s-au lipsit şi de mâncarea de nevoie, iar ceilalţi, după puţină lipsă, au avut o hrană nouă."
+        },
+        {
+          "verse": 4,
+          "text": "Căci se cuvenea ca o foamete care nu iartă să vină peste asupritori, iar celorlalţi numai să li se arate cum sunt chinuiţi vrăjmaşii lor."
+        },
+        {
+          "verse": 5,
+          "text": "Iar când a venit peste ei înfricoşata mânie a fiarelor şi se prăpădeau muşcaţi de şerpii cei cumpliţi, aprinderea Ta n-a ţinut până la urmă."
+        },
+        {
+          "verse": 6,
+          "text": "Ei au fost tulburaţi puţină vreme, ca să se îndrepteze şi au avut un semn de mântuire, ca să-şi aducă aminte de poruncile legii Tale;"
+        },
+        {
+          "verse": 7,
+          "text": "Căci cel care se întorcea către acest semn se vindeca, dar nu prin ceea ce vedea cu ochii, ci prin Tine, Mântuitorul tuturor."
+        },
+        {
+          "verse": 8,
+          "text": "Şi prin aceasta arătat-ai vrăjmaşilor noştri că Tu eşti Cel Care izbăveşti de tot răul."
+        },
+        {
+          "verse": 9,
+          "text": "Pentru că înţepătura lăcustelor şi a muştelor le-a adus moartea şi n-a mai fost nici un chip să-şi scape viaţa, fiindcă meritau o asemenea pedeapsă."
+        },
+        {
+          "verse": 10,
+          "text": "Iar pe robii Tăi nici dinţii balaurilor celor veninoşi nu i-au biruit, căci mila Ta a venit şi i-a vindecat,"
+        },
+        {
+          "verse": 11,
+          "text": "Ca să-şi aducă aminte de cuvintele Tale; erau răniţi şi apoi degrabă vindecaţi, ca nu cumva, căzând în adâncă uitare, să nu fie înstrăinaţi de la bunătăţile Tale."
+        },
+        {
+          "verse": 12,
+          "text": "Nici iarbă de leac, nici alifie nu i-a vindecat, ci cuvântul Tău, Doamne, cel ce toate le vindecă."
+        },
+        {
+          "verse": 13,
+          "text": "Căci Tu stăpâneşti peste viaţă şi peste moarte şi cobori până la porţile locuinţei morţilor şi iar ridici."
+        },
+        {
+          "verse": 14,
+          "text": "Omul, în răutatea sa, poate să ucidă, dar nu poate să aducă înapoi duhul care a ieşit, nici să scoată sufletul care a intrat în locuinţa morţilor."
+        },
+        {
+          "verse": 15,
+          "text": "Iar de mâna Ta nu este cu putinţă nimănui să scape."
+        },
+        {
+          "verse": 16,
+          "text": "Nelegiuiţii care s-au lepădat de a Te cunoaşte au fost bătuţi cu puterea braţului Tău; ape năprasnice, grindină şi ploi neînduplecate i-au chinuit; para focului i-a mistuit."
+        },
+        {
+          "verse": 17,
+          "text": "Şi, ce este mai minunat, focul ardea şi mai tare în apa care toate le stinge, pentru că toată făptura este apărătoarea celor drepţi."
+        },
+        {
+          "verse": 18,
+          "text": "Uneori para focului se domolea, ca să nu ardă fiarele cele trimise împotriva celor necredincioşi, şi ei să vadă şi să cunoască cum că îi prigoneşte judecata lui Dumnezeu."
+        },
+        {
+          "verse": 19,
+          "text": "Alteori; focul ardea în apă mai mult decât este puterea lui, ca să nimicească astfel toate roadele ţării celor nedrepţi."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_16_02",
+      "chapter": 16,
+      "pericope_num": "02",
+      "title_en": "The Israelites Receive Manna",
+      "title_ro": "Israeliții primesc mană",
+      "start_verse": 20,
+      "end_verse": 29,
+      "verse_count": 10,
+      "verses": [
+        {
+          "verse": 20,
+          "text": "Dar pe poporul Tău l-ai hrănit cu hrană îngerească şi i-ai trimis din cer pâine gata, fără de osteneală, şi care avea toată dulceaţa şi plăcea tuturor."
+        },
+        {
+          "verse": 21,
+          "text": "Şi pâinea aceasta arăta către fii bunătatea Ta faţă de ei, iar pentru cel care o mânca avea gustul mâncării pe care o poftea."
+        },
+        {
+          "verse": 22,
+          "text": "Iar zăpada şi gheaţa răbdau focul şi nu se topeau, ca să cunoască Israel că focul cel arzător, care strălucea în zăpadă şi în ploi, a mistuit roadele vrăjmaşilor;"
+        },
+        {
+          "verse": 23,
+          "text": "Şi iarăşi acelaşi foc îşi lepăda puterile, ca să hrănească pe cei drepţi,"
+        },
+        {
+          "verse": 24,
+          "text": "Pentru că făptura, slujindu-ţi ţie, Celui care ai făcut-o, se încordează pentru pedepsirea celor nedrepţi şi se domoleşte spre facerea de bine a celor care se încred în Tine."
+        },
+        {
+          "verse": 25,
+          "text": "Drept aceea, schimbându-se în toate aceste chipuri, ea slujea darului Tău celui a toate hrănitor, potrivit dorinţei celor care Te rugau;"
+        },
+        {
+          "verse": 26,
+          "text": "Astfel ca fiii pe care i-ai iubit, Doamne, să înveţe că nu felurite soiuri de roade hrănesc pe oameni, ci cuvântul Tău ţine în viaţă pe acei care cred în Tine."
+        },
+        {
+          "verse": 27,
+          "text": "Fiindcă ceea ce nu se strica de puterea focului, se topea, încălzindu-se de o uşoară rază a soarelui."
+        },
+        {
+          "verse": 28,
+          "text": "Ca să se înţeleagă că trebuie să mânecăm şi să-ţi mulţumim mai înainte de răsăritul soarelui şi să ne rugăm ţie din revărsatul zorilor."
+        },
+        {
+          "verse": 29,
+          "text": "Iar nădejdea celui nemulţumitor se va topi ca gheaţa de iarnă şi se va scurge ca o apă nefolositoare."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_17_01",
+      "chapter": 17,
+      "pericope_num": "01",
+      "title_en": "Terror Strikes the Egyptians at Night",
+      "title_ro": "Groaza lovește pe egipteni noaptea",
+      "start_verse": 1,
+      "end_verse": 21,
+      "verse_count": 20,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Judecăţile Tale sunt mari şi anevoie de lămurit, de aceea cugetele fără învăţătură sunt în rătăcire."
+        },
+        {
+          "verse": 2,
+          "text": "Nelegiuiţii, având încredinţarea că pot să asuprească neamul sfânt, zăceau închişi sub acoperişurile lor - înlănţuiţi de întuneric şi robii unei nopţi fără ziuă - şi fugari erau de la veşnica Ta purtare de grijă."
+        },
+        {
+          "verse": 3,
+          "text": "Şi când socoteau că vor rămâne ascunşi cu tainicele lor păcate, în vălul întunecat al uitării, risipiţi au fost  şi înspăimântaţi amarnic şi tulburaţi au fost de năluciri."
+        },
+        {
+          "verse": 4,
+          "text": "Adăposturile unde se închideau nu i-au scutit de spaime, căci în jurul lor răsunau zgomote care îi înfricoşau şi arătări posomorâte îi umpleau de groază."
+        },
+        {
+          "verse": 5,
+          "text": "Nu era nici un foc care să poată să-i lumineze şi văpăile vii ale stelelor nu puteau să risipească acea noapte înfricoşătoare."
+        },
+        {
+          "verse": 6,
+          "text": "Câteodată li se arăta o învâlvorare înspăimântătoare care se aprindea de la sine şi, zguduiţi de această vedenie, cu pricină necunoscută, socoteau arătările şi mai grozave încă."
+        },
+        {
+          "verse": 7,
+          "text": "Meşteşugul copilăros al vrăjitorilor nu mai putea nimic şi îngâmfarea lor că ştiu ceva ieşise de ruşine."
+        },
+        {
+          "verse": 8,
+          "text": "Ei care ziceau că pot să gonească din inima bolnavă spaimele şi tulburările, chiar ei zăceau acum plini de ruşinoasă spaimă."
+        },
+        {
+          "verse": 9,
+          "text": "Şi măcar că nu era prea mare grozăvia care să-i înspăimânteze, totuşi fiarele care treceau şi şerpii care fluierau îi îngrozeau, şi se topeau de frică şi închideau ochii să nu mai vadă prăpădul ce-i pândea din toate părţile."
+        },
+        {
+          "verse": 10,
+          "text": "Fiindcă răutatea inimii este plină de temere, ca una ce se ştie vinovată şi mustrată ea de sine însăşi; ea îşi vede mărită nenorocirea,"
+        },
+        {
+          "verse": 11,
+          "text": "Căci spaima nu este altceva fără numai lepădarea oricărui ajutor care-ţi vine de la dreapta judecată."
+        },
+        {
+          "verse": 12,
+          "text": "Şi când scade nădejdea în adâncul inimii, te sperii şi mai mult, dacă nu ştii care este pricina de unde îţi vine chinul."
+        },
+        {
+          "verse": 13,
+          "text": "Iar ei - în noaptea aceea când li se tăiaseră orice puteri şi care venise peste ei din iadul priponit - dormind de-a valma,"
+        },
+        {
+          "verse": 14,
+          "text": "Aci se zbăteau îngroziţi de arătări pocite, aci mureau de golul din inimile lor, căci o groază neaşteptată şi fără de veste pusese stăpânire peste ei."
+        },
+        {
+          "verse": 15,
+          "text": "Şi tot aşa ceilalţi, oricare ar fi fost, cădeau vlăguiţi şi rămâneau aşa, închişi ca într-o închisoare fără zăvoare."
+        },
+        {
+          "verse": 16,
+          "text": "Şi plugar de era cineva, ori cioban cu oile, ori muncitor prins la muncile câmpului, apucaţi fără de veste, îndurau această nenorocire fără scăpare,"
+        },
+        {
+          "verse": 17,
+          "text": "Fiindcă toţi erau ferecaţi cu acelaşi lanţ de întuneric. Şi atunci vântul şuierător şi glasul cu bun viers al păsărilor din desişuri şi năvala apelor aprige"
+        },
+        {
+          "verse": 18,
+          "text": "Şi bubuitul stâncilor care se prăvălesc şi fuga nevăzută a animalelor săritoare şi răcnetul fiarelor cumplite şi sunetul care se frânge şi se răsfrânge în peşterile munţilor - acestea toate îi făceau să-şi dea duhul de frică."
+        },
+        {
+          "verse": 19,
+          "text": "Căci în vreme ce toată făptura era luminată cu strălucitoare lumină şi fără împotrivire îşi vedea de lucrul său,"
+        },
+        {
+          "verse": 20,
+          "text": "Numai peste aceia se întindea o noapte grea, care era chipul întunericului celui ce avea să-i înghită, şi ei pentru ei înşişi erau mai grea povară decât acel întuneric."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_18_01",
+      "chapter": 18,
+      "pericope_num": "01",
+      "title_en": "Light Shines on the Israelites",
+      "title_ro": "Lumina strălucește peste israeliți",
+      "start_verse": 1,
+      "end_verse": 18,
+      "verse_count": 18,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Pentru cuvioşii Tăi strălucea lumină mare, iar Egiptenii auzeau glasul lor, fără să le vadă chipul şi, cu toate suferinţele lor de până aci, îi fericeau."
+        },
+        {
+          "verse": 2,
+          "text": "Şi pentru că după atâtea asupriri - Israel nu se răzbuna asupra lor - Egiptenii le mulţumeau şi le cereau iertare de relele pe care ei le făcuseră."
+        },
+        {
+          "verse": 3,
+          "text": "În loc de întuneric, ai dat cuvioşilor Tăi stâlp de foc arzător, care să-i călăuzească în acea călătorie necunoscută; soare nevătămător le-ai dat în drumul lor cel plin de slavă."
+        },
+        {
+          "verse": 4,
+          "text": "Vrednici erau Egiptenii să fie lipsiţi de lumină şi să fie închişi în întuneric, ca unii care ţineau închişi pe fiii Tăi, aceia prin care trebuia să se dea veacului nestricăcioasa lumină a legii Tale."
+        },
+        {
+          "verse": 5,
+          "text": "Şi când s-au sfătuit să ucidă pe pruncii celor cuvioşi ai Tăi, unul dintre aceşti prunci a fost aruncat şi a scăpat, dar Tu, spre pedeapsa lor, le-ai luat mulţime de copii şi pe ei pe toţi i-ai înecat în valurile mării."
+        },
+        {
+          "verse": 6,
+          "text": "Noaptea aceasta a fost cunoscută mai înainte de părinţii noştri, ca - ştiind bine în ce jurăminte crezuseră - nădăjduind întru ele, să se veselească."
+        },
+        {
+          "verse": 7,
+          "text": "Iar poporul Tău a văzut şi mântuirea celor drepţi şi pieirea vrăjmaşilor."
+        },
+        {
+          "verse": 8,
+          "text": "Şi precum ai pedepsit pe potrivnici, tot aşa, chemându-ne pe noi, ne-ai preamărit."
+        },
+        {
+          "verse": 9,
+          "text": "Copiii evlavioşi ai celor drepţi jertfeau în ascuns ţi statorniceau toţi într-un gând legământul cel dumnezeiesc, ca sfinţi părtaşi să fie deopotrivă la aceleaşi bunătăţi şi la aceleaşi primejdii, cântând laudele părinţilor."
+        },
+        {
+          "verse": 10,
+          "text": "Iar cu cântecele lor se însoţeau ţipetele risipite ale vrăjmaşilor şi se auzeau bocetele lor pentru copiii ucişi."
+        },
+        {
+          "verse": 11,
+          "text": "Robul şi stăpânul erau pedepsiţi cu aceeaşi pedeapsă şi omul de rând îndura aceleaşi dureri ca şi regele."
+        },
+        {
+          "verse": 12,
+          "text": "Toţi deopotrivă aveau morţi fără de număr, dar din acelaşi soi de moarte, şi cei ce rămăseseră în viaţă nu puteau face faţă cu înmormântările, de vreme ce într-o clipă tot ce era mai de seamă în neamul lor pierise."
+        },
+        {
+          "verse": 13,
+          "text": "Ei, care nu voiseră să creadă din pricina vrăjitorilor lor, când le-au pierit cei dintâi născuţi ai lor, au mărturisit că Israel este poporul lui Dumnezeu."
+        },
+        {
+          "verse": 14,
+          "text": "Căci, pe când lina tăcere stăpânea peste toate şi noaptea cu repedea ei curgere ajunsese la calea jumătate,"
+        },
+        {
+          "verse": 15,
+          "text": "Cuvântul Tău cel atotputernic a purces din înaltul cer şi din scaunele împărăteşti, ca un cumplit războinic, în mijlocul acelui pământ hotărât pieirii,"
+        },
+        {
+          "verse": 16,
+          "text": "Şi aducând - ca o sabie ascuţită - porunca Ta cea fără de schimbare, stătea şi umplea toate de moarte şi ajungea până la cer, rezemându-se de pământ."
+        },
+        {
+          "verse": 17,
+          "text": "Atunci pe loc, vedeniile unor visuri groaznice îi tulburară şi spaime neaşteptate au năvălit asupra lor."
+        },
+        {
+          "verse": 18,
+          "text": "Azvârliţi încoace şi încolo pe pământ şi pe jumătate morţi, ei dădeau pe faţă pricina pentru care mureau."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_18_02",
+      "chapter": 18,
+      "pericope_num": "02",
+      "title_en": "The Death of the Egyptian Firstborn",
+      "title_ro": "Moartea întâilor născuți ai egiptenilor",
+      "start_verse": 5,
+      "end_verse": 19,
+      "verse_count": 15,
+      "verses": [
+        {
+          "verse": 5,
+          "text": "Şi când s-au sfătuit să ucidă pe pruncii celor cuvioşi ai Tăi, unul dintre aceşti prunci a fost aruncat şi a scăpat, dar Tu, spre pedeapsa lor, le-ai luat mulţime de copii şi pe ei pe toţi i-ai înecat în valurile mării."
+        },
+        {
+          "verse": 6,
+          "text": "Noaptea aceasta a fost cunoscută mai înainte de părinţii noştri, ca - ştiind bine în ce jurăminte crezuseră - nădăjduind întru ele, să se veselească."
+        },
+        {
+          "verse": 7,
+          "text": "Iar poporul Tău a văzut şi mântuirea celor drepţi şi pieirea vrăjmaşilor."
+        },
+        {
+          "verse": 8,
+          "text": "Şi precum ai pedepsit pe potrivnici, tot aşa, chemându-ne pe noi, ne-ai preamărit."
+        },
+        {
+          "verse": 9,
+          "text": "Copiii evlavioşi ai celor drepţi jertfeau în ascuns ţi statorniceau toţi într-un gând legământul cel dumnezeiesc, ca sfinţi părtaşi să fie deopotrivă la aceleaşi bunătăţi şi la aceleaşi primejdii, cântând laudele părinţilor."
+        },
+        {
+          "verse": 10,
+          "text": "Iar cu cântecele lor se însoţeau ţipetele risipite ale vrăjmaşilor şi se auzeau bocetele lor pentru copiii ucişi."
+        },
+        {
+          "verse": 11,
+          "text": "Robul şi stăpânul erau pedepsiţi cu aceeaşi pedeapsă şi omul de rând îndura aceleaşi dureri ca şi regele."
+        },
+        {
+          "verse": 12,
+          "text": "Toţi deopotrivă aveau morţi fără de număr, dar din acelaşi soi de moarte, şi cei ce rămăseseră în viaţă nu puteau face faţă cu înmormântările, de vreme ce într-o clipă tot ce era mai de seamă în neamul lor pierise."
+        },
+        {
+          "verse": 13,
+          "text": "Ei, care nu voiseră să creadă din pricina vrăjitorilor lor, când le-au pierit cei dintâi născuţi ai lor, au mărturisit că Israel este poporul lui Dumnezeu."
+        },
+        {
+          "verse": 14,
+          "text": "Căci, pe când lina tăcere stăpânea peste toate şi noaptea cu repedea ei curgere ajunsese la calea jumătate,"
+        },
+        {
+          "verse": 15,
+          "text": "Cuvântul Tău cel atotputernic a purces din înaltul cer şi din scaunele împărăteşti, ca un cumplit războinic, în mijlocul acelui pământ hotărât pieirii,"
+        },
+        {
+          "verse": 16,
+          "text": "Şi aducând - ca o sabie ascuţită - porunca Ta cea fără de schimbare, stătea şi umplea toate de moarte şi ajungea până la cer, rezemându-se de pământ."
+        },
+        {
+          "verse": 17,
+          "text": "Atunci pe loc, vedeniile unor visuri groaznice îi tulburară şi spaime neaşteptate au năvălit asupra lor."
+        },
+        {
+          "verse": 18,
+          "text": "Azvârliţi încoace şi încolo pe pământ şi pe jumătate morţi, ei dădeau pe faţă pricina pentru care mureau."
+        },
+        {
+          "verse": 19,
+          "text": "Căci vedeniile care îi îngroziseră le destăinuiseră lucrul pentru care pătimesc atât de rău ca să nu moară de neştiinţă."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_18_03",
+      "chapter": 18,
+      "pericope_num": "03",
+      "title_en": "Threat of Annihilation in the Desert",
+      "title_ro": "Amenințarea nimicirii în pustiu",
+      "start_verse": 20,
+      "end_verse": 25,
+      "verse_count": 6,
+      "verses": [
+        {
+          "verse": 20,
+          "text": "Încercarea morţii a atins şi pe cei drepţi şi mulţi au pierit în pustiu, dar mânia Ta nu a ţinut multă vreme."
+        },
+        {
+          "verse": 21,
+          "text": "Căci un om fără vină a luat degrabă partea celor vinovaţi, având ca arme ale slujbei sale rugăciunea şi tămâia de împăcare, şi a stat împotriva mâniei Tale, şi primejdiei morţii i-a pus un capăt, arătându-se pe sine că este robul Tău."
+        },
+        {
+          "verse": 22,
+          "text": "El a biruit mulţimea răzvrătită, nu cu tăria trupului, nici cu puterea armelor, ci a supus cu cuvântul pe Cel care îi pedepsea şi pomenind jurămintele făcute părinţilor şi legământul cu Israel."
+        },
+        {
+          "verse": 23,
+          "text": "Când morţii, căzuţi unii peste alţii, au ajuns grămezi, el a stat la mijloc, a potolit mânia şi a închis pieirii calea care ducea spre cei vii."
+        },
+        {
+          "verse": 24,
+          "text": "Căci în veşmântul preoţesc, lung până la glezne, era toată lumea, şi numele slăvite ale părinţilor erau săpate pe cele patru şiruri de pietre scumpe, iar măreţia Ta pe diadema de pe cap."
+        },
+        {
+          "verse": 25,
+          "text": "Înaintea acestor semne, îngerul pieirii a încetat şi s-a temut, căci singură ispita mâniei Tale era destulă."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_19_01",
+      "chapter": 19,
+      "pericope_num": "01",
+      "title_en": "The Red Sea",
+      "title_ro": "Marea Roșie",
+      "start_verse": 1,
+      "end_verse": 19,
+      "verse_count": 19,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Ci o mânie neîndurată prigoneşte pe nelegiuiţi până la sfârşit, fiindcă Dumnezeu ştia de mai înainte ce vor face ei,"
+        },
+        {
+          "verse": 2,
+          "text": "Că adică Egiptenii, după ce au lăsat pe Israel să plece şi cu mare stăruinţă i-au grăbit la drum, vor avea păreri de rău şi vor începe să-i urmărească."
+        },
+        {
+          "verse": 3,
+          "text": "Cu adevărat, când nu isprăviseră de jelit pe morţii lor şi plângeau încă la mormintele celor ucişi, un alt gând nebunesc le-a venit şi au început, ca pe nişte fugari, să urmărească pe aceia pe care îi grăbiseră cu rugăminţi să plece de la ei."
+        },
+        {
+          "verse": 4,
+          "text": "La aceasta îi trăgea pedeapsa de care erau vrednici, şi despre cele mai înainte întâmplate nu mai aveau ţinere de minte, ca să se împlinească şi ceea ce mai lipsea din urgiile suferite de ei;"
+        },
+        {
+          "verse": 5,
+          "text": "Aşa încât poporul Tău să săvârşească necrezuta lui trecere prin mare, iar Egiptenii să dea peste o moarte năprasnică."
+        },
+        {
+          "verse": 6,
+          "text": "Fiindcă făptura întreagă a fost prefăcută în alcătuirea ei, supunându-se deosebitelor Tale porunci, pentru ca robii Tăi să se păzească nevătămaţi."
+        },
+        {
+          "verse": 7,
+          "text": "Astfel un nor umbrea tabăra lor; din apa care mai înainte era acolo s-a făcut pământ uscat, iar din Marea Roşie, cale fără de piedică şi câmpie cu pajişte din valurile zbuciumate."
+        },
+        {
+          "verse": 8,
+          "text": "Şi pe aici a trecut tot neamul Israel, pe care îl ocrotea mâna Ta, şi minunate lucruri a văzut."
+        },
+        {
+          "verse": 9,
+          "text": "Şi ca nişte cai din câmpia cu iarbă şi ca nişte miei care zburdă, ei Te preaslăveau pe Tine, Doamne, Cel Care i-ai izbăvit."
+        },
+        {
+          "verse": 10,
+          "text": "Fiindcă îşi aduceau mereu aminte de cele ce se întâmplaseră în-ţara pribegiei lor, cum pământul, în locul altor vietăţi, a scos la iveală tăuni, iar Nilul în loc de peşti a vărsat o mulţime de broaşte."
+        },
+        {
+          "verse": 11,
+          "text": "Şi mai pe urmă, au văzut o nouă odrăslire de păsări, când, fiind purtaţi de poftă, ei au cerut mâncăruri de desfătare."
+        },
+        {
+          "verse": 12,
+          "text": "Şi, spre împlinirea dorinţii lor, nor de prepeliţe s-a ridicat dinspre mare;"
+        },
+        {
+          "verse": 13,
+          "text": "Însă pedeapsa a venit peste cei păcătoşi - şi nu fără semnele prevestitoare ale puternicelor fulgere - şi au pătimit cu dreptate pentru răutăţile lor."
+        },
+        {
+          "verse": 14,
+          "text": "Căci s-au purtat cu ură crâncenă faţă de cei străini. Unii n-au voit să primească pe trecătorii necunoscuţi, dar aceştia au adus în robie pe străinii care le făcuseră bine."
+        },
+        {
+          "verse": 15,
+          "text": "Şi nu numai aceasta, ci mai este încă un lucru, că adică aceia primeau pe cei străini cu duşmănie."
+        },
+        {
+          "verse": 16,
+          "text": "Pe când aceştia au primit poporul Tău cu bucurie, iar după ce l-au făcut părtaş la aceleaşi drepturi ca şi ei, l-au asuprit cu cumplite necazuri."
+        },
+        {
+          "verse": 17,
+          "text": "Pentru care au fost pedepsiţi cu orbire, ca şi aceia care dădeau năvală la porţile celui drept, când, cuprinşi de întuneric nepătruns, căutau fiecare ieşirea porţii."
+        },
+        {
+          "verse": 18,
+          "text": "Căci stihiile schimbau între ele însuşirile lor, precum la un instrument cu coarde sunetele schimbă măsura, dar păstrează tonul - ceea ce se poate vedea lămurit din cercetarea faptelor."
+        },
+        {
+          "verse": 19,
+          "text": "Vietăţile de pe pământ se făceau vietăţi de apă, iar cele ce înotau treceau pe pământ."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_19_02",
+      "chapter": 19,
+      "pericope_num": "02",
+      "title_en": "God Guides and Protects His People",
+      "title_ro": "Dumnezeu îi călăuzește și îi protejează pe ai Săi",
+      "start_verse": 6,
+      "end_verse": 12,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 6,
+          "text": "Fiindcă făptura întreagă a fost prefăcută în alcătuirea ei, supunându-se deosebitelor Tale porunci, pentru ca robii Tăi să se păzească nevătămaţi."
+        },
+        {
+          "verse": 7,
+          "text": "Astfel un nor umbrea tabăra lor; din apa care mai înainte era acolo s-a făcut pământ uscat, iar din Marea Roşie, cale fără de piedică şi câmpie cu pajişte din valurile zbuciumate."
+        },
+        {
+          "verse": 8,
+          "text": "Şi pe aici a trecut tot neamul Israel, pe care îl ocrotea mâna Ta, şi minunate lucruri a văzut."
+        },
+        {
+          "verse": 9,
+          "text": "Şi ca nişte cai din câmpia cu iarbă şi ca nişte miei care zburdă, ei Te preaslăveau pe Tine, Doamne, Cel Care i-ai izbăvit."
+        },
+        {
+          "verse": 10,
+          "text": "Fiindcă îşi aduceau mereu aminte de cele ce se întâmplaseră în-ţara pribegiei lor, cum pământul, în locul altor vietăţi, a scos la iveală tăuni, iar Nilul în loc de peşti a vărsat o mulţime de broaşte."
+        },
+        {
+          "verse": 11,
+          "text": "Şi mai pe urmă, au văzut o nouă odrăslire de păsări, când, fiind purtaţi de poftă, ei au cerut mâncăruri de desfătare."
+        },
+        {
+          "verse": 12,
+          "text": "Şi, spre împlinirea dorinţii lor, nor de prepeliţe s-a ridicat dinspre mare;"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_19_03",
+      "chapter": 19,
+      "pericope_num": "03",
+      "title_en": "The Punishment of the Egyptians",
+      "title_ro": "Pedeapsa egiptenilor",
+      "start_verse": 13,
+      "end_verse": 17,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 13,
+          "text": "Însă pedeapsa a venit peste cei păcătoşi - şi nu fără semnele prevestitoare ale puternicelor fulgere - şi au pătimit cu dreptate pentru răutăţile lor."
+        },
+        {
+          "verse": 14,
+          "text": "Căci s-au purtat cu ură crâncenă faţă de cei străini. Unii n-au voit să primească pe trecătorii necunoscuţi, dar aceştia au adus în robie pe străinii care le făcuseră bine."
+        },
+        {
+          "verse": 15,
+          "text": "Şi nu numai aceasta, ci mai este încă un lucru, că adică aceia primeau pe cei străini cu duşmănie."
+        },
+        {
+          "verse": 16,
+          "text": "Pe când aceştia au primit poporul Tău cu bucurie, iar după ce l-au făcut părtaş la aceleaşi drepturi ca şi ei, l-au asuprit cu cumplite necazuri."
+        },
+        {
+          "verse": 17,
+          "text": "Pentru care au fost pedepsiţi cu orbire, ca şi aceia care dădeau năvală la porţile celui drept, când, cuprinşi de întuneric nepătruns, căutau fiecare ieşirea porţii."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_19_04",
+      "chapter": 19,
+      "pericope_num": "04",
+      "title_en": "A New Harmony in Nature",
+      "title_ro": "O nouă armonie în natură",
+      "start_verse": 18,
+      "end_verse": 21,
+      "verse_count": 4,
+      "verses": [
+        {
+          "verse": 18,
+          "text": "Căci stihiile schimbau între ele însuşirile lor, precum la un instrument cu coarde sunetele schimbă măsura, dar păstrează tonul - ceea ce se poate vedea lămurit din cercetarea faptelor."
+        },
+        {
+          "verse": 19,
+          "text": "Vietăţile de pe pământ se făceau vietăţi de apă, iar cele ce înotau treceau pe pământ."
+        },
+        {
+          "verse": 20,
+          "text": "Focul ardea în apă dincolo de puterea sa, iar apa îşi pierdea însuşirea ei de a stinge."
+        },
+        {
+          "verse": 21,
+          "text": "Flăcările focului nu mai vătămau carnea plăpândelor dobitoace care umblau primprejur şi nu topeau acea hrană venită din cer, care semăna cu bruma ce se topeşte uşor."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Wisdom_19_05",
+      "chapter": 19,
+      "pericope_num": "05",
+      "title_en": "Conclusion",
+      "title_ro": "Încheiere",
+      "start_verse": 22,
+      "end_verse": 22,
+      "verse_count": 1,
+      "verses": [
+        {
+          "verse": 22,
+          "text": "Întru toate, Doamne, ai preamărit pe poporul Tău şi l-ai făcut de cinste şi nu l-ai trecut cu vederea, ci în toată vremea şi în tot locul ai stat în preajma lui."
+        }
+      ]
+    }
+  ]
+}

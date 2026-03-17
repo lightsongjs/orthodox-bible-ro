@@ -1,0 +1,21 @@
+---
+testament: NT
+book: John
+book_romanian: Ioan
+chapter: 20
+pericope: 4
+pericope_title: "Jesus and Thomas"
+verses_start: 24
+verses_end: 29
+verses_total: 0
+language: ro
+english_source: "[[New Testament/John/(John 20.04) Jesus and Thomas]]"
+---
+# Jesus and Thomas
+
+24. Iar Toma, unul din cei doisprezece, cel numit Geamănul, nu era cu ei când a venit Iisus.
+25. Deci au zis lui ceilalţi ucenici: Am văzut pe Domnul! Dar el le-a zis: Dacă nu voi vedea, în mâinile Lui, semnul cuielor, şi dacă nu voi pune degetul meu în semnul cuielor, şi dacă nu voi pune mâna mea în coasta Lui, nu voi crede.
+26. Şi după opt zile, ucenicii Lui erau iarăşi înăuntru, şi Toma, împreună cu ei. Şi a venit Iisus, uşile fiind încuiate, şi a stat în mijloc şi a zis: Pace vouă!
+27. Apoi a zis lui Toma: Adu degetul tău încoace şi vezi mâinile Mele şi adu mâna ta şi o pune în coasta Mea şi nu fi necredincios ci credincios.
+28. A răspuns Toma şi I-a zis: Domnul meu şi Dumnezeul meu!
+29. Iisus I-a zis: Pentru că M-ai văzut ai crezut. Fericiţi cei ce n-au văzut şi au crezut!

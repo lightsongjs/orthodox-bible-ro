@@ -1,0 +1,20 @@
+---
+testament: NT
+book: Mark
+book_romanian: Marcu
+chapter: 1
+pericope: 8
+pericope_title: "A Preaching Tour in Galilee"
+verses_start: 35
+verses_end: 39
+verses_total: 0
+language: ro
+english_source: "[[New Testament/Mark/(Mark 01.08) A Preaching Tour in Galilee]]"
+---
+# A Preaching Tour in Galilee
+
+35. Şi a doua zi, foarte de dimineaţă, sculându-Se, a ieşit şi S-a dus într-un loc pustiu şi Se ruga acolo.
+36. Şi a mers după El Simon şi cei ce erau cu el.
+37. Şi aflându-L, I-au zis: Toţi Te caută pe Tine.
+38. Şi El a zis lor: Să mergem în altă parte, prin cetăţile şi satele învecinate, ca să propovăduiesc şi acolo, căci pentru aceasta am venit.
+39. Şi venind propovăduia în sinagogile lor, în toată Galileea, alungând pe demoni.

@@ -1,0 +1,2944 @@
+{
+  "id": 50,
+  "book_number": 49,
+  "name_en": "2 Maccabees",
+  "name_ro": "II Macabei",
+  "testament": "OT",
+  "chapter_count": 15,
+  "pericope_count": 53,
+  "url": "https://www.bibliaortodoxa.ro/carte.php?id=50",
+  "pericopes": [
+    {
+      "pericope_id": "2_Maccabees_01_01",
+      "chapter": 1,
+      "pericope_num": "01",
+      "title_en": "A Letter to the Jews in Egypt",
+      "title_ro": "Scrisoare către iudeii din Egipt",
+      "start_verse": 1,
+      "end_verse": 9,
+      "verse_count": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "?Fraţilor Iudei, care sunt prin Egipt, bucurie! Fraţii voştri Iudei, cei din Ierusalim şi cei din ţara Iudeii, vă doresc vouă tuturor pace şi sănătate!"
+        },
+        {
+          "verse": 2,
+          "text": "Să vă facă bine Dumnezeu şi să-şi aducă aminte de legământul Său care l-a făcut cu Avraam, cu Isaac şi cu Iacov, robii cei credincioşi."
+        },
+        {
+          "verse": 3,
+          "text": "Să vă dea inimă vouă tuturor ca să vă închinaţi Lui şi să faceţi voia Lui cu dor mare şi cu râvnă în suflet;"
+        },
+        {
+          "verse": 4,
+          "text": "Să deschidă inima voastră în legea Sa şi întru poruncile Sale, şi pace să facă."
+        },
+        {
+          "verse": 5,
+          "text": "Şi să asculte rugăciunile voastre şi să se împace cu voi şi să nu vă părăsească în vreme rea."
+        },
+        {
+          "verse": 6,
+          "text": "Aşa ne rugăm acum aici pentru voi."
+        },
+        {
+          "verse": 7,
+          "text": "Domnind Dimitrie în anul o sută şaizeci şi nouă, noi Iudeii am scris vouă din necazul şi din strâmtorarea ce a venit peste noi în anii aceştia, de când Iason şi cei care au fost cu el trădaseră pământul cel sfânt şi regatul."
+        },
+        {
+          "verse": 8,
+          "text": "Şi au dat foc porţilor, şi au vărsat sânge nevinovat, şi ne-am rugat Domnului, şi ne-a ascultat, şi am adus jertfă şi făină de grâu, şi am aprins lumini, şi am pus pâini înainte."
+        },
+        {
+          "verse": 9,
+          "text": "Şi acum vă scriem ca să ţineţi sărbătoarea corturilor în luna Chislev\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_01_02",
+      "chapter": 1,
+      "pericope_num": "02",
+      "title_en": "A Letter to Aristobulus",
+      "title_ro": "Scrisoare către Aristobul",
+      "start_verse": 10,
+      "end_verse": 17,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 10,
+          "text": "Scrisă în anul o sută optzeci şi opt. \"Cei din Ierusalim şi din Iudeea şi sfatul bătrânilor şi Iuda, lui Aristobul, sfetnicul regelui Ptolomeu, care este din neamul preoţilor celor unşi şi Iudeilor celor din Egipt, bucurie şi sănătate."
+        },
+        {
+          "verse": 11,
+          "text": "Din mari primejdii izbăvindu-ne Dumnezeu, mulţumim neîncetat Lui, ca cei care suntem gata să ne războim împotriva regelui."
+        },
+        {
+          "verse": 12,
+          "text": "Că Dumnezeu a lovit pe cei care s-au războit asupra sfintei cetăţi."
+        },
+        {
+          "verse": 13,
+          "text": "Că fiind în Persia căpetenia potrivnicilor şi oştirile cele ce erau cu el, cărora se părea că nimeni nu le poate sta înainte, au fost măcelăriţi în templul zeiţei Nanaia, înşelându-i cu cuvinte viclene preoţii zeiţei Nanaia."
+        },
+        {
+          "verse": 14,
+          "text": "Căci Antioh, prefăcându-se că vrea să se căsătorească cu zeiţa Nanaia, a sosit acolo cu prietenii săi, ca să ridice multele bogăţii ale templului în chip de zestre."
+        },
+        {
+          "verse": 15,
+          "text": "Şi preoţii zeiţei Nanaia, punând comorile înainte şi el apropiindu-se cu câţiva din suita sa de curtea capiştei, ei au închis templul;"
+        },
+        {
+          "verse": 16,
+          "text": "Şi după ce a intrat Antioh, ei au deschis o uşă ascunsă a podului, şi aruncând cu pietre, au omorât pe căpetenie şi pe cei care erau cu el, şi desfăcându-i în bucăţi şi tăindu-le capetele le-au aruncat celor din afară."
+        },
+        {
+          "verse": 17,
+          "text": "Întru toate binecuvântat este Dumnezeul nostru, Cel care a dat pierzării pe cei care au făcut fapte păgâneşti."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_01_03",
+      "chapter": 1,
+      "pericope_num": "03",
+      "title_en": "Fire Consumes Nehemiah’s Sacrifice",
+      "title_ro": "Focul mistuie jertfa lui Neemia",
+      "start_verse": 18,
+      "end_verse": 36,
+      "verse_count": 19,
+      "verses": [
+        {
+          "verse": 18,
+          "text": "Vrând drept aceea să facem în douăzeci şi cinci de zile ale lunii lui Chislev sărbătoarea sfinţirii templului, cu cuviinţă am socotit a vă înştiinţa, ca şi voi asemenea să prăznuiţi sărbătoarea corturilor şi a focului, în amintirea lui Neemia, cel care a zidit templul Domnului şi jertfelnicul pe care a adus jertfă."
+        },
+        {
+          "verse": 19,
+          "text": "Căci, când au fost duşi în Persia strămoşii noştri, bunii credincioşi preoţi, care erau atunci, luând din focul jertfelnicului, l-au ascuns în taină într-o groapă ca de fântână fără de apă, în care l-au astupat, încât locul nu era ştiut de nimeni."
+        },
+        {
+          "verse": 20,
+          "text": "Iar după ce au trecut câţiva ani, când a voit Dumnezeu, trimis fiind Neemia de regele Persiei, a trimis după foc pe nepoţii preoţilor celor ce l-au ascuns, şi, precum ne-au spus, n-au aflat foc, ci apă mocirloasă."
+        },
+        {
+          "verse": 21,
+          "text": "Şi le-a poruncit să scoată de acolo apă şi să aducă, şi după ce s-au adus cele de jertfă, a poruncit Neemia preoţilor să stropească cu apa aceea lemnele şi cele ce erau puse deasupra."
+        },
+        {
+          "verse": 22,
+          "text": "După ce s-a făcut aceasta şi a vestit vremea, când a strălucit soarele care mai înainte era în nori, s-a aprins foc mare, încât toţi s-au minunat."
+        },
+        {
+          "verse": 23,
+          "text": "Şi rugăciune făceau toţi preoţii, când se mistuia jertfa, preoţii toţi începând cu Ionatan; iar ceilalţi răspundeau împreună cu Neemia."
+        },
+        {
+          "verse": 24,
+          "text": "Iar rugăciunea era într-acest chip: \"Doamne! Doamne Dumnezeule! Făcătorul tuturor, Cel înfricoşător şi tare şi drept şi milostiv."
+        },
+        {
+          "verse": 25,
+          "text": "Cel care unul este Împărat şi bun şi unul dătător de bunătăţi şi singur drept şi atotţiitor şi veşnic Cel care mântuieşti pe Israel din tot răul, Cel care ai ales pe părinţi şi i-ai sfinţit."
+        },
+        {
+          "verse": 26,
+          "text": "Primeşte jertfa aceasta, pentru tot poporul Tău Israel, şi păzeşte partea Ta şi o sfinţeşte."
+        },
+        {
+          "verse": 27,
+          "text": "Adună risipirea noastră, izbăveşte pe cei care slujesc între neamuri, spre cei ocăriţi şi urâţi caută, ca să cunoască neamurile că Tu eşti Dumnezeul nostru."
+        },
+        {
+          "verse": 28,
+          "text": "Pedepseşte pe cei care ne asupresc şi ne hulesc cu mândrie."
+        },
+        {
+          "verse": 29,
+          "text": "Răsădeşte pe poporul Tău în locul cel sfânt al Tău, precum a zis Moise\"."
+        },
+        {
+          "verse": 30,
+          "text": "Şi preoţii cântau laude."
+        },
+        {
+          "verse": 31,
+          "text": "Iar după ce s-au mistuit cele ce erau ale jertfei, a poruncit Neemia să ude cu cealaltă apă, care a rămas, pietrele cele mai mari."
+        },
+        {
+          "verse": 32,
+          "text": "Îndată ce s-a făcut aceasta, s-a aprins din ele flacără, dar flacăra de pe altar o covârşea în strălucire."
+        },
+        {
+          "verse": 33,
+          "text": "Şi după ce s-a făcut aievea lucrul acesta, s-a spus regelui Perşilor că în locul în care ascunseseră focul preoţii duşi în robie s-a arătat apă, din care Neemia şi cei care erau cu el a sfinţit jertfele."
+        },
+        {
+          "verse": 34,
+          "text": "Iar regele, cercetând lucrul, a îngrădit locul şi a făcut jertfelnic."
+        },
+        {
+          "verse": 35,
+          "text": "Şi multe daruri şi lucruri luând regele, le-a dăruit preoţilor."
+        },
+        {
+          "verse": 36,
+          "text": "Şi a numit Neemia locul acela Neftar, care se tălmăceşte curăţenie, dar se cheamă de către cei mulţi Neftai."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_02_01",
+      "chapter": 2,
+      "pericope_num": "01",
+      "title_en": "Jeremiah Hides the Tent, Ark, and Altar",
+      "title_ro": "Ieremia ascunde cortul, chivotul și altarul",
+      "start_verse": 1,
+      "end_verse": 18,
+      "verse_count": 18,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi se află în arhive cum că Ieremia proorocul a poruncit celor care erau duşi în robie să ia foc, precum s-a arătat."
+        },
+        {
+          "verse": 2,
+          "text": "Şi că a poruncit proorocul celor care erau duşi în robie, când le-a dat sulul legii, ca să nu uite poruncile Domnului şi să nu rătăcească cu cugetele, văzând chipuri de aur şi de argint şi podoaba cea de primprejurul lor."
+        },
+        {
+          "verse": 3,
+          "text": "Şi altele ca acestea zicând, îi îndemna să nu depărteze legea de la inima lor."
+        },
+        {
+          "verse": 4,
+          "text": "Şi era tot în acele scrieri cum că proorocul, luând poruncă de la Domnul, a poruncit ca să aducă cu sine cortul şi chivotul."
+        },
+        {
+          "verse": 5,
+          "text": "Şi ieşind la muntele în care s-a suit Moise şi a văzut ţara ce i s-a dat ca moştenire, Ieremia a venit acolo şi a aflat loc în peşteră, şi cortul şi chivotul şi jertfelnicul tămâierii le-a băgat acolo şi a astupat uşa."
+        },
+        {
+          "verse": 6,
+          "text": "Şi venind unii din cei care mergeau după el, ca să însemne calea, n-au putut-o găsi."
+        },
+        {
+          "verse": 7,
+          "text": "Aflând acest lucru, Ieremia i-a înfruntat şi a zis că necunoscut va fi locul acela, până când va aduna Dumnezeu adunarea poporului şi Se va milostivi."
+        },
+        {
+          "verse": 8,
+          "text": "Şi atunci Domnul va arăta acestea, şi se va arăta slava Domnului şi norul, precum s-a arătat şi lui Moise, şi precum cu slavă s-au arătat când s-a rugat Solomon să se sfinţească templul,"
+        },
+        {
+          "verse": 9,
+          "text": "Şi ca un înţelept a adus jertfă de sfinţirea şi de săvârşirea templului Domnului;"
+        },
+        {
+          "verse": 10,
+          "text": "Precum, când s-a rugat Moise către Domnul, şi s-a coborât foc din cer şi a mistuit cele ale jertfei, aşa şi Solomon s-a rugat, şi coborându-se foc, a ars arderile de tot."
+        },
+        {
+          "verse": 11,
+          "text": "Moise a zis: \"Fiindcă jertfa pentru păcat n-a fost mâncată, ca a fost mistuită\"."
+        },
+        {
+          "verse": 12,
+          "text": "Asemenea şi Solomon opt zile a prăznuit."
+        },
+        {
+          "verse": 13,
+          "text": "Şi se spuneau nu numai acestea în pomenirile lui Neemia, dar şi cum el, întemeind o bibliotecă, a adunat cele despre regi şi despre prooroci, şi ale lui David, şi cărţile cele trimise de regii perşi pentru dări,"
+        },
+        {
+          "verse": 14,
+          "text": "Asemenea şi Iuda, cărţile care s-au risipit din pricina războiului ce s-a făcut nouă, toate le-a adunat, şi sunt la noi."
+        },
+        {
+          "verse": 15,
+          "text": "Dintre acestea, de vă vor trebui, să trimiteţi oameni care să vi le aducă."
+        },
+        {
+          "verse": 16,
+          "text": "Vrând dar a prăznui sărbătoarea curăţirii templului, v-am scris vouă; drept aceea bine veţi face de veţi ţine zilele acestea."
+        },
+        {
+          "verse": 17,
+          "text": "Şi Dumnezeu, Cel care a izbăvit pe tot poporul Său a dat tuturor moştenirea şi împărăţia şi preoţia şi sfinţenia."
+        },
+        {
+          "verse": 18,
+          "text": "Precum a făgăduit prin lege, să nădăjduim în Dumnezeu, că în curând ne va milui pe noi şi ne va aduna de sub cer la locul cel sfânt."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_02_02",
+      "chapter": 2,
+      "pericope_num": "02",
+      "title_en": "The Compiler’s Preface",
+      "title_ro": "Prefața compilatorului",
+      "start_verse": 19,
+      "end_verse": 32,
+      "verse_count": 14,
+      "verses": [
+        {
+          "verse": 19,
+          "text": "Că din mari răutăţi ne-a scos şi locaşul sfânt l-a curăţit\"."
+        },
+        {
+          "verse": 20,
+          "text": "Despre istoria lui Iuda Macabeul şi a fraţilor lui, curăţirea marelui templu şi înnoirea altarului,"
+        },
+        {
+          "verse": 21,
+          "text": "Şi războaiele ce au făcut împotriva lui Antioh Epifan şi împotriva lui Eupator, fiul lui,"
+        },
+        {
+          "verse": 22,
+          "text": "Şi arătările cele din cer ce s-au făcut celor care vitejeşte s-au nevoit pentru iudaism, încât, puţini fiind ei, toată ţara au cucerit din nou şi mulţime de barbari au izgonit,"
+        },
+        {
+          "verse": 23,
+          "text": "Şi templul cel în toată lumea vestit au zidit, ţi cetatea au făcut-o slobodă, şi legile cele părăsite le-au adus la loc, Domnul cu toată bunătatea, milostiv fiindu-le;"
+        },
+        {
+          "verse": 24,
+          "text": "Aceste toate de către Iason Cirineanul istorisite în cinci cărţi vom încerca într-o carte a le scrie."
+        },
+        {
+          "verse": 25,
+          "text": "Că socotind mulţimea numerelor şi greutatea care este celor care vor să pătrundă cu de-amănuntul povestirile istoriei, din pricina mulţimii materiei,"
+        },
+        {
+          "verse": 26,
+          "text": "Am avut grijă ca, celor care vor vrea să citească, să le fie mângâiere sufletească; iar celor care se vor nevoi a le ţine minte, uşurare, şi tuturor celor care vor citi, folos."
+        },
+        {
+          "verse": 27,
+          "text": "Iar noi, care ne-am apucat a scurta acest lucru, nu de mică osteneală, ci de lucru plin de priveghere ne-am apucat,"
+        },
+        {
+          "verse": 28,
+          "text": "Lucru nu de mai puţină îndemânare decât a celui care găteşte ospăţ şi caută folosul altora. Deşi lucrul nu este uşor, pentru mulţumirea celor mulţi vom suferi bucuroşi pătimirea aceasta."
+        },
+        {
+          "verse": 29,
+          "text": "A alege cu amănuntul adevărul fiecărui lucru, lăsăm celui care a scris; iar aici mai mult ne ostenim, ca să ne ţinem de regulile prescurtării."
+        },
+        {
+          "verse": 30,
+          "text": "Că precum meşterul casei celei noi se cade să poarte grijă de toată aşezarea, iar cel care se apucă a o înfrumuseţa şi a o zugrăvi trebuie să caute cele ce sunt spre podoabă, aşa trebuie a socoti şi despre noi."
+        },
+        {
+          "verse": 31,
+          "text": "Că a căuta şi a culege multe cu amănuntul, şi a vorbi despre toate, este de datoria celui care scrie istoria;"
+        },
+        {
+          "verse": 32,
+          "text": "Iar a urmări scurtarea povestirii şi a lăsa cercetarea lucrării este în voia celui care face prescurtarea."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_03_01",
+      "chapter": 3,
+      "pericope_num": "01",
+      "title_en": "Arrival of Heliodorus in Jerusalem",
+      "title_ro": "Sosirea lui Heliodor la Ierusalim",
+      "start_verse": 1,
+      "end_verse": 12,
+      "verse_count": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Când sfânta cetate cu toată pacea se locuia, şi legile foarte bine se păzeau pentru evlavia lui Onia arhiereul şi ura împotriva răutăţii,"
+        },
+        {
+          "verse": 2,
+          "text": "S-a întâmplat că înşişi regii au cinstit locul acesta şi templului i-au trimis daruri foarte bune,"
+        },
+        {
+          "verse": 3,
+          "text": "Atât încât chiar şi Seleuc, regele Asiei, a dat din veniturile sale toate cheltuielile la slujbele cele de obşte ale jertfelor."
+        },
+        {
+          "verse": 4,
+          "text": "Şi un oarecare Simon, din neamul lui Veniamin, fiind pus ispravnic al templului Domnului, s-a certat cu arhiereul pentru treburile târgului din cetate."
+        },
+        {
+          "verse": 5,
+          "text": "Şi neputând birui pe Onia, a mers la Apoloniu, feciorul lui Traseu, care pe vremea aceea era cârmuitor în Cele-Siria şi în Fenicia,"
+        },
+        {
+          "verse": 6,
+          "text": "Şi i-a spus cum că vistieria sa din Ierusalim este plină de nenumăraţi bani, căci mulţimea banilor ce se adună din biruri este nenumărată şi fără legătură cu ce se cheltuieşte la jertfe, şi s-ar putea ca aceste comori să vină sub puterea regelui."
+        },
+        {
+          "verse": 7,
+          "text": "Şi întâlnindu-se Apoloniu eu regele, l-a înştiinţat de banii despre care i s-a spus, iar el, chemând pe Eliodor, care era mai mare peste bani, l-a trimis şi i-a poruncit să aducă banii mai sus pomeniţi."
+        },
+        {
+          "verse": 8,
+          "text": "Şi Eliodor îndată a pornit la călătorie, însă dând veste că merge în cetăţile Cele-Siriei şi ale Feniciei, iar cu fapta plinind porunca regelui."
+        },
+        {
+          "verse": 9,
+          "text": "Şi după ce a sosit la Ierusalim, a fost primit cu cinste de arhiereul cetăţii, şi a spus de înştiinţarea aceea, şi i-a arătat pentru ce pricină a venit, şi a întrebat de sunt adevărate acestea."
+        },
+        {
+          "verse": 10,
+          "text": "Iar arhiereul a arătat că bogăţiile sunt pentru văduve şi pentru săraci,"
+        },
+        {
+          "verse": 11,
+          "text": "Iar o seamă sunt şi ale lui Hircan, fiul lui Tobie, care este om foarte de cinste; iar nu precum a făcut pâra necredinciosul Simon; dacă se scad toate aceste bogăţii, toţi banii sunt patru sute de talanţi de argint şi două sute de aur."
+        },
+        {
+          "verse": 12,
+          "text": "Şi cum că strâmbătate se face celor care au încredinţat lucrurile lor sfinţeniei locului aceluia şi templului Domnului, care în toată lumea se cinsteşte pentru mărirea şi sfinţenia lui. Aceea nicidecum nu poate să fie."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_03_02",
+      "chapter": 3,
+      "pericope_num": "02",
+      "title_en": "Heliodorus Plans to Rob the Temple",
+      "title_ro": "Heliodor plănuiește să jefuiască Templul",
+      "start_verse": 13,
+      "end_verse": 21,
+      "verse_count": 9,
+      "verses": [
+        {
+          "verse": 13,
+          "text": "Iar Eliodor, potrivit poruncilor împărăteşti ce avea, a zis că acelea în vistieria domnească trebuie să fie duse."
+        },
+        {
+          "verse": 14,
+          "text": "Dar într-o zi, când el s-a dus să vadă cu de-amănuntul vistieria templului, s-a făcut mare zarvă în toată cetatea."
+        },
+        {
+          "verse": 15,
+          "text": "Preoţii îmbrăcaţi cu veşmintele cele sfinţite, căzând înaintea altarului, chemau din cer pe Cel care a dat legea pentru punerile acestea, ca să păzească întregi banii celor care ii încredinţaseră acolo."
+        },
+        {
+          "verse": 16,
+          "text": "Şi oricine vedea faţa arhiereului nu putea să nu se mâhnească adânc în inima lui, că vederea lui şi schimbarea feţei arăta necazul cel dinăuntru al sufletului lui."
+        },
+        {
+          "verse": 17,
+          "text": "Că se revărsase peste omul acela oarecare temere şi groază a trupului, din care cei care vedeau cunoşteau durerea din inima lui."
+        },
+        {
+          "verse": 18,
+          "text": "Iar alţii din case alergau cu grămada spre rugăciunea obştească, ca să nu ajungă locul cel sfânt spre defăimare."
+        },
+        {
+          "verse": 19,
+          "text": "Şi femeile, încinse pe sub sâni cu saci de pocăinţă, umpleau căile, iar fecioarele, care erau închise în casă, unele alergau la porţi, unele la ziduri şi altele se plecau pe ferestre."
+        },
+        {
+          "verse": 20,
+          "text": "Şi toate cu mâinile ridicate spre cer se rugau."
+        },
+        {
+          "verse": 21,
+          "text": "Şi era jalnică privire, cum cădea mulţimea amestecată şi, în necaz mare fiind arhiereul, aştepta ce avea să fie."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_03_03",
+      "chapter": 3,
+      "pericope_num": "03",
+      "title_en": "The Lord Protects His Temple",
+      "title_ro": "Domnul își apără Templul",
+      "start_verse": 22,
+      "end_verse": 28,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 22,
+          "text": "Aceştia dar se rugau Atotputernicului Dumnezeu, ca bogăţiile încredinţate întregi şi cu toată siguranţa, să se păzească pentru cei care le-au încredinţat."
+        },
+        {
+          "verse": 23,
+          "text": "Iar Eliodor vrând să îndeplinească porunca, fiind cu ostaşii la vistierie,"
+        },
+        {
+          "verse": 24,
+          "text": "Domnul părinţilor şi Stăpânul a toată puterea a făcut o minunată arătare, încât toţi cei ce îndrăzniseră să vină, spăimântându-se de puterea lui Dumnezeu, au leşinat şi s-au înfricoşat."
+        },
+        {
+          "verse": 25,
+          "text": "Că li s-a arătat un cal care avea pe el un călăreţ groaznic şi era împodobit cu foarte frumos acoperământ şi, pornindu-se iute, a lovit pe Eliodor cu copitele cele dinainte; iar cel care şedea pe cal se vedea având arme de aur."
+        },
+        {
+          "verse": 26,
+          "text": "Şi încă alţi doi tineri s-au arătat înaintea lui, puternici foarte, strălucind de mărire şi cu îmbrăcăminte luminoasă, care, stând de amândouă părţile, neîncetat îl băteau cu multe lovituri, copleşindu-l."
+        },
+        {
+          "verse": 27,
+          "text": "Şi fără de veste, căzând Eliodor pe pământ şi cu mult întuneric împresurându-se, l-au apucat şi l-au pus într-o lectică."
+        },
+        {
+          "verse": 28,
+          "text": "Pe cel care cu puţin mai înainte cu mulţi alergători şi ostaşi a intrat în mai sus-arătata vistierie, l-au dus, neputând avea nici un ajutor de la arme."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_03_04",
+      "chapter": 3,
+      "pericope_num": "04",
+      "title_en": "Onias Prays for Heliodorus",
+      "title_ro": "Onia se roagă pentru Heliodor",
+      "start_verse": 29,
+      "end_verse": 34,
+      "verse_count": 6,
+      "verses": [
+        {
+          "verse": 29,
+          "text": "Aievea cunoscând puterea lui Dumnezeu, şi Dumnezeu lucrând aşa, acela zăcea mut şi lipsit de toată nădejdea de mântuire."
+        },
+        {
+          "verse": 30,
+          "text": "Iar aceia binecuvântau pe Domnul, Cel care a mărit locul Său şi templul Său, care cu puţin mai înainte fusese plin de frică şi de tulburare iar când S-a arătat Domnul Atotţiitorul, s-a umplut de veselie şi de bucurie."
+        },
+        {
+          "verse": 31,
+          "text": "Şi unii dintr-ai lui Eliodor curând s-au rugat lui Onia ca să cheme pe Cel Preaînalt şi să dăruiască viaţa celui care zăcea în ghearele morţii."
+        },
+        {
+          "verse": 32,
+          "text": "Atunci, temându-se arhiereul ca nu cumva să socotească regele că Iudeii au făcut ceva vicleşug asupra lui Eliodor, a adus jertfă pentru izbăvirea omului."
+        },
+        {
+          "verse": 33,
+          "text": "Şi după ce arhiereul s-a rugat lui Dumnezeu, tinerii aceia iarăşi s-au arătat lui Eliodor cu aceleaşi haine îmbrăcaţi şi, stând, au zis: \"Multă mulţumire să aduci lui Onia arhiereul că pentru el ţi-a dăruit Domnul viaţă."
+        },
+        {
+          "verse": 34,
+          "text": "Iar tu din cer fiind bătut, spune la toţi puterea cea prea mare a lui Dumnezeu\". Şi după ce au zis acestea, s-au făcut nevăzuţi."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_03_05",
+      "chapter": 3,
+      "pericope_num": "05",
+      "title_en": "The Conversion of Heliodorus",
+      "title_ro": "Convertirea lui Heliodor",
+      "start_verse": 35,
+      "end_verse": 40,
+      "verse_count": 6,
+      "verses": [
+        {
+          "verse": 35,
+          "text": "Iar Eliodor aducând jertfă Domnului şi făgăduinţe foarte mari făcând Celui care i-a dăruit viaţa, şi mulţumind lui Onia, s-a întors la rege,"
+        },
+        {
+          "verse": 36,
+          "text": "Mărturisind tuturor lucrurile prea marelui Dumnezeu, pe care le-a văzut."
+        },
+        {
+          "verse": 37,
+          "text": "Şi regele, întrebând pe Eliodor cine ar fi vrednic, care să se mai trimită odată în Ierusalim, el a răspuns:"
+        },
+        {
+          "verse": 38,
+          "text": "\"De ai pe cineva vrăjmaş sau pânditor domniei tale, trimite-l pe acela acolo şi bătut îl vei primi, chiar de va scăpa; pentru că în locul acela este cu adevărat puterea lui Dumnezeu."
+        },
+        {
+          "verse": 39,
+          "text": "Că Cel care locuieşte în cer este privitor şi ajutător locului aceluia, şi pe cei care vin ca să facă rău, îi bate şi îi pierde\"."
+        },
+        {
+          "verse": 40,
+          "text": "Şi aşa s-a întâmplat cu Eliodor şi cu paza vistieriei."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_04_01",
+      "chapter": 4,
+      "pericope_num": "01",
+      "title_en": "Simon Accuses Onias",
+      "title_ro": "Simon îl acuză pe Onia",
+      "start_verse": 1,
+      "end_verse": 6,
+      "verse_count": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Iar Simon de care am vorbit mai înainte, care a fost vânzătorul banilor şi al patriei, grăia rău de Onia, ca şi cum el ar fi abătut nenorocirea asupra lui Eliodor şi ar fi fost urzitorul răutăţilor;"
+        },
+        {
+          "verse": 2,
+          "text": "Şi pe făcătorul de bine al cetăţii şi pe cârmuitorul celor de un neam cu sine, şi pe râvnitorul legilor, vrăjmaş al ocârmuirii îndrăznea a-l arăta."
+        },
+        {
+          "verse": 3,
+          "text": "Atât a crescut vrajba, încât şi prin oarecare om al lui Simon ucideri s-au făcut."
+        },
+        {
+          "verse": 4,
+          "text": "Gândind Onia la primejdia învrăjbirii şi că se va mânia Apoloniu, stăpânitorul Cele-Siriei şi al Feniciei, auzind de răutatea lui Simon, s-a dus la rege,"
+        },
+        {
+          "verse": 5,
+          "text": "Nu ca să pârască pe cetăţeni, ci socotind folosul cel de obşte şi deosebi la tot neamul."
+        },
+        {
+          "verse": 6,
+          "text": "Că vedea că nu este cu putinţă a se împăca lucrurile, fără de rânduială domnească şi că Simon nu va înceta de la nebunia aceasta."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_04_02",
+      "chapter": 4,
+      "pericope_num": "02",
+      "title_en": "Jason’s Reforms",
+      "title_ro": "Reformele lui Iason",
+      "start_verse": 7,
+      "end_verse": 17,
+      "verse_count": 11,
+      "verses": [
+        {
+          "verse": 7,
+          "text": "Ci murind Seleuc şi luând domnia Antioh, cel poreclit Epifan, a poftit arhieria Iason, fratele lui Onia."
+        },
+        {
+          "verse": 8,
+          "text": "Şi mergând Iason la rege, s-a rugat făgăduind trei sute şaizeci de talanţi de argint, şi încă alt venit de optzeci de talanţi."
+        },
+        {
+          "verse": 9,
+          "text": "Afară de acestea, făgăduia încă şi alţi o sută cincizeci, de i s-ar îngădui putinţa de a înfiinţa şcoală pentru tineri şi pe cetăţenii Ierusalimului a-i trece cetăţeni ai Antiohiei."
+        },
+        {
+          "verse": 10,
+          "text": "Şi îngăduind regele, a dobândit stăpânirea şi îndată a început să înveţe obiceiuri greceşti pe cei din neamul său."
+        },
+        {
+          "verse": 11,
+          "text": "Şi lepădând milostivele îngăduinţe domneşti, care s-au îngăduit Evreilor prin Ioan, tatăl lui Evpolemos care fusese sol la Romani pentru împrietenire şi alianţă şi stricând rânduielile cele legiuite, rânduieli fără de lege înnoia."
+        },
+        {
+          "verse": 12,
+          "text": "Că, fără ruşine, tocmai sub cetate a întemeiat şcoală şi pe cei mai tari dintre tineri îi silea să înveţe obiceiurile şi jocurile elineşti."
+        },
+        {
+          "verse": 13,
+          "text": "Şi într-acest chip se întărea elenismul şi sporeau obiceiurile celor de alt neam, pentru acea prea mare necurăţie a acestui Iason, păgân şi nu arhiereu."
+        },
+        {
+          "verse": 14,
+          "text": "Aşa încât preoţii nu se mai sârguiau spre slujbele altarului; ci nebăgând seamă de templul Domnului şi părăsind jertfele, se grăbeau să se împărtăşească cu privirea cea fără de lege a luptei la disc, după ce se auzea chemarea crainicilor."
+        },
+        {
+          "verse": 15,
+          "text": "Şi datina părintească nebăgând-o în seamă, măririle cele elineşti mai bune le socoteau."
+        },
+        {
+          "verse": 16,
+          "text": "De aceea grea nevoie i-a cuprins, că aceia a căror povăţuire o pofteau şi cărora voiau a se asemăna, pe aceia vrăjmaşi şi stăpânitori i-au avut."
+        },
+        {
+          "verse": 17,
+          "text": "Că a face păgâneşte împotriva dumnezeieştilor legi nu este prea lesne, însă acestea timpul le va arăta."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_04_03",
+      "chapter": 4,
+      "pericope_num": "03",
+      "title_en": "Jason Introduces Greek Customs",
+      "title_ro": "Iason introduce obiceiuri grecești",
+      "start_verse": 18,
+      "end_verse": 22,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 18,
+          "text": "Iar când se ţineau jocurile cele din cinci în cinci ani, la care era de faţă regele,"
+        },
+        {
+          "verse": 19,
+          "text": "A trimis nelegiuitul Iason din Ierusalim, ca soli, pe cei care erau cu drept de cetăţenie antiohiană, care au adus trei sute de drahme de argint pentru jertfa lui Hercule, pentru care şi cei care au dus argintul s-au rugat ca să nu se dea la jertfe, că nu se cuvine, ei să fie întrebuinţaţi la alte cheltuieli."
+        },
+        {
+          "verse": 20,
+          "text": "Iar aceste trei sute de drahme fuseseră sortite de cel care le trimisese pentru jertfă lui Hercule, dar, după voia celor care le-au adus, le-au hărăzit pentru dresul corăbiilor celor de oştire."
+        },
+        {
+          "verse": 21,
+          "text": "Şi Apoloniu al lui Menesteu fiind trimis în Egipt de regele Antioh, cu prilejul ridicării la tron a regelui Ptolomeu Filometor, Antioh a aflat că Ptolomeu avea asupra lui gânduri duşmănoase, de aceea Antioh, căutând să se pună la adăpost, s-a dus la Iafa şi apoi la Ierusalim."
+        },
+        {
+          "verse": 22,
+          "text": "Şi cu mare cuviinţă a fost primit de către Iason şi de către cetate, cu făclii aprinse şi cu strigări a fost întâmpinat, şi de aici spre Fenicia a pornit eu tabăra."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_04_04",
+      "chapter": 4,
+      "pericope_num": "04",
+      "title_en": "Menelaus Becomes High Priest",
+      "title_ro": "Menelau devine Mare Preot",
+      "start_verse": 23,
+      "end_verse": 29,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 23,
+          "text": "Şi după trei ani a trimis Iason pe Menelau, fratele lui Simon mai sus-numitul, ca să ducă bani regelui şi ca să-i aducă aminte de lucrurile cele de lipsă."
+        },
+        {
+          "verse": 24,
+          "text": "Iar el plăcând regelui, pentru că l-a preamărit cu înfăţişarea lui de mare curtean, a ajuns să ia arhieria, dând cu trei sute de talanţi de argint mai mult decât Iason."
+        },
+        {
+          "verse": 25,
+          "text": "Şi luând porunci domneşti, a venit, nimic vrednic de arhierie aducând, numai mânie de tiran crud şi urgie de fiară sălbatică având."
+        },
+        {
+          "verse": 26,
+          "text": "Şi aşa Iason, care a îndepărtat pe fratele său, îndepărtatu-l-a şi pe el altul şi l-a izgonit în ţara Amoniţilor."
+        },
+        {
+          "verse": 27,
+          "text": "Iar Menelau a ajuns arhiereu, dar de banii pe care îi făgăduise regelui nici o grijă n-a avut, deşi Sostrate, mai marele cetăţii, îi cerea."
+        },
+        {
+          "verse": 28,
+          "text": "Acesta era pus peste adunarea birurilor. Pentru aceea pe amândoi i-a chemat regele."
+        },
+        {
+          "verse": 29,
+          "text": "Şi Menelau a lăsat locţiitor de arhiereu pe Lisimah, fratele său; iar Sostrate pe Crates, mai-marele Ciprului."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_04_05",
+      "chapter": 4,
+      "pericope_num": "05",
+      "title_en": "The Murder of Onias",
+      "title_ro": "Uciderea lui Onia",
+      "start_verse": 30,
+      "end_verse": 34,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 30,
+          "text": "Şi acestea aşa fiind, s-a întâmplat de s-au răsculat locuitorii oraşelor Tars şi Malus, pentru că au fost daţi dar Antiohidei, ţiitoarea regelui."
+        },
+        {
+          "verse": 31,
+          "text": "Degrabă dar a venit regele ca să potolească răscoala, lăsând în locul său pe Andronic, unul din marii dregători."
+        },
+        {
+          "verse": 32,
+          "text": "Iar Menelau, socotind că a aflat vreme bună, furând nişte vase de aur de ale templului, le-a dăruit lui Andronic, şi pe altele le-a vândut în Tir şi în cetăţile cele de primprejur."
+        },
+        {
+          "verse": 33,
+          "text": "Aflând Onia acest lucru, l-a mustrat, fiind el în loc fără de frică, în Dafne cea de lângă Antiohia."
+        },
+        {
+          "verse": 34,
+          "text": "Pentru aceea Menelau, luând deosebi pe Andronic, l-a rugat să omoare pe Onia. Deci venind el la Onia şi cu înşelăciune dându-i dreapta şi încredinţându-l cu jurământ, şi cu toate că acest lucru dădea de bănuială lui Onia, el a izbutit să-l scoată din sihăstria lui şi l-a omorât îndată fără teamă de dreptate."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_04_06",
+      "chapter": 4,
+      "pericope_num": "06",
+      "title_en": "Andronicus Is Punished",
+      "title_ro": "Andronic este pedepsit",
+      "start_verse": 35,
+      "end_verse": 38,
+      "verse_count": 4,
+      "verses": [
+        {
+          "verse": 35,
+          "text": "Din această pricină nu numai Iudeii, ci mulţi şi dintr-alte neamuri s-au scârbit şl s-au mâhnit pentru nedreapta ucidere a bărbatului acestuia."
+        },
+        {
+          "verse": 36,
+          "text": "Iar după ce s-a întors regele din părţile Ciliciei, Iudeii cei din cetate, împreună cu Elinii, urând vicleşugul, s-au plâns cum că fără de dreptate Onia a fost omorât."
+        },
+        {
+          "verse": 37,
+          "text": "Iar lui Antioh, din suflet mâhnindu-se, i s-a făcut milă şi a lăcrimat pentru înţelepciunea şi multa bună rânduială a răposatului."
+        },
+        {
+          "verse": 38,
+          "text": "Şi aprinzându-se de mânie, îndată a luat de la Andronic porfira şi i-a rupt hainele şi l-a purtat împrejur prin toată cetatea, şi într-acelaşi loc, în care asupra lui Onia a făcut sângeroasa lui ispravă, acolo l-a omorât pe nelegiuitul ucigaş, Domnul răsplătindu-l cu pedeapsa de care a fost vrednic."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_04_07",
+      "chapter": 4,
+      "pericope_num": "07",
+      "title_en": "Unpopularity of Lysimachus and Menelaus",
+      "title_ro": "Nepopularitatea lui Lisimah și Menelau",
+      "start_verse": 39,
+      "end_verse": 50,
+      "verse_count": 12,
+      "verses": [
+        {
+          "verse": 39,
+          "text": "Şi Lisimah, cu ştirea lui Menelau, furând multe vase sfinte, a ieşit vestea în cetate şi s-a adunat mulţimea asupra lui Lisimah, după ce multe vase de aur se cheltuiseră."
+        },
+        {
+          "verse": 40,
+          "text": "Şi după ce s-au sculat asupră-i mulţimile mânioase, Lisimah a înarmat împotrivă ca la vreo trei mii de bărbaţi, şi a început fără de dreptate a omorî, comandant fiind un anume Tyranus, om bătrân şi cu vârsta şi cu nebunia."
+        },
+        {
+          "verse": 41,
+          "text": "Mulţimile, dacă au văzut că se scoală Lisimah asupra lor, apucând unii pietre, alţii măciuci, alţii ţărână, aruncau spre cei care erau împrejurul lui Lisimah şi spre cei care se sculaseră asupră-le."
+        },
+        {
+          "verse": 42,
+          "text": "Şi astfel pe mulţi dintre ei i-au rănit, pe unii i-au omorât şi pe toţi i-au pus pe fugă, iar pe furul de cele sfinte lângă vistierie l-au omorât."
+        },
+        {
+          "verse": 43,
+          "text": "Apoi a început judecata pricinii lui Menelau."
+        },
+        {
+          "verse": 44,
+          "text": "Şi când a venit regele în Tir, trei inşi, trimişi de înaltul sfat, au adus plângerea cea dreaptă înaintea lui."
+        },
+        {
+          "verse": 45,
+          "text": "Iar Menelau, aflându-se vinovat, a făgăduit bani mulţi lui Ptolomeu, fiul lui Dorimene, ca să îmblânzească pe rege."
+        },
+        {
+          "verse": 46,
+          "text": "Deci, apucând Ptolomeu pe rege într-un foişor, unde se dusese să se răcorească, l-a făcut să-şi schimbe părerea."
+        },
+        {
+          "verse": 47,
+          "text": "Şi pe Menelau, capul a toată răutatea, l-a scos nevinovat; iar pe nenorociţii aceia, care măcar şi la Sciţi, de şi-ar fi spus pricina, s-ar fi slobozit nevinovaţi, pe aceştia i-a judecat spre moarte."
+        },
+        {
+          "verse": 48,
+          "text": "Drept aceea, degrabă, nedreaptă moarte au suferit cei care purtaseră cuvânt pentru cetate şi pentru popor şi pentru sfintele vase."
+        },
+        {
+          "verse": 49,
+          "text": "Pentru care lucru şi locuitorii din Tir, mâhnindu-se de această răutate, cu mare cuviinţă au dat lucrurile cele de îngroparea lor."
+        },
+        {
+          "verse": 50,
+          "text": "Iar Menelau, din pricina lăcomiei celor puternici, era în cinste, şi, crescând întru răutate, mare vrăjmaş a fost celor de un neam cu el."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_05_01",
+      "chapter": 5,
+      "pericope_num": "01",
+      "title_en": "Jason Tries to Regain Control",
+      "title_ro": "Iason încearcă să recâștige controlul",
+      "start_verse": 1,
+      "end_verse": 14,
+      "verse_count": 14,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Iar în vremea aceasta, Antioh a călătorit a doua oară în Egipt."
+        },
+        {
+          "verse": 2,
+          "text": "Şi s-a întâmplat că în timp de patruzeci de zile s-a văzut peste toată cetatea prin văzduh, alergând, călăreţi cu haine aurite îmbrăcaţi şi cu suliţe ca şi ostaşii cei înarmaţi,"
+        },
+        {
+          "verse": 3,
+          "text": "Şi cetele de călăreţi rânduite şi bătându-se unii cu alţii, şi năvăliri de amândouă părţile şi vălmăşag de paveze şi mulţime de suliţi şi săbii scoase şi aruncări de săgeţi şi străluciri de podoabă de aur şi de tot felul de platoşe."
+        },
+        {
+          "verse": 4,
+          "text": "Pentru aceea, toţi se rugau ca să fie spre bine arătarea aceasta."
+        },
+        {
+          "verse": 5,
+          "text": "Şi făcându-se vorbă mincinoasă, cum că a murit Antioh, luând Iason ca la o mie de bărbaţi, fără de veste a lovit asupra cetăţii şi, cei de pe zid împingându-se, mai pe urmă a luat cetatea, iar Menelau a fugit în castel."
+        },
+        {
+          "verse": 6,
+          "text": "Iar Iason omora pe cetăţenii săi fără de milă, nesocotind că izbânda asupra rudeniilor sale este cea mai mare nenorocire."
+        },
+        {
+          "verse": 7,
+          "text": "Şi gândea că prăpădeşte pe vrăjmaşi, când în faptă ucidea pe cei de un neam cu sine; totuşi n-a dobândit stăpânirea, iar mai pe urmă pentru viclenie, ruşine şi-a agonisit şi pribeag s-a dus iarăşi în ţara Amoniţilor."
+        },
+        {
+          "verse": 8,
+          "text": "Şi aşa s-a sfârşit viaţa lui de nelegiuiri, că l-a închis Areta, tiranul Arabilor. Iar el, dintr-o cetate într-alta fugind, fiind gonit de toţi şi urât ca un călcător de lege şi în necinste fiind la toţi ca un ucigaş al patriei şi al cetăţenilor, a fost gonit în Egipt."
+        },
+        {
+          "verse": 9,
+          "text": "Şi el, cel care trimisese în surghiun pe mulţi, a murit în pământ străin între Lacedemonieni, unde nădăjduise să găsească sprijin pe socoteala rudeniei dintre Lacedemonieni şi Iudei."
+        },
+        {
+          "verse": 10,
+          "text": "Şi cel care a lepădat mulţime de morţi neîngropaţi, a fost nejelit şi de nici un fel de îngropăciune, în mormântul părintesc, n a avut parte."
+        },
+        {
+          "verse": 11,
+          "text": "Iar după ce a aflat regele acestea ce s-au făcut, a socotit că Iudeii s-au răzvrătit; pentru aceea, pornind din Egipt, cu mânie de fiară sălbatică a luat cetatea cu năvala."
+        },
+        {
+          "verse": 12,
+          "text": "Şi a poruncit ostaşilor să taie fără de milă pe cei care le sunt înainte şi pe cei care se suie în case să-i omoare."
+        },
+        {
+          "verse": 13,
+          "text": "Deci au fost omorâţi tinerii şi bătrânii, bărbaţii şi femeile şi feciorii au pierit, şi fecioarele şi pruncii au fost junghiaţi,"
+        },
+        {
+          "verse": 14,
+          "text": "Astfel că în trei zile optzeci de mii au fost tăiaţi, iar alţii, cam tot atâţi câţi cei tăiaţi, au fost vânduţi."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_05_02",
+      "chapter": 5,
+      "pericope_num": "02",
+      "title_en": "Pillage of the Temple",
+      "title_ro": "Jefuirea Templului",
+      "start_verse": 15,
+      "end_verse": 27,
+      "verse_count": 13,
+      "verses": [
+        {
+          "verse": 15,
+          "text": "Şi neîndestulându-se cu acestea, au îndrăznit a intra şi în templul Domnului, cel mai sfânt decât tot pământul, având călăuză pe Menelau, cel care şi legilor patriei s-a făcut vânzător."
+        },
+        {
+          "verse": 16,
+          "text": "Şi cu mâini nelegiuite a luat sfintele vase şi cele ce au fost puse de alţi regi spre creşterea, mărirea şi cinstea locului, cu nelegiuite mâini trăgându-le, le da."
+        },
+        {
+          "verse": 17,
+          "text": "Şi s-a smerit cu cugetul Antioh, căci nu socotea că pentru păcatele celor care locuiau cetatea S-a mâniat puţină vreme Domnul şi că pentru aceea a fost urgisit locul acela."
+        },
+        {
+          "verse": 18,
+          "text": "Iar de nu s-ar fi întâmplat să fi fost mai dinainte cuprinşi de multe păcate, aşa precum Eliodor, pe care l-a trimis Seleuc regele, ca să vadă vistieria, aşa şi acesta, când a năvălit să intre, degrabă ar fi fost bătut şi s-ar fi întors de la îndrăznirea sa."
+        },
+        {
+          "verse": 19,
+          "text": "Că n-a ales Domnul pe poporul Său pentru acest loc, ci locul acesta pentru poporul Său."
+        },
+        {
+          "verse": 20,
+          "text": "Pentru aceea şi locul acesta a avut parte de răutăţile ce s-au întâmplat în popor, ca după aceea să se facă părtaş bunătăţilor celor de la Domnul; părăsit altădată în mâna Atotputernicului, el a fost iarăşi aşezat în toată mărirea lui, după ce marele Stăpân S-a împăcat cu poporul Său."
+        },
+        {
+          "verse": 21,
+          "text": "Deci Antioh, luând o mie şi opt sute de talanţi din templul Domnului, degrabă s-a întors în Antiohia, gândind, de multă trufie, să facă pământul cale de corăbii şi marea drum de mers cu picioarele pentru semeţia inimii."
+        },
+        {
+          "verse": 22,
+          "text": "Şi a lăsat şi dregători, ca să necăjească poporul: în Ierusalim, pe Filip de neam frigian, mai păgân în obiceiuri decât cel care l-a pus;"
+        },
+        {
+          "verse": 23,
+          "text": "La Garizim pe Andronic şi pe lângă aceştia pe Menelau, care mai rău decât ceilalţi se ridica împotriva cetăţenilor."
+        },
+        {
+          "verse": 24,
+          "text": "Şi având gând vrăjmaş asupra locuitorilor evrei, a trimis pe Apoloniu, capul răutăţilor, cu douăzeci şi două de mii de oşteni, poruncind \"a pe cei în vârstă pe toţi să-i omoare, iar pe femei şi pe cei mai tineri să-i vândă."
+        },
+        {
+          "verse": 25,
+          "text": "Iar acesta, venind în Ierusalim, s-a prefăcut a fi cu pace şi a aşteptat până în ziua cea sfântă de odihnă şi, apucând pe Iudei în zi de praznic, a poruncit ostaşilor celor de sub ascultarea sa să se înarmeze."
+        },
+        {
+          "verse": 26,
+          "text": "Şi pe toţi cei care au ieşit să privească i-au omorât şi alergând prin cetate cu armele, multă mulţime au omorât."
+        },
+        {
+          "verse": 27,
+          "text": "Iar Iuda Macabeul cu alţi nouă inşi, care s-au alăturat lui, retrăgându-se în pustiu, ca fiarele în munţi trăia împreună cu cei care erau cu el şi se hrăneau cu buruieni ca să nu se spurce."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_06_01",
+      "chapter": 6,
+      "pericope_num": "01",
+      "title_en": "The Suppression of Judaism",
+      "title_ro": "Suprimarea iudaismului",
+      "start_verse": 1,
+      "end_verse": 11,
+      "verse_count": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi nu după multă vreme, a trimis regele pe un bătrân atenian, ca să silească pe Iudei să se lase de legile lor părinteşti şi să nu mai trăiască după legile lui Dumnezeu."
+        },
+        {
+          "verse": 2,
+          "text": "Şi să pângărească şi templul din Ierusalim şi să-l numească al lui Zeus Olimpianul, iar pe cel din Garizim, al lui Zeus, iubitorul de oaspeţi, precum erau locuitorii locului."
+        },
+        {
+          "verse": 3,
+          "text": "Ci cu anevoie şi grea era poporului tocmeala răutăţii acesteia."
+        },
+        {
+          "verse": 4,
+          "text": "Căci păgânii au pângărit templul cu desfrânări şi beţii, desfătându-se cu desfrânatele în sfintele curţi, şi aducând cele ce nu se cuvenea."
+        },
+        {
+          "verse": 5,
+          "text": "Şi altarul s-a umplut de lucruri nelegiuite, pe care le oprea legea,"
+        },
+        {
+          "verse": 6,
+          "text": "Şi nu era voie nici a ţine ziua Domnului, nici a păzi sărbătorile părinteşti, nici măcar a spune că eşti Iudeu."
+        },
+        {
+          "verse": 7,
+          "text": "Şi erau duşi cu sila la jertfele care se aduceau în fiecare lună de ziua naşterii regelui, şi când era sărbătoarea lui Dionysos, erau siliţi Iudeii, având cununi de iederă, să ia parte la alaiul în cinstea lui Dionysos."
+        },
+        {
+          "verse": 8,
+          "text": "Şi din îndemnul lui Ptolomeu a ieşit poruncă în cetăţile elineşti cele de prin vecini, ca şi pe Iudei la fel să-i facă să jertfească,"
+        },
+        {
+          "verse": 9,
+          "text": "Iar pe cei care nu vor vrea să treacă la obiceiurile elineşti, să-i omoare; de aceea, nimic altceva nu se vedea decât numai greutăţi cu care erau asupriţi."
+        },
+        {
+          "verse": 10,
+          "text": "Că s-au adus două femei, care au fost pârâte că şi-au tăiat împrejur pruncii lor. Pentru aceea au spânzurat pruncii de sânii lor şi prin cetate, pe uliţe purtându-le, le-au aruncat jos de pe zid de au murit."
+        },
+        {
+          "verse": 11,
+          "text": "Iar alţii alergau la peşterile cele de pe aproape, ca ascunzându-se să serbeze ziua de odihnă. De acest lucru, dându-se ştire lui Filip, i-a ars, fără ca ei să se împotrivească pentru mărirea acelei preacinstite zile."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_06_02",
+      "chapter": 6,
+      "pericope_num": "02",
+      "title_en": "Providential Significance of the Persecution",
+      "title_ro": "Semnificația providențială a prigonirii",
+      "start_verse": 12,
+      "end_verse": 17,
+      "verse_count": 6,
+      "verses": [
+        {
+          "verse": 12,
+          "text": "Rog dar pe cei care vor citi această carte, să nu se îngrozească din cauza acestor suferinţe; ci să socotească că aceste munci, nu spre pieire, ci spre învăţătură au fost neamului nostru."
+        },
+        {
+          "verse": 13,
+          "text": "Că dacă Domnul nu lasă multă vreme pe cei care lucrează fărădelege, ci degrabă îi aruncă în munci, este semn de mare facere de bine."
+        },
+        {
+          "verse": 14,
+          "text": "Că pe când la alte neamuri cu îndelungă răbdare aşteaptă Domnul, până ce vor ajunge la plinirea păcatelor şi apoi să-i muncească; asupra noastră aşa a socotit că este bine ca, nu la sfârşitul păcatelor ajungând noi, să aducă pedeapsă asupra noastră."
+        },
+        {
+          "verse": 15,
+          "text": "Pentru aceea niciodată nu depărtează mila de la noi, ci, certându-ne cu nevoi, nu părăseşte pe poporul Său."
+        },
+        {
+          "verse": 16,
+          "text": "Însă acestea să fie zise, pentru ca să ne aducem aminte."
+        },
+        {
+          "verse": 17,
+          "text": "Iar după aceste puţine cuvinte se cuvine să venim la poveste."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_06_03",
+      "chapter": 6,
+      "pericope_num": "03",
+      "title_en": "The Martyrdom of Eleazar",
+      "title_ro": "Martiriul lui Eleazar",
+      "start_verse": 18,
+      "end_verse": 31,
+      "verse_count": 14,
+      "verses": [
+        {
+          "verse": 18,
+          "text": "Unui om anume Eleazar, care era cărturar de frunte şi trecut cu vârsta şi la faţă foarte frumos, căscându-i gura, îl silea să mănânce carne de porc."
+        },
+        {
+          "verse": 19,
+          "text": "Iar el mai vârtos primind moartea cea de cinste, decât viaţa cea de urâciune, de bună voie s-a dus la munci,"
+        },
+        {
+          "verse": 20,
+          "text": "Scuipând carnea din gura lui şi apropiindu-se de moarte, aşa cum se cuvine a se apropia cei care îndrăznesc a se apăra de cele ce nu se cuvine să le mănânce, oricare ar fi dragostea vieţii."
+        },
+        {
+          "verse": 21,
+          "text": "Iar cei care erau rânduiţi la acea nelegiuită jertfă, pentru că-l cunoşteau de mulţi ani pe omul acesta, luându-l deoparte, îl rugau să aducă alte cărnuri făcute de el, care îi erau slobod a le mânca şi să se prefacă tocmai ca şi cum ar mânca de cele ce a poruncit regele din cărnurile jertfei,"
+        },
+        {
+          "verse": 22,
+          "text": "Ca, făcând aceasta, să scape de moarte şi, pentru prietenia veche cu ei, va afla milă."
+        },
+        {
+          "verse": 23,
+          "text": "Iar el gând bun luând şi vrednic fiind de vârstă şi de adâncile bătrâneţi, şi de cinstitele cărunteţi, care şi le agonisise şi de creşterea cea foarte bună din pruncie şi mai vârtos de cea sfântă şi de rânduiala legii, pusă de Dumnezeu, îndată a răspuns, zicând să-l trimită curând la moarte."
+        },
+        {
+          "verse": 24,
+          "text": "\"Că nu se cuvine vârstei noastre a făţărnici, ca mulţi din cei tineri să socotească cum că Eleazar cel de nouăzeci de ani a trecut la obiceiurile celor de alt neam."
+        },
+        {
+          "verse": 25,
+          "text": "Şi din pricina prefăcătoriei mele, pentru această puţină şi scurtă vreme, ei să se amăgească prin mine şi urâciune şi ocară bătrâneţilor să-mi agonisesc."
+        },
+        {
+          "verse": 26,
+          "text": "Că deşi în această vreme de acum voi scăpa de munca de la oameni, dar din mâinile Atotputernicului, nici viu, nici mort nu voi scăpa;"
+        },
+        {
+          "verse": 27,
+          "text": "Pentru aceea, bărbăteşte acum dându-mi viaţa, mă voi arăta vrednic de bătrâneţe."
+        },
+        {
+          "verse": 28,
+          "text": "Şi celor tineri pildă vitejească le voi lăsa, ca degrabă şi cu bărbăţie să moară pentru cinstitele şi sfintele legi\". Acestea zicând, a păşit către chinuri."
+        },
+        {
+          "verse": 29,
+          "text": "Iar cei ce-l aduceau au schimbat inima lor cea bună, pe care cu puţin înainte o arătaseră către dânsul, în inimă răuvoitoare pentru cuvintele pe care mai înainte le-a grăit, care, precum socoteau ei, erau nebunie."
+        },
+        {
+          "verse": 30,
+          "text": "Şi când era să moară de bătăi, suspinând, a zis: \"Domnului, Celui care are sfânta ştiinţă, arătat este că putând eu să scap de moarte, grele dureri rabd cu trupul, bătut fiind; iar cu sufletul bucuros pentru frica Lui pătimesc toate acestea\"."
+        },
+        {
+          "verse": 31,
+          "text": "Şi într-acest chip a murit acesta, şi nu numai tinerilor, ci şi întregului popor, moartea sa lăsând o pildă de vitejie şi pomenire de faptă bună."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_07_01",
+      "chapter": 7,
+      "pericope_num": "01",
+      "title_en": "The Martyrdom of Seven Brothers",
+      "title_ro": "Martiriul celor șapte frați",
+      "start_verse": 1,
+      "end_verse": 42,
+      "verse_count": 42,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Întâmplatu-s-a şi cu şapte fraţi, pe care, împreună cu maica lor prinzându-i, i-a silit regele, cu biciul şi cu vine bătându-i, să mănânce cărnuri de porc, care nu le era slobod a mânca."
+        },
+        {
+          "verse": 2,
+          "text": "Iar unul dintre ei, care a grăit mai întâi, aşa a zis: \"Ce vrei să întrebi şi să ştii de la noi? Pentru că mai bucuroşi suntem a muri, decât a călca legile părinteşti\"."
+        },
+        {
+          "verse": 3,
+          "text": "Iar regele, umplându-se de mânie, a poruncit să înfierbânte tigăi şi căldări,"
+        },
+        {
+          "verse": 4,
+          "text": "Şi după ce s-au înfierbântat acelea, îndată a poruncit să taie limba celui care a grăit întâi, apoi să-i jupoaie pielea de pe cap şi să-i taie mâinile şi picioarele, în faţa celorlalţi fraţi şi a mamei lor."
+        },
+        {
+          "verse": 5,
+          "text": "Şi după ce l-u ciopârţit aşa, a poruncit să-l aducă la foc şi să-l frigă de viu. Şi ieşind foarte mare sfârâială din tigaie, unii pe alţii împreună cu mama lor se îndemnau a muri vitejeşte zicând aşa:"
+        },
+        {
+          "verse": 6,
+          "text": "\"Domnul Dumnezeu vede şi cu adevărat mângâiere are dintre noi, precum chiar a arătat prin cântarea cu care ne-a mărturisit nouă Moise, zicând: şi întru robii Săi se va mângâia\"."
+        },
+        {
+          "verse": 7,
+          "text": "Şi după ce s-a săvârşit cel dintâi într-acest chip, a adus pe al doilea să-l batjocorească şi, jupuindu-i pielea capului cu părul, îl întreba: \"Vrei să mănânci carne de porc înainte ca să ţi se ciopârţească toate mădularele trupului?\""
+        },
+        {
+          "verse": 8,
+          "text": "Iar el; răspunzând în graiul părinţilor săi, a zis: \"Nu\"."
+        },
+        {
+          "verse": 9,
+          "text": "Pentru aceea şi acesta, ca şi cel dintâi, pe rând toate chinurile le-a suferit şi, când era să moară, a zis: \"Tu dar, nelegiuitule, ne scoţi pe noi dintr-această viaţă, însă Împăratul lumii, pe noi cei care murim pentru legile Lui, iarăşi ne va învia cu înviere de viaţă veşnică\"."
+        },
+        {
+          "verse": 10,
+          "text": "Şi după aceasta al treilea a fost batjocorit, şi cerându-i-se limba, îndată a scos-o şi mâinile cu îndrăzneală le-a întins şi vitejeşte a zis:"
+        },
+        {
+          "verse": 11,
+          "text": "\"Din cer le-am dobândit acestea şi pentru legile Lui nu ţin seamă de ele, pentru că nădăjduiesc că de la El iarăşi le voi dobândi\"."
+        },
+        {
+          "verse": 12,
+          "text": "Aşa încât însuşi regele şi cei ce erau cu el, cu spaimă, se minunau de sufletul tânărului, că nu ţinea seamă de dureri, ca de nimic."
+        },
+        {
+          "verse": 13,
+          "text": "Şi după ce s-a sfârşit şi acesta, a adus pe al patrulea, aşijderea muncindu-l şi chinuindu-l:"
+        },
+        {
+          "verse": 14,
+          "text": "Şi când era să moară, aşa a zis: \"Bine este a muta nădejdile cele de la oameni şi a aştepta pe cele de la Dumnezeu, că noi iar vom învia prin El, iar ţie nu-ţi Va fi înviere spre viaţă\"."
+        },
+        {
+          "verse": 15,
+          "text": "Şi îndată aducând pe al cincilea îl muncea, iar el, căutând către rege, a zis:"
+        },
+        {
+          "verse": 16,
+          "text": "\"Putere între oameni având, muritor fiind, faci ce vrei; însă să nu socoteşti că Dumnezeu a părăsit poporul nostru;"
+        },
+        {
+          "verse": 17,
+          "text": "Ci tu aşteaptă şi vei vedea puterea Lui cea mare, cum pe tine şi pe urmaşii tăi îi va chinui\"."
+        },
+        {
+          "verse": 18,
+          "text": "Şi după acesta a adus pe al şaselea şi când era să moară, a zis: \"Nu te înşela în zadar, că noi pentru noi înşine pătimim acestea, de vreme ce am păcătuit împotriva Dumnezeului nostru şi pentru aceasta s-au făcut aceste lucruri vrednice de mirare."
+        },
+        {
+          "verse": 19,
+          "text": "Iar tu să nu socoteşti că vei fi necertat, pentru că faci război împotriva lui Dumnezeu\"."
+        },
+        {
+          "verse": 20,
+          "text": "Iar mama lor foarte minunată şi vrednică de bună pomenire este, căci într-o singură zi văzând pierindu-i şapte fii, cu bun suflet a răbdat, pentru nădejdile ce avea în Domnul:"
+        },
+        {
+          "verse": 21,
+          "text": "Şi pe fiecare din ei îl mângâia în graiul părintesc, plină fiind de vitejesc cuget şi femeiasca gândire cu inimă bărbătească deşteptând-o, zicea către ei:"
+        },
+        {
+          "verse": 22,
+          "text": "\"Nu ştiu cum v-aţi zămislit în pântecele meu şi nu v-am dat duh şi viaţă şi închipuirea fiecăruia nu eu am întocmit-o,"
+        },
+        {
+          "verse": 23,
+          "text": "Ci Ziditorul lumii, Care a zidit pe om de la naşterea lui, vă va da ca un milostiv iarăşi duh şi viaţă, de vreme ce acum nu vă este milă de voi, iubind legile Lui\"."
+        },
+        {
+          "verse": 24,
+          "text": "Iar Antioh, gândind că pe el îl defaimă şi socotind că pe el îl ocărăşte cu acele cuvinte, fiind încă cel mai tânăr viu, nu numai cu cuvintele îndemna, ci şi eu jurăminte îl încredinţa cum că şi bogat şi fericit îl va face, de se va lăsa de obiceiurile părinteşti şi prieten îl va avea şi vrednicii îi va încredinţa."
+        },
+        {
+          "verse": 25,
+          "text": "Iar tânărul, neascultând, a chemat regele pe mama sa şi o învăţa ca să-l sfătuiască cele ce sunt spre scăpare."
+        },
+        {
+          "verse": 26,
+          "text": "Şi cu multe îndemnând-o, ea a primit că va sfătui pe fiu."
+        },
+        {
+          "verse": 27,
+          "text": "Şi plecându-se la el, înşelând pe crudul tiran, aşa a zis în limba părintească: \"Fiule, fie-ţi milă de mine, care în pântece te-am purtat nouă luni şi te-am alăptat trei ani şi te-am hrănit şi te-am adus la vârsta aceasta şi te-am crescut, purtându-te în braţe."
+        },
+        {
+          "verse": 28,
+          "text": "Rogu-te, fiule, ca, la cer şi la pământ căutând şi văzând toate cele ce sunt într-însele, să cunoşti că din ce n-au fost le-a făcut pe ele Dumnezeu şi pe neamul omenesc aşijderea l-a făcut."
+        },
+        {
+          "verse": 29,
+          "text": "Nu te teme de ucigătorul acesta; ci fă-te vrednic de fraţii tăi, primeşte moartea, ca în ziua milostivirii să te găsesc pe tine împreună cu fraţii tăi\":"
+        },
+        {
+          "verse": 30,
+          "text": "Şi grăind încă ea, tânărul a zis: \"Pe cine aşteptaţi? N-ascult de porunca regelui, ei ascult de porunca legii, care s-a dat părinţilor noştri prin Moise."
+        },
+        {
+          "verse": 31,
+          "text": "Iar tu, cel care tot răul ai aflat asupra Iudeilor, nu vei scăpa din mâinile lui Dumnezeu."
+        },
+        {
+          "verse": 32,
+          "text": "Că noi pentru păcatele noastre pătimim,"
+        },
+        {
+          "verse": 33,
+          "text": "Iar dacă, pentru cercetarea şi învăţătura noastră, Dumnezeu cel viu S-a mâniat puţin asupra noastră, iarăşi cu robii Săi Se va împăca."
+        },
+        {
+          "verse": 34,
+          "text": "Ci tu, o, necredinciosule şi mai nelegiuit decât toţi oamenii, nu te mări tulburându-te în deşert şi semeţindu-te eu nişte nădejdi neştiute, asupra slugilor cereşti ridicându-ţi mâinile,"
+        },
+        {
+          "verse": 35,
+          "text": "Că încă n-ai scăpat de judecata atotputernicului Dumnezeu, Cel care de sus vede toate."
+        },
+        {
+          "verse": 36,
+          "text": "Că acum fraţii mei, care puţină durere au suferit, au ajuns la făgăduinţa vieţii celei veşnice a lui Dumnezeu; iar tu cu judecata lui Dumnezeu vei suferi dreaptă pedeapsă de la Dânsul pentru această trufie a ta."
+        },
+        {
+          "verse": 37,
+          "text": "Iar eu, precum şi fraţii mei, şi trupul şi sufletul mi-l dau pentru legile părinteşti, rugându-mă lui Dumnezeu, ca să nu întârzie a Se milostivi spre poporul acesta şi pe tine prin certări şi prin bătăi să te facă să mărturiseşti cum că El singur este Dumnezeu."
+        },
+        {
+          "verse": 38,
+          "text": "Iar în mine şi în fraţii mei să se oprească mânia Atotputernicului, care pe dreptate s-a adus peste tot neamul nostru\"."
+        },
+        {
+          "verse": 39,
+          "text": "Deci, mâniindu-se regele pe acesta mai mult decât pe ceilalţi, l-a chinuit, amărându-se pentru că l-a batjocorit."
+        },
+        {
+          "verse": 40,
+          "text": "Deci şi acesta, curat întru totul; şi-a dat viaţa, nădăjduind spre Domnul."
+        },
+        {
+          "verse": 41,
+          "text": "Şi mai pe urmă, după fii, s-a săvârşit şi mama."
+        },
+        {
+          "verse": 42,
+          "text": "Iar despre junghieri şi despre chinurile cele peste măsură să fie destule cele zise."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_08_01",
+      "chapter": 8,
+      "pericope_num": "01",
+      "title_en": "The Revolt of Judas Maccabeus",
+      "title_ro": "Revolta lui Iuda Macabeul",
+      "start_verse": 1,
+      "end_verse": 11,
+      "verse_count": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Iar Iuda Macabeul şi cei care erau cu el, pe ascuns mergând prin sate, chemau pe rudenii şi pe cei care rămăseseră în legea evreiască şi luându-i cu sine, a strâns ca la vreo şase mii de bărbaţi."
+        },
+        {
+          "verse": 2,
+          "text": "Şi s-au rugat Domnului ca să caute spre poporul cel mai necăjit decât toţi şi să Se milostivească şi să Se îndure de templul Domnului cel pângărit de oameni păgâni."
+        },
+        {
+          "verse": 3,
+          "text": "Şi să-i fie milă de cetatea cea stricată de tot şi care întocmai cu pământul va să se facă şi să audă sângele celor ucişi, care pururea strigă către El."
+        },
+        {
+          "verse": 4,
+          "text": "Şi să-Şi aducă aminte de nelegiuita pierdere a pruncilor celor fără de păcate şi de hulele cele grăite asuprea neamului Lui şi să urască răutatea:"
+        },
+        {
+          "verse": 5,
+          "text": "Iar Iuda Macabeul, având oştire adunată, nu-l puteau suferi neamurile şi mânia Domnului s-a întors în milă."
+        },
+        {
+          "verse": 6,
+          "text": "Şi fără de veste venind, cetăţi şi sate ardea şi locurile cele prielnice prinzându-le, pe mulţi din vrăjmaşi biruindu-i îi punea pe fugă."
+        },
+        {
+          "verse": 7,
+          "text": "Şi mai ales noaptea făcea năvăliri de acest fel, atât încât pretutindeni s-a auzit vestea vitejiei lui."
+        },
+        {
+          "verse": 8,
+          "text": "Deci, văzând Filip că în puţină vreme acel om atâta a sporit, şi mai adeseori cu bun noroc merge, a scris lui Ptolomeu, cârmuitorul Cele-Siriei şi al Feniciei, ca să ajute la lucrurile regelui:"
+        },
+        {
+          "verse": 9,
+          "text": "Iar el îndată a ales pe Nicanor, feciorul lui Patrocle, unul din cei mai de frunte prieteni, şi l-a trimis supunându-i din tot felul de neamuri nu mai puţin de douăzeci de mii; ca să piardă tot neamul Evreilor. Şi i-a dat tovarăş şi pe Gorgias, bărbat învăţat la oştire şi priceput în lucrurile războiului."
+        },
+        {
+          "verse": 10,
+          "text": "Şi a socotit Nicanor că dajdia cu care era regele dator Romanilor, a cărei sumă era două mii de talanţi, să o plătească din vânzarea iudeilor luaţi robi."
+        },
+        {
+          "verse": 11,
+          "text": "Şi îndată a trimis la cetăţile cele de pe lângă mare, chemându-le ca să vină să cumpere robi Evrei, făgăduind că nouăzeci de robi va da pentru un talant, neaşteptând pedeapsa cea viitoare asupra lui de la Cel Atotputernic."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_08_02",
+      "chapter": 8,
+      "pericope_num": "02",
+      "title_en": "Preparation for Battle",
+      "title_ro": "Pregătire pentru bătălie",
+      "start_verse": 12,
+      "end_verse": 20,
+      "verse_count": 9,
+      "verses": [
+        {
+          "verse": 12,
+          "text": "Iar Iuda a aflat de venirea lui Nicanor."
+        },
+        {
+          "verse": 13,
+          "text": "Şi, spunând celor care erau cu el de venirea taberei, cei fricoşi dintre ei şi care nu aveau nădejde în dreptatea lui Dumnezeu au fugit şi au ieşit din locurile lor."
+        },
+        {
+          "verse": 14,
+          "text": "Iar ceilalţi toate ce le rămăsese le vindeau şi rugau pe Domnul să izbăvească pe cei vânduţi de necredinciosul Nicanor mai înainte chiar de a se lovi în război."
+        },
+        {
+          "verse": 15,
+          "text": "Iar de nu pentru ei, apoi pentru aşezământul pe care l-a făcut cu părinţii lor şi pentru că chemau asupra lor prea cinstit şi de mare cuviinţă numele Lui."
+        },
+        {
+          "verse": 16,
+          "text": "Deci, aducând Iuda Macabeul pe cei care erau cu el, care erau în număr de şase mii, îi îndemna să nu se îngrozească de vrăjmaşi, nici să se teamă de mulţimea cea multă a neamurilor, care cu nedreptate vin asupra lor; ci vitejeşte să se războiască, punându-şi înaintea ochilor ocara cea fără de lege făcută de ei în locul cel sfânt"
+        },
+        {
+          "verse": 17,
+          "text": "Şi bătaia batjocoritei cetăţi şi surparea datinei strămoşeşti."
+        },
+        {
+          "verse": 18,
+          "text": "Că aceia în arme şi în îndrăznire nădăjduiesc; iar noi în Dumnezeu cel Atotputernic nădăjduim, Care şi pe cei care vin asupra noastră şi pe toată lumea într-o clipă poate să-i piardă."
+        },
+        {
+          "verse": 19,
+          "text": "Şi afară de acestea le-a arătat şi apărările cele făcute strămoşilor lor şi izbânda cea de pe vremea lui Sanherib, cum au pierit o sută optzeci şi cinci de mii."
+        },
+        {
+          "verse": 20,
+          "text": "Şi bătaia din Babilon cea asupra Galatenilor făcută, cum toţi au venit la bătaie opt mii, cu patru mii de Macedoneni; iar Macedonenii trăgându-se înapoi, cei opt mii pe o sută douăzeci de mii i-au pierdut cu ajutorul ce li s-a făcut din cer, şi multă pradă au luat."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_08_03",
+      "chapter": 8,
+      "pericope_num": "03",
+      "title_en": "Judas Defeats Nicanor",
+      "title_ro": "Iuda îl înfrânge pe Nicanor",
+      "start_verse": 21,
+      "end_verse": 29,
+      "verse_count": 9,
+      "verses": [
+        {
+          "verse": 21,
+          "text": "Cu acestea i-au făcut să fie cu bună îndrăzneală şi gata a muri pentru lege şi pentru patrie."
+        },
+        {
+          "verse": 22,
+          "text": "Deci în patru părţi împărţind oştirea, rânduind şi pe fraţii săi povăţuitori la fiecare rând, pe Simon şi pe Ioan şi pe Ionatan, fiecăruia dintre ei supunând o mie şi cinci sute."
+        },
+        {
+          "verse": 23,
+          "text": "Şi încă şi pe Eleazar să citească sfânta carte, şi dându-le semn: cu ajutorul lui Dumnezeu, conducând el însuşi rândul cel dintâi, s-a lovit cu Nicanor."
+        },
+        {
+          "verse": 24,
+          "text": "Şi ajutându-le Atotputernicul, au omorât din vrăjmaşi mai mult decât nouă mii şi au rănit şi au ciuntit de mădulare cea mai mare parte din tabăra lui Nicanor, şi pe toţi i-au silit să fugă."
+        },
+        {
+          "verse": 25,
+          "text": "Iar banii celor ce veniseră să-i cumpere robi, i-au luat şi, izgonindu-i până departe, s-au întors siliţi de lipsa de timp."
+        },
+        {
+          "verse": 26,
+          "text": "Pentru că era înainte de ziua de odihnă, pentru aceea au încetat a-i goni mai mult."
+        },
+        {
+          "verse": 27,
+          "text": "Ci luând de la ei armele şi prădându-i, au şezut în ziua de odihnă pe loc, binecuvântând şi mărturisindu-se Domnului, Cel care i-a mântuit în ziua aceasta, începătură de milă rânduind lor."
+        },
+        {
+          "verse": 28,
+          "text": "Iar după ziua de odihnă, o parte din prăzi le-au dat celor neputincioşi şi văduvelor şi săracilor; iar celelalte le-au împărţit între ei şi pruncilor lor."
+        },
+        {
+          "verse": 29,
+          "text": "Şi după ce au făcut acestea şi au făcut rugăciune de obşte, au rugat pe milostivul Dumnezeu, ca până în sfârşit să fie în pace cu robii Săi."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_08_04",
+      "chapter": 8,
+      "pericope_num": "04",
+      "title_en": "Judas Defeats Timothy and Bacchides",
+      "title_ro": "Iuda îi înfrânge pe Timotei și Bahide",
+      "start_verse": 30,
+      "end_verse": 36,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 30,
+          "text": "După aceea, lovind pe cei care erau cu Timotei şi cu Bacchide, mai mult de douăzeci de mii dintre ei au omorât şi întăriturile cele înalte le-au biruit şi prăzi multe au împărţit, întocmai cu ei făcând părtaşi şi pe cei neputincioşi şi pe cei săraci şi pe văduve, precum şi pe cei bătrâni."
+        },
+        {
+          "verse": 31,
+          "text": "Şi culegând armele de la ei, toate cu socoteală le-au pus în locuri bune, iar celelalte prăzi le-au adus la Ierusalim."
+        },
+        {
+          "verse": 32,
+          "text": "Şi au omorât şi pe Filarh, care era cu Timotei, că era om foarte nelegiuit şi multe necazuri făcuse Iudeilor."
+        },
+        {
+          "verse": 33,
+          "text": "Şi când a serbat biruinţa în patrie, lui Calistene, cel care arsese sfintele porţi, i-au dat foc într-o căsuţă, în care fugise, şi aşa a luat pradă vrednică de credinţa sa cea rea."
+        },
+        {
+          "verse": 34,
+          "text": "Iar ticălosul Nicanor, cel care adusese o mie de neguţători să le vândă Evrei,"
+        },
+        {
+          "verse": 35,
+          "text": "Cu ajutorul lui Dumnezeu, smerit fiind de cei care după părerea lui erau ca nimic, lepădându-şi haina cea de mărire, prin mare fugind singur, a venit în Antiohia foarte la mare nevoie ajungând, din pricina pierderii oştirii."
+        },
+        {
+          "verse": 36,
+          "text": "Iar cel care a făgăduit că va plăti bir Romanilor din robirea Ierusalimului a mărturisit cum că Iudeii au pe Dumnezeu apărător şi pentru aceea sunt de nezdrobit, căci ţineau legile cele puse de El mai înainte."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_09_01",
+      "chapter": 9,
+      "pericope_num": "01",
+      "title_en": "The Last Campaign of Antiochus Epiphanes",
+      "title_ro": "Ultima campanie a lui Antioh Epifan",
+      "start_verse": 1,
+      "end_verse": 12,
+      "verse_count": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Într-aceeaşi vreme s-a întâmplat de s-a întors şi Antioh fără de cinste din locurile cele dinspre Persia."
+        },
+        {
+          "verse": 2,
+          "text": "Că intrând în Persepolis, s-a apucat a jefui templul de acolo şi a asupri cetatea; şi alergând mulţimea la arme, l-a biruit şi aşa s-a întors cu ruşine."
+        },
+        {
+          "verse": 3,
+          "text": "Iar când era el la Ecbatana, a aflat cele ce s-au întâmplat lui Nicanor şi cele ce au fost cu Timotei."
+        },
+        {
+          "verse": 4,
+          "text": "Şi aprinzându-se de mânie, socotea că şi răutatea celor ce l-au gonit pe el să şi-o răzbune asupra Iudeilor; pentru aceea a poruncit celui care conducea carul său să mâne neîncetat, ca să sfârşească mai curând călătoria, silindu-l judecata cea cerească, căci cu trufie a zis: Mormânt Evreilor voi face Ierusalimul îndată ce voi sosi acolo."
+        },
+        {
+          "verse": 5,
+          "text": "Iar Atotputernicul Domnul Dumnezeul lui Israel i-a lovit cu rană nevindecată şi nevăzută, căci, cum a sfârşit cuvântul, l-a apucat nesuferită durere în pântece şi amare chinuri ale celor dinlăuntrul lui."
+        },
+        {
+          "verse": 6,
+          "text": "Şi suferea pe bună dreptate, căci el cu multe şi neauzite munci a chinuit cele dinlăuntru ale altora, iar el nicidecum n-a încetat de la semeţia sa."
+        },
+        {
+          "verse": 7,
+          "text": "Ci încă şi de trufie era plin, de mânie foc suflând asupra Evreilor şi, poruncind să grăbească cu mergerea, s-a întâmplat de a căzut din carul care mergea tare şi căzătura fiind grea, toate mădularele trupului s-au zdruncinat."
+        },
+        {
+          "verse": 8,
+          "text": "Şi celui care i se părea că şi peste valurile mării împărăţeşte din pricina trufiei pe care o avea peste firea omenească, şi socotea că va pune în cumpănă munţii cei înalţi, acum, smerit fiind până ia pământ, într-o lectică era purtat, arătând către toţi puterea lui Dumnezeu prin pilda sa."
+        },
+        {
+          "verse": 9,
+          "text": "Căci din trupul acestui păgân izvorau viermi vii şi, trăind în chinuri şi în dureri, cădea de pe el carnea, şi de mirosul lui greu toată tabăra se îngreuia, neputând suferi duhoarea."
+        },
+        {
+          "verse": 10,
+          "text": "Şi pe cel care cu puţin mai înainte i se părea că se atinge de stelele cerului, nimeni nu-l putea purta din pricina duhoriţi nesuferite."
+        },
+        {
+          "verse": 11,
+          "text": "Atunci a început, fiind rănit, a înceta de la mulţimea trufiei şi a veni întru cunoştinţa sa, sub bătaia lui Dumnezeu şi sub sporul durerilor."
+        },
+        {
+          "verse": 12,
+          "text": "Şi nici el singur nemaiputând a-şi suferi greul miros, aceasta a zis: \"Drept este a se supune lui Dumnezeu şi cel care este pământean să nu se asemene Lui\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_09_02",
+      "chapter": 9,
+      "pericope_num": "02",
+      "title_en": "Antiochus Makes a Promise to God",
+      "title_ro": "Antioh face o promisiune lui Dumnezeu",
+      "start_verse": 13,
+      "end_verse": 18,
+      "verse_count": 6,
+      "verses": [
+        {
+          "verse": 13,
+          "text": "Şi se ruga nelegiuitul acesta către Stăpânul Care nu voia a-l mai milui, aşa zicând:"
+        },
+        {
+          "verse": 14,
+          "text": "Că şi cetatea cea sfântă, la care se grăbea a veni ca să o asemene cu pământul şi să o facă mormânt, o va zidi şi o va face slobodă."
+        },
+        {
+          "verse": 15,
+          "text": "Şi pe Evreii, pe care nici de îngropare nu-i socotea vrednici, ci împreună cu pruncii lor să-i lepede să fie mâncare păsărilor şi fiarelor, pe toţi aceştia întocmai cu Atenienii să-i facă."
+        },
+        {
+          "verse": 16,
+          "text": "Şi templul cel sfânt, pe care mai înainte îl prădase, cu frumoase daruri să-i împodobească şi sfintele vase toate cu mult mai multe să ie dea înapoi şi cheltuielile care sunt trebuitoare la jertfe, din veniturile iui să le dea."
+        },
+        {
+          "verse": 17,
+          "text": "Afară de acestea, că şi el se va face evreu şi va merge în tot locul cel locuit de oameni, mărturisind puterea lui Dumnezeu."
+        },
+        {
+          "verse": 18,
+          "text": "Dar durerile nicidecum nu încetau, pentru că venise asupra lui judecata cea dreaptă a lui Dumnezeu şi, deznădăjduindu-se, a scris Evreilor carte cu rugăciune, astfel:"
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_09_03",
+      "chapter": 9,
+      "pericope_num": "03",
+      "title_en": "Antiochus’s Letter and Death",
+      "title_ro": "Scrisoarea și moartea lui Antioh",
+      "start_verse": 19,
+      "end_verse": 29,
+      "verse_count": 11,
+      "verses": [
+        {
+          "verse": 19,
+          "text": "\"Bunilor cetăţeni Evrei, bucurie multă şi sănătate şi fericire, regele şi căpetenia oştirilor, Antioh."
+        },
+        {
+          "verse": 20,
+          "text": "De sunteţi sănătoşi împreună cu pruncii voştri şi ale voastre după voia voastră sunt, foarte bine ne pare, mulţumind prea marelui Dumnezeu cel din cer, întru Care nădăjduiesc."
+        },
+        {
+          "verse": 21,
+          "text": "Şi eu bolnav zăcând, de cinstea şi de bună inima voastră cu dragoste îmi aduc aminte; întorcându-mă de la locurile cele din Persia şi căzând în boală grea, am socotit că este bine să mă îngrijesc de bunăstarea voastră."
+        },
+        {
+          "verse": 22,
+          "text": "Nu mă deznădăjduiesc de mine, ci mare nădejde am că voi scăpa de boală."
+        },
+        {
+          "verse": 23,
+          "text": "Şi aducându-mi aminte că şi tatăl meu, pe vremurile în care s-a războit în locurile cele de sus, a arătat pe cel care va fi după el,"
+        },
+        {
+          "verse": 24,
+          "text": "Ca, întâmplându-se ceva neaşteptat sau vreo neizbândă, să ştie cei din ţări cui s-a lăsat domnia şi să nu se tulbure."
+        },
+        {
+          "verse": 25,
+          "text": "Afară de acestea, văzând că puternicii cei de aproape şi vecinii împărăţiei păzesc vremurile, aşteptând să vadă ce se va întâmpla, am pus în scaun pe fiul meu Antioh, pe care de multe ori, când umblam prin ţările cele de sus, la cei mai mulţi dintre voi îl adeveream şi-l întăream, şi am scris şi lui cele ce mai jos sunt scrise."
+        },
+        {
+          "verse": 26,
+          "text": "Deci vă îndemn şi vă rog pe voi, ca, aducându-vă aminte de facerile de bine cele de obşte şi deosebi, fiecare să păzească credinţa către mine şi către fiul meu."
+        },
+        {
+          "verse": 27,
+          "text": "Că bună nădejde am că el cu blândeţe şi cu iubire de oameni, urmând voia mea, va petrece cu voi."
+        },
+        {
+          "verse": 28,
+          "text": "Astfel ucigătorul acela de oameni şi hulitorul a pătimit, foarte rele chinuri, şi aşa cum el altora a făcut, cu ticăloasă moarte, în ţară străină şi în loc muntos, şi-a sfârşit viaţa."
+        },
+        {
+          "verse": 29,
+          "text": "Şi i-a adus trupul Filip, tovarăşul lui, care temându-se de Antioh, fiul lui, s-a dus în Egipt la Ptolomeu Filometor."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_10_01",
+      "chapter": 10,
+      "pericope_num": "01",
+      "title_en": "Purification of the Temple",
+      "title_ro": "Curățirea Templului",
+      "start_verse": 1,
+      "end_verse": 10,
+      "verse_count": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Iar Iuda Macabeul şi cei ce erau cu el, povăţuindu-i Domnul, au cuprins templul şi cetatea."
+        },
+        {
+          "verse": 2,
+          "text": "Iar jertfelnicele de prin târg, pe care le făcuseră cei de alt neam, şi capiştele, le-au stricat."
+        },
+        {
+          "verse": 3,
+          "text": "Şi curăţind templul, alt jertfelnic au făcut, şi înfierbântând pietre şi foc din ele luând, după ce au trecut doi ani şi şase luni, au adus jertfă şi tămâie şi lumini şi au făcut punerea înainte a pâinilor."
+        },
+        {
+          "verse": 4,
+          "text": "Şi după ce au făcut acestea, plecându-se cu faţa la pământ, s-au rugat Domnului ca să nu mai cadă în răutăţi ca acestea, ci de vor şi păcătui cândva, El să-i certe cu milă şi să nu-i dea neamurilor celor hulitoare şi barbare."
+        },
+        {
+          "verse": 5,
+          "text": "Iar în ziua în care cei de alt neam pângăriseră templul Domnului, s-a întâmplat că tocmai într-acea zi s-a făcut curăţirea, în douăzeci şi cinci ale aceleiaşi luni, care este Chislev,"
+        },
+        {
+          "verse": 6,
+          "text": "Şi cu veselie au ţinut opt zile ca la praznicul corturilor, aducându-şi aminte cum cu puţină vreme mai înainte sărbătoarea corturilor o au făcut în munţi şi în peşteri, hrănindu-se ca fiarele."
+        },
+        {
+          "verse": 7,
+          "text": "Pentru aceea stâlpări şi ramuri frumoase, precum şi finici având, laude dădeau Celui care îi învrednicise să sfinţească templul."
+        },
+        {
+          "verse": 8,
+          "text": "Şi a poruncit cu poruncă de obşte şi cu rânduială la tot neamul iudeu, ca din an în an să ţină zilele acestea."
+        },
+        {
+          "verse": 9,
+          "text": "Şi aşa a fost sfârşitul lui Antioh care s-a numit Epifaniu."
+        },
+        {
+          "verse": 10,
+          "text": "Şi acum, vom arăta pe scurt, cele întâmplate în vremea lui Eupator Antioh, fiul nelegiuitului Antioh, spunând relele care s-au întâmplat din războaie."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_10_02",
+      "chapter": 10,
+      "pericope_num": "02",
+      "title_en": "Accession of Antiochus Eupator",
+      "title_ro": "Urcarea pe tron a lui Antioh Eupator",
+      "start_verse": 10,
+      "end_verse": 13,
+      "verse_count": 4,
+      "verses": [
+        {
+          "verse": 10,
+          "text": "Şi acum, vom arăta pe scurt, cele întâmplate în vremea lui Eupator Antioh, fiul nelegiuitului Antioh, spunând relele care s-au întâmplat din războaie."
+        },
+        {
+          "verse": 11,
+          "text": "Că acesta, după ce s-a făcut rege, a pus mai mare peste treburile regatului pe un oarecare Lisias, care fusese cârmuitor mai mare peste Cele-Siria şi Fenicia."
+        },
+        {
+          "verse": 12,
+          "text": "Ptolomeu, care se chema Macron, a voit să facă dreptate faţă de Iudei, pentru nedreptatea ce li se făcuse, şi se nevoia să trăiască în pace cu ei."
+        },
+        {
+          "verse": 13,
+          "text": "Şi pentru aceasta a fost pârât de prieteni către Eupator, şi de multe ori auzind că este numit trădător, pentru că a părăsit Ciprul, pe care Filometor i-l încredinţase, şi a trecut la Antioh Epifaniu, nemaiputând să păstreze nici cinstea, nici dregătoria ce avea, de inimă rea, otrăvindu-se, a murit."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_10_03",
+      "chapter": 10,
+      "pericope_num": "03",
+      "title_en": "Campaign in Idumea",
+      "title_ro": "Campania în Idumeea",
+      "start_verse": 14,
+      "end_verse": 23,
+      "verse_count": 10,
+      "verses": [
+        {
+          "verse": 14,
+          "text": "Iar Gorgias, după ce s-a făcut mai mare peste locurile acestea, adunând oştire străină, adeseori pornea război împotriva Iudeilor."
+        },
+        {
+          "verse": 15,
+          "text": "Şi unindu-se cu aceştia şi Edomiţii, care ţineau cetăţi tari, necăjeau pe Iudei, şi pe cei fugiţi de la Ierusalim, primindu-i, încercau să continuie războiul."
+        },
+        {
+          "verse": 16,
+          "text": "Iar cei care erau cu Iuda Macabeul, făcând rugăciune şi cerând lui Dumnezeu să le fie în ajutor, au năvălit asupra cetăţilor Edomiţilor,"
+        },
+        {
+          "verse": 17,
+          "text": "Pe care lovindu-le vitejeşte, au luat locurile şi au avut izbândă asupra tuturor celor care se luptau de pe zid, şi pe cei care le veneau înainte i-au junghiat şi au omorât nu mai puţin de douăzeci de mii."
+        },
+        {
+          "verse": 18,
+          "text": "Şi au fugit unii, vreo nouă mii, în două turnuri foarte tari, care aveau toate cele trebuitoare."
+        },
+        {
+          "verse": 19,
+          "text": "Iar Iuda Macabeul, lăsând pe Simon, pe Iosif, pe Zacheu şi pe câţiva care erau cu el, ca să-i înconjure şi să lupte împotriva lor, s-a dus la locurile cele mai primejduite."
+        },
+        {
+          "verse": 20,
+          "text": "Cei care erau cu Simon, iubind argintul, au fost amăgiţi cu bani de unii din cei din turnuri şi, luând şaptezeci de mii de drahme de argint, au lăsat pe unii de au scăpat."
+        },
+        {
+          "verse": 21,
+          "text": "Şi fiind vestit Macabeu de lucrul ce s-a făcut, adunând pe căpeteniile poporului, i-a învinuit foarte, pentru că au vândut pe argint pe fraţi, lăsând pe vrăjmaşi asupra lor."
+        },
+        {
+          "verse": 22,
+          "text": "Pe aceşti vânzători i-au omorât şi îndată au luat cele două turnuri."
+        },
+        {
+          "verse": 23,
+          "text": "Deci toate luptele lui ieşind cu bine, a ucis în acele două turnuri mai mult de douăzeci de mii."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_10_04",
+      "chapter": 10,
+      "pericope_num": "04",
+      "title_en": "Judas Defeats Timothy",
+      "title_ro": "Iuda îl înfrânge pe Timotei",
+      "start_verse": 24,
+      "end_verse": 38,
+      "verse_count": 15,
+      "verses": [
+        {
+          "verse": 24,
+          "text": "Iar Timotei cel care mai înainte a fost biruit de Iudei, adunând oştiri străine multe foarte şi multă călărime din Asia, a venit să robească Iudeea."
+        },
+        {
+          "verse": 25,
+          "text": "Iuda Macabeul şi cei care erau cu el, pe când se apropia el, se rugau Domnului, presărându-şi capul cu ţărână şi încingându-şi coapsele cu sac."
+        },
+        {
+          "verse": 26,
+          "text": "Şi căzând la pământ înaintea altarului, s-au rugat ca lor să le fie blând iar vrăjmaşilor lor să fie vrăjmaş şi celor potrivnici să se împotrivească, precum zice legea."
+        },
+        {
+          "verse": 27,
+          "text": "Şi după rugăciune, luând armele, au ieşit din cetate departe şi, apropiindu-se de vrăjmaşi, au stat."
+        },
+        {
+          "verse": 28,
+          "text": "Şi când a răsărit soarele, s-au lovit amândouă părţile, aceştia având chezaş de bună norocire şi de biruinţă fapta bună şi scăparea cea spre Domnul, iar aceia având călăuză mânia."
+        },
+        {
+          "verse": 29,
+          "text": "Şi pe când se băteau cu înverşunare, s-au arătat vrăjmaşilor din cer cinci bărbaţi străluciţi, călări pe cai cu frâie de aur, care purtau în luptă pe Iudei."
+        },
+        {
+          "verse": 30,
+          "text": "Doi dintre ei luând pe Iuda Macabeul în mijloc şi acoperindu-l cu armele lor, îl păzeau nevătămat; iar asupra vrăjmaşilor aruncau săgeţi şi trăsnete. Deci învălmăşindu-se, pentru că nu vedeau, şi tulburându-se, cădeau în sabie."
+        },
+        {
+          "verse": 31,
+          "text": "Şi s-au omorât douăzeci de mii cinci sute de pedestraşi şi şase sute de călăreţi."
+        },
+        {
+          "verse": 32,
+          "text": "Timotei a fugit la Ghezer, cetate tare, peste care era mai mare Chereea."
+        },
+        {
+          "verse": 33,
+          "text": "Iar cei care erau cu Iuda Macabeul au tăbărât vitejeşte împrejurul cetăţii aceleia patru zile."
+        },
+        {
+          "verse": 34,
+          "text": "Iar cei dinăuntru, nădăjduind în tăria cetăţii, foarte mult blestemau şi cuvinte necuviincioase aruncau."
+        },
+        {
+          "verse": 35,
+          "text": "Şi când s-a luminat în ziua a cincea, douăzeci de voinici din cei care erau cu Iuda Macabeul, mâhnindu-se din cauza blestemelor, bărbăteşte au năvălit la zid şi, eu mânie sălbatică suindu-se, pe oricare era înainte îl tăiau."
+        },
+        {
+          "verse": 36,
+          "text": "De asemenea şi alţii suindu-se asupra celor dinăuntru, au dat foc turnurilor şi, aprinzând focuri, de vii au ars pe acei blestemători."
+        },
+        {
+          "verse": 37,
+          "text": "Iar alţii au tăiat porţile şi primind înăuntru cealaltă tabără, au luat cetatea; şi pe Timotei, care se ascunsese într-o groapă, precum şi Chereea, fratele acestuia, şi pe Apolofane i-au omorât."
+        },
+        {
+          "verse": 38,
+          "text": "Şi după ce au făcut acestea, cu laude şi cu mărturisiri au binecuvântat pe Domnul, Cel care mult bine a făcut lui Israel şi i-a dat biruinţă."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_11_01",
+      "chapter": 11,
+      "pericope_num": "01",
+      "title_en": "Lysias Besieges Beth-zur",
+      "title_ro": "Lisias asediază Bet-Sur",
+      "start_verse": 1,
+      "end_verse": 12,
+      "verse_count": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Iar după puţină vreme Lisias, care era epitrop al regelui şi rudenie şi ispravnic peste toate treburile regelui foarte greu supărându-se pentru lucrul acesta ce s-a făcut,"
+        },
+        {
+          "verse": 2,
+          "text": "A adunat aproape optzeci de mii şi toată călărimea, şi a venit împotriva Iudeilor, gândind să facă cetatea locaş Elinilor,"
+        },
+        {
+          "verse": 3,
+          "text": "Templul să-l vândă cu bani, ca şi pe celelalte capişti ale păgânilor, şi arhieria în fiecare an să o scoată în vânzare."
+        },
+        {
+          "verse": 4,
+          "text": "Şi nicidecum nu se gândea la puterea lui Dumnezeu, ci se semeţea cu zecile de mii de pedestraşi şi cu miile de călăreţi şi cu optzeci de elefanţi."
+        },
+        {
+          "verse": 5,
+          "text": "Deci intrând în Iudeea, s-a îndreptat spre Betţur, care era în loc greu de ajuns şi departe de Ierusalim ca la cinci stadii, şi l-a împresurat."
+        },
+        {
+          "verse": 6,
+          "text": "Iar dacă au aflat cei care erau cu Iuda Macabeul că bate cetăţile, cu plângere şi cu lacrimi se rugau Domnului împreună eu tot poporul ca să trimită înger bun spre izbăvirea lui Israel."
+        },
+        {
+          "verse": 7,
+          "text": "Şi Macabeu, luând cel dintâi armele, a îndemnat pe ceilalţi să stea împreună cu el la primejdii şi să ajute pe fraţii săi."
+        },
+        {
+          "verse": 8,
+          "text": "Şi împreună cu osârdie pornind, şi la Ierusalim fiind ei, s-a arătat un călăreţ eu haină albă mergând înaintea lor şi cu arme de aur sclipind."
+        },
+        {
+          "verse": 9,
+          "text": "Şi toţi împreună au binecuvântat pe milostivul Dumnezeu şi s-au întărit cu inimile, fiind gata a năvăli nu numai asupra oamenilor, ci şi asupra fiarelor sălbatice şi a zidurilor de fier."
+        },
+        {
+          "verse": 10,
+          "text": "Deci, apropiindu-se cu bună rânduială, având ajutor pe Domnul cel din car, Care Se milostivea spre ei,"
+        },
+        {
+          "verse": 11,
+          "text": "Şi ca nişte lei năvălind asupra vrăjmaşilor, au doborât la pământ din ei unsprezece mii de pedestraşi, precum şi o mie şase sute de călăreţi."
+        },
+        {
+          "verse": 12,
+          "text": "Şi pe toţi i-au pus pe fugă şi mai mulţi dintre ei răniţi, goi au scăpat şi însuşi Lisias a scăpat fugind cu ocară."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_11_02",
+      "chapter": 11,
+      "pericope_num": "02",
+      "title_en": "Lysias Makes Peace with the Jews",
+      "title_ro": "Lisias face pace cu iudeii",
+      "start_verse": 13,
+      "end_verse": 38,
+      "verse_count": 26,
+      "verses": [
+        {
+          "verse": 13,
+          "text": "Şi pentru că nu era lipsit de minte, chibzuind asupra înjosirii ce i s-a făcut şi socotind că Evreii sunt nebiruiţi, pentru că Atotputernicul Dumnezeu le ajută,"
+        },
+        {
+          "verse": 14,
+          "text": "Trimiţând la ei, a făgăduit că toate cele drepte le va primi şi că şi pe rege îl va îndupleca să le fie prieten."
+        },
+        {
+          "verse": 15,
+          "text": "Şi a ascultat Macabeu de rugăciunile lui Lisias, în toate purtând grijă de cele de folos; căci câte a cerut Macabeu lui Lisias prin scrisori în privinţa Iudeilor, regele le-a îngăduit."
+        },
+        {
+          "verse": 16,
+          "text": "Iar cărţile cele scrise de Lisias Iudeilor erau astfel: \"Lisias, mulţimii Iudeilor, bucurie."
+        },
+        {
+          "verse": 17,
+          "text": "Ioan şi Abesalom, pe care voi i-aţi trimis, dând scrisorile cele de la voi, au cerut să împlinesc cele scrise în ele."
+        },
+        {
+          "verse": 18,
+          "text": "Deci câte se cădeau a se arăta regelui, am arătat, şi cele ce s-au întâmplat le-a iertat."
+        },
+        {
+          "verse": 19,
+          "text": "Deci de veţi păzi bunăvoinţa faţă de stăpânire, şi de aici înainte mă voi nevoi a mă face pricină de bunătăţi pentru voi."
+        },
+        {
+          "verse": 20,
+          "text": "Şi pentru acestea am poruncit şi acestora şi celor de la mine trimişi, cu de-amănuntul să vă vorbească."
+        },
+        {
+          "verse": 21,
+          "text": "Fiţi sănătoşi. Anul o sută patruzeci şi opt, a lunii lui Distros, ziua a douăzeci şi patra\"."
+        },
+        {
+          "verse": 22,
+          "text": "Iar epistola regelui cuprindea acestea: \"Regele Antioh fratelui Lisias bucurie."
+        },
+        {
+          "verse": 23,
+          "text": "După ce tatăl nostru s-a mutat între zei, noi vrem ca acei de sub cârmuirea noastră să fie netulburaţi întru a lor purtare de grijă;"
+        },
+        {
+          "verse": 24,
+          "text": "Auzind că Iudeii n-au voit a asculta de tatăl meu, ca să treacă la obiceiurile elineşti, ci mai bine voiesc să-şi ţină legea lor, iar acum se roagă de noi, ca să-i îngăduim să-şi ţină legea lor,"
+        },
+        {
+          "verse": 25,
+          "text": "Voind noi ca şi neamul acesta să fie fără tulburare, am judecat ca şi templul să li se întoarcă şi să petreacă după obiceiurile strămoşilor lor."
+        },
+        {
+          "verse": 26,
+          "text": "Drept aceea bine vei face de vei trimite la ei şi vei încheia pace cu ei, ca ştiind voia noastră să fie cu inimă bună şi veseli să-şi isprăvească lucrurile lor\"."
+        },
+        {
+          "verse": 27,
+          "text": "Iar Epistola pe care a scris-o regele către neamul Iudeilor era astfel: \"Regele Antioh, marelui sfat al Iudeilor şi celorlalţi Iudei bucurie."
+        },
+        {
+          "verse": 28,
+          "text": "De sunteţi sănătoşi, sunteţi precum voim, şi noi suntem sănătoşi."
+        },
+        {
+          "verse": 29,
+          "text": "Arătatu-ne-a Menelau cum că voi voiţi a merge în patrie şi a fi la ale voastre."
+        },
+        {
+          "verse": 30,
+          "text": "Drept aceea, celor care se vor întoarce până în treizeci de zile ale lunii Xantic, le dăm liberă voie,"
+        },
+        {
+          "verse": 31,
+          "text": "Ca Iudeii să-şi ţină bucatele şi legile lor ca şi mai înainte, şi nimeni dintre ei nici o supărare să nu aibă pentru cele ce prin neştiinţă s-au făcut."
+        },
+        {
+          "verse": 32,
+          "text": "Şi am trimis şi pe Menelau să vă mângâie."
+        },
+        {
+          "verse": 33,
+          "text": "Fiţi sănătoşi. Anul o sută patruzeci şi opt, în cincisprezece zile ale lunii Xantic\"."
+        },
+        {
+          "verse": 34,
+          "text": "Trimis-au şi Romanii la ei carte aşa scrisă: \"Quintus Memius, şi Titus Manlius, împuterniciţii Romanilor, poporului Iudeilor, bucurie!"
+        },
+        {
+          "verse": 35,
+          "text": "Cele ce Lisias, ruda regelui, v-a îngăduit, şi noi le îngăduim."
+        },
+        {
+          "verse": 36,
+          "text": "Iar pentru cele ce a judecat să se supună împăratului, trimiteţi pe cineva îndată, după ce veţi fi cercetat toată pricina, ca să înfăţişăm totul împăratului precum voiţi voi, fiindcă noi venim la Antiohia."
+        },
+        {
+          "verse": 37,
+          "text": "Drept aceea, grăbiţi şi trimiteţi pe careva, ca şi noi să ştim ce voiţi."
+        },
+        {
+          "verse": 38,
+          "text": "Fiţi sănătoşi. Anul o sută patruzeci şi opt, zile cincisprezece ale lunii Xantic\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_12_01",
+      "chapter": 12,
+      "pericope_num": "01",
+      "title_en": "Incidents at Joppa and Jamnia",
+      "title_ro": "Incidente la Iope și Iamnia",
+      "start_verse": 1,
+      "end_verse": 12,
+      "verse_count": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "După ce s-au făcut legăturile acestea, Lisias s-a dus la rege; iar Iudeii au început să-şi lucreze ogoarele."
+        },
+        {
+          "verse": 2,
+          "text": "Însă căpeteniile oştirilor cei care erau pe locurile acelea: Timotei şi Apoloniu, fiul lui Geneu, precum şi Ieronim şi Demofon, şi afară de aceştia Nicanor, cârmuitorul Ciprului, nu-i lăsau să petreacă în pace şi linişte."
+        },
+        {
+          "verse": 3,
+          "text": "Şi locuitorii din Iafa răutate ca aceasta au făcut, că au îndemnat pe Iudeii care locuiau cu ei, ca împreună cu femeile şi cu pruncii, să intre în corăbiile pregătite de ei, ca şi cum nici o vrăjmăşie n-ar fi între ei;"
+        },
+        {
+          "verse": 4,
+          "text": "Dar ei lucrau după sfatul cel de obşte al cetăţii, iar Iudeii primind poftirea ca unii ce voiau să fie în pace, şi neavând nici o bănuială, mergând cu corăbiile au fost înecaţi, fiind ei în număr ca la două sute."
+        },
+        {
+          "verse": 5,
+          "text": "Aflând Iuda răutatea ce s-a făcut celor din neamul său, poruncind bărbaţilor celor care erau cu sine,"
+        },
+        {
+          "verse": 6,
+          "text": "Şi chemând pe Judecătorul cel drept, Dumnezeu, a mers asupra ucigătorilor fraţilor săi şi a aprins noaptea portul şi corăbiile le-a ars, şi pe cei care fugiseră acolo i-a omorât."
+        },
+        {
+          "verse": 7,
+          "text": "Şi oraşul fiind închis, s-a întors ca să vină a doua oară, şi toată cetatea Iafa de tot să o distrugă."
+        },
+        {
+          "verse": 8,
+          "text": "Aflând că şi cei din Iamnia vreau să facă la fel Iudeilor care locuiau la ei,"
+        },
+        {
+          "verse": 9,
+          "text": "Năvălind asupra locuitorilor din Iamnia noaptea, a aprins portul cu corăbiile, încât se vedea lumina flăcării din Ierusalim, de la o depărtare de două sute patruzeci de stadii."
+        },
+        {
+          "verse": 10,
+          "text": "Şi de acolo mergând nouă stadii, îndreptându-se asupra lui Timotei, au năvălit Arabii asupra lui Iuda ca la cinci mii cinci sute de călăreţi."
+        },
+        {
+          "verse": 11,
+          "text": "Şi făcându-se război tare, şi, cu ajutorul lui Dumnezeu biruind cei care erau cu Iuda, şi împuţinându-se Arabii, s-au rugat de Iuda să facă pace cu ei, făgăduind că-i vor da dobitoace, şi întru celelalte îi vor folosi."
+        },
+        {
+          "verse": 12,
+          "text": "Iar Iuda, socotind cu adevărat că în multe îi vor fi de folos, le-a dat pace şi, primind învoiala cu ei, s-au dus la corturile lor."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_12_02",
+      "chapter": 12,
+      "pericope_num": "02",
+      "title_en": "The Campaign in Gilead",
+      "title_ro": "Campania în Galaad",
+      "start_verse": 10,
+      "end_verse": 16,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 10,
+          "text": "Şi de acolo mergând nouă stadii, îndreptându-se asupra lui Timotei, au năvălit Arabii asupra lui Iuda ca la cinci mii cinci sute de călăreţi."
+        },
+        {
+          "verse": 11,
+          "text": "Şi făcându-se război tare, şi, cu ajutorul lui Dumnezeu biruind cei care erau cu Iuda, şi împuţinându-se Arabii, s-au rugat de Iuda să facă pace cu ei, făgăduind că-i vor da dobitoace, şi întru celelalte îi vor folosi."
+        },
+        {
+          "verse": 12,
+          "text": "Iar Iuda, socotind cu adevărat că în multe îi vor fi de folos, le-a dat pace şi, primind învoiala cu ei, s-au dus la corturile lor."
+        },
+        {
+          "verse": 13,
+          "text": "Apoi Iuda a năvălit şi asupra unei cetăţi cu pod tare şi cu ziduri înconjurată, în care multe feluri de neamuri locuiau şi al cărui nume era Caspin."
+        },
+        {
+          "verse": 14,
+          "text": "Iar cei dinăuntru nădăjduind în tăria zidurilor şi în mulţimea bucatelor ce-şi strânseseră, se purtau trufaş, batjocorind pe cei care erau cu Iuda, şi blestemându-i şi grăind cele ce nu se cuvin."
+        },
+        {
+          "verse": 15,
+          "text": "Iar cei care erau cu Iuda, chemând pe puternicul Stăpân al lumii, Care fără de berbeci şi fără unelte a surpat zidurile Ierihonului, pe vremea lui Iosua, au năvălit ca nişte fiare asupra zidului."
+        },
+        {
+          "verse": 16,
+          "text": "Şi cu voia lui Dumnezeu, luând cetatea, măcel cumplit au făcut, încât lacul cel de lângă cetate, care era lat de două stadii, plin de curgerea sângelui se vedea."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_12_03",
+      "chapter": 12,
+      "pericope_num": "03",
+      "title_en": "Judas Defeats Timothy’s Army",
+      "title_ro": "Iuda înfrânge armata lui Timotei",
+      "start_verse": 17,
+      "end_verse": 25,
+      "verse_count": 9,
+      "verses": [
+        {
+          "verse": 17,
+          "text": "Şi de acolo, mergând şapte sute şi cincizeci de stadii, au sosit în Haraca, la cei care se zic Iudei Tubieni."
+        },
+        {
+          "verse": 18,
+          "text": "Ci pe Timotei nu l-a apucat în locurile acelea, căci fără de nici o ispravă se întorsese de acolo, lăsând pază de oştire într-un loc foarte tare."
+        },
+        {
+          "verse": 19,
+          "text": "Iar Dositei şi Sosipatru din căpeteniile care erau cu Iuda Macabeul, mergând, au omorât pe păzitorii cei lăsaţi de Timotei mai mulţi decât zece mii de bărbaţi."
+        },
+        {
+          "verse": 20,
+          "text": "Iar Iuda Macabeul, punându-şi în rând oştirea, i-a pus pe ei peste cete şi a plecat împotriva lui Timotei care avea cu sine o sută douăzeci de mii de pedestraşi şi o mie cinci sute de călăreţi."
+        },
+        {
+          "verse": 21,
+          "text": "Deci, aflând Timotei de venirea lui Iuda, a trimis femeile şi pruncii şi cealaltă avere la locul ce se chema Carnaim pentru că foarte anevoie se putea înconjura şi nu lesne putea să se apropie acela din cauza strâmtorării tuturor locurilor."
+        },
+        {
+          "verse": 22,
+          "text": "De la început, când s-a ivit ceata lui Iuda, s-au îngrozit vrăjmaşii şi s-au înfricoşat de fata Celui care toate le vede şi s-au pornit a fugi care cum putea, încât de multe ori ei intre ei se vătămau $i se tăiau cu ascuţişul săbiilor."
+        },
+        {
+          "verse": 23,
+          "text": "Iar Iuda, gonindu-i foarte tare, tăind pe nelegiuiţii aceia, a ucis ca la vreo treizeci de mii de bărbaţi."
+        },
+        {
+          "verse": 24,
+          "text": "Iar Timotei a căzut în mâinile oştenilor lui Dositei şi ai lui Sosipatru şi se ruga cu multe rugăciuni să-l slobozească viu, pentru că el are în mână pe părinţii şi fraţii multora dintre Iudei şi, dacă el va muri, acelora li se va întâmpla rău."
+        },
+        {
+          "verse": 25,
+          "text": "Şi cu multe legându-se el înaintea lor, cum că pe toţi aceia nevătămaţi îi va întoarce, l-a slobozit pentru izbăvirea fraţilor."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_12_04",
+      "chapter": 12,
+      "pericope_num": "04",
+      "title_en": "Judas Wins Other Victories",
+      "title_ro": "Iuda câștigă alte victorii",
+      "start_verse": 26,
+      "end_verse": 31,
+      "verse_count": 6,
+      "verses": [
+        {
+          "verse": 26,
+          "text": "Iar Iuda mergând împotriva Carnaimului şi împotriva templului zeiţei Atargatis, a omorât douăzeci şi cinci de mii de oameni."
+        },
+        {
+          "verse": 27,
+          "text": "Şi după fuga şi pierderea acestora, a tăbărât Iuda asupra Efronului, care era cetate tare, în care locuia Lisias şi mulţime de tot felul de neamuri; iar înaintea zidurilor stau bărbaţi voinici, care se băteau vitejeşte. Arme multe şi săgeţi erau puse acolo."
+        },
+        {
+          "verse": 28,
+          "text": "Ci chemând pe Cel Puternic, Care cu tărie zdrobeşte puterea vrăjmaşilor, a luat cetatea sub mâinile sale Şi, din cei care erau înăuntru, a omorât ca vreo douăzeci şi cinci de mii."
+        },
+        {
+          "verse": 29,
+          "text": "Şi mergând de acolo, a năvălit asupra cetăţii Schitopolis, ce era departe de Ierusalim ca la şase sute de stadii;"
+        },
+        {
+          "verse": 30,
+          "text": "Iar Iudeii, care locuiau acolo, mărturisind dragostea pe care o aveau faţă de ei Schitopolitenii, şi cum că şi în vremurile cele nenorocite le-au fost blânzi,"
+        },
+        {
+          "verse": 31,
+          "text": "Iuda şi ai săi, mulţumindu-le, i-au îndemnat ca şi de aici înainte să fie buni cu neamul Iudeilor, şi au venit la Ierusalim, când se apropia sărbătoarea Cincizecimii."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_12_05",
+      "chapter": 12,
+      "pericope_num": "05",
+      "title_en": "Judas Defeats Gorgias",
+      "title_ro": "Iuda îl înfrânge pe Gorgia",
+      "start_verse": 32,
+      "end_verse": 37,
+      "verse_count": 6,
+      "verses": [
+        {
+          "verse": 32,
+          "text": "Iar după praznicul Cincizecimii, au pornit împotriva lui Gorgias, mai marele Edomului."
+        },
+        {
+          "verse": 33,
+          "text": "Şi a ieşit Gorgias cu trei mii de pedeştri şi cu patru sute de călăreţi,"
+        },
+        {
+          "verse": 34,
+          "text": "Şi bătându-se, s-a întâmplat de au căzut puţini dintre iudei."
+        },
+        {
+          "verse": 35,
+          "text": "Iar un oarecare Dositei dintre Tubieni, călăreţ şi bărbat tare, a prins pe Gorgias şi, ţinându-l de veşmânt, îl ţinea vitejeşte, vrând viu să-l aducă rob pe blestematul acela; iar unul din călăreţii Traci venind asupră-i şi lovindu-l peste umăr, Gorgias a scăpat fugind în Mareşa."
+        },
+        {
+          "verse": 36,
+          "text": "Iar cei care erau cu Esdris mai mult bătându-se şi ostenind, Iuda a chemat pe Domnul să-i fie ajutor şi Căpetenie în luptă."
+        },
+        {
+          "verse": 37,
+          "text": "Începând în graiul părinţilor şi cu cântări strigând şi glas înălţând, fără de veste a năvălit asupra oştirilor lui Gorgias şi le-a înfrânt."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_12_06",
+      "chapter": 12,
+      "pericope_num": "06",
+      "title_en": "Prayers for Those Killed in Battle",
+      "title_ro": "Rugăciuni pentru cei căzuți în luptă",
+      "start_verse": 38,
+      "end_verse": 45,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 38,
+          "text": "Apoi, Iuda luând oştirea, s-a dus în cetatea Adulam şi, sosind ziua a şaptea, s-a curăţit după obicei şi a petrecut acolo ziua de odihnă."
+        },
+        {
+          "verse": 39,
+          "text": "Iar a doua zi au venit cei care erau cu Iuda, precum a fost rânduit ca să ridice trupurile celor omorâţi şi să le aşeze cu rudeniile în părinteştile morminte."
+        },
+        {
+          "verse": 40,
+          "text": "Şi a aflat sub hainele fiecăruia din cei morţi lucruri închinate idolilor Iamniei, de la care îi oprea legea pe Iudei, şi tuturor vădit lucru a fost că pentru atare pricină au căzut aceştia."
+        },
+        {
+          "verse": 41,
+          "text": "Şi toţi binecuvântând pe Judecătorul cel drept, pe Domnul, Cel care arată cele ascunse,"
+        },
+        {
+          "verse": 42,
+          "text": "Şi întorcându-se la rugăciuni, s-au rugat pentru păcatul ce s-a făcut, ca de tot să se şteargă. Iar viteazul Iuda a îndemnat mulţimea să se păzească fără de păcat, văzând cu ochii cele ce s-au făcut pentru păcatul celor care mai înainte au căzut."
+        },
+        {
+          "verse": 43,
+          "text": "Şi strângând bani după numărul bărbaţilor care erau cu el, două mii de drahme de argint a trimis în Ierusalim, să se aducă jertfă pentru păcat. Foarte bun şi cuvios lucru pentru socotinţa învierii morţilor!"
+        },
+        {
+          "verse": 44,
+          "text": "Că de n-ar fi avut nădejde că vor învia cei care mai înainte au căzut, deşert şi de râs lucru ar fi a se ruga pentru cei morţi."
+        },
+        {
+          "verse": 45,
+          "text": "Şi a văzut că celor care cu bună cucernicie au adormit, foarte bun dar le este pus."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_13_01",
+      "chapter": 13,
+      "pericope_num": "01",
+      "title_en": "Menelaus Is Put to Death",
+      "title_ro": "Menelau este dat morții",
+      "start_verse": 1,
+      "end_verse": 13,
+      "verse_count": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "În anul o sută patruzeci şi nouă au aflat cei care erau cu Iuda că vine Antioh Eupator cu mulţime asupra Iudeii."
+        },
+        {
+          "verse": 2,
+          "text": "Şi împreună cu el venea şi Lisias epitropul, care era mai mare peste treburile tării, fiecare având oştire elinească: pedestraşi o sută şi zece mii, călăreţi cinci mii trei sute, elefanţi douăzeci şi doi şi trei sute de care de război purtătoare de seceri."
+        },
+        {
+          "verse": 3,
+          "text": "Şi s-a întovărăşit cu ei şi Menelau şi cu multă înşelăciune îndemna pe Antioh, nu la izbăvirea patriei gândind, ci nădăjduind că-l va pune căpetenie."
+        },
+        {
+          "verse": 4,
+          "text": "Ci împăratul împăraţilor a întărâtat mânia lui Antioh asupra celui păcătos, şi arătând Lisias că acesta este pricina tuturor răutăţilor, a poruncit, precum este obiceiul într-acel loc, să-l piardă, ducându-l în Bereea."
+        },
+        {
+          "verse": 5,
+          "text": "Şi era în locul acela un turn de cincizeci de coti înalt plin cu cenuşă, şi acesta avea o unealtă cu meşteşug făcută de se pleca în toate părţile şi aluneca în cenuşă."
+        },
+        {
+          "verse": 6,
+          "text": "Aici se aruncau toţi cei care erau furi de cele sfinte sau vinovaţi cu alte răutăţi mari."
+        },
+        {
+          "verse": 7,
+          "text": "Cu această moarte s-a întâmplat a muri nelegiuitul Menelau, neînvrednicindu-se nici de înmormântare."
+        },
+        {
+          "verse": 8,
+          "text": "Pe bună dreptate, fiindcă multe păcate făcuse asupra jertfelnicului, ale cărui foc şi cenuşă erau curate şi tocmai în cenuşă şi-a găsit moartea."
+        },
+        {
+          "verse": 9,
+          "text": "Iar regele venea cu gânduri barbare, ca să facă Iudeilor mai mari rele decât s-au făcut în zilele tatălui său."
+        },
+        {
+          "verse": 10,
+          "text": "Şi aflând Iuda acestea, a poruncit poporului să se roage Domnului, ziua şi noaptea ca, precum alteori, aşa şi acum să ajute"
+        },
+        {
+          "verse": 11,
+          "text": "Celor care erau să fie lipsiţi de lege, de patrie şi de sfântul locaş, iar pe poporul, care nu de multă vreme îşi venise în fire, să nu-l lase să fie supus neamurilor celor hulitoare."
+        },
+        {
+          "verse": 12,
+          "text": "Şi toţi împreună făcând aceasta şi rugând pe milostivul Dumnezeu cu plângere şi cu ajunări şi cu cădere la pământ trei zile neîncetat, i-a mângâiat Iuda şi le-a poruncit să se gătească."
+        },
+        {
+          "verse": 13,
+          "text": "Iar Iuda împreună cu cei mai bătrâni s-a sfătuit ca, mai înainte de a intra oştirea regelui în Iudeea şi de a birui Ierusalimul, să le iasă înainte şi cu ajutorul Domnului să hotărască lucrul."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_13_02",
+      "chapter": 13,
+      "pericope_num": "02",
+      "title_en": "A Battle Near the City of Modein",
+      "title_ro": "O bătălie lângă cetatea Modein",
+      "start_verse": 9,
+      "end_verse": 17,
+      "verse_count": 9,
+      "verses": [
+        {
+          "verse": 9,
+          "text": "Iar regele venea cu gânduri barbare, ca să facă Iudeilor mai mari rele decât s-au făcut în zilele tatălui său."
+        },
+        {
+          "verse": 10,
+          "text": "Şi aflând Iuda acestea, a poruncit poporului să se roage Domnului, ziua şi noaptea ca, precum alteori, aşa şi acum să ajute"
+        },
+        {
+          "verse": 11,
+          "text": "Celor care erau să fie lipsiţi de lege, de patrie şi de sfântul locaş, iar pe poporul, care nu de multă vreme îşi venise în fire, să nu-l lase să fie supus neamurilor celor hulitoare."
+        },
+        {
+          "verse": 12,
+          "text": "Şi toţi împreună făcând aceasta şi rugând pe milostivul Dumnezeu cu plângere şi cu ajunări şi cu cădere la pământ trei zile neîncetat, i-a mângâiat Iuda şi le-a poruncit să se gătească."
+        },
+        {
+          "verse": 13,
+          "text": "Iar Iuda împreună cu cei mai bătrâni s-a sfătuit ca, mai înainte de a intra oştirea regelui în Iudeea şi de a birui Ierusalimul, să le iasă înainte şi cu ajutorul Domnului să hotărască lucrul."
+        },
+        {
+          "verse": 14,
+          "text": "Deci, încredinţându-se purtării de grijă a Celui care a făcut lumea şi îndemnând pe cei care erau cu el ca bărbăteşte să se nevoiască până la moarte pentru legi, pentru templul Domnului, pentru cetate, pentru patrie şi pentru datină, şi-a pus tabăra împrejurul Modeinului."
+        },
+        {
+          "verse": 15,
+          "text": "Şi dând la ai săi cuvântul de taină: \"Domnul este izbânda noastră\", cu voinici preabuni aleşi a lovit noaptea tabăra regească şi a omorât ca la vreo patru mii de bărbaţi şi pe cel care era mai mare peste elefanţi cu toţi ai săi."
+        },
+        {
+          "verse": 16,
+          "text": "Mai pe urmă, după ce a umplut tabăra de frică şi de tulburare, s-a întors cu bine."
+        },
+        {
+          "verse": 17,
+          "text": "Aceasta s-a făcut când se lumina de ziuă, ajutându-i ocrotirea Domnului."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_13_03",
+      "chapter": 13,
+      "pericope_num": "03",
+      "title_en": "Antiochus Makes a Treaty with the Jews",
+      "title_ro": "Antioh încheie un tratat cu iudeii",
+      "start_verse": 18,
+      "end_verse": 26,
+      "verse_count": 9,
+      "verses": [
+        {
+          "verse": 18,
+          "text": "Iar regele, îndată ce a văzut îndrăznirea Iudeilor, cu meşteşug a ispitit locurile."
+        },
+        {
+          "verse": 19,
+          "text": "Şi înaintând împotriva Betţurului care era pază tare a Iudeilor, a fost bătut, respins Şi păgubit în ostaşi."
+        },
+        {
+          "verse": 20,
+          "text": "Iar Iuda trimitea celor dinăuntru cele trebuitoare."
+        },
+        {
+          "verse": 21,
+          "text": "Şi un oarecare Rodocos din tabăra Iudeilor a spus vrăjmaşilor tainele. Şi, cercetându-se, a fost prins şi închis."
+        },
+        {
+          "verse": 22,
+          "text": "Iar regele a doua oară a stat de vorbă cu cei care erau în Betţur şi dându-le sfat de pace, s-a dus şi s-a ciocnit cu cei care erau cu Iuda şi a fost biruit."
+        },
+        {
+          "verse": 23,
+          "text": "Deci aflând că s-ar fi sculat asupră-i la Antiohia Filip, pe care îl lăsase mai-mare peste treburi, s-a tulburat şi, rugându-se de Iudei, li s-a supus şi a jurat pe toate cele drepte şi, împăcându-se, a adus jertfă şi a cinstit templul Domnului şi locul l-a miluit."
+        },
+        {
+          "verse": 24,
+          "text": "Şi pe Iuda Macabeul l-a primit bine şi l-a făcut cârmuitor de la Ptolemaida până la ţinutul Gherar."
+        },
+        {
+          "verse": 25,
+          "text": "Apoi, regele a venit de acolo la Ptolemaida, iar locuitorii din Ptolemaida erau nemulţumiţi de această înţelegere şi voiau să calce legătura făcută cu Iudeii."
+        },
+        {
+          "verse": 26,
+          "text": "Atunci a intrat în divan Lisias şi a spus tot lucrul şi i-a aşezat şi i-a potolit şi i-a făcut cu voie bună. După aceea s-a întors la Antiohia; aşa a fost înaintarea şi întoarcerea regelui."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_14_01",
+      "chapter": 14,
+      "pericope_num": "01",
+      "title_en": "Alcimus Speaks against Judas",
+      "title_ro": "Alchim vorbește împotriva lui Iuda",
+      "start_verse": 1,
+      "end_verse": 14,
+      "verse_count": 14,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "După trecere de trei ani a aflat Iuda şi cei care erau cu el că Dimitrie al lui Seleuc, trecând prin portul Tripoliei, a venit cu mulţime mare şi cu corăbii,"
+        },
+        {
+          "verse": 2,
+          "text": "A cuprins ţări, omorând pe Antioh şi pe Lisias, epitropul lui;"
+        },
+        {
+          "verse": 3,
+          "text": "Iar un oarecare Alchimos, care fusese arhiereu şi se pângărise de bună voie în vremurile de răzvrătire, socotind că nici într-un chip nu-i mai rămâne nădejde de mântuire şi nici de intrare la sfântul jertfelnic,"
+        },
+        {
+          "verse": 4,
+          "text": "A venit la regele Dimitrie în anul o sută cincizeci şi unu, aducându-i coroană de aur şi finic, şi pe lângă acestea şi câteva ramuri de măslin, cum este datina să, se dăruiască templului. Şi în ziua aceea a stat liniştit."
+        },
+        {
+          "verse": 5,
+          "text": "Şi aflând vreme bună nebuniei sale, chemându-l Dimitrie la sfat şi întrebându-l ce voiesc şi ce plănuiesc Iudeii,"
+        },
+        {
+          "verse": 6,
+          "text": "El a răspuns la aceasta: \"Iudeilor care se cheamă Asidei, în fruntea cărora se află Iuda Macabeul, le place să aibă război şi să se certe şi nu lasă să aibă pace cei care cârmuiesc."
+        },
+        {
+          "verse": 7,
+          "text": "Pentru aceea şi eu lipsit de mărirea cea părintească, adică de arhierie, am venit acum aici,"
+        },
+        {
+          "verse": 8,
+          "text": "Întâi, foarte bine gândind de cele ce se cuvin regelui, iar al doilea, voind binele cetăţenilor mei, căci prin răutatea celor despre care am vorbit mai înainte tot neamul nostru mult este asuprit."
+        },
+        {
+          "verse": 9,
+          "text": "Deci pe fiecare dintr-acestea cunoscându-le tu, o, rege, fie-ţi milă de ţară şi de neamul nostru cel asuprit, şi-l ajută pentru iubirea de oameni pe care o ai către toţi."
+        },
+        {
+          "verse": 10,
+          "text": "Că până va fi Iuda, nu este cu putinţă să fie lucrurile în pace\"."
+        },
+        {
+          "verse": 11,
+          "text": "Şi după ce a grăit el astfel, îndată ceilalţi prieteni, având vrăjmăşie asupra lui Iuda, au aţâţat şi mai mult pe Dimitrie."
+        },
+        {
+          "verse": 12,
+          "text": "Deci Dimitrie, îndată chemând pe Nicanor, care era mai mare peste elefanţi şi făcându-l general peste Iudeea, l-a trimis acolo,"
+        },
+        {
+          "verse": 13,
+          "text": "Dându-i porunci ca pe Iuda să-l omoare şi pe cei care sunt cu el să-i risipească şi să pună pe Alchimos arhiereu templului celui preaslăvit."
+        },
+        {
+          "verse": 14,
+          "text": "Iar neamurile, care fugiseră din Iudeea din cauza lui Iuda, ca turmele se adunau lângă Nicanor, nenorocirile şi primejdiile Iudeilor părându-le a fi spre fericirea lor."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_14_02",
+      "chapter": 14,
+      "pericope_num": "02",
+      "title_en": "Nicanor Makes Friends with Judas",
+      "title_ro": "Nicanor se împrietenește cu Iuda",
+      "start_verse": 15,
+      "end_verse": 25,
+      "verse_count": 11,
+      "verses": [
+        {
+          "verse": 15,
+          "text": "Şi auzind de venirea lui Nicanor şi de adunarea neamurilor, presărându-şi capetele cu pământ, se rugau Celui care pe veci a întemeiat pe poporul Său şi Care pururea făţiş a apărat partea sa."
+        },
+        {
+          "verse": 16,
+          "text": "Şi, poruncind cârmuitorul lor, Iudeii îndată au purces de acolo şi s-au lovit cu duşmanii la satul Adasa."
+        },
+        {
+          "verse": 17,
+          "text": "Iar Simon, fratele lui Iuda, s-a ciocnit cu Nicanor, dar s-a speriat de venirea cea fără de veste a vrăjmaşilor."
+        },
+        {
+          "verse": 18,
+          "text": "Însă Nicanor, auzind vitejia celor care erau cu Iuda şi bărbăţia pe care o aveau în bătăliile cele pentru patrie, s-a temut să dezlege cearta prin vărsare de sânge."
+        },
+        {
+          "verse": 19,
+          "text": "Pentru aceea a trimis pe Posidoniu şi pe Teodot adică pe Matatia, ca să încerce o înţelegere."
+        },
+        {
+          "verse": 20,
+          "text": "Şi mult sfat făcându-se pentru acestea şi conducătorul poporului vorbind cu mulţimea, toţi împreună au voit să facă pace."
+        },
+        {
+          "verse": 21,
+          "text": "Şi au rânduit o zi, în care cei doi conducători deosebi să vină la un loc. Şi venind şi unul şi altul, fiecare a avut scaunul său de cinste."
+        },
+        {
+          "verse": 22,
+          "text": "Iar Iuda rânduise oameni înarmaţi gata, în locuri bune, ca nu cumva vrăjmaşii fără de veste să facă vreun lucru rău; dar vorbirea dintre ei au isprăvit-o cu bună pace."
+        },
+        {
+          "verse": 23,
+          "text": "Iar Nicanor, rămânând la Ierusalim, nici un lucru fără de cale n-a făcut şi oştile cele ce se adunaseră ca turmele, le-a slobozit."
+        },
+        {
+          "verse": 24,
+          "text": "Şi avea pe Iuda pururea înaintea ochilor, din inimă iubindu-l."
+        },
+        {
+          "verse": 25,
+          "text": "Şi l-a îndemnat să se însoare şi să nască fii şi s-a însurat şi a trăit în linişte bucurându-se de viaţă."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_14_03",
+      "chapter": 14,
+      "pericope_num": "03",
+      "title_en": "Nicanor Turns against Judas",
+      "title_ro": "Nicanor se întoarce împotriva lui Iuda",
+      "start_verse": 26,
+      "end_verse": 36,
+      "verse_count": 11,
+      "verses": [
+        {
+          "verse": 26,
+          "text": "Iar Alchimos, văzând dragostea pe care o avea unul faţă de altul şi luând o copie după zapisul lor de pace, a venit la Dimitrie şi i-a spus că Nicanor gândeşte lucruri potrivnice regelui, că pe Iuda, vrăjmaşul împărăţiei, l-a ales să fie în locul lui arhiereu."
+        },
+        {
+          "verse": 27,
+          "text": "Iar regele, umplându-se de mânie şi întărâtându-se de pâri, vrăjmăşeşte a scris lui Nicanor, zicând că îi este greu să primească alianţa încheiată, şi îi porunceşte ca pe Macabeu curând să-l trimită legat la Antiohia."
+        },
+        {
+          "verse": 28,
+          "text": "Şi sosind acesta la Nicanor, s-a mâhnit şi cu greu îi era a strica alianţa făcută, nefăcându-i nici o strâmbătate bărbatul acesta."
+        },
+        {
+          "verse": 29,
+          "text": "Ci fiindcă împotriva regelui nu se putea pune, căuta prilej ca aceasta cu meşteşug să se săvârşească."
+        },
+        {
+          "verse": 30,
+          "text": "Iar Macabeu văzând pe Nicanor mai aspru răspunzându-i, şi petrecerea cea obişnuită mai sălbatică având-o, a socotit că nu este spre bine asprimea aceasta şi, strângând pe mulţi dintre ai săi, s-a ascuns de Nicanor."
+        },
+        {
+          "verse": 31,
+          "text": "Deci cunoscând el că bărbatul a biruit cu îndrăzneală vicleşugul, s-a dus la marele şi sfântul templu al Domnului, când aduceau preoţii jertfele cele cuviincioase şi a poruncit să-i dea pe bărbatul acesta."
+        },
+        {
+          "verse": 32,
+          "text": "Iar ei s-au jurat, zicând că pe cel care îl caută nu ştiu unde este. Întinzând dreapta spre templul Domnului,"
+        },
+        {
+          "verse": 33,
+          "text": "Nicanor astfel s-a jurat: \"De nu-mi vei da legat pe Iuda, acest templu al lui Dumnezeu câmp îl voi face şi jertfelnicul îl voi săpa şi aici voi face lui Dionisos templu vestit\"."
+        },
+        {
+          "verse": 34,
+          "text": "Şi după ce a zis acestea, s-a dus, iar preoţii, întinzând mâinile către cer, chemau pe Apărătorul Cel de-a pururea al neamului nostru, zicând acestea:"
+        },
+        {
+          "verse": 35,
+          "text": "\"Tu, Doamne,  Care de nimic n-ai lipsă, bine ai voit ca templul unde Tu sălăşluieşti, să fie în mijlocul nostru."
+        },
+        {
+          "verse": 36,
+          "text": "Şi acum, Sfinte a toată sfinţenia, Doamne, păzeşte până în veac neîntinat templul acesta, care de curând s-a curăţit, şi astupă toată gura nedreaptă\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_14_04",
+      "chapter": 14,
+      "pericope_num": "04",
+      "title_en": "Razis Dies for His Country",
+      "title_ro": "Razis moare pentru țara sa",
+      "start_verse": 37,
+      "end_verse": 46,
+      "verse_count": 10,
+      "verses": [
+        {
+          "verse": 37,
+          "text": "Iar un oarecare, anume Razis, dintre bătrânii din Ierusalim, a fost pârât lui Nicanor. Razis era bărbat iubitor de cetate şi cu nume bun, încât pentru bună-voinţa ce avea, era numit părintele Iudeilor,"
+        },
+        {
+          "verse": 38,
+          "text": "Pentru că în vremurile cele mai dinainte ale neamestecului Iudeilor cu Elinii era îndrăzneţ iubitor al datinilor iudaice şi trupul şi sufletul pentru evreime şi-l pusese cu toată nevoinţa."
+        },
+        {
+          "verse": 39,
+          "text": "Deci vrând Nicanor să arate ura, pe care o avea faţă de Iudei, a trimis peste cinci sute, să prindă pe Razis."
+        },
+        {
+          "verse": 40,
+          "text": "Căci socoteau că de-l va prinde pe el, foarte mare durere va face Iudeilor,"
+        },
+        {
+          "verse": 41,
+          "text": "Şi când gloata de ostaşi, vrând să ia turnul unde se ascunsese Razis, bătea în uşi şi poruncea să aducă foc să aprindă uşile, atunci Razis, aproape să fie prins, singur s-a junghiat cu sabia,"
+        },
+        {
+          "verse": 42,
+          "text": "Vrând mai bine să moară cu cinste, decât să se supună păgânilor şi împotriva cinstei sale să păţească ocări nevrednice."
+        },
+        {
+          "verse": 43,
+          "text": "Însă din grabă nu s-a nimerit să se junghie de moarte şi gloata năvălind pe uşă înăuntru, el, alergând pe zid vitejeşte, s-a aruncat peste mulţime plin de bărbăţie."
+        },
+        {
+          "verse": 44,
+          "text": "Iar mulţimea de jos repede dându-se înapoi, ca să facă loc căderii lui, el a căzut tocmai în mijlocul lor."
+        },
+        {
+          "verse": 45,
+          "text": "Şi fiind încă viu şi înfierbântat, s-a sculat cu mâinile, iar sângele din el ţâşnea tare şi, deşi rănit greu, a alergat trecând printre mulţime,"
+        },
+        {
+          "verse": 46,
+          "text": "Şi stând pe o piatră ridicată după ce i-a curs tot sângele, şi-a scos maţele şi prinzându-le cu amândouă mâinile, le-a aruncat spre mulţime, rugându-se Celui care stăpâneşte peste viaţă şi peste duh, ca iarăşi să i le dea; şi în felul acesta a murit."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_15_01",
+      "chapter": 15,
+      "pericope_num": "01",
+      "title_en": "Nicanor’s Arrogance",
+      "title_ro": "Aroganța lui Nicanor",
+      "start_verse": 1,
+      "end_verse": 15,
+      "verse_count": 15,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Iar Nicanor, aflând că cei care erau cu Iuda sunt în locurile cele dimprejurul Samariei, a făcut sfat, ca în ziua de odihnă, fără nici o frică, să meargă cu război împotriva lor."
+        },
+        {
+          "verse": 2,
+          "text": "Ci Evreii, care de nevoie mergeau cu Nicanor, ziceau: \"Să nu-i pierzi nicidecum aşa sălbatic şi barbar, ci cinsteşte ziua pe care mai înainte a sfinţit-o şi a cinstit-o Cel care vede toate\"."
+        },
+        {
+          "verse": 3,
+          "text": "Iar de trei ori nelegiuitul acela păgân a întrebat: \"Oare este în cer Puternic, care să fi poruncit a se ţine ziua de odihnă?\""
+        },
+        {
+          "verse": 4,
+          "text": "Şi ei, răspunzând, au zis: \"Domnul cel viu, Acela este puternicul Cel din cer, Care a poruncit să nu se lucreze în ziua a şaptea\"."
+        },
+        {
+          "verse": 5,
+          "text": "Iar celălalt a zis: \"Şi eu sunt puternic pe pământ, care poruncesc a lua arme şi a plini lucrurile regelui\". Însă n-a ajuns să-şi poată împlini sfatul său nelegiuit."
+        },
+        {
+          "verse": 6,
+          "text": "Deci Nicanor, cu toată semeţia, înălţându-se, socotea să facă biruinţă de pomină asupra lui Iuda."
+        },
+        {
+          "verse": 7,
+          "text": "Dar Iuda Macabeul neîncetat, cu toată nădejdea, credea că va avea ajutor de la Domnul."
+        },
+        {
+          "verse": 8,
+          "text": "Şi îndemna pe cei care erau cu sine să nu se sperie de venirea neamurilor, ci aducându-şi aminte de ajutoarele cele de mai înainte, care li s-au făcut din cer şi acum să aştepte de la Cel Atotputernic biruinţă şi ajutor."
+        },
+        {
+          "verse": 9,
+          "text": "Şi-i mângâia din lege şi din prooroci şi aducându-le aminte de războaiele pe care mai înainte le-au purtat, mai cu osârdie i-a îmbărbătat."
+        },
+        {
+          "verse": 10,
+          "text": "Şi aşa întărâtându-i cu mânie, împreună le-a arătat că neamurile n-au ţinut alianţa şi au călcat jurământul."
+        },
+        {
+          "verse": 11,
+          "text": "Şi pe fiecare dintr-înşii nu atât cu scuturi şi cu arme îi întărea, cât fi îndemna cu cuvinte foarte bune, iar la urmă le-a spus şi un vis vrednic de credinţă, prin care pe toţi i-a făcut voioşi."
+        },
+        {
+          "verse": 12,
+          "text": "Iar vederea visului astfel era: că Onia, care fusese arhiereu, om bun, blând, cucernic la chip şi cu obiceiuri bune şi la vorbă cuvios, care din pruncie s-a nevoit întru toate lucrurile faptei bune, cu mâinile întinse se ruga pentru toată adunarea Evreilor."
+        },
+        {
+          "verse": 13,
+          "text": "După aceasta s-a arătat un bărbat cu cărunteţe §i cu slavă minunată şi preacuvioasă mărire era împrejurul lui."
+        },
+        {
+          "verse": 14,
+          "text": "Şi a grăit Onia, zicând către Iuda: Acesta este iubitorul de fraţi, proorocul lui Dumnezeu Ieremia, care mult se roagă pentru popor şi pentru sfânta cetate."
+        },
+        {
+          "verse": 15,
+          "text": "Iar Ieremia a întins dreapta şi a dat lui Iuda sabia de aur şi i-a zis acestea:"
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_15_02",
+      "chapter": 15,
+      "pericope_num": "02",
+      "title_en": "Judas Prepares the Jews for Battle",
+      "title_ro": "Iuda pregătește iudeii pentru bătălie",
+      "start_verse": 6,
+      "end_verse": 19,
+      "verse_count": 14,
+      "verses": [
+        {
+          "verse": 6,
+          "text": "Deci Nicanor, cu toată semeţia, înălţându-se, socotea să facă biruinţă de pomină asupra lui Iuda."
+        },
+        {
+          "verse": 7,
+          "text": "Dar Iuda Macabeul neîncetat, cu toată nădejdea, credea că va avea ajutor de la Domnul."
+        },
+        {
+          "verse": 8,
+          "text": "Şi îndemna pe cei care erau cu sine să nu se sperie de venirea neamurilor, ci aducându-şi aminte de ajutoarele cele de mai înainte, care li s-au făcut din cer şi acum să aştepte de la Cel Atotputernic biruinţă şi ajutor."
+        },
+        {
+          "verse": 9,
+          "text": "Şi-i mângâia din lege şi din prooroci şi aducându-le aminte de războaiele pe care mai înainte le-au purtat, mai cu osârdie i-a îmbărbătat."
+        },
+        {
+          "verse": 10,
+          "text": "Şi aşa întărâtându-i cu mânie, împreună le-a arătat că neamurile n-au ţinut alianţa şi au călcat jurământul."
+        },
+        {
+          "verse": 11,
+          "text": "Şi pe fiecare dintr-înşii nu atât cu scuturi şi cu arme îi întărea, cât fi îndemna cu cuvinte foarte bune, iar la urmă le-a spus şi un vis vrednic de credinţă, prin care pe toţi i-a făcut voioşi."
+        },
+        {
+          "verse": 12,
+          "text": "Iar vederea visului astfel era: că Onia, care fusese arhiereu, om bun, blând, cucernic la chip şi cu obiceiuri bune şi la vorbă cuvios, care din pruncie s-a nevoit întru toate lucrurile faptei bune, cu mâinile întinse se ruga pentru toată adunarea Evreilor."
+        },
+        {
+          "verse": 13,
+          "text": "După aceasta s-a arătat un bărbat cu cărunteţe §i cu slavă minunată şi preacuvioasă mărire era împrejurul lui."
+        },
+        {
+          "verse": 14,
+          "text": "Şi a grăit Onia, zicând către Iuda: Acesta este iubitorul de fraţi, proorocul lui Dumnezeu Ieremia, care mult se roagă pentru popor şi pentru sfânta cetate."
+        },
+        {
+          "verse": 15,
+          "text": "Iar Ieremia a întins dreapta şi a dat lui Iuda sabia de aur şi i-a zis acestea:"
+        },
+        {
+          "verse": 16,
+          "text": "Ia această sfântă sabie, care este dar de la Dumnezeu, prin care vei surpa pe vrăjmaşi."
+        },
+        {
+          "verse": 17,
+          "text": "Deci mângâindu-se cu aceste cuvinte foarte bune ale lui Iuda, care putea aprinde inimile voinicilor şi spre vitejie a le îmbărbăta, a socotit să nu tabere, ci vitejeşte să năvălească şi bărbăteşte să se apuce şi să se bată, ca să se aleagă lucrul; pentru că şi cetatea şi sfintele şi templul Domnului erau în primejdie."
+        },
+        {
+          "verse": 18,
+          "text": "Iar de femei şi de prunci şi de fraţi şi de rudenii mai puţină grijă aveau; frica cea mai mare şi cea mai dintâi le era pentru sfântul locaş."
+        },
+        {
+          "verse": 19,
+          "text": "Însă cei care erau în cetate, foarte îngrijoraţi erau şi tulburaţi pentru cei care aveau să poarte războiul."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_15_03",
+      "chapter": 15,
+      "pericope_num": "03",
+      "title_en": "The Defeat and Death of Nicanor",
+      "title_ro": "Înfrângerea și moartea lui Nicanor",
+      "start_verse": 20,
+      "end_verse": 37,
+      "verse_count": 18,
+      "verses": [
+        {
+          "verse": 20,
+          "text": "Şi toţi aşteptau acum sfârşitul apropiat, fiindcă se apropiaseră vrăjmaşii şi îşi aşezară armata în linie de bătaie, îşi puseseră elefanţii la loc bun şi împărţiseră călărimea la dreapta şi la stânga."
+        },
+        {
+          "verse": 21,
+          "text": "Iar Macabeu, văzând venirea oştirii şi gătirea armelor cea de multe feluri şi sălbăticiunea elefanţilor, a întins mâinile spre cer şi s-a rugat Domnului şi păzitorului Celui care face minuni, cunoscând că nu în arme este biruinţa, ci, precum El Însuşi judecă, dă celor vrednici biruinţă."
+        },
+        {
+          "verse": 22,
+          "text": "Şi rugându-se, aşa a zis: \"Tu, Doamne, ai trimis pe îngerul Tău în zilele lui Iezechia, regele lui Iuda, şi a ucis din tabăra lui Sanherib ca la o sută optzeci şi cinci de mii."
+        },
+        {
+          "verse": 23,
+          "text": "Şi acum, Stăpânitorule al cerurilor, trimite înger bun înaintea noastră, care să fie spre frică şi spre cutremur,"
+        },
+        {
+          "verse": 24,
+          "text": "Ca de mărirea braţului Tău să se înfricoşeze cei care cu hulă vin asupra sfântului Tău popor\". Şi aceste cuvinte i-au fost toată rugăciunea."
+        },
+        {
+          "verse": 25,
+          "text": "Nicanor şi cei care erau cu el, veneau cu trâmbiţe şi cu cântece."
+        },
+        {
+          "verse": 26,
+          "text": "Iar Iuda şi cei care erau cu el, cu chemare şi cu rugăciuni s-au luptat cu vrăjmaşii."
+        },
+        {
+          "verse": 27,
+          "text": "Şi cu mâinile oştindu-se, iar cu inimile rugându-se către Dumnezeu, au doborât treizeci şi cinci de mii, veselindu-se foarte mult de această măreaţă arătare a lui Dumnezeu."
+        },
+        {
+          "verse": 28,
+          "text": "Iar încetând războiul şi cu bucurie întorcându-se, au cunoscut că Nicanor, îmbrăcat cu toate armele sale, a căzut."
+        },
+        {
+          "verse": 29,
+          "text": "Şi făcându-se strigare şi vălmăşag, au binecuvântat pe Cel Puternic în graiul părinţilor."
+        },
+        {
+          "verse": 30,
+          "text": "Şi a poruncit Iuda, cel care în tot chipul era gata cu trupul şi cu sufletul a muri pentru cetăţeni, şi din tinereţea sa a păzit bunăvoinţa către cei de o lege, ca să taie capul lui Nicanor şi mâna cu braţ cu tot şi să le aducă în Ierusalim."
+        },
+        {
+          "verse": 31,
+          "text": "Şi după ce a sosit acolo, chemând pe cei de o lege cu sine şi pe preoţi punându-i înaintea jertfelnicului, a chemat pe cei care erau în cetate."
+        },
+        {
+          "verse": 32,
+          "text": "Şi le-a arătat capul nelegiuitului Nicanor şi mâna celui rău hulitor, pe care cu semeţie o întinsese asupra casei celei sfinte a Atotputernicului."
+        },
+        {
+          "verse": 33,
+          "text": "Şi limba răului credincios Nicanor a poruncit să o taie şi să o facă bucăţi mărunte şi să o dea păsărilor; iar în faţa sfântului locaş, să spânzure braţul răufăcătorului."
+        },
+        {
+          "verse": 34,
+          "text": "Şi toţi căutând la cer, au binecuvântat pe Domnul Dumnezeu, zicând: Bine este cuvântat Cel care a păzit locul Său neîntinat."
+        },
+        {
+          "verse": 35,
+          "text": "Capul lui Nicanor l-a spânzurat pe zidul cetăţii, ca să-l vadă toţi şi să cunoască cum că este adevărat semn al ajutorului lui Dumnezeu."
+        },
+        {
+          "verse": 36,
+          "text": "Şi au hotărât toţi într-un cuget să nu lase neînsemnată ziua aceasta;"
+        },
+        {
+          "verse": 37,
+          "text": "Ci serbarea ei să fie în ziua a treisprezecea a lunii a douăsprezecea, care în limba siriană se zice Adar, cu o zi mai înainte de ziua lui Mardoheu."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Maccabees_15_04",
+      "chapter": 15,
+      "pericope_num": "04",
+      "title_en": "The Compiler’s Epilogue",
+      "title_ro": "Epilogul compilatorului",
+      "start_verse": 38,
+      "end_verse": 39,
+      "verse_count": 2,
+      "verses": [
+        {
+          "verse": 38,
+          "text": "Deci cele ce au fost cu Nicanor aşa s-au întâmplat şi din vremurile acelea au stăpânit Evreii cetatea Ierusalimului; iar eu voi sfârşi aici cuvântul."
+        },
+        {
+          "verse": 39,
+          "text": "Şi de este bine întocmit şi cum se cuvine, aceasta şi eu am vrut; iar de este cu ponosuri şi de mijloc, eu unul am făcut tot ce am putut."
+        }
+      ]
+    }
+  ]
+}

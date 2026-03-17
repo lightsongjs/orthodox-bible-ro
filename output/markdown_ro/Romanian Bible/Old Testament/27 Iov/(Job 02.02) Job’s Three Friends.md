@@ -1,0 +1,18 @@
+---
+testament: OT
+book: Job
+book_romanian: Iov
+chapter: 2
+pericope: 2
+pericope_title: "Job’s Three Friends"
+verses_start: 11
+verses_end: 13
+verses_total: 0
+language: ro
+english_source: "[[Old Testament/Job/(Job 02.02) Job’s Three Friends]]"
+---
+# Job’s Three Friends
+
+11. Iar trei prieteni ai lui Iov au aflat despre toate aceste nenorociri care dăduseră peste el şi au venit fiecare din ţara lui şi ei erau: Elifaz din Teman, Bildad din Şuah şi Ţofar din Naamah. Ei se înţeleseseră împreună să vină să împărtăşească durerea lui şi să-l mângâie.
+12. Şi când ei şi-au ridicat ochii de departe nu l-au mai recunoscut. Atunci au slobozit glasurile lor, s-au tânguit şi şi-au sfâşiat fiecare veşmântul şi şi-au presărat capul cu ţărână.
+13. Apoi au şezut pe pământ, lângă el, şapte zile şi şapte nopţi, fără să-i spună nici un cuvânt, căci vedeau cât este de mare durerea lui.

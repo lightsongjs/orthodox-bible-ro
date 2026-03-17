@@ -1,0 +1,4964 @@
+{
+  "id": 42,
+  "book_number": 18,
+  "name_en": "Job",
+  "name_ro": "Iov",
+  "testament": "OT",
+  "chapter_count": 42,
+  "pericope_count": 49,
+  "url": "https://www.bibliaortodoxa.ro/carte.php?id=42",
+  "pericopes": [
+    {
+      "pericope_id": "Job_01_01",
+      "chapter": 1,
+      "pericope_num": "01",
+      "title_en": "Job and His Family",
+      "title_ro": "Iov și familia sa",
+      "start_verse": 1,
+      "end_verse": 5,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Era odată în ţinutul Uz un om pe care îl chema Iov şi acest om era fără prihană şi drept; se temea de Dumnezeu şi se ferea de ce este rău."
+        },
+        {
+          "verse": 2,
+          "text": "Şi i s-au născut şapte feciori şi trei fete."
+        },
+        {
+          "verse": 3,
+          "text": "El avea şapte mii de oi, trei mii de cămile, cinci sute de perechi de boi şi cinci sute de asini şi mulţime mare de slugi. Şi omul acesta era cel mai de seamă dintre toţi răsăritenii."
+        },
+        {
+          "verse": 4,
+          "text": "Feciorii lui se duceau unul la altul şi făceau ospeţe în casele lor, fiecare la ziua lui, şi trimiteau să cheme pe surorile lor ca să mănânce şi să bea cu ei."
+        },
+        {
+          "verse": 5,
+          "text": "Şi apoi, când isprăveau zilele petrecerii lor, Iov chema şi sfinţea pe feciorii săi şi se scula dis-de-dimineaţă şi aducea arderi de tot, după numărul lor al tuturor, căci Iov zicea: \"Se poate ca feciorii mei să fi păcătuit şi să fi cugetat cu păcat împotriva lui Dumnezeu\". Şi aşa făcea Iov mereu."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_01_02",
+      "chapter": 1,
+      "pericope_num": "02",
+      "title_en": "Attack on Job’s Character",
+      "title_ro": "Atacul asupra caracterului lui Iov",
+      "start_verse": 6,
+      "end_verse": 12,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 6,
+          "text": "Dar într-o zi îngerii lui Dumnezeu s-au înfăţişat înaintea Domnului şi Satan a venit şi el printre ei."
+        },
+        {
+          "verse": 7,
+          "text": "Atunci Domnul a zis către Satan: \"De unde vii?\" Iar Satan a răspuns Domnului şi a zis: \"Am dat târcoale pe pământ şi m-am plimbat în sus şi în jos\"."
+        },
+        {
+          "verse": 8,
+          "text": "Şi Domnul a zis către Satan: \"Te-ai uitat la robul Meu Iov, că nu este nici unul ca el pe pământ fără prihană şi drept şi temător de Dumnezeu şi care să se ferească de ce este rău?\""
+        },
+        {
+          "verse": 9,
+          "text": "Dar Satan a răspuns Domnului şi a zis: \"Ore degeaba se teme Iov de Dumnezeu?"
+        },
+        {
+          "verse": 10,
+          "text": "N-ai făcut Tu gard în jurul lui şi în jurul casei lui şi în jurul a tot ce este al lui, în toate părţile şi ai binecuvântat lucrul mâinilor lui şi turmele lui au umplut pământul?"
+        },
+        {
+          "verse": 11,
+          "text": "Dar ia întinde mâna Ta şi atinge-Te de tot ce este al lui, să vedem dacă nu Te va blestema în faţă!\""
+        },
+        {
+          "verse": 12,
+          "text": "Atunci Domnul a zis către Satan: \"Iată, tot ce are el este în puterea ta; numai asupra lui să nu întinzi mâna ta\". Şi Satan a pierit din faţa lui Dumnezeu."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_01_03",
+      "chapter": 1,
+      "pericope_num": "03",
+      "title_en": "Job Loses Property and Children",
+      "title_ro": "Iov pierde averea și copiii",
+      "start_verse": 13,
+      "end_verse": 22,
+      "verse_count": 10,
+      "verses": [
+        {
+          "verse": 13,
+          "text": "Şi într-o zi, când feciorii şi fetele lui Iov mâncau şi beau vin în casa fratelui lor mai mare,"
+        },
+        {
+          "verse": 14,
+          "text": "A sosit un vestitor la Iov şi i-a spus: \"Boii erau la arătură şi asinele păşteau pe lângă ei;"
+        },
+        {
+          "verse": 15,
+          "text": "Atunci Sabeenii au năvălit asupra lor, au pus mâna pe vite, şi pe robi i-au trecut prin ascuţişul sabiei. Şi am scăpat numai eu singur şi am venit să-ţi dau de veste!\""
+        },
+        {
+          "verse": 16,
+          "text": "Nu a sfârşit vorba bine şi altul a sosit şi a spus: \"Focul lui Dumnezeu a căzut din cer şi a ars oile tale şi pe robii tăi şi i-a mistuit. Şi am scăpat numai eu singur şi am venit să-ţi dau de veste!\""
+        },
+        {
+          "verse": 17,
+          "text": "Nu a sfârşit vorba bine şi altul a sosit şi a spus: \"Caldeii, împărţiţi în trei cete, au dat năvală peste cămilele tale şi le-au ridicat şi pe robi i-au trecut prin ascuţişul sabiei. Şi am scăpat numai eu singur şi am venit să-ţi dau de veste!\""
+        },
+        {
+          "verse": 18,
+          "text": "Nu sfârşise vorba bine şi altul a sosit şi a spus: \"Feciorii tăi şi fetele tale mâncau şi beau vin în casa fratelui lor mai mare,"
+        },
+        {
+          "verse": 19,
+          "text": "Şi iată că un vânt puternic s-a stârnit dinspre pustiu şi a izbit în cele patru colţuri ale casei şi casa s-a prăbuşit peste tineri şi ei au murit. Şi am scăpat numai eu singur şi am venit să-ţi dau de veste\"."
+        },
+        {
+          "verse": 20,
+          "text": "Atunci Iov s-a sculat şi-a sfâşiat veşmântul, s-a ras pe cap şi, căzând la pământ, s-a închinat,"
+        },
+        {
+          "verse": 21,
+          "text": "Şi a rostit: \"Gol am ieşit din pântecele mamei mele şi gol mă voi întoarce în pământ! Domnul a dat, Domnul a luat; fie numele Domnului binecuvântat!\""
+        },
+        {
+          "verse": 22,
+          "text": "Şi întru toate acestea, Iov nu a păcătuit şi nu a rostit nici un cuvânt de hulă împotriva lui Dumnezeu."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_02_01",
+      "chapter": 2,
+      "pericope_num": "01",
+      "title_en": "Attack on Job’s Health",
+      "title_ro": "Atacul asupra sănătății lui Iov",
+      "start_verse": 1,
+      "end_verse": 10,
+      "verse_count": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi iarăşi au venit într-o zi îngerii lui Dumnezeu să se înfăţişeze înaintea Domnului şi Satan a venit şi el printre ei să se înfăţişeze înaintea Domnului."
+        },
+        {
+          "verse": 2,
+          "text": "Şi Domnul a zis către Satan: \"De unde vii?\" Iar Satan a răspuns Domnului şi a zis: \"Am dat târcoale pe pământ şi m-am plimbat în sus şi în jos\"."
+        },
+        {
+          "verse": 3,
+          "text": "Şi Domnul a zis către Satan: \"Ai luat tu seama la robul Meu Iov? Că nu este nici unul ca el pe pământ, fără prihană şi drept şi temător de Dumnezeu şi care să se ferească de ce este rău. El se ţine cu putere în statornicia lui şi tu M-ai întărâtat pe nedrept împotriva lui ca să-l prăpădesc\"."
+        },
+        {
+          "verse": 4,
+          "text": "Dar Satan a răspuns Domnului şi a zis: \"Cojoc pentru cojoc! Că tot ce are omul dă pentru viaţa lui."
+        },
+        {
+          "verse": 5,
+          "text": "Dar ia întinde-ţi mâna şi atinge-Te de osul şi de carnea lui! Să vedem dacă nu Te va blestema în faţă!\""
+        },
+        {
+          "verse": 6,
+          "text": "Şi Domnul a zis către Satan: \"Îl dau în puterea ta! Numai nu te atinge de viaţa lui\"."
+        },
+        {
+          "verse": 7,
+          "text": "Atunci Satan a plecat dinaintea Domnului şi a lovit pe Iov cu lepră, din tălpile picioarelor până în creştetul capului."
+        },
+        {
+          "verse": 8,
+          "text": "Şi a luat Iov un ciob ca să se scarpine şi şedea pe gunoi, afară din oraş."
+        },
+        {
+          "verse": 9,
+          "text": "Atunci nevasta lui a zis către el: \"Te ţii mereu în statornicia ta? Blesteamă pe Dumnezeu şi mori!"
+        },
+        {
+          "verse": 10,
+          "text": "Dar Iov i-a răspuns: \"Vorbeşti cum ar vorbi una din femeile nebune! Ce? Dacă am primit de la Dumnezeu cele bune, nu vom primi oare şi pe cele rele?\" Şi în toate acestea, Iov n-a păcătuit de loc cu buzele sale."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_02_02",
+      "chapter": 2,
+      "pericope_num": "02",
+      "title_en": "Job’s Three Friends",
+      "title_ro": "Cei trei prieteni ai lui Iov",
+      "start_verse": 11,
+      "end_verse": 13,
+      "verse_count": 3,
+      "verses": [
+        {
+          "verse": 11,
+          "text": "Iar trei prieteni ai lui Iov au aflat despre toate aceste nenorociri care dăduseră peste el şi au venit fiecare din ţara lui şi ei erau: Elifaz din Teman, Bildad din Şuah şi Ţofar din Naamah. Ei se înţeleseseră împreună să vină să împărtăşească durerea lui şi să-l mângâie."
+        },
+        {
+          "verse": 12,
+          "text": "Şi când ei şi-au ridicat ochii de departe nu l-au mai recunoscut. Atunci au slobozit glasurile lor, s-au tânguit şi şi-au sfâşiat fiecare veşmântul şi şi-au presărat capul cu ţărână."
+        },
+        {
+          "verse": 13,
+          "text": "Apoi au şezut pe pământ, lângă el, şapte zile şi şapte nopţi, fără să-i spună nici un cuvânt, căci vedeau cât este de mare durerea lui."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_03_01",
+      "chapter": 3,
+      "pericope_num": "01",
+      "title_en": "Job Curses the Day He Was Born",
+      "title_ro": "Iov blestemă ziua nașterii sale",
+      "start_verse": 1,
+      "end_verse": 26,
+      "verse_count": 26,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "După aceea, Iov a deschis gura sa şi a blestemat ziua în care s-a născut."
+        },
+        {
+          "verse": 2,
+          "text": "Şi Iov a vorbit şi a zis:"
+        },
+        {
+          "verse": 3,
+          "text": "\"Piară ziua în care m-am născut şi noaptea care a zis: un prunc de parte bărbătească s-a zămislit!"
+        },
+        {
+          "verse": 4,
+          "text": "Ziua aceea să se facă întuneric şi Domnului din cer să nu-I pese de ea şi lumina să n-o mai lumineze."
+        },
+        {
+          "verse": 5,
+          "text": "Bezna şi umbra morţii s-o cotropească, norii s-o învăluiască şi toate negurile s-o înspăimânte!"
+        },
+        {
+          "verse": 6,
+          "text": "Întunericul să cuprindă noaptea aceea şi să nu mai fie pusă în zilele anului şi în socoteala lunilor să nu mai intre!"
+        },
+        {
+          "verse": 7,
+          "text": "Pustie să rămână noaptea aceea şi nici o bucurie să nu pătrundă în ea!"
+        },
+        {
+          "verse": 8,
+          "text": "Blestemată să fie de către cei ce blesteamă zilele, de către cei ce ştiu să descânte Leviatanul."
+        },
+        {
+          "verse": 9,
+          "text": "Să se întunece stelele revărsatului zorilor ei; să aştepte lumina şi nimic să nu vină şi să nu mai vadă genele aurorei,"
+        },
+        {
+          "verse": 10,
+          "text": "Pentru că n-a închis pântecele care m-a zămislit şi n-a ascuns durerea dinaintea ochilor mei."
+        },
+        {
+          "verse": 11,
+          "text": "De ce n-am murit când eram în sânul mamei mele? Şi nu mi-am dat duhul, ieşind din pântecele ei?"
+        },
+        {
+          "verse": 12,
+          "text": "De ce m-au primit cei doi genunchi şi de ce cei doi sâni mi-au dat să sug?"
+        },
+        {
+          "verse": 13,
+          "text": "Căci acum aş sta culcat şi liniştit, aş dormi şi m-aş odihni,"
+        },
+        {
+          "verse": 14,
+          "text": "Cu împăraţii şi cu dregătorii pământului, care şi-au zidit morminte în singurătate,"
+        },
+        {
+          "verse": 15,
+          "text": "Sau cu domnitorii care umplu de aur şi de argint casele lor."
+        },
+        {
+          "verse": 16,
+          "text": "Sau de ce n-am fost o stârpitură aruncată şi ascunsă, ca acei prunci care n-au apucat să vadă lumina?"
+        },
+        {
+          "verse": 17,
+          "text": "Acolo cei nelegiuiţi se astâmpără şi cei împovăraţi se odihnesc."
+        },
+        {
+          "verse": 18,
+          "text": "Acolo cei ce poartă lanţuri ajung la liman de pace şi nu mai aud glasul paznicului."
+        },
+        {
+          "verse": 19,
+          "text": "Mic şi mare acolo sunt tot una şi robul a scăpat de stăpânul său."
+        },
+        {
+          "verse": 20,
+          "text": "Pentru ce dă Dumnezeu lumina vieţii celui nenorocit şi zile celor cu sufletul amărât;"
+        },
+        {
+          "verse": 21,
+          "text": "Celor ce aşteaptă moartea, şi ea nu vine, şi care scormonesc după ea mai mult ca după o comoară;"
+        },
+        {
+          "verse": 22,
+          "text": "Celor ce se bucură cu bucurie mare şi sunt plini de fericire, fiindcă au găsit un mormânt;"
+        },
+        {
+          "verse": 23,
+          "text": "Celui care nu ştie încotro să meargă şi pe care îl îngrădeşte Dumnezeu de jur-împrejur?"
+        },
+        {
+          "verse": 24,
+          "text": "Gemetele mele sunt pâinea mea şi vaietele mele curg ca apa."
+        },
+        {
+          "verse": 25,
+          "text": "De ceea ce mă tem, aceea mi se întâmplă şi de ceea ce mi-e frică tocmai de aceea am parte."
+        },
+        {
+          "verse": 26,
+          "text": "N-am nici tihnă, nici odihnă, nu-mi găsesc nici o pace şi zbuciumul mă stăpâneşte\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_04_01",
+      "chapter": 4,
+      "pericope_num": "01",
+      "title_en": "Eliphaz Speaks Job Has Sinned",
+      "title_ro": "Elifaz vorbește: Iov a păcătuit",
+      "start_verse": 1,
+      "end_verse": 21,
+      "verse_count": 21,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Atunci Elifaz din Teman a deschis gura şi a zis:"
+        },
+        {
+          "verse": 2,
+          "text": "\"Să-ţi vorbim ori să nu-ţi vorbim? Necazul tău e crâncen! Dar cine ar putea să-şi înăbuşe cuvintele?"
+        },
+        {
+          "verse": 3,
+          "text": "Iată, tu dădeai învăţătură multora şi întăreai multe mâini slăbite."
+        },
+        {
+          "verse": 4,
+          "text": "Cuvintele tale au ţinut în sus pe cei ce erau să cadă şi tu ai întărit genunchii care se clătinau."
+        },
+        {
+          "verse": 5,
+          "text": "Acum când ţi-a venit şi ţie rândul, eşti la strâmtorare şi ţi-ai pierdut firea; acum când lovitura te-a ajuns, te-ai spăimântat!"
+        },
+        {
+          "verse": 6,
+          "text": "Frica ta de Dumnezeu nu-ţi dă încredere şi desăvârşirea căilor tale nu-ţi dă nădejde?"
+        },
+        {
+          "verse": 7,
+          "text": "Ia adu-ţi aminte, care nevinovat s-a prăpădit şi unde le-a pierit urma celor drepţi în fala lui Dumnezeu?"
+        },
+        {
+          "verse": 8,
+          "text": "După cum am văzut eu, numai cei ce ară nelegiuirea şi seamănă răutatea au parte de asemenea roade."
+        },
+        {
+          "verse": 9,
+          "text": "La porunca Domnului, ei vor pieri, de suflarea mâniei Lui se vor stinge."
+        },
+        {
+          "verse": 10,
+          "text": "Răcnetul leului şi glasul leopardului, precum şi dinţii puilor de lei se sfărâmă."
+        },
+        {
+          "verse": 11,
+          "text": "Leul bătrân moare că nu mai are ce mânca şi puii leoaicei se risipesc."
+        },
+        {
+          "verse": 12,
+          "text": "O şoaptă a răzbit până la mine şi urechea mea a prins ceva din ea."
+        },
+        {
+          "verse": 13,
+          "text": "În spaimele care vin din nălucirile nopţii, atunci când somn adânc se lasă peste oameni,"
+        },
+        {
+          "verse": 14,
+          "text": "Cutremur m-a apucat şi fiori mi-au scuturat toate oasele."
+        },
+        {
+          "verse": 15,
+          "text": "Atunci un duh a trecut prin faţa mea; tot părul mi s-a zbârlit de groază."
+        },
+        {
+          "verse": 16,
+          "text": "A stat drept în picioare, dar n-am ştiut cine este; o umbră este înaintea ochilor mei, şi aud o voce uşoară care zice:"
+        },
+        {
+          "verse": 17,
+          "text": "\"Un om poate să fie drept în faţa lui Dumnezeu? O făptură omenească este ea curată înaintea Celui ce a zidit-o?"
+        },
+        {
+          "verse": 18,
+          "text": "Dacă El nu se încrede în slujitorii Săi şi dacă găseşte vină chiar îngerilor Săi,"
+        },
+        {
+          "verse": 19,
+          "text": "Cu cât mai vârtos celor ce locuiesc în locuinţe de lut, a căror obârşie este în ţărână şi pe care îi striveşte ca pe o molie."
+        },
+        {
+          "verse": 20,
+          "text": "De dimineaţă până seara sunt zdrobiţi, pier pe vecie fără să-i scape nimeni."
+        },
+        {
+          "verse": 21,
+          "text": "Mor, dar nu mor de prea multă înţelepciune\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_05_01",
+      "chapter": 5,
+      "pericope_num": "01",
+      "title_en": "Job Is Corrected by God",
+      "title_ro": "Iov este mustrat de Dumnezeu",
+      "start_verse": 1,
+      "end_verse": 27,
+      "verse_count": 27,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Strigă acum, dacă o fi cineva care să-ţi răspundă. Către care din sfinţii îngeri te vei îndrepta?"
+        },
+        {
+          "verse": 2,
+          "text": "Mânia ucide pe cel fără de minte, iar aprinderea omoară pe cel rătăcit."
+        },
+        {
+          "verse": 3,
+          "text": "Am văzut pe nebun prinzând rădăcină şi pe loc am blestemat sălaşul lui:"
+        },
+        {
+          "verse": 4,
+          "text": "Să se depărteze copiii lui de orice izbăvire şi să fie călcaţi în picioare la poartă şi nimeni să nu le vină într-ajutor."
+        },
+        {
+          "verse": 5,
+          "text": "Secerişul lui să-l mănânce flămânzii şi să-l ducă cu ei în ascunzişuri şi toată averea lui s-o soarbă însetaţii!"
+        },
+        {
+          "verse": 6,
+          "text": "Pentru că nelegiuirea nu iese din pământ şi necazul nu răsare din pulbere,"
+        },
+        {
+          "verse": 7,
+          "text": "Ci omul îşi naşte singur suferinţa, precum vulturii se ridică în aer, prin puterile lor;"
+        },
+        {
+          "verse": 8,
+          "text": "Dar eu alerg la Dumnezeu şi Lui Îi arăt necazul meu."
+        },
+        {
+          "verse": 9,
+          "text": "El face lucruri mari şi nepătrunse, lucruri minunate şi fără număr."
+        },
+        {
+          "verse": 10,
+          "text": "El dă ploaie pe pământ şi trimite apă pe câmpii."
+        },
+        {
+          "verse": 11,
+          "text": "El înalţă pe cei smeriţi şi izbăveşte pe cei necăjiţi."
+        },
+        {
+          "verse": 12,
+          "text": "El destramă planurile celor vicleni şi cu mâinile lor nu pot să izbândească."
+        },
+        {
+          "verse": 13,
+          "text": "El prinde pe înţelepţi în isteţimea lor şi sfatul celor înşelători iese prost."
+        },
+        {
+          "verse": 14,
+          "text": "Ziua în amiaza mare dau de întuneric şi umblă ca pe timp de noapte în ceas de zi."
+        },
+        {
+          "verse": 15,
+          "text": "Dar Dumnezeu scapă din gura lor pe omul dosădit şi din mâna celui puternic pe cel sărac."
+        },
+        {
+          "verse": 16,
+          "text": "Astfel, sărmanul prinde nădejde şi nedreptatea îşi închide gura."
+        },
+        {
+          "verse": 17,
+          "text": "Fericit este omul pe care Dumnezeu îl mustră! Şi să nu dispreţuieşti certarea Celui Atotputernic."
+        },
+        {
+          "verse": 18,
+          "text": "Căci El răneşte şi El leagă rana, El loveşte şi mâinile Lui tămăduiesc."
+        },
+        {
+          "verse": 19,
+          "text": "De şase ori din nevoi te va scoate, iar a şaptea oară, răul te va ocoli."
+        },
+        {
+          "verse": 20,
+          "text": "În timp de foamete, te va scăpa de la moarte şi în bătălie din primejdia sabiei."
+        },
+        {
+          "verse": 21,
+          "text": "Vei fi la adăpost de biciul bârfelii şi nu te vei teme de prăpăd când va veni."
+        },
+        {
+          "verse": 22,
+          "text": "Îţi vei râde de pustiire şi de foamete şi nu-ţi va păsa de fiarele pământului."
+        },
+        {
+          "verse": 23,
+          "text": "Căci vei avea legământ cu pietrele câmpului şi fiara sălbatică va trăi cu tine în pace."
+        },
+        {
+          "verse": 24,
+          "text": "Tu vei şti cortul tău la adăpost şi când îţi vei cerceta locuinţa nu vei avea dezamăgire."
+        },
+        {
+          "verse": 25,
+          "text": "Vei şti că urmaşii tăi sunt numeroşi şi că odraslele tale sunt multe ca iarba pământului."
+        },
+        {
+          "verse": 26,
+          "text": "Sosi-vei la mormânt, la adânci bătrâneţe, ca o şiră de grâu strânsă la vremea ei."
+        },
+        {
+          "verse": 27,
+          "text": "Iată ceea ce am cercetat şi aşa este. Ascultă şi învaţă spre folosul tău\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_06_01",
+      "chapter": 6,
+      "pericope_num": "01",
+      "title_en": "Job Replies My Complaint Is Just",
+      "title_ro": "Iov răspunde: Plângerea mea este dreaptă",
+      "start_verse": 1,
+      "end_verse": 30,
+      "verse_count": 30,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Atunci Iov a răspuns şi a grăit:"
+        },
+        {
+          "verse": 2,
+          "text": "\"O, dacă durerea mea s-ar cântări şi nenorocirea mea ar fi pusă la cântar!"
+        },
+        {
+          "verse": 3,
+          "text": "Şi fiindcă este mai grea decât nisipul mărilor, de aceea cuvintele mele sunt bâlbâite!"
+        },
+        {
+          "verse": 4,
+          "text": "Pentru că săgeţile Celui Atotputernic stau înfipte în mine şi duhul meu bea veninul lor, de aceea spaimele lui Dumnezeu vin cete-cete împotriva mea."
+        },
+        {
+          "verse": 5,
+          "text": "Zbiară măgarul sălbatic când e lângă păşunea verde? Mugeşte boul când stă lângă nutreţ?"
+        },
+        {
+          "verse": 6,
+          "text": "Poţi să mănânci ce n-are sare fără sare? Are vreun gust albuşul oului?"
+        },
+        {
+          "verse": 7,
+          "text": "Sufletul meu n-a voit să se atingă de ele; inima mea s-a dezgustat de pâinea mea."
+        },
+        {
+          "verse": 8,
+          "text": "Cine îmi va  dărui îndeplinirea rugăciunii mele şi va face ca Dumnezeu să-mi dea ce aştept,"
+        },
+        {
+          "verse": 9,
+          "text": "Şi să primească să mă sfărâme şi să-şi întindă mâna şi să mă nimicească!"
+        },
+        {
+          "verse": 10,
+          "text": "Dar va fi încă o mângâiere pentru mine şi voi tresălta, deşi împovărat de dureri nemiloase, fiindcă n-am ascuns poruncile Celui Sfânt."
+        },
+        {
+          "verse": 11,
+          "text": "Ce putere mai am ca să aştept şi ce viitor mai am ca să prelungesc viaţa mea?"
+        },
+        {
+          "verse": 12,
+          "text": "Tăria mea este tăria pietrelor? Trupul meu este oare de aramă?"
+        },
+        {
+          "verse": 13,
+          "text": "Aş putea găsi vreun sprijin în mine şi tot ajutorul n-a fugit, oare, departe de mine?"
+        },
+        {
+          "verse": 14,
+          "text": "Celui ce este în suferinţă i se cuvine mila prietenului său, dar el uită teama de Cel Atotputernic."
+        },
+        {
+          "verse": 15,
+          "text": "Fraţii mei s-au arătat înşelători ca un puhoi, ca albia puhoaielor repezi."
+        },
+        {
+          "verse": 16,
+          "text": "Erau acoperite de ghiaţă, zăpada stătea grămadă peste ele;"
+        },
+        {
+          "verse": 17,
+          "text": "Dar cum se topeşte zăpada, ele şi seacă şi, cum se încălzeşte, ele se usucă pe loc."
+        },
+        {
+          "verse": 18,
+          "text": "Caravanele se abat din drumul lor, ele înaintează în pustiu şi se rătăcesc."
+        },
+        {
+          "verse": 19,
+          "text": "Caravanele din Tema aşteaptă, convoaiele din Saba nădăjduiesc în ele."
+        },
+        {
+          "verse": 20,
+          "text": "Şi sunt uimiţi că au avut încredere; când sosesc lângă uscatele puhoaie sunt uimiţi."
+        },
+        {
+          "verse": 21,
+          "text": "Aşa aţi fost şi voi acum pentru mine: Vă scutură spaima şi vă este frică!"
+        },
+        {
+          "verse": 22,
+          "text": "Nu cumva v-am zis: Daţi-mi de pomană şi împărţiţi din averile voastre pentru mine?"
+        },
+        {
+          "verse": 23,
+          "text": "Sau scăpaţi-mă din mâna unui duşman sau răscumpăraţi-mă din mâna tiranilor?"
+        },
+        {
+          "verse": 24,
+          "text": "Fiţi învăţătorii mei şi eu voi tăcea; lămuriţi-mă unde este păcatul meu!"
+        },
+        {
+          "verse": 25,
+          "text": "Cât de îmbietoare sunt cuvintele întregimii sufleteşti! Dar ce judecă judecata care vine de la voi?"
+        },
+        {
+          "verse": 26,
+          "text": "Cugetaţi voi să faceţi judecata vorbelor? Ducă-se în vânt cuvintele unui deznădăjduit!"
+        },
+        {
+          "verse": 27,
+          "text": "Voi năpăstuiţi pe orfan, voi împovăraţi pe prietenul vostru."
+        },
+        {
+          "verse": 28,
+          "text": "Şi acum întrebaţi şi vă întoarceţi către mine şi în faţa voastră nu voi spune minciună!"
+        },
+        {
+          "verse": 29,
+          "text": "Cercetaţi din nou! Nu este nici o viclenie! Cercetaţi din nou! Dreptatea mea este mereu aici!"
+        },
+        {
+          "verse": 30,
+          "text": "Este oare vreo strâmbătate pe limba mea şi cerul gurii mele nu va deosebi el ce este rău şi ce este amar?"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_07_01",
+      "chapter": 7,
+      "pericope_num": "01",
+      "title_en": "Job My Suffering Is without End",
+      "title_ro": "Iov: Suferința mea este fără sfârșit",
+      "start_verse": 1,
+      "end_verse": 21,
+      "verse_count": 21,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Oare omul pe pământ nu este ca într-o slujbă ostăşească şi zilele lui nu sunt ca zilele unui simbriaş?"
+        },
+        {
+          "verse": 2,
+          "text": "El este asemenea robului care suspină după umbră, asemenea năimitului care-şi aşteaptă simbria."
+        },
+        {
+          "verse": 3,
+          "text": "Astfel şi eu am avut parte de luni de durere, şi mi-au fost date nopţi de suferinţă."
+        },
+        {
+          "verse": 4,
+          "text": "Dacă mă culc, zic: Când va veni ziua? Dacă mă scol, mă întreb: Când va veni seara? Şi sunt năpădit de fel de fel de arătări până la asfinţit."
+        },
+        {
+          "verse": 5,
+          "text": "Trupul meu e plin de păduchi şi de solzi de murdărie; pielea mea crapă şi se zbârceşte."
+        },
+        {
+          "verse": 6,
+          "text": "Zilele mele au fost mai grabnice ca suveica şi s-au isprăvit, fiindcă firul s-a terminat."
+        },
+        {
+          "verse": 7,
+          "text": "Adu-ţi aminte, Doamne, că viaţa mea e o suflare, că ochiul meu nu va mai vedea fericirea."
+        },
+        {
+          "verse": 8,
+          "text": "Ochiul celui ce mă vedea nu mă va mai zări; ochii Tăi mă vor căuta, dar eu nu voi mai fi."
+        },
+        {
+          "verse": 9,
+          "text": "Negura se risipeşte, piere, tot astfel cel ce coboară în iad nu mai vine înapoi."
+        },
+        {
+          "verse": 10,
+          "text": "Nu se mai înapoiază în casa sa şi locuinţa sa nu-l mai cunoaşte."
+        },
+        {
+          "verse": 11,
+          "text": "Drept aceea nu voi pune strajă gurii mele, ci voi vorbi întru deznădejdea duhului meu şi mă voi plânge întru amărăciunea inimii mele."
+        },
+        {
+          "verse": 12,
+          "text": "Sunt eu, oare, oceanul sau balaurul din ocean, ca să pui să mă păzească?"
+        },
+        {
+          "verse": 13,
+          "text": "Când gândesc: Patul meu mă va odihni, culcuşul meu îmi va alina durerile,"
+        },
+        {
+          "verse": 14,
+          "text": "Atunci Tu mă spăimântezi cu vise şi mă îngrozeşti cu năluciri."
+        },
+        {
+          "verse": 15,
+          "text": "Pentru aceea, sufletul meu ar vrea mai bine ştreangul, mai bine moartea decât aceste chinuri."
+        },
+        {
+          "verse": 16,
+          "text": "Mă isprăvesc, nu voi trăi în veac; lasă-mă, căci zilele mele sunt o suflare."
+        },
+        {
+          "verse": 17,
+          "text": "Ce este omul, ca să-ţi baţi capul cu el şi ca să-i dai luarea Ta aminte?"
+        },
+        {
+          "verse": 18,
+          "text": "De ce îl cercetezi în fiecare dimineaţă şi de ce îl urmăreşti în orice clipă?"
+        },
+        {
+          "verse": 19,
+          "text": "Când vei înceta să mă priveşti? Când îmi vei da răgaz să-mi înghit saliva?"
+        },
+        {
+          "verse": 20,
+          "text": "Dacă am greşit, ce ţi-am făcut ţie, Păzitorule de oameni? De ce m-ai luat ţintă pentru săgeţile Tale şi de ce ţi-am ajuns povară?"
+        },
+        {
+          "verse": 21,
+          "text": "De ce nu îngădui greşeala mea şi nu laşi să treacă fărădelegea mea? Degrabă mă voi culca în ţărână; mă vei căuta, dar nu mă vei mai găsi\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_08_01",
+      "chapter": 8,
+      "pericope_num": "01",
+      "title_en": "Bildad Speaks Job Should Repent",
+      "title_ro": "Bildad vorbește: Iov trebuie să se pocăiască",
+      "start_verse": 1,
+      "end_verse": 22,
+      "verse_count": 22,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Atunci Bildad din Şuah a răspuns şi a zis:"
+        },
+        {
+          "verse": 2,
+          "text": "\"Până când vei tot vorbi astfel de lucruri şi cuvintele din gura ta vor izvorî ca vijelia?"
+        },
+        {
+          "verse": 3,
+          "text": "Dumnezeu o să încovoaie ce e drept? Cel Atotputernic o să strâmbe El dreptatea?"
+        },
+        {
+          "verse": 4,
+          "text": "Dacă feciorii tăi au păcătuit faţă de El, El i-a lăsat să se prăbuşească sub povara nelegiuirii lor."
+        },
+        {
+          "verse": 5,
+          "text": "Dar tu dacă vii la Dumnezeu, dacă te rogi de Cel Atotputernic,"
+        },
+        {
+          "verse": 6,
+          "text": "Dacă eşti nevinovat şi fără pată, atunci de bună seamă că va veghea asupra ta şi va clădi la loc casa dreptăţii tale"
+        },
+        {
+          "verse": 7,
+          "text": "Şi starea ta cea veche va fi nimica toată, atât de mult vei fi deasupra în starea ta cea nouă."
+        },
+        {
+          "verse": 8,
+          "text": "Întreabă pe cei care au fost înaintea noastră şi ia aminte la cele trăite şi păţite de părinţi."
+        },
+        {
+          "verse": 9,
+          "text": "Căci noi suntem de ieri şi nu ştim nimic, căci zilele noastre pe pământ nu sunt decât o umbră."
+        },
+        {
+          "verse": 10,
+          "text": "Ei îţi vor da învăţătură, ei îţi vor grăi şi din inima lor îţi vor cuvânta unele ca acestea:"
+        },
+        {
+          "verse": 11,
+          "text": "Oare papura creşte fără baltă şi rogozul fără umezeală?"
+        },
+        {
+          "verse": 12,
+          "text": "Pe când încă este în floare şi nu este tăiat, el se usucă, mai înainte decât orice buruiană."
+        },
+        {
+          "verse": 13,
+          "text": "Tot aşa se întâmplă cu toţi aceia care uită pe Dumnezeu şi aşa se veştejeşte nădejdea celui nelegiuit."
+        },
+        {
+          "verse": 14,
+          "text": "Încrederea lui e spulberată şi bizuinţa lui este o pânză de păianjen."
+        },
+        {
+          "verse": 15,
+          "text": "Se sprijină pe casa sa, dar ea nu se ţine; se agaţă de ea, dar casa se prăvale."
+        },
+        {
+          "verse": 16,
+          "text": "Stă plin de suc în faţa soarelui şi în grădina unde este îşi întinde vlăstarii;"
+        },
+        {
+          "verse": 17,
+          "text": "Rădăcinile lui se împletesc cu pietrele şi se înfig în adâncul stâncilor."
+        },
+        {
+          "verse": 18,
+          "text": "Dacă îl smulgi din loc, locul îl tăgăduieşte: Nu te-am văzut niciodată!"
+        },
+        {
+          "verse": 19,
+          "text": "Iată-l acum putred, pe cărare, şi din pământ răsar alţi vlăstari."
+        },
+        {
+          "verse": 20,
+          "text": "Dumnezeu nu dispreţuieşte pe cel desăvârşit şi nu ia de mână pe răufăcători."
+        },
+        {
+          "verse": 21,
+          "text": "Gura ta va fi plină încă o dată de râsete şi buzele tale de veselie."
+        },
+        {
+          "verse": 22,
+          "text": "Cei ce te urăsc se vor înveşmânta în ruşine şi cortul celor răi va pieri!\""
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_09_01",
+      "chapter": 9,
+      "pericope_num": "01",
+      "title_en": "Job Replies There Is No Mediator",
+      "title_ro": "Iov răspunde: Nu există mijlocitor",
+      "start_verse": 1,
+      "end_verse": 35,
+      "verse_count": 35,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Atunci Iov a răspuns şi a zis:"
+        },
+        {
+          "verse": 2,
+          "text": "\"Ştiu bine că aşa este; căci cum ar putea un om să fie drept înaintea lui Dumnezeu?"
+        },
+        {
+          "verse": 3,
+          "text": "Dacă ar fi să se certe cu El, din o mie de lucruri n-ar putea să-I răspundă nici la unul singur."
+        },
+        {
+          "verse": 4,
+          "text": "A Lui este înţelepciunea şi atotputernicia; cine ar putea să-I stea împotrivă şi să rămână teafăr?"
+        },
+        {
+          "verse": 5,
+          "text": "El mişcă munţii din loc fără ca ei să prindă de veste că El i-a răsturnat în mânia Lui."
+        },
+        {
+          "verse": 6,
+          "text": "El zguduie pământul din temelia lui, aşa încât stâlpii lui se clatină."
+        },
+        {
+          "verse": 7,
+          "text": "El porunceşte soarelui şi soarele nu se mai ridică. El pune pecetea Lui asupra stelelor."
+        },
+        {
+          "verse": 8,
+          "text": "El singur este Cel ce întinde cerurile şi umblă pe valurile mării."
+        },
+        {
+          "verse": 9,
+          "text": "El a zidit Carul mare, Raliţa, Pleiadele şi cămările stelelor de miazăzi."
+        },
+        {
+          "verse": 10,
+          "text": "El a făcut lucruri mari şi nepătrunse şi minuni fără de număr."
+        },
+        {
+          "verse": 11,
+          "text": "Iată, dacă trece pe lângă mine, eu nu-L văd, şi dacă se strecoară, eu nu-I prind de veste."
+        },
+        {
+          "verse": 12,
+          "text": "Dacă ia şi ridică, cine va putea să-L oprească şi cine-I va zice: Ce ai făcut?"
+        },
+        {
+          "verse": 13,
+          "text": "Dumnezeu nu-şi înfrânează mânia Sa şi sub El se încovoaie toţi slujitorii mândriei."
+        },
+        {
+          "verse": 14,
+          "text": "Şi eu atunci cum o să-I răspund şi ce cuvinte o să aleg?"
+        },
+        {
+          "verse": 15,
+          "text": "Chiar dacă aş avea dreptate, nu-I voi răspunde, ci mă voi ruga judecătorului."
+        },
+        {
+          "verse": 16,
+          "text": "Chiar dacă m-ar asculta, când Îl chem, tot n-aş putea să cred că ascultă glasul meu,"
+        },
+        {
+          "verse": 17,
+          "text": "Căci El mă sfărâmă ca sub furtună şi înmulţeşte fără cuvânt rănile mele."
+        },
+        {
+          "verse": 18,
+          "text": "El nu-mi dă răgaz să răsuflu şi mă adapă cu amărăciune."
+        },
+        {
+          "verse": 19,
+          "text": "Dacă este vorba de putere, El este Cel puternic. Dacă este vorba de judecată, cine mă va apăra?"
+        },
+        {
+          "verse": 20,
+          "text": "Oricâtă dreptate aş avea, gura mea mă va osândi şi dacă sunt fără prihană ea mă scoate vinovat."
+        },
+        {
+          "verse": 21,
+          "text": "Sunt oare desăvârşit? Eu singur nu mă cunosc pe mine şi viaţa mea o dispreţuiesc."
+        },
+        {
+          "verse": 22,
+          "text": "Pentru aceea am zis: Tot una este! El nimiceşte pe cel desăvârşit şi pe cel viclean."
+        },
+        {
+          "verse": 23,
+          "text": "Dacă o nenorocire aduce moartea deodată, ce-I pasă Lui de deznădejdea celor fără de vină?"
+        },
+        {
+          "verse": 24,
+          "text": "Dacă o ţară a încăput pe mâna unui om viclean, El acoperă faţa judecătorilor Săi. Şi dacă nu El, cine atunci?"
+        },
+        {
+          "verse": 25,
+          "text": "Zilele mele sunt mai grabnice decât un aducător de veşti şi au fugit fără să vadă fericirea."
+        },
+        {
+          "verse": 26,
+          "text": "S-au strecurat ca nişte bărci de papură, ca un vultur care se năpusteşte asupra prăzii sale."
+        },
+        {
+          "verse": 27,
+          "text": "Dacă zic: Vreau să-mi uit suferinţa, să-mi schimb înfăţişarea şi să fiu voios,"
+        },
+        {
+          "verse": 28,
+          "text": "Sunt năpădit de teama chinurilor mele, ştiind bine că Tu nu mă vei scoate nevinovat."
+        },
+        {
+          "verse": 29,
+          "text": "Dacă sunt vinovat, de ce să mă mai trudesc zadarnic?"
+        },
+        {
+          "verse": 30,
+          "text": "Dacă m-aş spăla cu zăpadă şi mi-aş curăţi mâinile cu leşie,"
+        },
+        {
+          "verse": 31,
+          "text": "Atunci Tu tot m-ai cufunda în noroi, încât şi veşmintele mele s-ar scârbi de mine."
+        },
+        {
+          "verse": 32,
+          "text": "Căci Dumnezeu nu este un om ca mine, ca să stau cu El de vorbă şi ca să mergem împreună la judecată."
+        },
+        {
+          "verse": 33,
+          "text": "Între noi nu se află un al treilea care să-şi pună mâna peste noi amândoi"
+        },
+        {
+          "verse": 34,
+          "text": "Şi care să depărteze varga Sa de deasupra capului meu, aşa încât groaza Lui să nu mă mai tulbure;"
+        },
+        {
+          "verse": 35,
+          "text": "Atunci aş vorbi şi nu m-aş mai teme de El. Dar nu este aşa şi eu sunt singur cu mine însumi."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_10_01",
+      "chapter": 10,
+      "pericope_num": "01",
+      "title_en": "Job I Loathe My Life",
+      "title_ro": "Iov: Urăsc viața mea",
+      "start_verse": 1,
+      "end_verse": 22,
+      "verse_count": 22,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Sufletul meu este dezgustat de viaţa mea. Voi lăsa să curgă slobodă tânguirea mea şi voi vorbi întru suferinţa sufletului meu."
+        },
+        {
+          "verse": 2,
+          "text": "Voi spune către Domnul: Nu mă osândi; lămureşte-mă, să ştiu pentru ce Te cerţi cu mine."
+        },
+        {
+          "verse": 3,
+          "text": "Care e folosul Tău, când eşti aprig şi dispreţuieşti făptura mâinilor Tale şi eşti surâzător la sfatul celor răi?"
+        },
+        {
+          "verse": 4,
+          "text": "Ai Tu ochi materiali şi vezi lucrurile precum le vede omul?"
+        },
+        {
+          "verse": 5,
+          "text": "Zilele Tale sunt oare ca zilele omului şi anii Tăi ca anii omeneşti,"
+        },
+        {
+          "verse": 6,
+          "text": "Ca să cercetezi fărădelegea mea şi să cauţi păcatul meu,"
+        },
+        {
+          "verse": 7,
+          "text": "Când ştii bine că nu sunt vinovat şi că nimeni nu mă poate scăpa din mâna Ta?"
+        },
+        {
+          "verse": 8,
+          "text": "Mâinile Tale m-au făcut şi m-au zidit şi apoi Tu mă nimiceşti în întregime."
+        },
+        {
+          "verse": 9,
+          "text": "Adu-ţi aminte că m-ai făcut din pământ şi că mă vei întoarce în ţărână."
+        },
+        {
+          "verse": 10,
+          "text": "Nu m-ai turnat oare ca pe lapte şi nu m-ai închegat ca pe caş?"
+        },
+        {
+          "verse": 11,
+          "text": "M-ai îmbrăcat în piele şi în carne, m-ai ţesut din oase şi din vine;"
+        },
+        {
+          "verse": 12,
+          "text": "Apoi mi-ai dat viaţă, şi bunăvoinţa Ta şi purtarea Ta de grijă au ţinut vie suflarea mea,"
+        },
+        {
+          "verse": 13,
+          "text": "Şi ceea ce Tu ţineai ascuns în inima Ta, iată ştiu acum gândul Tău:"
+        },
+        {
+          "verse": 14,
+          "text": "Dacă păcătuiesc, Tu mă supraveghezi şi nu mă dezvinovăţeşti de greşeala mea."
+        },
+        {
+          "verse": 15,
+          "text": "Dacă sunt vinovat este amar de mine şi dacă sunt drept nu cutez să ridic capul, ca unul ce sunt sătul de ocară şi sunt apăsat de necazuri."
+        },
+        {
+          "verse": 16,
+          "text": "Şi astfel fără vlagă cum sunt, Tu mă vânezi ca un leu şi din nou Te arăţi minunat faţă de mine."
+        },
+        {
+          "verse": 17,
+          "text": "Tu înnoieşti duşmănia Ta împotriva mea. Tu sporeşti mânia Ta asupră-mi ca nişte oştiri primenite care se luptă cu mine."
+        },
+        {
+          "verse": 18,
+          "text": "De ce m-ai scos din sânul mamei mele? Aş fi murit şi nici un ochi nu m-ar fi văzut!"
+        },
+        {
+          "verse": 19,
+          "text": "Aş fi fost ca unul care n-a fost niciodată şi din pântecele mamei mele aş fi trecut în mormânt."
+        },
+        {
+          "verse": 20,
+          "text": "Nu sunt oare zilele mele destul de puţine? Dă-Te la o parte ca să pot să-mi vin puţin în fire,"
+        },
+        {
+          "verse": 21,
+          "text": "Mai înainte ca să plec spre a nu mă mai întoarce din ţinutul întunericului şi al umbrelor morţii,"
+        },
+        {
+          "verse": 22,
+          "text": "Ţara de întuneric şi neorânduială unde lumina e totuna cu bezna\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_11_01",
+      "chapter": 11,
+      "pericope_num": "01",
+      "title_en": "Zophar Speaks Job’s Guilt Deserves Punishment",
+      "title_ro": "Țofar vorbește: vina lui Iov merită pedeapsă",
+      "start_verse": 1,
+      "end_verse": 20,
+      "verse_count": 20,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Atunci Ţofar, din Naamah, a luat cuvântul şi a vorbit:"
+        },
+        {
+          "verse": 2,
+          "text": "\"Cel ce înşiră atâtea vorbe să nu primească nici un răspuns şi tocmai vorbăreţul să aibă dreptate?"
+        },
+        {
+          "verse": 3,
+          "text": "Toate câte le-ai spus îi vor face pe oameni să tacă şi vei râde de ei, fără ca nimeni să te înfrunte?"
+        },
+        {
+          "verse": 4,
+          "text": "Fiindcă tu zici: Credinţa mea este curată şi în ochii Tăi n-am nici o vină."
+        },
+        {
+          "verse": 5,
+          "text": "Dar cine va face pe Dumnezeu să vorbească, să Îşi deschidă buzele spre tine,"
+        },
+        {
+          "verse": 6,
+          "text": "Şi să-ţi destăinuiască tainele înţelepciunii? (căci ele sunt cu anevoie de înţeles); atunci de-abia vei şti că Dumnezeu îţi cere socoteală de greşeala ta."
+        },
+        {
+          "verse": 7,
+          "text": "Descoperi-vei tu care este firea lui Dumnezeu? Urca-vei tu până la desăvârşirea Celui Atotputernic?"
+        },
+        {
+          "verse": 8,
+          "text": "Ea este mai înaltă decât cerurile. Şi ce vei face tu? Ea este mai adâncă decât împărăţia morţii. Cum vei pătrunde-o tu?"
+        },
+        {
+          "verse": 9,
+          "text": "Măsura ei este mai lungă decât pământul şi mai lată decât marea."
+        },
+        {
+          "verse": 10,
+          "text": "Dacă trece cu vederea, dacă ţine ascuns, dacă dă pe faţă, cine poate să-L oprească?"
+        },
+        {
+          "verse": 11,
+          "text": "El cunoaşte pe cei ce trăiesc din înşelăciune, El vede nedreptatea şi o ţine în seamă;"
+        },
+        {
+          "verse": 12,
+          "text": "Astfel deci un om fără minte câştigă înţelepciune, precum puiul de asin ajunge asin mare."
+        },
+        {
+          "verse": 13,
+          "text": "Cât despre tine, dacă inima ta e credincioasă şi dacă întinzi mâinile către El,"
+        },
+        {
+          "verse": 14,
+          "text": "Şi depărtezi de mâna ta fărădelegea ei şi nu rabzi să locuiască nedreptatea în corturile tale,"
+        },
+        {
+          "verse": 15,
+          "text": "Atunci vei ridica fruntea ta fără pată pe ea, vei fi puternic şi fără frică."
+        },
+        {
+          "verse": 16,
+          "text": "Fiindcă vei uita necazul tău de azi şi-ţi vei aduce aminte de el numai ca de nişte ape, care au fost şi au trecut."
+        },
+        {
+          "verse": 17,
+          "text": "Şi viaţa ta va înflori mai mândră decât miezul zilei, iar întunericul se va face revărsat de zori."
+        },
+        {
+          "verse": 18,
+          "text": "Atunci tu vei fi la adăpost, căci vei fi plin de nădejde, te vei simţi ocrotit şi te vei culca fără grijă."
+        },
+        {
+          "verse": 19,
+          "text": "Te vei întinde fără ca să te strâmtoreze nimeni şi mulţi vor răsfăţa obrazul tău."
+        },
+        {
+          "verse": 20,
+          "text": "Dar ochii nelegiuiţilor tânjesc şi loc de scăpare nu au, iar nădejdea este când îşi vor da sufletul\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_12_01",
+      "chapter": 12,
+      "pericope_num": "01",
+      "title_en": "Job Replies I Am a Laughingstock",
+      "title_ro": "Iov răspunde: Sunt de batjocură",
+      "start_verse": 1,
+      "end_verse": 25,
+      "verse_count": 25,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Atunci Iov a răspuns şi a zis:"
+        },
+        {
+          "verse": 2,
+          "text": "\"Cu adevărat numai voi sunteţi înţelepţi şi înţelepciunea va muri o dată cu voi."
+        },
+        {
+          "verse": 3,
+          "text": "Dar şi eu am minte ca voi şi nu sunt mai prejos decât voi şi cine nu cunoaşte lucrurile pe care mi le-aţi spus?"
+        },
+        {
+          "verse": 4,
+          "text": "Eu am ajuns pricină de batjocură pentru prietenul meu, eu care chem pe Dumnezeu şi căruia El răspunde: cel drept, cel fără vină e pricină de râs."
+        },
+        {
+          "verse": 5,
+          "text": "Să dispreţuim nenorocirea (gândesc cei fericiţi); încă o lovitură celor ce se poticnesc."
+        },
+        {
+          "verse": 6,
+          "text": "Foarte liniştite stau şi sunt corturile jefuitorilor şi cei ce mânie pe Dumnezeu sunt plini de încredere, ca unii care au făcut din pumnul lor un dumnezeu."
+        },
+        {
+          "verse": 7,
+          "text": "Dar ia întreabă dobitoacele şi te vor învăţa, şi păsările cerului, şi te vor lămuri;"
+        },
+        {
+          "verse": 8,
+          "text": "Sau vorbeşte cu pământul, şi-ţi va da învăţătură şi peştii mării îţi vor istorisi cu de-amănuntul."
+        },
+        {
+          "verse": 9,
+          "text": "Cine nu cunoaşte din toate acestea că mâna Domnului a făcut aceste lucruri?"
+        },
+        {
+          "verse": 10,
+          "text": "În mâna Lui El ţine viaţa a tot ce trăieşte şi suflarea întregii omeniri."
+        },
+        {
+          "verse": 11,
+          "text": "Urechea nu deosebeşte ea cuvintele tot aşa, precum cerul gurii deosebeşte mâncarea?"
+        },
+        {
+          "verse": 12,
+          "text": "Oare nu la bătrâni sălăşluieşte înţelepciunea şi priceperea nu merge mână în mână cu vârsta înaintată?"
+        },
+        {
+          "verse": 13,
+          "text": "La Dumnezeu se află înţelepciunea şi puterea; sfatul şi pătrunderea sunt ale Lui."
+        },
+        {
+          "verse": 14,
+          "text": "Ceea ce dărâmă El, nimeni nu mai zideşte la loc şi pe cine-l închide, nimeni nu poate să-l mai deschidă."
+        },
+        {
+          "verse": 15,
+          "text": "Dacă opreşte apele pe loc, ele scad şi pier; dacă le dă drumul, ele răstoarnă lumea;"
+        },
+        {
+          "verse": 16,
+          "text": "Tăria şi înţelepciunea sunt la El. El este stăpân şi peste rătăcit şi peste cel ce-l face să rătăcească."
+        },
+        {
+          "verse": 17,
+          "text": "El goneşte pe sfetnici în picioarele goale şi pe judecători îi aruncă pradă nebuniei."
+        },
+        {
+          "verse": 18,
+          "text": "El destramă puterea împăraţilor şi pune cingătoare de frânghie în jurul coapselor lor."
+        },
+        {
+          "verse": 19,
+          "text": "El goneşte pe preoţi în picioarele goale şi dă peste cap pe cei puternici."
+        },
+        {
+          "verse": 20,
+          "text": "El taie vorba celor meşteri la cuvânt şi ia mintea celor bătrâni."
+        },
+        {
+          "verse": 21,
+          "text": "El face de ocară pe cei mari şi slăbeşte încingătoarea celor voinici."
+        },
+        {
+          "verse": 22,
+          "text": "El scoate din întuneric lucrurile ascunse şi aduce la lumină ceea ce era acoperit de umbră."
+        },
+        {
+          "verse": 23,
+          "text": "El sporeşte neamurile şi apoi le pierde, El le lasă să se întindă şi apoi le strâmtorează."
+        },
+        {
+          "verse": 24,
+          "text": "El scoate din minţi pe căpeteniile popoarelor şi îi lasă să rătăcească în singurătăţi fără cărări."
+        },
+        {
+          "verse": 25,
+          "text": "Acolo ei orbecăiesc în întuneric, fără nici o lumină, căci Dumnezeu îi lasă să se împleticească aidoma celui ce s-a îmbătat."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_13_01",
+      "chapter": 13,
+      "pericope_num": "01",
+      "title_en": "Job’s Despondent Prayer",
+      "title_ro": "Rugăciunea descurajată a lui Iov",
+      "start_verse": 1,
+      "end_verse": 28,
+      "verse_count": 28,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "De bună seamă, ochiul meu a văzut toate acestea, urechea mea le-a auzit şi le-a înţeles."
+        },
+        {
+          "verse": 2,
+          "text": "Ceea ce ştiţi voi, ştiu şi eu şi nu sunt deloc mai prejos decât voi."
+        },
+        {
+          "verse": 3,
+          "text": "Dar eu vreau să vorbesc cu Cel Atotputernic, vreau să-mi apăr pricina înaintea lui Dumnezeu."
+        },
+        {
+          "verse": 4,
+          "text": "Căci voi sunteţi nişte născocitori ai minciunii, sunteţi cu toţii nişte doctori neputincioşi!"
+        },
+        {
+          "verse": 5,
+          "text": "Ce bine ar fi fost dacă aţi fi tăcut! Câtă înţelepciune ar fi fost din partea voastră!"
+        },
+        {
+          "verse": 6,
+          "text": "Ascultaţi acum apărarea mea şi băgaţi de seamă la rostirea buzelor mele."
+        },
+        {
+          "verse": 7,
+          "text": "Oare de dragul lui Dumnezeu spuneţi voi lucruri strâmbe şi spre apărarea Lui croiţi minciuni?"
+        },
+        {
+          "verse": 8,
+          "text": "Voiţi să ţineţi cu El şi să fiţi apărătorii Lui?"
+        },
+        {
+          "verse": 9,
+          "text": "Şi dacă ar fi ca să vă cerceteze, ar fi bine de voi, sau vreţi să-L înşelaţi cum înşelaţi un om?"
+        },
+        {
+          "verse": 10,
+          "text": "Desigur El vă va osândi dacă în ascuns vreţi să fiţi părtinitori cu El."
+        },
+        {
+          "verse": 11,
+          "text": "Măreţia Lui oare nu vă înfricoşează şi groaza Lui nu va cădea oare peste voi?"
+        },
+        {
+          "verse": 12,
+          "text": "Rostirile voastre au tăria cenuşei. Răspunsurile voastre se prefac în noroi."
+        },
+        {
+          "verse": 13,
+          "text": "Închideţi gura în faţa mea şi eu voi vorbi, orice ar fi să se întâmple."
+        },
+        {
+          "verse": 14,
+          "text": "Drept aceea îmi voi lua în dinţi carnea mea şi viaţa mea o pun în mâna mea."
+        },
+        {
+          "verse": 15,
+          "text": "Dacă o fi să mă ucidă, nu voi tremura, dar voi descurca în faţa Sa firele pricinei mele,"
+        },
+        {
+          "verse": 16,
+          "text": "Şi chiar aceasta îmi va fi mie izbândă, fiindcă un nelegiuit nu se înfăţişează înaintea Lui."
+        },
+        {
+          "verse": 17,
+          "text": "Ascultaţi cu luare-aminte cuvintele mele şi ceea ce vă voi spune să vă rămână în urechi."
+        },
+        {
+          "verse": 18,
+          "text": "Iată am pus la cale o judecată, şi ştiu că eu sunt cel ce am dreptate."
+        },
+        {
+          "verse": 19,
+          "text": "Are cineva ceva de spus împotriva mea? Atunci voi amuţi degrabă şi voi aştepta moartea."
+        },
+        {
+          "verse": 20,
+          "text": "Numai scuteşte-mă de două lucruri, şi nu mă voi ascunde de faţa Ta."
+        },
+        {
+          "verse": 21,
+          "text": "Depărtează mâna Ta de deasupră-mi şi nu mă mai tulbura cu groaza Ta."
+        },
+        {
+          "verse": 22,
+          "text": "Apoi cheamă-mă şi eu iţi voi răspunde, sau lasă-mă să vorbesc eu şi Tu să-mi dai răspuns."
+        },
+        {
+          "verse": 23,
+          "text": "Câte greşeli şi câte păcate am făcut? Dă-mi pe faţă călcarea mea de lege şi păcatul meu."
+        },
+        {
+          "verse": 24,
+          "text": "De ce ascunzi faţa Ta şi mă iei drept un duşman al Tău?"
+        },
+        {
+          "verse": 25,
+          "text": "Vrei oare, să înspăimânţi o frunză pe care o bate vântul? Vrei să Te îndârjeşti împotriva unui pai uscat?"
+        },
+        {
+          "verse": 26,
+          "text": "De ce să scrii împotriva mea aceste hotărâri amare? De ce să-mi scoţi ochii cu greşelile tinereţii?"
+        },
+        {
+          "verse": 27,
+          "text": "De ce să-mi vâri picioarele în butuci şi să pândeşti toţi paşii mei şi toate urmele mele?"
+        },
+        {
+          "verse": 28,
+          "text": "Când Tu ştii că trupul meu se nimiceşte ca un putregai şi ca o haină mâncată de molii!"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_14_01",
+      "chapter": 14,
+      "pericope_num": "01",
+      "title_en": "Job Chapter 14",
+      "title_ro": "Capitolul 14",
+      "start_verse": 1,
+      "end_verse": 22,
+      "verse_count": 22,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Omul născut din femeie are puţine zile de trăit, dar se satură de necazuri."
+        },
+        {
+          "verse": 2,
+          "text": "Ca şi floarea, el creşte şi se veştejeşte şi ca umbra el fuge şi e fără durată."
+        },
+        {
+          "verse": 3,
+          "text": "Şi asupra lui priveşti şi pe mine Tu mă sileşti să vin la judecată cu Tine."
+        },
+        {
+          "verse": 4,
+          "text": "Cine ar putea să scoată ceva curat din ceea ce este necurat? Nimeni!"
+        },
+        {
+          "verse": 5,
+          "text": "Deoarece zilele lui sunt măsurate şi ştii socoteala lunilor lui şi i-ai pus un hotar peste care nu va trece."
+        },
+        {
+          "verse": 6,
+          "text": "Întoarce-ţi privirea de la el, ca să aibă puţin răgaz, să se poată bucura ca simbriaşul la sfârşitul zilei (de muncă)."
+        },
+        {
+          "verse": 7,
+          "text": "Un copac, de pildă, tot are nădejde, căci dacă-l tai, el creşte din nou şi vlăstarii nu-i vor lipsi."
+        },
+        {
+          "verse": 8,
+          "text": "Dacă rădăcina lui îmbătrâneşte în pământ şi dacă trunchiul lui putrezeşte,"
+        },
+        {
+          "verse": 9,
+          "text": "Când dă de apă înverzeşte din nou şi se acoperă cu ramuri ca şi cum ar fi atunci sădit."
+        },
+        {
+          "verse": 10,
+          "text": "Dar omul când moare rămâne nimicit; când omul îşi dă sufletul, unde mai este el?"
+        },
+        {
+          "verse": 11,
+          "text": "Apele mărilor pot să dispară, fluviile pot să scadă şi să sece."
+        },
+        {
+          "verse": 12,
+          "text": "La fel şi omul se culcă şi nu se mai scoală; şi cât vor sta cerurile, el nu se mai deşteaptă şi nu se mai trezeşte din somnul lui."
+        },
+        {
+          "verse": 13,
+          "text": "O, de m-ai ascunde în împărăţia morţilor, ca să mă ţii acolo până când va trece mânia Ta, şi de mi-ai soroci o vreme, când iarăşi să-ţi aduci aminte de mine!"
+        },
+        {
+          "verse": 14,
+          "text": "Dacă omul a murit o dată, fi-va el iarăşi viu? Toate zilele robiei mele aş aştepta până ce vor veni să mă schimbe."
+        },
+        {
+          "verse": 15,
+          "text": "Atunci Tu mă vei chema şi eu Îţi voi răspunde; Tu vei cere înapoi lucrul mâinilor Tale."
+        },
+        {
+          "verse": 16,
+          "text": "Pe când astăzi Tu numeri paşii mei; atunci Tu nu vei mai lua seama la păcatul meu."
+        },
+        {
+          "verse": 17,
+          "text": "Nelegiuirea mea ar fi pecetluită ca într-un sac şi greşeala mea ai spăla-o şi ai face-o albă."
+        },
+        {
+          "verse": 18,
+          "text": "Şi precum muntele se dărâmă şi se preface în nisip şi precum stânca e rostogolită din locul ei,"
+        },
+        {
+          "verse": 19,
+          "text": "Şi precum apele mănâncă pietrele şi valurile lor acoperă pământul, tot aşa Tu sfărâmi nădejdea omului."
+        },
+        {
+          "verse": 20,
+          "text": "Tu Te ridici uriaş împotriva lui, şi el se nimiceşte; Tu schimbi înfăţişarea lui şi-l trimiţi de la Tine."
+        },
+        {
+          "verse": 21,
+          "text": "Dacă feciorii lui ajung la mare cinste, el nu mai ştie; dacă au ajuns de râsul lumii, el nu-i mai vede."
+        },
+        {
+          "verse": 22,
+          "text": "Carnea lui e în întristare mare numai pentru el. Sufletul lui numai pentru el e cuprins de jale\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_15_01",
+      "chapter": 15,
+      "pericope_num": "01",
+      "title_en": "Eliphaz Speaks Job Undermines Religion",
+      "title_ro": "Elifaz vorbește: Iov subminează religia",
+      "start_verse": 1,
+      "end_verse": 35,
+      "verse_count": 35,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Atunci Elifaz, din Teman, a răspuns şi a zis:"
+        },
+        {
+          "verse": 2,
+          "text": "\"Este oare cinstit pentru înţelept să răspundă cu cuvinte uşuratice şi să-şi umple pieptul cu suflarea vântului de răsărit?"
+        },
+        {
+          "verse": 3,
+          "text": "I se cuvine lui să judece cu vorbe seci şi prin cuvântări care n-au nici o noimă?"
+        },
+        {
+          "verse": 4,
+          "text": "Tu mergi atât de departe, încât desfiinţezi cucernicia şi nesocoteşti rugăciunea înaintea lui Dumnezeu."
+        },
+        {
+          "verse": 5,
+          "text": "Nelegiuirea ta insuflă gura ta şi tu împrumuţi vorbirea ta de la cei vicleni."
+        },
+        {
+          "verse": 6,
+          "text": "Chiar gura ta te osândeşte şi nu eu, chiar buzele tale sunt martore împotriva ta."
+        },
+        {
+          "verse": 7,
+          "text": "Nu cumva eşti tu cel dintâi om care s-a născut? Venit-ai tu pe lume mai înainte decât munţii?"
+        },
+        {
+          "verse": 8,
+          "text": "Ai stat tu de sfat cu Dumnezeu şi te-ai făcut tu stăpân pe toată înţelepciunea?"
+        },
+        {
+          "verse": 9,
+          "text": "Ce ştii tu pe care să nu-l ştim şi noi? Ce pricepi tu şi noi nu pricepem?"
+        },
+        {
+          "verse": 10,
+          "text": "Printre noi se află oameni vechi de zile, bătrâni mai în vârstă decât tatăl tău."
+        },
+        {
+          "verse": 11,
+          "text": "Ţi se pare puţin lucru mângâierile în numele lui Dumnezeu şi cuvintele spuse cu blândeţe?"
+        },
+        {
+          "verse": 12,
+          "text": "De ce te laşi târât de inima ta şi de ce priveşti aşa trufaş cu ochii tăi?"
+        },
+        {
+          "verse": 13,
+          "text": "De ce întorci spre Dumnezeu mânia ta şi dai drumul din gura ta la astfel de cuvântări?"
+        },
+        {
+          "verse": 14,
+          "text": "Ce este omul ca să se creadă curat, şi cel născut din femeie, ca să se creadă neprihănit?"
+        },
+        {
+          "verse": 15,
+          "text": "Dacă Dumnezeu nu are încredere în sfinţii Săi şi dacă cerurile nu sunt destul de curate înaintea ochilor Săi,"
+        },
+        {
+          "verse": 16,
+          "text": "Cu atât mai puţin o făptură urâcioasă şi stricată cum este omul cel ce bea nedreptatea ca apa."
+        },
+        {
+          "verse": 17,
+          "text": "Vreau să-ţi dau o învăţătură, ascultă-mă; şi ceea ce am văzut vreau să-ţi aduc la cunoştinţă;"
+        },
+        {
+          "verse": 18,
+          "text": "Ceea ce înţelepţii au vestit fără să ascundă nimic, precum au auzit de la părinţii lor,"
+        },
+        {
+          "verse": 19,
+          "text": "Atunci când tara le-a fost dată numai lor şi nici un străin nu se aşezase încă printre ei."
+        },
+        {
+          "verse": 20,
+          "text": "Nelegiuitul se chinuieşte în toate zilele vieţii sale şi de-a lungul anilor hărăziţi celui tiran."
+        },
+        {
+          "verse": 21,
+          "text": "Glasuri îngrozitoare fac larmă în urechile lui; în mijlocul păcii, i se pare că un ucigaş se năpusteşte asupra lui."
+        },
+        {
+          "verse": 22,
+          "text": "El nu mai nădăjduieşte să mai iasă din întuneric şi îşi simte capul mereu sub sabie."
+        },
+        {
+          "verse": 23,
+          "text": "Se şi vede aruncat de mâncare vulturilor, fiindcă ştie că prăpădul lui este fără întârziere."
+        },
+        {
+          "verse": 24,
+          "text": "Ziua întunericul îl înspăimântă. Zbuciumul şi tulburarea îl strâng la mijloc şi se aruncă asupra-i gata de împresurare,"
+        },
+        {
+          "verse": 25,
+          "text": "Fiindcă a îndrăznit să-şi îndrepte mâna împotriva lui Dumnezeu şi să facă pe viteazul faţă de Cel Atotputernic;"
+        },
+        {
+          "verse": 26,
+          "text": "Fiindcă a îndrăznit să năvălească împotriva Lui cu gâtul întins şi la adăpostul scuturilor sale groase şi rotunde."
+        },
+        {
+          "verse": 27,
+          "text": "Chipul lui i se ascundea în grăsime şi osânza stătea grea pe coapsele lui,"
+        },
+        {
+          "verse": 28,
+          "text": "Şi sălăşluia în cetăţi pustiite, în case în care nu mai stătea nimeni, fiindcă ameninţau să se prăbuşească."
+        },
+        {
+          "verse": 29,
+          "text": "Nu va aduna bogăţie şi ce are nu va ţine mult, iar umbra lui nu se va lungi pe pământ."
+        },
+        {
+          "verse": 30,
+          "text": "Nu va mai putea să iasă din întuneric. Focul va mistui ramurile sale şi vijelia va mătura florile lui;"
+        },
+        {
+          "verse": 31,
+          "text": "Să nu se creadă în minciună, fiindcă ştim că e deşertăciune."
+        },
+        {
+          "verse": 32,
+          "text": "Vrejul său se va ofili mai înainte de vreme şi mlădiţa sa nu va da muguri verzi."
+        },
+        {
+          "verse": 33,
+          "text": "Ca viţa mănată, va lăsa să cadă rodul său şi la fel ca măslinul va împrăştia florile sale."
+        },
+        {
+          "verse": 34,
+          "text": "Fiindcă ceata celui rău la inimă va fi lăsată stearpă şi focul mistuie corturile cu bogăţii de jaf."
+        },
+        {
+          "verse": 35,
+          "text": "Ei zămislesc răutatea şi nasc nelegiuirea, dar cu aceasta pântecele lor dospeşte înşelăciunea\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_16_01",
+      "chapter": 16,
+      "pericope_num": "01",
+      "title_en": "Job Reaffirms His Innocence",
+      "title_ro": "Iov își reafirmă nevinovăția",
+      "start_verse": 1,
+      "end_verse": 22,
+      "verse_count": 22,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Atunci Iov a răspuns şi a grăit:"
+        },
+        {
+          "verse": 2,
+          "text": "\"Am auzit mereu astfel de lucruri; sunteţi toţi nişte jalnici mângâietori."
+        },
+        {
+          "verse": 3,
+          "text": "Când se vor sfârşi aceste vorbe goale şi ce te chinuieşte ca să răspunzi?"
+        },
+        {
+          "verse": 4,
+          "text": "Şi eu aş vorbi aşa ca voi, dacă sufletul vostru ar fi în locul sufletului meu; aş putea să spun multe cuvinte împotriva voastră şi să dau din cap în privinţa voastră."
+        },
+        {
+          "verse": 5,
+          "text": "V-aş mângâia numai cu gura şi cu mişcarea buzelor mele v-aş aduce uşurare."
+        },
+        {
+          "verse": 6,
+          "text": "Dar, dacă vorbesc, durerea mea nu se linişteşte şi dacă tac din gură, durerea mea nu se depărtează de la mine."
+        },
+        {
+          "verse": 7,
+          "text": "În ceasul de faţă, Dumnezeu mi-a luat toată vlaga; toată ticăloşia mea mă împresoară, Doamne!"
+        },
+        {
+          "verse": 8,
+          "text": "M-ai acoperit cu zbârcituri, care toate mărturisesc împotriva mea; neputinţa mea ea însăşi mă dă de gol şi bârfitorul stă împotriva mea."
+        },
+        {
+          "verse": 9,
+          "text": "El mă sfâşie în furia Lui şi se poartă cu mine duşmănos, scrâşneşte din dinţi împotriva mea; duşmanul meu aruncă asupră-mi săgeţile ochilor săi;"
+        },
+        {
+          "verse": 10,
+          "text": "Deschis-au gura lor împotriva mea, în batjocură m-au lovit peste obraji. Toţi grămadă se înghesuie împotriva mea."
+        },
+        {
+          "verse": 11,
+          "text": "Dumnezeu mă dă pe mâna unui păgân. El mă aruncă pradă celor răi."
+        },
+        {
+          "verse": 12,
+          "text": "Mi-era destul de bine, dar El m-a sfărâmat. M-a luat de ceafă şi m-a făcut praf şi a aruncat asupră-mi toate săgeţile Sale;"
+        },
+        {
+          "verse": 13,
+          "text": "În jurul meu se învârtesc săgeţile Sale; El îmi străpunge rărunchii fără milă; El varsă pe pământ fierea mea."
+        },
+        {
+          "verse": 14,
+          "text": "El mă dărâmă bucată cu bucată şi năvăleşte asupra mea ca un războinic."
+        },
+        {
+          "verse": 15,
+          "text": "Am cusut un sac pe trupul meu şi am vârât în ţărână capul meu."
+        },
+        {
+          "verse": 16,
+          "text": "Chipul meu s-a înroşit de plânset şi umbra morţii s-a sălăşluit în pleoapele mele;"
+        },
+        {
+          "verse": 17,
+          "text": "Şi cu toate acestea, în mâinile mele nu este nici o silnicie şi rugăciunea mea este curată!"
+        },
+        {
+          "verse": 18,
+          "text": "Pământule, nu ascunde sângele meu şi să nu fie nici un loc nestrăbătut de bocetele mele."
+        },
+        {
+          "verse": 19,
+          "text": "Iar acum martorul meu este în ceruri şi cel ce dă pentru mine bună mărturie este sus în locurile înalte."
+        },
+        {
+          "verse": 20,
+          "text": "Prietenii mei îşi bat joc de mine, dar ochiul meu varsă lacrimi înaintea lui Dumnezeu."
+        },
+        {
+          "verse": 21,
+          "text": "O, de-ar fi îngăduit omului să stea de vorbă cu Dumnezeu, cum stă de vorbă un am \"u prietenul său!"
+        },
+        {
+          "verse": 22,
+          "text": "Căci aceşti puţini ani se vor scurge şi voi apuca pe un drum de pe care nu mă voi mai întoarce."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_17_01",
+      "chapter": 17,
+      "pericope_num": "01",
+      "title_en": "Job Prays for Relief",
+      "title_ro": "Iov se roagă pentru alinare",
+      "start_verse": 1,
+      "end_verse": 17,
+      "verse_count": 16,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Sufletul meu e dărăpănat, zilele mele se sting, mormântul mă aşteaptă."
+        },
+        {
+          "verse": 2,
+          "text": "Sunt împresurat de batjocoritori şi ochii mei trebuie să privească spre ocările lor."
+        },
+        {
+          "verse": 3,
+          "text": "Dă-mi acum chezăşia Ta lângă Tine, altfel cine ar vrea să răspundă pentru mine?"
+        },
+        {
+          "verse": 4,
+          "text": "Pentru că Tu ai luat priceperea din inima lor, de aceea Tu nu-i vei ridica."
+        },
+        {
+          "verse": 5,
+          "text": "Sunt unii care fac ospăţ cu prietenii, atunci când acasă ochii copiilor se sting de foame."
+        },
+        {
+          "verse": 6,
+          "text": "Am ajuns de poveste între oameni; sunt acela pe care-l scuipi în faţă."
+        },
+        {
+          "verse": 7,
+          "text": "Ochii mei s-au întunecat de supărare, mădularele mele s-au subţiat ca umbra."
+        },
+        {
+          "verse": 8,
+          "text": "Oamenii cei drepţi stau înmărmuriţi şi cel nevinovat se răscoală împotriva celui nelegiuit."
+        },
+        {
+          "verse": 9,
+          "text": "Cel ce este drept se ţine însă de calea sa şi cine este cu mâinile curate e din ce în ce mai tare."
+        },
+        {
+          "verse": 10,
+          "text": "Cât despre voi ceilalţi, voi toţi daţi înapoi şi veniţi aici, căci nu voi găsi printre voi nici un înţelept."
+        },
+        {
+          "verse": 11,
+          "text": "Zilele mele s-au scurs, socotinţele mele s-au sfărâmat şi la fel dorinţele inimii mele."
+        },
+        {
+          "verse": 12,
+          "text": "Din noapte ei vor să facă zi şi spun că lumina este mai aproape decât întunericul."
+        },
+        {
+          "verse": 13,
+          "text": "Mai pot să nădăjduiesc? Împărăţia morţii este casa mea, culcuşul meu l-am întins în inima întunericului."
+        },
+        {
+          "verse": 14,
+          "text": "Am zis mormântului: Tu eşti tatăl meu; am zis viermilor: voi sunteţi mama şi surorile mele!"
+        },
+        {
+          "verse": 15,
+          "text": "Atunci unde mai este nădejdea mea şi cine a văzut pe undeva norocul meu?"
+        },
+        {
+          "verse": 16,
+          "text": "El s-a rostogolit până în fundul iadului şi împreună cu mine se va cufunda în ţărână\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_18_01",
+      "chapter": 18,
+      "pericope_num": "01",
+      "title_en": "Bildad Speaks God Punishes the Wicked",
+      "title_ro": "Bildad vorbește: Dumnezeu pedepsește pe cei răi",
+      "start_verse": 1,
+      "end_verse": 21,
+      "verse_count": 21,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Atunci Bildad din Şuah a început să vorbească şi a zis:"
+        },
+        {
+          "verse": 2,
+          "text": "\"Când vei ajunge odată la capătul unor astfel de vorbe? Vino-ţi în fire şi apoi vom vorbi."
+        },
+        {
+          "verse": 3,
+          "text": "Pentru ce suntem socotiţi ca nişte dobitoace? De ce să trecem în ochii tăi drept vite cornute?"
+        },
+        {
+          "verse": 4,
+          "text": "Nu cumva pentru tine care te sfâşii în mânia ta, o să ajungă pământul să se pustiiască şi stâncile să se mute din locul lor?"
+        },
+        {
+          "verse": 5,
+          "text": "Fireşte, lumina nelegiuitului se stinge şi flacăra focului lui nu mai străluceşte."
+        },
+        {
+          "verse": 6,
+          "text": "Lumina se întunecă în cortul lui şi candela de deasupra lui se isprăveşte."
+        },
+        {
+          "verse": 7,
+          "text": "Paşii lui, altădată vânjoşi, se îngustează şi propriul lui sfat acum îl poticneşte."
+        },
+        {
+          "verse": 8,
+          "text": "El dă cu picioarele în laţ şi se plimbă în reţeaua de sfori."
+        },
+        {
+          "verse": 9,
+          "text": "Capcana l-a prins de călcâi şi laţul s-a încolăcit pe el."
+        },
+        {
+          "verse": 10,
+          "text": "Cursa care trebuia să-l prindă este ascunsă în pământ şi prinzătoarea stă în poteca lui;"
+        },
+        {
+          "verse": 11,
+          "text": "Spaimele dau peste el din toate părţile şi se ţin de el pas cu pas."
+        },
+        {
+          "verse": 12,
+          "text": "Lângă bunătăţile lui el moare de foame şi nenorocirea lui stă gata lângă el."
+        },
+        {
+          "verse": 13,
+          "text": "Boala muşcă din trupul lui. Primul născut al morţii roade mădularele lui."
+        },
+        {
+          "verse": 14,
+          "text": "Din cortul unde stătea la adăpost este scos afară şi târât înaintea groaznicului împărat."
+        },
+        {
+          "verse": 15,
+          "text": "Nimeni din ai lui nu mai sălăşluieşte în cortul lui, care nu mai este al lui. Pe locuinţa lui plouă cu pucioasă."
+        },
+        {
+          "verse": 16,
+          "text": "Rădăcinile lui se usucă în pământ, iar ramurile lui se veştejesc în aer."
+        },
+        {
+          "verse": 17,
+          "text": "Pomenirea lui se şterge de pe pământ şi în toată lumea numele i-a pierit."
+        },
+        {
+          "verse": 18,
+          "text": "De la lumină i-au dat brânci în întuneric şi de pretutindeni e scos afară."
+        },
+        {
+          "verse": 19,
+          "text": "Nu lasă nici urmaşi, nici sămânţă în poporul său şi nimeni nu mai trăieşte după el prin locurile prin care a locuit."
+        },
+        {
+          "verse": 20,
+          "text": "Cei din apus s-au mirat foarte de soarta lui şi cei din răsărit au simţit fiori în ei."
+        },
+        {
+          "verse": 21,
+          "text": "Aceasta rămâne din sălaşurile celui nelegiuit şi iată locul celui ce n-a cunoscut pe Dumnezeu\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_19_01",
+      "chapter": 19,
+      "pericope_num": "01",
+      "title_en": "Job Replies I Know That My Redeemer Lives",
+      "title_ro": "Iov răspunde: Știu că Răscumpărătorul meu trăiește",
+      "start_verse": 1,
+      "end_verse": 29,
+      "verse_count": 29,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Atunci Iov a început să vorbească şi a zis:"
+        },
+        {
+          "verse": 2,
+          "text": "\"Câtă vreme veţi întrista voi sufletul meu şi mă veţi zdrobi cu cuvântările voastre?"
+        },
+        {
+          "verse": 3,
+          "text": "Iată a zecea oară de când mă batjocoriţi. Nu vă este ruşine că vă purtaţi aşa?"
+        },
+        {
+          "verse": 4,
+          "text": "Chiar dacă ar fi adevărat că am păcătuit, greşeala mea este pe capul meu."
+        },
+        {
+          "verse": 5,
+          "text": "Iar dacă voi vă faceţi tari şi mari împotriva mea şi-mi scoateţi ochii cu ticăloşia mea,"
+        },
+        {
+          "verse": 6,
+          "text": "Să ştii că Dumnezeu este Cel ce mă urmăreşte şi că El m-a învăluit cu laţul Său."
+        },
+        {
+          "verse": 7,
+          "text": "Dacă strig de multa-apăsare, nu primesc nici un răspuns; ţip în gura mare, dar nimeni nu-mi face dreptate."
+        },
+        {
+          "verse": 8,
+          "text": "El a astupat calea mea, ca să nu mai trec pe ea, şi a acoperit cu beznă toate drumurile mele."
+        },
+        {
+          "verse": 9,
+          "text": "M-a dezbrăcat de mărirea mea şi mi-a smuls cununa de pe cap."
+        },
+        {
+          "verse": 10,
+          "text": "M-a dărâmat de jur împrejur şi sunt în ceasul morţii şi nădejdea mea a scos-o din rădăcină ca pe un copac."
+        },
+        {
+          "verse": 11,
+          "text": "Aprins-a împotriva mea mânia Sa şi m-a luat drept duşmanul Său."
+        },
+        {
+          "verse": 12,
+          "text": "Hoardele Sale sosesc grămadă, îşi fac drum până la mine şi pun tabără de jur împrejurul cortului meu."
+        },
+        {
+          "verse": 13,
+          "text": "A depărtat pe fraţii mei de lângă mine şi cunoscuţii mei îşi întorc faţa când mă văd."
+        },
+        {
+          "verse": 14,
+          "text": "Rudele mele au pierit, casnicii mei au uitat de mine."
+        },
+        {
+          "verse": 15,
+          "text": "Cei ce locuiau împreună cu mine şi slujnicele mele se uită la mine ca la un străin; sunt în ochii lor ca unul venit din altă ţară."
+        },
+        {
+          "verse": 16,
+          "text": "Chem pe sluga mea şi nu-mi răspunde, măcar că o rog cu gura mea."
+        },
+        {
+          "verse": 17,
+          "text": "Suflarea mea a ajuns nesuferită pentru femeia mea şi am ajuns să miros greu pentru fiii cei născuţi din coapsele mele."
+        },
+        {
+          "verse": 18,
+          "text": "Până şi copiii îmi arată dispreţ; când mă scol, vorbesc pe seama mea."
+        },
+        {
+          "verse": 19,
+          "text": "Toţi sfetnicii mei cei mai de aproape mă urgisesc şi aceia pe care îi iubeam s-au întors împotriva mea."
+        },
+        {
+          "verse": 20,
+          "text": "Oasele mele ies afară din piele şi nu mi-au mai rămas tefere decât gingiile."
+        },
+        {
+          "verse": 21,
+          "text": "Milă fie-vă de mine, aveţi milă de mine, o, voi, prietenii mei, căci mâna lui Dumnezeu m-a lovit!"
+        },
+        {
+          "verse": 22,
+          "text": "De ce mă prigoniţi cu urgia lui Dumnezeu şi nu vă mai săturaţi de carnea mea?"
+        },
+        {
+          "verse": 23,
+          "text": "Cit aş vrea ca vorbele mele să fie scrise, cât aş vrea să fie săpate pe aramă."
+        },
+        {
+          "verse": 24,
+          "text": "Să fie săpate pe veci, cu un condei de fier şi de plumb, într-o stâncă!"
+        },
+        {
+          "verse": 25,
+          "text": "Dar eu ştiu că Răscumpărătorul meu este viu şi că El, în ziua cea de pe urmă, va ridica iar din pulbere această piele a mea ce se destramă."
+        },
+        {
+          "verse": 26,
+          "text": "Şi afară din trupul meu voi vedea pe Dumnezeu."
+        },
+        {
+          "verse": 27,
+          "text": "Pe El Îl voi vedea şi ochii mei Îl vor privi, nu ai altuia. Şi de dorul acesta măruntaiele mele tânjesc în mine."
+        },
+        {
+          "verse": 28,
+          "text": "Iar dacă ziceţi: Cum îl vom urmări şi ce pricină de proces vom găsi noi în el?"
+        },
+        {
+          "verse": 29,
+          "text": "Temeţi-vă de sabie, pentru voi înşivă, când mânia va izbucni împotriva greşelii voastre. Şi atunci veţi învăţa că este o judecată!\""
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_20_01",
+      "chapter": 20,
+      "pericope_num": "01",
+      "title_en": "Zophar Speaks Wickedness Receives Just Retribution",
+      "title_ro": "Țofar vorbește: Răutatea primește pedeapsa cuvenită",
+      "start_verse": 1,
+      "end_verse": 29,
+      "verse_count": 29,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi Ţofar din Naamah a început să vorbească şi a zis:"
+        },
+        {
+          "verse": 2,
+          "text": "\"Cugetul meu mă împinge să vorbesc, din pricina frământării pe care o simt în mine."
+        },
+        {
+          "verse": 3,
+          "text": "Am auzit o învăţătură care mă scoate din sărite şi atunci o pornire vijelioasă, din duhul meu, mă face să răspund."
+        },
+        {
+          "verse": 4,
+          "text": "Nu ştii tu oare că de mult de tot, din zilele când omul a fost aşezat pe pământ,"
+        },
+        {
+          "verse": 5,
+          "text": "Desfătarea celor fără de lege ţine foarte puţin şi bucuria făţarnicului nu stă decât o clipă?"
+        },
+        {
+          "verse": 6,
+          "text": "Chiar dacă statura lui s-ar înălţa până la ceruri şi cu capul s-ar atinge de nori,"
+        },
+        {
+          "verse": 7,
+          "text": "El totuşi va pieri ca o nălucă, pe vecie, şi cei ce îl vedeau vor întreba: Ce s-a făcut?"
+        },
+        {
+          "verse": 8,
+          "text": "Zboară ca un vis şi nu mai dai de el, e măturat ca o vedenie de noapte."
+        },
+        {
+          "verse": 9,
+          "text": "Ochiul, care îl privea, nu-l mai vede şi locul unde se găsea, nu-l mai zăreşte."
+        },
+        {
+          "verse": 10,
+          "text": "Feciorii lui vor trebui să cerşească mila celor săraci şi mâinile lui vor da înapoi ce a luat cu forţa."
+        },
+        {
+          "verse": 11,
+          "text": "Oasele lui sunt încă pline de vlaga tinereţii, dar ea se va culca cu el în pulbere;"
+        },
+        {
+          "verse": 12,
+          "text": "Dacă răutatea este dulce în gura lui, el o ascunde sub limba lui."
+        },
+        {
+          "verse": 13,
+          "text": "Dacă o tine în gură şi nu o scuipă, dacă o mestecă în cerul gurii,"
+        },
+        {
+          "verse": 14,
+          "text": "Totuşi hrana lui în măruntaiele lui se strică şi se face în intestinele lui venin de năpârcă."
+        },
+        {
+          "verse": 15,
+          "text": "Averea, pe care a înghiţit-o, acum o varsă; Dumnezeu i-o dă afară din pântece."
+        },
+        {
+          "verse": 16,
+          "text": "Venin de şarpe otrăvitor sugea. Limba de năpârcă îl omoară!"
+        },
+        {
+          "verse": 17,
+          "text": "El nu va mai vedea pâraiele de proaspăt untdelemn, valurile de miere şi de smântână."
+        },
+        {
+          "verse": 18,
+          "text": "Dă îndărăt ce-a câştigat şi nu se mai foloseşte de câştig şi de roadele negustoriei sale nu se mai bucură."
+        },
+        {
+          "verse": 19,
+          "text": "Pentru că a asuprit fără milă pe săraci şi a furat o casă, în loc să o zidească."
+        },
+        {
+          "verse": 20,
+          "text": "El nu va cunoaşte pacea lăuntrică şi el nu va scăpa nimic din toate câte preţuieşte."
+        },
+        {
+          "verse": 21,
+          "text": "Nimic nu scapă de lăcomia lui, de aceea înflorirea lui nu va ţine deloc."
+        },
+        {
+          "verse": 22,
+          "text": "Când bogăţia lui va fi la culme, tulburarea îl va apuca deodată şi toate loviturile nenorocirii vor cădea în capul lui."
+        },
+        {
+          "verse": 23,
+          "text": "Când va fi gata să-şi sature pântecele, Dumnezeu va dezlănţui asupră-i urgia mâniei Sale şi va ploua cu săgeţi peste el."
+        },
+        {
+          "verse": 24,
+          "text": "Dacă va scăpa de platoşa de fier, îl va străpunge arcul de aramă."
+        },
+        {
+          "verse": 25,
+          "text": "O săgeată îi iese din spate, o alta i s-a înfipt în ficaţi şi spaimele morţii îl sfârşesc."
+        },
+        {
+          "verse": 26,
+          "text": "Toată neagra pieire ameninţă comorile pe care le-a adunat; un foc care arde neaprins îl mistuie pe oricine va mai rămâne din cortul lui."
+        },
+        {
+          "verse": 27,
+          "text": "Cerurile vor dezveli fărădelegea lui şi pământul i se va ridica împotrivă."
+        },
+        {
+          "verse": 28,
+          "text": "Năpraznică revărsare de ape va mătura casa lui şi apele vor curge în ziua dumnezeieştii mânii."
+        },
+        {
+          "verse": 29,
+          "text": "Aceasta este partea hărăzită de Dumnezeu omului nelegiuit, aceasta este moştenirea pe care el o primeşte de la Domnul\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_21_01",
+      "chapter": 21,
+      "pericope_num": "01",
+      "title_en": "Job Replies The Wicked Often Go Unpunished",
+      "title_ro": "Iov răspunde: Cei răi rămân adesea nepedepsiți",
+      "start_verse": 1,
+      "end_verse": 34,
+      "verse_count": 34,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Atunci Iov a vorbit încă o dată şi a zis:"
+        },
+        {
+          "verse": 2,
+          "text": "\"Ascultaţi cu luare-aminte cuvântul meu şi aici să se oprească mângâierile voastre."
+        },
+        {
+          "verse": 3,
+          "text": "Îngăduiţi-mi să vorbesc şi eu, şi după ce voi vorbi, atunci poţi să-ţi baţi joc."
+        },
+        {
+          "verse": 4,
+          "text": "Oare plângerea mea se înalţă împotriva unui om? Şi atunci răbdarea mea cum n-o să fie pe sfârşite?"
+        },
+        {
+          "verse": 5,
+          "text": "Uitaţi-vă la mine şi miraţi-vă foarte şi puneţi mâna la gură."
+        },
+        {
+          "verse": 6,
+          "text": "Căci, când mă gândesc, mă apucă groaza şi toată carnea de pe mine tremură."
+        },
+        {
+          "verse": 7,
+          "text": "Pentru ce ticăloşii au viaţă, ajung la adânci bătrâneţe şi sporesc în putere?"
+        },
+        {
+          "verse": 8,
+          "text": "Urmaşii lor se ridică voinici în faţa lor şi odraslele lor dăinuiesc sub ochii lor."
+        },
+        {
+          "verse": 9,
+          "text": "Casele lor stau nevătămate, fără teamă şi varga lui Dumnezeu nu stă deasupra lor."
+        },
+        {
+          "verse": 10,
+          "text": "Taurii sunt plini de vlagă şi prăsitori, juncanele lor fată şi nu leapădă."
+        },
+        {
+          "verse": 11,
+          "text": "Copiii lor zburdă ca oile şi odraslele lor dănţuiesc împrejur."
+        },
+        {
+          "verse": 12,
+          "text": "Ei cântă din tobă şi din harfă şi se desfată la sunetele flautului."
+        },
+        {
+          "verse": 13,
+          "text": "Îşi isprăvesc zilele în fericire şi coboară cu pace în împărăţia morţii."
+        },
+        {
+          "verse": 14,
+          "text": "Şi tocmai ei ziceau lui Dumnezeu: \"În lături de la noi! Nu vrem deloc să cunoaştem căile Tale!"
+        },
+        {
+          "verse": 15,
+          "text": "Cine este Cel Atotputernic ca să-I slujim Lui şi ce folos vom avea să-I înălţăm rugăciuni?\""
+        },
+        {
+          "verse": 16,
+          "text": "N-ai zice, oare, că fericirea lor e în mâna lor? Sfatul celor răi nu este totdeauna departe de Dumnezeu?"
+        },
+        {
+          "verse": 17,
+          "text": "De câte ori se stinge candela nelegiuiţilor şi nenorocirea dă năvală peste ei? De câte ori Dumnezeu nimiceşte cu mânia Sa pe cei răufăcători,"
+        },
+        {
+          "verse": 18,
+          "text": "Ca să fie ei ca paiul în bătaia vântului şi ca pleava pe care o răsuceşte vârtejul?"
+        },
+        {
+          "verse": 19,
+          "text": "Dumnezeu, vei zice, păstrează pentru copiii lui răsplata fărădelegii lui. Dar să-l pedepsească pe el însuşi, ca să se înveţe."
+        },
+        {
+          "verse": 20,
+          "text": "Să-şi vadă cu ochii nenorocirea şi să se adape din mânia Celui Atotputernic!"
+        },
+        {
+          "verse": 21,
+          "text": "Fiindcă ce-i mai pasă de casa lui, după moartea lui, când numărul lunilor lui a fost retezat?"
+        },
+        {
+          "verse": 22,
+          "text": "Dar nu cumva Îi vom da noi învăţătură lui Dumnezeu, Lui care stă şi judecă pe cei de sus?"
+        },
+        {
+          "verse": 23,
+          "text": "Unul moare, în plinătatea puterii sale, când este înconjurat de fericire şi de pace,"
+        },
+        {
+          "verse": 24,
+          "text": "Când găleţile îi sunt pline de lapte şi oasele pe care le suge, pline cu măduvă."
+        },
+        {
+          "verse": 25,
+          "text": "Altul moare, cu sufletul copleşit de amărăciune, fără să fi gustat vreo fericire."
+        },
+        {
+          "verse": 26,
+          "text": "Şi unul şi altul se culcă în ţărână şi viermii îi cotropesc."
+        },
+        {
+          "verse": 27,
+          "text": "Ştiu prea bine gândurile voastre şi socotinţele pe care vi le făuriţi în privinţa mea."
+        },
+        {
+          "verse": 28,
+          "text": "Voi ziceţi în mintea voastră: Unde este casa asupritorului şi unde este cortul în care locuiau nelegiuiţii?"
+        },
+        {
+          "verse": 29,
+          "text": "N-aţi întrebat oare pe cei ce trec pe drum şi n-aţi recunoscut dreptatea spuselor lor?"
+        },
+        {
+          "verse": 30,
+          "text": "Anume cum că în ziua nenorocirii cel rău este cruţat şi că în ceasul mâniei el scapă?"
+        },
+        {
+          "verse": 31,
+          "text": "Cine îl mustră în faţă pentru purtarea lui şi cine-i întoarce cu aceeaşi măsură faptele pe care le-a făcut?"
+        },
+        {
+          "verse": 32,
+          "text": "Iar când este dus la locul de odihnă, din stâlpul de la căpătâi el parcă stă de strajă."
+        },
+        {
+          "verse": 33,
+          "text": "Bulgării pământului îi sunt uşori; în convoi pe urma lui înaintează toată lumea, şi înaintea lui o mulţime nenumărată."
+        },
+        {
+          "verse": 34,
+          "text": "Atunci ce sunt deşartele mângâieri pe care mi le daţi? Din toate cuvintele voastre nu rămâne decât înşelăciune\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_22_01",
+      "chapter": 22,
+      "pericope_num": "01",
+      "title_en": "Eliphaz Speaks Job’s Wickedness Is Great",
+      "title_ro": "Elifaz vorbește: mare este nelegiuirea lui Iov",
+      "start_verse": 1,
+      "end_verse": 30,
+      "verse_count": 30,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Elifaz din Teman a răspuns atunci şi a zis:"
+        },
+        {
+          "verse": 2,
+          "text": "\"Poate omul să fie de vreun folos lui Dumnezeu? Nu, fiindcă înţeleptul îşi este de folos lui însuşi."
+        },
+        {
+          "verse": 3,
+          "text": "Ce are Cel Atotputernic dacă tu eşti fără prihană? Şi care este câştigul Lui, dacă drumurile tale sunt fără vină?"
+        },
+        {
+          "verse": 4,
+          "text": "Oare El te pedepseşte pentru cucernicia ta şi pentru ea intră cu tine în judecată?"
+        },
+        {
+          "verse": 5,
+          "text": "Nu, dimpotrivă, fiindcă răutatea ta este mare şi fărădelegile tale sunt fără hotar!"
+        },
+        {
+          "verse": 6,
+          "text": "Căci tu fără dreptate luai zăloage de la fraţii tăi şi smulgeai veşmântul de pe oameni şi-i lăsai goi."
+        },
+        {
+          "verse": 7,
+          "text": "Tu nu dădeai să bea celui însetat şi nu dădeai să mănânce celui flămând;"
+        },
+        {
+          "verse": 8,
+          "text": "Cel cu pumnul tare cotropeşte pământul şi cel cu trecere îl ia, în stăpânire."
+        },
+        {
+          "verse": 9,
+          "text": "Goneai de la pragul tău pe văduve cu mâinile goale şi braţele celor orfani tu le sfărâmai."
+        },
+        {
+          "verse": 10,
+          "text": "Acesta este cuvântul pentru care laţuri te înconjoară şi spaimele te-au apucat dintr-o dată."
+        },
+        {
+          "verse": 11,
+          "text": "Lumina s-a stins pentru tine şi nu mai vezi şi o apă revărsată te-a dat la fund."
+        },
+        {
+          "verse": 12,
+          "text": "Dumnezeu nu este El oare mai presus de ceruri? Priveşte în sus spre stele cât de sus sunt ele!"
+        },
+        {
+          "verse": 13,
+          "text": "Tu ai zis: Ce ştie Dumnezeu! Judecă El oare prin umbră?"
+        },
+        {
+          "verse": 14,
+          "text": "Norii sunt ca o perdea în faţa Lui şi El nu poate să vadă; El se plimbă numai de jur împrejurul cerurilor."
+        },
+        {
+          "verse": 15,
+          "text": "Voieşti tu să urmezi pe străvechea cale pe care au bătătorit-o oamenii cei fără de lege?"
+        },
+        {
+          "verse": 16,
+          "text": "Cei ce au fost măturaţi înainte de vreme, când un fluviu s-a rostogolit peste temeliile lor,"
+        },
+        {
+          "verse": 17,
+          "text": "Şi ei ziceau lui Dumnezeu: \"În lături de la noi! Şi ce poate să ne facă Cel Atotputernic?\""
+        },
+        {
+          "verse": 18,
+          "text": "Dar tocmai El umpluse casele lor de bunătăţi, însă sfatul celor răi rămânea departe de Dumnezeu."
+        },
+        {
+          "verse": 19,
+          "text": "Cei drepţi se uită şi se bucură, iar cel nevinovat râde de ei."
+        },
+        {
+          "verse": 20,
+          "text": "Iată, avuţia lor a nimicit-o şi focul a mistuit toată strânsura lor!"
+        },
+        {
+          "verse": 21,
+          "text": "Împacă-te cu Dumnezeu şi cazi la pace. Atunci bine va fi de tine."
+        },
+        {
+          "verse": 22,
+          "text": "Primeşte, te rog, învăţătură din gura Lui şi pune la inimă cuvintele Lui;"
+        },
+        {
+          "verse": 23,
+          "text": "Dacă te întorci la Cel puternic şi te smereşti, dacă depărtezi nedreptatea de cortul tău,"
+        },
+        {
+          "verse": 24,
+          "text": "Atunci aurul tău îl vei preţui drept ţărână şi comorile Ofirului drept pietricele,"
+        },
+        {
+          "verse": 25,
+          "text": "Pentru că Cel Atotputernic va fi pentru tine sloi de aur şi grămezi de argint."
+        },
+        {
+          "verse": 26,
+          "text": "Atunci tu te vei desfăta întru Cel Atotputernic şi ridica-vei faţa ta către Dumnezeu."
+        },
+        {
+          "verse": 27,
+          "text": "Tu vei chema numele Lui şi El te va auzi şi tu vei împlini juruinţele tale."
+        },
+        {
+          "verse": 28,
+          "text": "Când te vei hotărî să faci un lucru, lucrul îl vei izbuti şi lumina va străluci pe toate drumurile tale,"
+        },
+        {
+          "verse": 29,
+          "text": "Fiindcă Dumnezeu smereşte pe mândri şi mândria, şi mântuieşte pe acela care-şi pleacă ochii în pământ."
+        },
+        {
+          "verse": 30,
+          "text": "El izbăveşte pe cel nevinovat şi tu la fel vei scăpa, când mâinile tale vor fi curate\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_23_01",
+      "chapter": 23,
+      "pericope_num": "01",
+      "title_en": "Job Replies My Complaint Is Bitter",
+      "title_ro": "Iov răspunde: Plângerea mea este amară",
+      "start_verse": 1,
+      "end_verse": 23,
+      "verse_count": 17,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Dar Iov iarăşi a vorbit şi a zis:"
+        },
+        {
+          "verse": 2,
+          "text": "\"Şi de data aceasta plângerea mea este luată tot ca răzvrătire şi totuşi mâna mea de-abia înăbuşe suspinele mele."
+        },
+        {
+          "verse": 3,
+          "text": "O, dacă aş şti unde să-L găsesc! Dacă aş putea să ajung la palatul Lui!"
+        },
+        {
+          "verse": 4,
+          "text": "Atunci aş dezvălui înaintea Lui pricina mea şi aş umple gura mea cu învinuiri."
+        },
+        {
+          "verse": 5,
+          "text": "Aş şti atunci cuvintele cu care mi-ar răspunde şi aş înţelege rostul spuselor Lui."
+        },
+        {
+          "verse": 6,
+          "text": "Şi-ar dezlănţui El oare toată puterea în cearta Lui cu mine? Nu, El ar sta şi m-ar asculta."
+        },
+        {
+          "verse": 7,
+          "text": "El ar lua aminte la omul drept care vorbeşte în fala Lui şi astfel aş fi iertat pe vecie de Judecătorul meu."
+        },
+        {
+          "verse": 8,
+          "text": "Căci iată, dacă o iau spre răsărit, El nu este acolo; dacă o iau spre apus, nu-L zăresc!"
+        },
+        {
+          "verse": 9,
+          "text": "L-am căutat spre miazănoapte şi n-am dat de El, m-am întors către miazăzi şi nici aici nu L-am văzut!"
+        },
+        {
+          "verse": 10,
+          "text": "Dar El cunoaşte şi umbletul meu şi starea mea pe loc şi dacă ar fi să mă treacă prin cuptor de foc, voi ieşi din cuptor curat ca aurul."
+        },
+        {
+          "verse": 11,
+          "text": "M-am ţinut cu pasul meu după pasul Lui, am păzit calea Lui şi nu m-am abătut din ea."
+        },
+        {
+          "verse": 12,
+          "text": "De la porunca buzelor Sale nu m-am depărtat, la sânul meu am ţinut ascunse cuvintele gurii Sale."
+        },
+        {
+          "verse": 13,
+          "text": "Dar hotărârea Lui este luată şi cine-L va împiedica? Căci ceea ce sufletul Său a poftit, aceea va şi face."
+        },
+        {
+          "verse": 14,
+          "text": "Fiindcă El aduce la îndeplinire hotărârea Sa şi alte foarte multe lucruri la fel, care sunt în gândul Său."
+        },
+        {
+          "verse": 15,
+          "text": "Iată pentru ce sunt înspăimântat în faţa Lui. Mă gândesc şi mi-e teamă de El."
+        },
+        {
+          "verse": 16,
+          "text": "Dumnezeu a slăbit inima mea şi Cel Atotputernic m-a îngrozit."
+        },
+        {
+          "verse": 17,
+          "text": "Şi n-am tăcut din pricina întunericului şi din pricina nopţii care a învăluit faţa mea."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_24_01",
+      "chapter": 24,
+      "pericope_num": "01",
+      "title_en": "Job Complains of Violence on the Earth",
+      "title_ro": "Iov se plânge de violența de pe pământ",
+      "start_verse": 1,
+      "end_verse": 25,
+      "verse_count": 25,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "De ce, pentru Cel Atotputernic, vremurile răsplătirilor sunt ascunse şi cei ce-L cunosc n-au văzut zilele Sale de judecător?"
+        },
+        {
+          "verse": 2,
+          "text": "Viclenii mută hotarele ţarinilor, fură turma de oi cu cioban cu tot."
+        },
+        {
+          "verse": 3,
+          "text": "Duc la ei acasă asinul copiilor orfani şi iau zălog boul văduvei."
+        },
+        {
+          "verse": 4,
+          "text": "Dau la o parte de pe cale pe cei săraci din ţară, iar pe toţi nenorociţii din ţară îi silesc să se ascundă."
+        },
+        {
+          "verse": 5,
+          "text": "Aceştia la fel cu asinii sălbatici din pustie ies pe furiş să-şi caute de mâncare şi, după ce lucrează până seara, tot n-au pâine pentru copii."
+        },
+        {
+          "verse": 6,
+          "text": "Ei seceră noaptea pe câmp, ei culeg via nelegiuitului;"
+        },
+        {
+          "verse": 7,
+          "text": "Petrec noaptea goi, fiindcă n-au cu ce să se învelească, pentru că n-au veşmânt să se apere de frig."
+        },
+        {
+          "verse": 8,
+          "text": "Ploaia repede din munţi îi udă până la piele şi în loc de adăpost strâng în braţe stâncile."
+        },
+        {
+          "verse": 9,
+          "text": "Cei dintâi smulg pe orfan de la ţâţă şi iau zălog haina săracului."
+        },
+        {
+          "verse": 10,
+          "text": "Şi săracii umblă goi, fără îmbrăcăminte şi, istoviţi de foame, duc în spinare snopii."
+        },
+        {
+          "verse": 11,
+          "text": "La teascul bogatului, ei storc untdelemnul, ei calcă jghiaburile cu struguri şi tânjesc de sete."
+        },
+        {
+          "verse": 12,
+          "text": "În cetate, muribunzii se vaită şi sufletul celor răniţi cere ajutor; dar Dumnezeu n-aude rugăciunea lor!"
+        },
+        {
+          "verse": 13,
+          "text": "Mai sunt răzvrătiţi împotriva zilei, care nu cunosc cărările ei şi nu rămân în potecile ei."
+        },
+        {
+          "verse": 14,
+          "text": "Ucigaşul se scoală dis-de-dimineaţă, ucide pe cel sărac şi nevoiaş şi jefuieşte."
+        },
+        {
+          "verse": 15,
+          "text": "Ochii celui desfrânat pândesc amurgul zilei şi el îşi zice: Nu mă vede nici ţipenie de om, şi îşi pune o mahramă pe faţă."
+        },
+        {
+          "verse": 16,
+          "text": "Tâlharul, acoperit de întuneric, sparge casele şi intră în ele, căci el le-a pus semn de cu ziuă,"
+        },
+        {
+          "verse": 17,
+          "text": "Iar când vine dimineaţa, parcă ar fi pentru ei umbra morţii. Când zorii strălucesc, toate spaimele morţii dau peste ei."
+        },
+        {
+          "verse": 18,
+          "text": "Nelegiuitul pluteşte uşor ca pe faţa apelor, dar pe pământ partea lui este plină de blestem şi fericirea nu va călca niciodată via lui."
+        },
+        {
+          "verse": 19,
+          "text": "Precum seceta şi arşiţa sorb apele zăpezilor topite, tot astfel soarbe locuinţa morţilor pe păcătoşi."
+        },
+        {
+          "verse": 20,
+          "text": "Pântecele mamei lor l-au uitat, viermii se desfătează din el, nimeni nu-l mai ţine minte şi astfel nelegiuirea lor s-a frânt ca un copac."
+        },
+        {
+          "verse": 21,
+          "text": "Ei chinuiau pe femeia stearpă şi fără de copii, ei s-au purtat aprig cu femeia văduvă."
+        },
+        {
+          "verse": 22,
+          "text": "Dar Cel ce, prin puterea Lui, struneşte pe cei puternici, se ridică răzbunător şi toii aceştia nu se mai ţin stăpâni pe viaţa lor."
+        },
+        {
+          "verse": 23,
+          "text": "El îi lasă să se sprijine cu bună încredinţare, dar ochii Lui erau asupra căilor lor."
+        },
+        {
+          "verse": 24,
+          "text": "Se ridicaseră, dar acum nu mai sunt, s-au aşternut ca nalba, când o coseşti şi ca spicul ierbii s-au veştejit."
+        },
+        {
+          "verse": 25,
+          "text": "Dacă ziceţi că nu este aşa, cine îmi va dovedi că am minţit şi cine va spulbera cuvântul meu?\""
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_25_01",
+      "chapter": 25,
+      "pericope_num": "01",
+      "title_en": "Bildad Speaks How Can a Mortal Be Righteous Before God",
+      "title_ro": "Bildad vorbește: Cum poate fi drept omul înaintea lui Dumnezeu",
+      "start_verse": 1,
+      "end_verse": 25,
+      "verse_count": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Atunci Bildad din Şuah a început să vorbească şi a zis:"
+        },
+        {
+          "verse": 2,
+          "text": "\"A Lui este stăpânirea, a Lui este puterea înfricoşătoare! Şi El sălăşluieşte pacea în locurile preaînalte."
+        },
+        {
+          "verse": 3,
+          "text": "Cine poate să numere oştile Sale? Şi peste cine nu se ridică paza Lui?"
+        },
+        {
+          "verse": 4,
+          "text": "Cum ar putea un om să fie fără de prihană înaintea lui Dumnezeu, sau cum ar putea să fie curat cel ce se naşte din femeie?"
+        },
+        {
+          "verse": 5,
+          "text": "Iată nici luna nu străluceşte destul în ochii Lui şi nici stelele nu sunt de tot curate, pentru El!"
+        },
+        {
+          "verse": 6,
+          "text": "Cu cât mai puţin omul, care nu este decât putreziciune, cu atât mai puţin născutul din om, care nu este decât un vierme!\""
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_26_01",
+      "chapter": 26,
+      "pericope_num": "01",
+      "title_en": "Job Replies God’s Majesty Is Unsearchable",
+      "title_ro": "Iov răspunde: măreția lui Dumnezeu este nepătrunsă",
+      "start_verse": 1,
+      "end_verse": 26,
+      "verse_count": 14,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Atunci Iov a răspuns şi a zis:"
+        },
+        {
+          "verse": 2,
+          "text": "\"În ce chip ajuţi tu pe cel ce este fără de putere şi sprijini braţul care a slăbit?"
+        },
+        {
+          "verse": 3,
+          "text": "Cum ştii tu să sfătuieşti pe cel lipsit de înţelepciune şi ce belşug de ştiinţă ai dat pe faţă?"
+        },
+        {
+          "verse": 4,
+          "text": "Către cine ai îndreptat tu cuvintele tale şi al cui duh grăia prin gura ta?"
+        },
+        {
+          "verse": 5,
+          "text": "Înaintea lui Dumnezeu, umbrele răposaţilor tremură sub pământ, iar apele şi vietăţile din ape se înspăimântă."
+        },
+        {
+          "verse": 6,
+          "text": "Împărăţia morţilor este goală înaintea Lui şi adâncul este fără acoperiş."
+        },
+        {
+          "verse": 7,
+          "text": "El întinde miazănoaptea peste genune; El spânzură pământul pe nimic."
+        },
+        {
+          "verse": 8,
+          "text": "El închide apele în norii Săi şi norii nu se rup sub greutatea apelor."
+        },
+        {
+          "verse": 9,
+          "text": "El acoperă faţa lunii pline, desfăşurând asupra ei norii Săi."
+        },
+        {
+          "verse": 10,
+          "text": "El a tras un cerc pe suprafaţa apelor, până la hotarul dintre lumină şi întuneric."
+        },
+        {
+          "verse": 11,
+          "text": "Stâlpii cerului se clatină şi se înspăimântă la mustrarea Lui."
+        },
+        {
+          "verse": 12,
+          "text": "Cu puterea Lui El a despicat marea şi cu înţelepciunea Lui a sfărâmat furia ei."
+        },
+        {
+          "verse": 13,
+          "text": "Suflarea Lui înseninează cerurile şi mâna Lui străpunge şarpele fugar!"
+        },
+        {
+          "verse": 14,
+          "text": "Şi dacă acestea sunt marginile din afară ale înfăptuirilor Sale, cât de puţin lucru este ceea ce străbate până la noi! Dar tunetul puterii Sale, cine ar putea să-l înţeleagă?\""
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_27_01",
+      "chapter": 27,
+      "pericope_num": "01",
+      "title_en": "Job Maintains His Integrity",
+      "title_ro": "Iov își păstrează integritatea",
+      "start_verse": 1,
+      "end_verse": 27,
+      "verse_count": 23,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Dar Iov a mers mai departe cu pildele lui şi a zis:"
+        },
+        {
+          "verse": 2,
+          "text": "\"Viu este Dumnezeu Care a dat la o parte dreptatea mea! Viu este Cel Atotputernic Care a împovărat sufletul meu!"
+        },
+        {
+          "verse": 3,
+          "text": "Câtă vreme duhul meu va fi întreg în mine şi suflarea lui Dumnezeu în pieptul meu,"
+        },
+        {
+          "verse": 4,
+          "text": "Buzele mele nu vor rosti nici un neadevăr şi limba mea nu va grăi nici o minciună!"
+        },
+        {
+          "verse": 5,
+          "text": "Departe de mine gândul să vă dau dreptate! Până când o fi să-mi dau duhul nu mă voi lepăda de nevinovăţia mea."
+        },
+        {
+          "verse": 6,
+          "text": "Ţin cu tărie la dreptatea mea şi nu voi lăsa-o să-mi scape; inima mea nu se ruşinează de zilele pe care le-am trăit."
+        },
+        {
+          "verse": 7,
+          "text": "Duşmanul meu să aibă partea nelegiuitului şi cel ce este împotriva mea să aibă partea celui ce lucrează nedreptatea!"
+        },
+        {
+          "verse": 8,
+          "text": "Care este nădejdea unui înrăit, când el se roagă şi îşi ridică sufletul către Dumnezeu?"
+        },
+        {
+          "verse": 9,
+          "text": "Aude oare Dumnezeu strigarea lui, când dă peste el vreo nenorocire?"
+        },
+        {
+          "verse": 10,
+          "text": "Este oare Cel Atotputernic desfătarea lui? Cheamă el în toată vremea numele lui Dumnezeu?"
+        },
+        {
+          "verse": 11,
+          "text": "Voiesc să vă învăţ căile lui Dumnezeu şi ceea ce este în gândul Celui Atotputernic nu vreau să vă ascund."
+        },
+        {
+          "verse": 12,
+          "text": "Şi dacă voi toţi aţi dovedit-o (ca şi mine), atunci pentru ce vorbiţi în zadar?"
+        },
+        {
+          "verse": 13,
+          "text": "Iată partea pe care Dumnezeu o păstrează celui rău şi moştenirea pe care asupritorii vor primi-o de la Cel Atotputernic."
+        },
+        {
+          "verse": 14,
+          "text": "Dacă fiii săi sunt numeroşi, sunt pentru tăişul sabiei şi odraslele lui nu au atâta pâine cât să se sature:"
+        },
+        {
+          "verse": 15,
+          "text": "Câţi mai scapă dintre ai lui vor muri de ciumă şi văduvele lor nu-i vor jeli."
+        },
+        {
+          "verse": 16,
+          "text": "Dacă adună bani mulţi ca nisipul şi grămădeşte veşminte multe ca noroiul,"
+        },
+        {
+          "verse": 17,
+          "text": "Poate să le grămădească, dar cu ele se va îmbrăca un om fără prihană şi de toţi banii lui va avea parte unul cu inima curată."
+        },
+        {
+          "verse": 18,
+          "text": "Casa pe care şi-a zidit-o este casa unei molii şi ca o colibă pe care şi-o face un pândar."
+        },
+        {
+          "verse": 19,
+          "text": "Se culcă bogat, dar nu se mai culcă a doua oară; deschide ochii şi nu mai este."
+        },
+        {
+          "verse": 20,
+          "text": "Spaimele l-au ajuns ziua în amiaza mare; în puterea nopţii, un vârtej l-a smuls."
+        },
+        {
+          "verse": 21,
+          "text": "Vântul de la răsărit l-a spulberat şi se duce; din locul de unde era îl spulberă."
+        },
+        {
+          "verse": 22,
+          "text": "Dumnezeu îl împovărează fără milă şi înaintea mâinii care îl pedepseşte el caută să fugă."
+        },
+        {
+          "verse": 23,
+          "text": "Oamenii bat din mâini la priveliştea aceasta şi cu fluierături îl alungă de peste tot."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_28_01",
+      "chapter": 28,
+      "pericope_num": "01",
+      "title_en": "Interlude Where Wisdom Is Found",
+      "title_ro": "Interludiu: Unde se găsește înțelepciunea",
+      "start_verse": 1,
+      "end_verse": 28,
+      "verse_count": 28,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Argintul are zăcămintele lui de obârşie şi aurul are locul lui de unde-l scoţi şi-l lămureşti."
+        },
+        {
+          "verse": 2,
+          "text": "Din pământ scoatem fierul şi din stânca topită scoatem arama."
+        },
+        {
+          "verse": 3,
+          "text": "Omul a pus hotare întunericului şi cercetează până în cele mai depărtate adâncuri, sfredelind piatra ascunsă în umbră şi în beznă."
+        },
+        {
+          "verse": 4,
+          "text": "Un popor străin a săpat cărări pe sub pământ, uitate de piciorul celor de deasupra şi departe de oameni; scormonitorii se spânzură pe funii şi se clatină încoace şi în colo."
+        },
+        {
+          "verse": 5,
+          "text": "Şi deasupra este pământul din care iese pâinea, dar pe dedesubt este răvăşit ca de foc."
+        },
+        {
+          "verse": 6,
+          "text": "Aici pietrele lui sunt de safir, dincoace sunt puzderii de aur,"
+        },
+        {
+          "verse": 7,
+          "text": "Cărări pe care nu le-a cunoscut pasărea de pradă şi pe care ochiul vulturului nu şi le-a însemnat."
+        },
+        {
+          "verse": 8,
+          "text": "Fiarele sălbatice nu le-au călcat niciodată, niciodată leul nu s-a strecurat pe aici."
+        },
+        {
+          "verse": 9,
+          "text": "Dar omul a ajuns cu mâna lui la aceste stânci de cremene şi munţii i-a răsturnat din temelie."
+        },
+        {
+          "verse": 10,
+          "text": "El a săpat şanţuri în stânci şi nimic de preţ nu scapă privirii lui."
+        },
+        {
+          "verse": 11,
+          "text": "El a răscolit izvoarele apelor şi tot ce era în adâncime a scos afară la lumină."
+        },
+        {
+          "verse": 12,
+          "text": "Dar înţelepciunea de unde izvorăşte ea şi care este locul de obârşie al priceperii?"
+        },
+        {
+          "verse": 13,
+          "text": "Pământeanul nu cunoaşte calea către ea, căci ea nu se găseşte pe meleagurile celor vii."
+        },
+        {
+          "verse": 14,
+          "text": "Adâncul a grăit: Ea nu se află în sânul meu! Şi marea a spus la fel: Ea nu este la mine!"
+        },
+        {
+          "verse": 15,
+          "text": "Mintea cea înaltă nu poate fi schimbată cu bulgări de aur şi argintul nu-l cântăreşti ca s-o plăteşti."
+        },
+        {
+          "verse": 16,
+          "text": "Ea nu poate să fie preţuită nici cu aurul Ofirului, nici cu preţioasa cornalină, nici cu pietre de safir!"
+        },
+        {
+          "verse": 17,
+          "text": "Cu ea alături nu pot să stea nici aurul, nici cristalul şi cu un vas din aurul cel mai curat nu se poate schimba ea."
+        },
+        {
+          "verse": 18,
+          "text": "Despre mărgean şi despre diamant, nici să mai pomenim, iar agonisirea înţelepciunii întrece cu mult pe aceea a mărgăritarelor."
+        },
+        {
+          "verse": 19,
+          "text": "Topazele Etiopiei nu stau în cumpănă cu ea şi cu aurul cel mai curat nu vei plăti-o niciodată!"
+        },
+        {
+          "verse": 20,
+          "text": "Şi această înţelepciune de unde vine ea şi care este sălaşul priceperii?"
+        },
+        {
+          "verse": 21,
+          "text": "Ea a fost ascunsă de ochii oricărei făpturi vii; ea a fost tăinuită şi de pasărea cerului."
+        },
+        {
+          "verse": 22,
+          "text": "Adâncul şi moartea au zis: Noi am auzit vorbindu-se de ea."
+        },
+        {
+          "verse": 23,
+          "text": "Dumnezeu îi cunoaşte drumul şi numai El este Cel ce ştie locuinţa ei."
+        },
+        {
+          "verse": 24,
+          "text": "Când El privea până la marginile pământului şi îmbrăţişa cu ochii tot ce se află sub ceruri,"
+        },
+        {
+          "verse": 25,
+          "text": "Ca să dea vântului cumpănă şi să chibzuiască legea apelor,"
+        },
+        {
+          "verse": 26,
+          "text": "Când El statornicea ploilor un făgaş şi o cale bubuitului tunetului,"
+        },
+        {
+          "verse": 27,
+          "text": "Atunci El a văzut înţelepciunea şi a cântărit-o, atunci a pus-o în lumină şi i-a măsurat adâncimea."
+        },
+        {
+          "verse": 28,
+          "text": "După aceea Dumnezeu a zis omului: Iată, frica de Dumnezeu, aceasta este înţelepciunea, iar în depărtarea de cel rău stă priceperea\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_29_01",
+      "chapter": 29,
+      "pericope_num": "01",
+      "title_en": "Job Finishes His Defense",
+      "title_ro": "Iov își încheie apărarea",
+      "start_verse": 1,
+      "end_verse": 29,
+      "verse_count": 25,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Apoi Iov a mers mai departe cu pildele sale şi a zis:"
+        },
+        {
+          "verse": 2,
+          "text": "\"O, dacă aş fi încă o dată ca în lunile de mai înainte, ca în zilele când Dumnezeu mă ocrotea,"
+        },
+        {
+          "verse": 3,
+          "text": "Ca atunci când El ţinea strălucitoare deasupra capului meu candela Sa şi, luminat de ea, eu străbăteam prin întuneric!"
+        },
+        {
+          "verse": 4,
+          "text": "De ce nu sunt încă o dată ca în zilele toamnei mele, când Dumnezeu ţinea parte cortului meu,"
+        },
+        {
+          "verse": 5,
+          "text": "Când Cel Atotputernic era încă cu mine şi împrejurul meu stăteau feciorii mei,"
+        },
+        {
+          "verse": 6,
+          "text": "Iar picioarele mele se scăldau în lapte şi stânca aspră izvora pentru mine pâraie de untdelemn?"
+        },
+        {
+          "verse": 7,
+          "text": "Atunci când ieşeam la poarta de sus a cetăţii şi aşezam în piaţă scaunul meu,"
+        },
+        {
+          "verse": 8,
+          "text": "Tineretul, văzându-mă, se ascundea cu sfială, iar cei bătrâni se ridicau în picioare şi rămâneau aşa."
+        },
+        {
+          "verse": 9,
+          "text": "Fruntaşii poporului îşi opreau cuvântările şi îşi puneau mâna la gură."
+        },
+        {
+          "verse": 10,
+          "text": "Glasul căpeteniilor scădea şi limba lor se lipea de cerul gurii."
+        },
+        {
+          "verse": 11,
+          "text": "Căci urechea care mă auzea mă fericea şi ochiul care mă vedea îmi dădea mare mărturie."
+        },
+        {
+          "verse": 12,
+          "text": "Fiindcă scăpam de pieire pe cel sărman care striga după ajutor şi pe orfanul fără sprijin."
+        },
+        {
+          "verse": 13,
+          "text": "Binecuvântările celui ce era gata să piară veneau asupră-mi şi umpleam de bucurie inima văduvei."
+        },
+        {
+          "verse": 14,
+          "text": "Mă îmbrăcam întru dreptate, ca într-un veşmânt şi judecata mea cea dreaptă era mantia mea şi turbanul meu."
+        },
+        {
+          "verse": 15,
+          "text": "Eram ochii celui orb şi piciorul celui şchiop;"
+        },
+        {
+          "verse": 16,
+          "text": "Eram tatăl celor neputincioşi şi cercetam cu sârguinţă pricinile care îmi erau necunoscute."
+        },
+        {
+          "verse": 17,
+          "text": "Sfărâmam fălcile nelegiuitului şi smulgeam prada din dinţii lui."
+        },
+        {
+          "verse": 18,
+          "text": "Şi îmi ziceam: Voi adormi în cuibul meu şi ca pasărea Phoenix voi înmulţi zilele mele."
+        },
+        {
+          "verse": 19,
+          "text": "Rădăcina mea se va răsfira pe lângă apă şi roua se va lăsa, noaptea, peste ramurile mele."
+        },
+        {
+          "verse": 20,
+          "text": "Slava mea va întineri neîncetat şi arcul meu se va înnoi în mâna mea."
+        },
+        {
+          "verse": 21,
+          "text": "Oamenii mă ascultau şi stăteau fără grai şi aşteptau să audă sfatul meu."
+        },
+        {
+          "verse": 22,
+          "text": "După ce le vorbeam eu, ei nu mai spuneau nimic şi cuvântul meu cădea asupra lor picătură cu picătură."
+        },
+        {
+          "verse": 23,
+          "text": "Mă aşteptau precum aştepţi ploaia şi căscau gura lor, ca pentru bura de primăvară."
+        },
+        {
+          "verse": 24,
+          "text": "Dacă le surâdeam, nu-şi credeau ochilor şi surâsul meu nu-l lăsau să se piardă."
+        },
+        {
+          "verse": 25,
+          "text": "Le arătam care este dreapta cale şi stăteam mereu în fruntea lor, stăteam ca un împărat, între ostaşii săi şi, oriunde-i duceam, ei veneau după mine."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_30_01",
+      "chapter": 30,
+      "pericope_num": "01",
+      "title_en": "Job Chapter 30",
+      "title_ro": "Capitolul 30",
+      "start_verse": 1,
+      "end_verse": 31,
+      "verse_count": 31,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Iar acum am ajuns de batjocură pentru cei mai tineri decât mine şi pe ai căror părinţi îi preţuiam prea puţin, ca să-i pun alături cu câinii turmelor mele."
+        },
+        {
+          "verse": 2,
+          "text": "Ce aş fi făcut cu puterea braţelor lor, odată ce vlaga lor se dusese toată?"
+        },
+        {
+          "verse": 3,
+          "text": "Din pricina sărăciei şi a foametei înspăimântătoare, ei mânţcau rădăcini din locuri uscate şi mama lor era câmpia pustie şi jalnică."
+        },
+        {
+          "verse": 4,
+          "text": "Ei culegeau ierburi de prin mărăcini şi pâinea lor era rădăcina de ienupăr."
+        },
+        {
+          "verse": 5,
+          "text": "Erau goniţi din mijlocul oamenilor şi după ei lumea urla ca după nişte hoţi."
+        },
+        {
+          "verse": 6,
+          "text": "Drept aceea, au ajuns să se aciueze pe marginea şuvoaielor, prin găurile pământului şi prin văgăunile stâncilor."
+        },
+        {
+          "verse": 7,
+          "text": "Zbiară prin hăţişuri, stau grămadă pe sub scaieţi."
+        },
+        {
+          "verse": 8,
+          "text": "Neam de oameni ticăloşi, neam de oameni fără nume, ei erau gunoaiele pe care le arunci din ţară!"
+        },
+        {
+          "verse": 9,
+          "text": "şi astăzi, iată că sunt cântecul lor, am ajuns basmul lor."
+        },
+        {
+          "verse": 10,
+          "text": "Le e groază de mine, s-au depărtat de mine şi pentru obrazul meu n-au făcut economie cu scuipatul lor!"
+        },
+        {
+          "verse": 11,
+          "text": "Cel ce şi-a deznodat ştreangul robiei mă asupreşte şi tot aşa cel ce şi-a scos zăbalele din gură."
+        },
+        {
+          "verse": 12,
+          "text": "În dreapta mea se ridică martori potrivnici mie, în cursa lor au prins picioarele mele şi şi-au croit drumuri împotrivă-mi."
+        },
+        {
+          "verse": 13,
+          "text": "Au dărâmat poteca mea, cu gând ca să mă piardă, ei se suie încoace şi nimeni nu le este stavilă."
+        },
+        {
+          "verse": 14,
+          "text": "Ca printr-o spărtură largă, ei dau iureş şi în dărâmături se tăvălesc."
+        },
+        {
+          "verse": 15,
+          "text": "Mulţimea spaimelor s-a întors asupra mea, slava mea au gonit-o ca vântul şi izbăvirea mea a trecut ca un nor."
+        },
+        {
+          "verse": 16,
+          "text": "Şi acum sufletul meu se topeşte în mine, zile de amărăciune mă cuprind."
+        },
+        {
+          "verse": 17,
+          "text": "Noaptea oasele mele sunt ca sfredelite şi nervii mei nu ştiu de odihnă."
+        },
+        {
+          "verse": 18,
+          "text": "Cu o putere năpraznică, Dumnezeu mă tine de haină şi mă strânge de gât ca gulerul cămăşii."
+        },
+        {
+          "verse": 19,
+          "text": "Mi-a dat brânci în noroi şi am ajuns să fiu la fel cu praful şi cu cenuşa."
+        },
+        {
+          "verse": 20,
+          "text": "Strig către Tine şi nu-mi răspunzi, stau în picioare şi Tu nu mă vezi."
+        },
+        {
+          "verse": 21,
+          "text": "Tu Te-ai făcut asupritorul meu şi cu toată puterea braţului Tău mă prigoneşti."
+        },
+        {
+          "verse": 22,
+          "text": "Tu mă ridici deasupra vântului şi mă pui pe el călare şi apoi mă nimiceşti cu iureşul furtunii."
+        },
+        {
+          "verse": 23,
+          "text": "Ştiu foarte bine că Tu mă duci spre moarte şi la locul de întâlnire al tuturor muritorilor."
+        },
+        {
+          "verse": 24,
+          "text": "Totuşi împotriva sărmanului nu ridicam mâna mea, când striga către mine, în nenorocirea lui."
+        },
+        {
+          "verse": 25,
+          "text": "N-am plâns oare şi eu împreună cu cel care-şi ducea viaţa greu? Sufletul meu n-avea milă de cel sărman?"
+        },
+        {
+          "verse": 26,
+          "text": "Mă aşteptam la fericire şi iată că a venit nenorocirea; aşteptam lumina şi a venit întunericul."
+        },
+        {
+          "verse": 27,
+          "text": "Măruntaiele mele au fiert în clocote fără încetare; zile de jale grea mi-au sosit înainte."
+        },
+        {
+          "verse": 28,
+          "text": "Am umblat înnegrit la faţă, dar nu de soare; m-am ridicat în adunare şi am strigat."
+        },
+        {
+          "verse": 29,
+          "text": "Am ajuns frate cu şacalii, am ajuns tovarăş cu struţii."
+        },
+        {
+          "verse": 30,
+          "text": "Pielea s-a făcut pe mine neagră şi oasele mele sunt arse de friguri."
+        },
+        {
+          "verse": 31,
+          "text": "Astfel harfa mea a ajuns instrument tânguirii şi flautul meu glasul bocitoarelor."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_31_01",
+      "chapter": 31,
+      "pericope_num": "01",
+      "title_en": "Job Chapter 31",
+      "title_ro": "Capitolul 31",
+      "start_verse": 1,
+      "end_verse": 40,
+      "verse_count": 40,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Făcusem legământ cu ochii mei şi asupra unei fecioare nu-i ridicam."
+        },
+        {
+          "verse": 2,
+          "text": "Şi care este partea pe care Dumnezeu o trimite din ceruri şi ce câştig hărăzeşte, din înălţime, Cel Atotputernic?"
+        },
+        {
+          "verse": 3,
+          "text": "Nefericirea nu este ea oare pentru cel nedrept şi nenorocirea pentru făptuitorii fărădelegii?"
+        },
+        {
+          "verse": 4,
+          "text": "Nu vede, oare, Dumnezeu căile mele şi nu numără El toţi paşii mei?"
+        },
+        {
+          "verse": 5,
+          "text": "Umblat-am oare întru minciună şi picioarele mele au zorit spre înşelăciune?"
+        },
+        {
+          "verse": 6,
+          "text": "Să mă cântărească în cumpăna dreptăţii şi Dumnezeu să cunoască neprihănirea mea."
+        },
+        {
+          "verse": 7,
+          "text": "Dacă paşii mei s-au abătut de la calea cea dreaptă şi inima mea a fost târâtă de ochii mei, iar de mâinile mele s-a lipit vreo murdărie,"
+        },
+        {
+          "verse": 8,
+          "text": "Atunci altul să mănânce ceea ce eu semăn şi vlăstarii mei să fie scoşi din rădăcină!"
+        },
+        {
+          "verse": 9,
+          "text": "Dacă inima mea a fost amăgită de vreo femeie şi am stat de pândă la uşa aproapelui meu,"
+        },
+        {
+          "verse": 10,
+          "text": "Atunci nevasta mea să învârtească la râşniţă pentru altul şi alţii să aibă parte de ea."
+        },
+        {
+          "verse": 11,
+          "text": "Căci aceasta ar fi o urâciune, o nelegiuire vrednică de pedeapsa judecătorilor,"
+        },
+        {
+          "verse": 12,
+          "text": "Un foc care mistuie până la iad şi care nimiceşte toată strânsura mea;"
+        },
+        {
+          "verse": 13,
+          "text": "Dacă aş fi nesocotit dreptul slugii sau al slujnicei mele, în socotelile lor cu mine,"
+        },
+        {
+          "verse": 14,
+          "text": "Ce mă voi face eu; când Dumnezeu se va ridica şi ce răspuns ti voi da, când va lua procesul în cercetare?"
+        },
+        {
+          "verse": 15,
+          "text": "Cel ce m-a făcut pe mine în pântecele mamei mele nu l-a făcut şi pe robul meu? Nu este, oare, El singur Care ne-a alcătuit în pântece?"
+        },
+        {
+          "verse": 16,
+          "text": "Datu-m-am, oare, în lături, când săracul dorea ceva şi lăsat-am să se stingă de plânsete ochii văduvelor?"
+        },
+        {
+          "verse": 17,
+          "text": "Mâncam, oare, singur bucata mea de pâine şi orfanului nu-i dădeam din ea?"
+        },
+        {
+          "verse": 18,
+          "text": "Dimpotrivă, din tinereţile mele, am crescut pe orfan ca un tată şi de la naştere, am călăuzit pe văduvă."
+        },
+        {
+          "verse": 19,
+          "text": "Dacă vedeam un nenorocit fără haină şi vreun sărac care n-avea cămaşă pe el,"
+        },
+        {
+          "verse": 20,
+          "text": "Nu mă binecuvântau coapsele lui şi nu-l încălzea lâna mieilor mei?"
+        },
+        {
+          "verse": 21,
+          "text": "Dacă am repezit mâna mea împotriva vreunui orfan, fiindcă vedeam că am sprijinitori la masa judecăţii,"
+        },
+        {
+          "verse": 22,
+          "text": "Atunci să cadă umărul meu din încheietură şi braţul meu să se dezlege de osul celălalt!"
+        },
+        {
+          "verse": 23,
+          "text": "Dar eu mă temeam de pedeapsa lui Dumnezeu şi înaintea măreţiei Lui nu puteam să stau."
+        },
+        {
+          "verse": 24,
+          "text": "Mi-am pus eu încrederea în aur sau am zis aurului lămurit: Tu eşti nădejdea mea?"
+        },
+        {
+          "verse": 25,
+          "text": "Ori eram fericit peste măsură, că aveam atâta avere şi că mâna mea agonisise mult?"
+        },
+        {
+          "verse": 26,
+          "text": "Ori când vedeam soarele în strălucirea lui şi luna înaintând cu măreţie,"
+        },
+        {
+          "verse": 27,
+          "text": "A fost inima mea amăgită în taină şi am dus eu mâna la gură, ca s-o sărut?"
+        },
+        {
+          "verse": 28,
+          "text": "Şi aceasta ar fi fost o mare fărădelege, fiindcă aş fi tăgăduit pe Dumnezeul cel Preaînalt."
+        },
+        {
+          "verse": 29,
+          "text": "M-am bucurat eu de nenorocirea duşmanului meu şi am tresăltat când vreo răutate dăduse peste el?"
+        },
+        {
+          "verse": 30,
+          "text": "Eu n-am îngăduit limbii mele să greşească şi să ceară moartea duşmanului, blestemându-l."
+        },
+        {
+          "verse": 31,
+          "text": "Oamenii care ţineau de casa mea ziceau: \"Unde s-ar găsi vreunul care să nu se fi săturat la masa lui?\""
+        },
+        {
+          "verse": 32,
+          "text": "Străinul nu petrecea noaptea niciodată afară; porţile mele le deschideam călătorului."
+        },
+        {
+          "verse": 33,
+          "text": "Acoperit-am eu, ca lumea cealaltă, păcatele mele, ascunzând, în sânul meu, greşeala făptuită,"
+        },
+        {
+          "verse": 34,
+          "text": "Pentru că, adică, mă temeam de zarva cetăţii şi mă înspăimânta dispreţul cetăţenilor şi atunci rămâneam fără glas şi nu mai mă arătam în poartă?"
+        },
+        {
+          "verse": 35,
+          "text": "O, cine, îmi va da pe cineva care să mă asculte? Iată aici iscălitura mea! Cel Atotputernic să-mi răspundă! Iar învinuirea scrisă de potrivnicii mei,"
+        },
+        {
+          "verse": 36,
+          "text": "Voi purta-o pe umărul meu, voi înnoda-o în jurul capului meu, ca o cunună."
+        },
+        {
+          "verse": 37,
+          "text": "Îi voi da socoteală de toţi paşii mei, ca un principe mă voi înfăţişa înaintea Lui."
+        },
+        {
+          "verse": 38,
+          "text": "Nu cumva ogoarele mele cer răzbunare împotriva mea şi brazdele lor sunt prididite de lacrimi?"
+        },
+        {
+          "verse": 39,
+          "text": "Nu cumva m-am înfruptat din roadele lor şi n-am plătit şi am făcut pe vechii lor stăpâni să se plângă de mine?"
+        },
+        {
+          "verse": 40,
+          "text": "Dacă ar fi aşa, atunci să crească pe ele pălămidă în loc de grâu şi neghină în loc de orz!\" Aici cuvintele lui Iov se termină."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_32_01",
+      "chapter": 32,
+      "pericope_num": "01",
+      "title_en": "Elihu Rebukes Job’s Friends",
+      "title_ro": "Elihu mustră prietenii lui Iov",
+      "start_verse": 1,
+      "end_verse": 32,
+      "verse_count": 22,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Astfel, aceşti trei bărbaţi nu mai răspunseră nimic lui Iov, pentru că el se socotea fără vină."
+        },
+        {
+          "verse": 2,
+          "text": "Atunci se aprinse de mânie Elihu, fiul lui Baracheel din Buz, din familia lui Ram. Şi mânia lui se aprinse împotriva lui Iov, fiindcă el pretindea că este drept înaintea lui Dumnezeu,"
+        },
+        {
+          "verse": 3,
+          "text": "Şi iarăşi se aprinse mânia lui împotriva celor trei prieteni ai lui Iov, fiindcă ei nu găseau nici un răspuns şi totuşi osândeau pe Iov."
+        },
+        {
+          "verse": 4,
+          "text": "Elihu însă aşteptase pe când ei vorbeau cu Iov, fiindcă ei erau mai în vârstă decât Elihu."
+        },
+        {
+          "verse": 5,
+          "text": "Dar când a văzut el că nu mai este nici un răspuns în gura celor trei oameni, atunci s-a aprins mânia lui."
+        },
+        {
+          "verse": 6,
+          "text": "Şi aşa Elihu, fiul lui Baracheel din Buz, a început a vorbi şi a zis: \"Eu sunt tânăr şi voi sunteţi bătrâni, de aceea m-am sfiit şi m-am temut să vă dau pe faţă gândul meu."
+        },
+        {
+          "verse": 7,
+          "text": "Mi-am zis: vârsta trebuie să vorbească şi mulţimea anilor să ne înveţe înţelepciunea."
+        },
+        {
+          "verse": 8,
+          "text": "Dar duhul din om şi suflarea Celui Atotputernic dau priceperea."
+        },
+        {
+          "verse": 9,
+          "text": "Nu cei bătrâni sunt înţelepţi şi nici moşnegii nu sunt cei ce înţeleg totdeauna dreptatea."
+        },
+        {
+          "verse": 10,
+          "text": "Drept aceea am zis: Luaţi aminte la mine, voi arăta şi eu ce ştiu."
+        },
+        {
+          "verse": 11,
+          "text": "Iată că am aşteptat cuvintele voastre, am stat cu urechea aţintită la judecăţile voastre, pe când voi vă căutaţi ce aveaţi de spus."
+        },
+        {
+          "verse": 12,
+          "text": "Am stat cu ochii aţintiţi asupra voastră şi iată că nici unul n-a convins pe Iov, nici unul n-a răsturnat cuvintele lui;"
+        },
+        {
+          "verse": 13,
+          "text": "De aceea să nu ziceţi: Noi am găsit înţelepciunea şi Dumnezeu ne dă învăţătura, iar nu un om."
+        },
+        {
+          "verse": 14,
+          "text": "Astfel, nu voi pune înainte nişte cuvinte ca acestea şi nu-i voi răspunde cu temeiurile voastre."
+        },
+        {
+          "verse": 15,
+          "text": "Ei au fost opăriţi, n-au mai răspuns nimic, cuvintele le-au fugit din gură"
+        },
+        {
+          "verse": 16,
+          "text": "Şi eu am aşteptat! Dar pentru că ei nu mai vorbesc, fiindcă au stat pe loc şi nu mai răspund,"
+        },
+        {
+          "verse": 17,
+          "text": "Voi zice şi eu ceva din partea mea, voi arăta şi eu ştiinţa mea,"
+        },
+        {
+          "verse": 18,
+          "text": "Căci sunt plin de cuvinte până în gât şi duhul meu lăuntric îmi dă zor."
+        },
+        {
+          "verse": 19,
+          "text": "Iată că cugetul meu în mine este ca un vin care n-are pe unde să răsufle, ca un vin care sparge nişte burdufuri noi."
+        },
+        {
+          "verse": 20,
+          "text": "Voi vorbi deci ca să mă uşurez, voi deschide gura mea şi nu-l voi lăsa pe Iov fără răspuns."
+        },
+        {
+          "verse": 21,
+          "text": "Nu voi lua partea nimănui şi nu voi măguli pe nimeni,"
+        },
+        {
+          "verse": 22,
+          "text": "Căci nu mă pricep să linguşesc, altfel într-o clipeală m-ar smulge Ziditorul meu."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_33_01",
+      "chapter": 33,
+      "pericope_num": "01",
+      "title_en": "Elihu Rebukes Job",
+      "title_ro": "Elihu îl mustră pe Iov",
+      "start_verse": 1,
+      "end_verse": 33,
+      "verse_count": 33,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Drept aceea, Iov, te rog, ascultă cuvintele mele şi ia aminte la toate cuvintele mele."
+        },
+        {
+          "verse": 2,
+          "text": "Iată că am deschis gura mea şi limba mea grăieşte."
+        },
+        {
+          "verse": 3,
+          "text": "Inima mea va scoate la iveală cuvinte de învăţătură, buzele mele se vor rosti cu limpezime,"
+        },
+        {
+          "verse": 4,
+          "text": "Duhul lui Dumnezeu este Cel ce m-a făcut şi suflarea Celui Atotputernic este dătătoarea vieţii mele."
+        },
+        {
+          "verse": 5,
+          "text": "Dacă poţi, răspunde-mi, apără-ţi pricina înaintea mea, fii tare!"
+        },
+        {
+          "verse": 6,
+          "text": "Înaintea lui Dumnezeu eu sunt la fel cu tine şi eu ca şi tine am fost frământat din lut,"
+        },
+        {
+          "verse": 7,
+          "text": "De aceea frica de mine să nu te tulbure, nici mâna mea să nu atârne greu asupra ta."
+        },
+        {
+          "verse": 8,
+          "text": "Tu ai spus în auzul meu şi eu am auzit rostul vorbelor tale spunând aşa:"
+        },
+        {
+          "verse": 9,
+          "text": "\"Eu sunt curat şi fără nici o vină, eu sunt fără prihană şi n-am nici o greşeală;"
+        },
+        {
+          "verse": 10,
+          "text": "Dar iată că Dumnezeu caută pricină de ură împotriva mea şi mă socoteşte ca un vrăjmaş al Lui."
+        },
+        {
+          "verse": 11,
+          "text": "El pune picioarele mele în butuci şi pândeşte toţi paşii mei!\""
+        },
+        {
+          "verse": 12,
+          "text": "Dar aici îţi voi răspunde că tu n-ai dreptate, fiindcă Dumnezeu este mai mare decât omul."
+        },
+        {
+          "verse": 13,
+          "text": "De ce grăieşti împotriva Lui, fiindcă El nu dă nimănui socoteală de toate câte face?"
+        },
+        {
+          "verse": 14,
+          "text": "Vezi că Dumnezeu vorbeşte când într-un fel, când într-alt fel, dar omul nu ia aminte."
+        },
+        {
+          "verse": 15,
+          "text": "Şi anume, El vorbeşte în vis, în vedeniile nopţii, atunci când somnul se lasă peste oameni şi când ei dorm în aşternutul lor."
+        },
+        {
+          "verse": 16,
+          "text": "Atunci El dă înştiinţări oamenilor şi-i cutremură cu arătările Sale."
+        },
+        {
+          "verse": 17,
+          "text": "Ca să întoarcă pe om de la cele rele şi să-l ferească de mândrie"
+        },
+        {
+          "verse": 18,
+          "text": "Ca să-i ferească sufletul de prăpastie şi viaţa lui de calea mormântului;"
+        },
+        {
+          "verse": 19,
+          "text": "De aceea, prin durere, omul este mustrat în patul lui şi oasele lui sunt zguduite de un cutremur neîntrerupt."
+        },
+        {
+          "verse": 20,
+          "text": "Pofta lui este dezgustată de mâncare şi inima lui nu mai pofteşte nici cele mai bune bucate."
+        },
+        {
+          "verse": 21,
+          "text": "Carnea după el se prăpădeşte şi piere şi oasele lui, până acum nevăzute, îi ies prin piele."
+        },
+        {
+          "verse": 22,
+          "text": "Sufletul lui vine încet, încet spre prăpastie şi viaţa lui spre împărăţia morţilor."
+        },
+        {
+          "verse": 23,
+          "text": "Dacă atunci se află un înger lângă el, un mijlocitor între vii, care să-i arate omului calea datoriei,"
+        },
+        {
+          "verse": 24,
+          "text": "Dumnezeu Se milostiveşte de el şi zice îngerului: \"Izbăveşte-l ca să nu cadă în prăpastie; am găsit pentru sufletul lui preţul de răscumpărare!\""
+        },
+        {
+          "verse": 25,
+          "text": "Atunci trupul lui înfloreşte ca în tinereţe şi el vine înapoi la zilele de la începutul vieţii sale."
+        },
+        {
+          "verse": 26,
+          "text": "El se roagă lui Dumnezeu şi Dumnezeu îi arată bunătatea Sa şi-i îngăduie să vadă faţa Sa cu mare bucurie şi astfel îi dă omului iertarea Sa."
+        },
+        {
+          "verse": 27,
+          "text": "Atunci omul priveşte peste semenii săi şi zice: \"Păcătuisem şi călcasem dreptatea, dar n-am fost pedepsit după faptele mele."
+        },
+        {
+          "verse": 28,
+          "text": "Căci El a izbăvit sufletul meu ca să nu treacă prin strâmtorile morţii şi ochii mei văd încă lumina\"."
+        },
+        {
+          "verse": 29,
+          "text": "Iată toate acestea le face Dumnezeu de două ori, de trei ori cu omul,"
+        },
+        {
+          "verse": 30,
+          "text": "Ca să-i scoată sufletul din pieire şi ca să-l lumineze cu lumina celor vii."
+        },
+        {
+          "verse": 31,
+          "text": "Ia aminte Iov, ascultă-mă pe mine, taci şi eu voi vorbi!"
+        },
+        {
+          "verse": 32,
+          "text": "Dacă ai ceva de spus dă-mi răspuns, vorbeşte, căci dorinţa mea este să-ţi dau dreptate."
+        },
+        {
+          "verse": 33,
+          "text": "Iar dacă nu, ascultă la mine: ţine-ţi gura şi te voi învăţa care este înţelepciunea\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_34_01",
+      "chapter": 34,
+      "pericope_num": "01",
+      "title_en": "Elihu Proclaims God’s Justice",
+      "title_ro": "Elihu vestește dreptatea lui Dumnezeu",
+      "start_verse": 1,
+      "end_verse": 37,
+      "verse_count": 37,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Elihu a vorbit mai departe şi a zis:"
+        },
+        {
+          "verse": 2,
+          "text": "\"Ascultaţi, înţelepţilor, cuvintele mele şi voi, învăţaţilor, aţintiţi-vă urechile,"
+        },
+        {
+          "verse": 3,
+          "text": "Fiindcă urechea deosebeşte cuvintele, precum cerul gurii gustă rnâncarea."
+        },
+        {
+          "verse": 4,
+          "text": "Să cercetăm între noi ce este drept, să ştim între noi ceea ce este bine,"
+        },
+        {
+          "verse": 5,
+          "text": "Fiindcă Iov a zis: \"Eu sunt drept, dar Dumnezeu nu-mi dă dreptate!"
+        },
+        {
+          "verse": 6,
+          "text": "Deşi nevinovat, trec drept mincinos; rana mea este nevindecată, deşi eu nu am nici o greşeală\"."
+        },
+        {
+          "verse": 7,
+          "text": "Cine mai este ca Iov, care să bea batjocura, cum ar bea apa?"
+        },
+        {
+          "verse": 8,
+          "text": "Care să se însoţească cu cei care fac nedreptate şi să meargă în pas cu făcătorii de rele?"
+        },
+        {
+          "verse": 9,
+          "text": "Căci Iov a zis: \"Omul n-are nici un folos, dacă se străduieşte să fie plăcut lui Dumnezeu\"."
+        },
+        {
+          "verse": 10,
+          "text": "Dar voi oameni de inimă, ascultaţi-mă! Departe este de Dumnezeu răutatea, departe este de El nedreptatea!"
+        },
+        {
+          "verse": 11,
+          "text": "Căci Dumnezeu întoarce omului după faptele lui şi se poartă cu fiecare după purtarea lui."
+        },
+        {
+          "verse": 12,
+          "text": "Cu adevărat, Dumnezeu nu făptuieşte răul şi Cel Atotputernic nu strâmbă dreptatea."
+        },
+        {
+          "verse": 13,
+          "text": "Cine i-a încredinţat cârmuirea pământului şi cine i-a dat în grijă această lume întreagă?"
+        },
+        {
+          "verse": 14,
+          "text": "Dacă Dumnezeu n-ar cugeta decât la Sine Însuşi şi dacă ar lua înapoi la Sine duhul Său şi suflarea Sa,"
+        },
+        {
+          "verse": 15,
+          "text": "Toate făpturile ar pieri deodată şi omul s-ar întoarce în ţărână."
+        },
+        {
+          "verse": 16,
+          "text": "Dacă ai minte, ascultă aceasta, pleacă urechea la cuvintele mele."
+        },
+        {
+          "verse": 17,
+          "text": "Unul care prigoneşte dreptatea ar putea oare să domnească? Şi vei osândi tu pe Cel mare şi drept?"
+        },
+        {
+          "verse": 18,
+          "text": "El, Care strigă împăraţilor: Netrebnicilor! Şi celor mai mari de pe pământ: Nelegiuiţilor!"
+        },
+        {
+          "verse": 19,
+          "text": "El nu caută la fala celor mari şi nu face deosebire între bogat şi sărac, pentru că toţi sunt lucrarea mâinilor Sale."
+        },
+        {
+          "verse": 20,
+          "text": "Într-o clipită ei mor şi se duc; în miez de noapte, un popor se zbuciumă şi fără greutate prăbuşeşte pe tiran."
+        },
+        {
+          "verse": 21,
+          "text": "Pentru că ochii Domnului supraveghează cărările omului şi vede toţi paşii lui."
+        },
+        {
+          "verse": 22,
+          "text": "Pentru El nu este nici întuneric, nici umbră, unde să se poată ascunde cei ce lucrează nelegiuirea."
+        },
+        {
+          "verse": 23,
+          "text": "Dumnezeu n-are nevoie să privească multă vreme pe cineva, ca să-l tragă înaintea judecăţii Sale."
+        },
+        {
+          "verse": 24,
+          "text": "El zdrobeşte pe puternici, fără lungă cercetare şi pune pe alţii în locul lor."
+        },
+        {
+          "verse": 25,
+          "text": "De vreme ce El cunoaşte faptele lor, El îi răstoarnă în fapt de noapte şi-i zdrobeşte."
+        },
+        {
+          "verse": 26,
+          "text": "Ca pe nişte nelegiuiţi ce sunt, El îi loveşte de fală cu foarte mulţi privitori,"
+        },
+        {
+          "verse": 27,
+          "text": "Fiindcă s-au dat la o parte din preajma Sa şi n-au voit să priceapă cărările Sale"
+        },
+        {
+          "verse": 28,
+          "text": "Şi au făcut să urce până la Domnul strigătul celui sărac şi să răsune în urechile Sale plânsul celor nenorociţi."
+        },
+        {
+          "verse": 29,
+          "text": "Dacă Domnul se odihneşte, cine poate să-L smulgă din odihna Lui şi dacă Îşi acoperă faţa, cine poate să-L mai zărească? Dar El stă şi supraveghează şi pe popoare şi pe oameni,"
+        },
+        {
+          "verse": 30,
+          "text": "Ca unul Care nu voieşte stăpânirea celor nelegiuiţi, nici poticnirea popoarelor."
+        },
+        {
+          "verse": 31,
+          "text": "Dacă un făţarnic zice lui Dumnezeu: \"Am fost târât la păcat şi nu voi mai face ce este rău,"
+        },
+        {
+          "verse": 32,
+          "text": "Ceea ce nu ştiu, Tu învaţă-mă; dacă am săvârşit vreo nedreptate nu voi porni iar de la capăt!\""
+        },
+        {
+          "verse": 33,
+          "text": "Crezi tu, după părerea ta, că Dumnezeu îi va face în schimb tot aşa? Fiindcă ai fost dispreţuitor, fiindcă te faci tu judecător în locul meu, spune-mi atunci ce ştii tu?"
+        },
+        {
+          "verse": 34,
+          "text": "Oamenii în toată firea vor zice şi tot aşa orice om cuminte care mă ascultă:"
+        },
+        {
+          "verse": 35,
+          "text": "Iov nu vorbeşte după dreapta învăţătură şi cuvintele lui nu sunt după sfânta dreptate."
+        },
+        {
+          "verse": 36,
+          "text": "Însă Iov trebuie cercetat până la capăt cu privire la acele răspunsuri vrednice de nişte nelegiuiţi."
+        },
+        {
+          "verse": 37,
+          "text": "El a sporit păcatul său; aici între noi el pune la îndoială greşeala lui şi îngrămădeşte vorbele sale împotriva lui Dumnezeu\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_35_01",
+      "chapter": 35,
+      "pericope_num": "01",
+      "title_en": "Elihu Condemns Self-Righteousness",
+      "title_ro": "Elihu condamnă încrederea în propria dreptate",
+      "start_verse": 1,
+      "end_verse": 35,
+      "verse_count": 16,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Elihu a vorbit mai departe şi a zis:"
+        },
+        {
+          "verse": 2,
+          "text": "\"Crezi tu că ai dreptate şi socoteşti că te-ai limpezit înaintea lui Dumnezeu,"
+        },
+        {
+          "verse": 3,
+          "text": "Când zici: \"Ce folosesc, ce câştig am eu, că nu păcătuiesc?\""
+        },
+        {
+          "verse": 4,
+          "text": "Iată ce-ţi voi răspunde şi ţie şi prietenilor tăi:"
+        },
+        {
+          "verse": 5,
+          "text": "Priveşte cerurile şi îndreaptă intr-acolo ochii; uită-te la nori, cât sunt ei de sus, faţă de tine!"
+        },
+        {
+          "verse": 6,
+          "text": "Dacă păcătuieşti, ce rău îi faci lui Dumnezeu şi dacă păcatele tale sunt numeroase, ce-I strică Lui?"
+        },
+        {
+          "verse": 7,
+          "text": "Dacă eşti drept, ce dar Îi faci sau ce primeşte El din mâna ta?"
+        },
+        {
+          "verse": 8,
+          "text": "Răutatea ta poate să strice unui om ca şi tine, dreptatea ta să folosească celui ce este ca şi tine născut din om."
+        },
+        {
+          "verse": 9,
+          "text": "Ei strigă atunci când împilarea a trecut orice margini, ei răcnesc în mâinile celor puternici."
+        },
+        {
+          "verse": 10,
+          "text": "Dar ei nu întreabă: Unde este Dumnezeu Cel ce ne-a făcut, El Care dăruieşte nopţii cântări de veselie?"
+        },
+        {
+          "verse": 11,
+          "text": "El Care ne dă mai multă înţelepciune decât dobitoacelor pământului şi mai multă pricepere decât păsărilor cerului?"
+        },
+        {
+          "verse": 12,
+          "text": "Să tot strige ei atunci, căci Dumnezeu nu răspunde, din pricina trufaşei împilări a celor răi."
+        },
+        {
+          "verse": 13,
+          "text": "Zadarnică le este truda; Dumnezeu nu aude şi Cel Atotputernic nu ia aminte."
+        },
+        {
+          "verse": 14,
+          "text": "Cu atât mai puţin, când tu zici că nu ştii de unde să-L iei, că tu eşti cu El în judecată şi că-L tot aştepţi să vină."
+        },
+        {
+          "verse": 15,
+          "text": "Ba, încă atunci când tu spui că mânia Lui nu pedepseşte şi că El nu prea ştie limpede ce este aceea nelegiuire!"
+        },
+        {
+          "verse": 16,
+          "text": "Da, Iov îşi deschide gura zadarnic şi, neştiind ce spune, înmulţeşte cuvintele fără rost."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_36_01",
+      "chapter": 36,
+      "pericope_num": "01",
+      "title_en": "Elihu Exalts God’s Goodness",
+      "title_ro": "Elihu preamărește bunătatea lui Dumnezeu",
+      "start_verse": 1,
+      "end_verse": 36,
+      "verse_count": 33,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Elihu a mers mai departe şi a grăit:"
+        },
+        {
+          "verse": 2,
+          "text": "\"Aşteaptă o clipă şi vei învăţa şi altele, căci sunt încă temeiuri şi cuvinte de partea lui Dumnezeu."
+        },
+        {
+          "verse": 3,
+          "text": "Voi porni cu ştiinţa mea de departe şi voi dovedi dreptatea Ziditorului meu."
+        },
+        {
+          "verse": 4,
+          "text": "Căci cu adevărat ceea ce-ţi spun eu nu este minciună şi cal ce stă lângă tine este unul desăvârşit în cunoştinţă."
+        },
+        {
+          "verse": 5,
+          "text": "Fireşte, Dumnezeu este prea puternic, dar nu leapădă pe nimeni; El este prea puternic prin înălţimea înţelepciunii Sale."
+        },
+        {
+          "verse": 6,
+          "text": "El nu lasă pe nelegiuit să propăşească şi celor nenorociţi le face dreptate."
+        },
+        {
+          "verse": 7,
+          "text": "El nu despoaie pe cei drepţi de dreptatea lor, iar cu împăraţii la fel: îi pune în jeţuri împărăteşti şi-i aşază să domnească de-a pururi. Dar ei se umflă de trufie."
+        },
+        {
+          "verse": 8,
+          "text": "Şi atunci iată-i ferecaţi cu lanţuri şi iată-i prinşi cu funiile mâhnirii."
+        },
+        {
+          "verse": 9,
+          "text": "După aceea, Dumnezeu le dezvăluie fapta pe care au făcut-o şi nelegiuirea în care au căzut, anume că s-au trufit."
+        },
+        {
+          "verse": 10,
+          "text": "Dar El le face această destăinuire ca să ia aminte şi le dă poruncă să se întoarcă de la răutatea lor;"
+        },
+        {
+          "verse": 11,
+          "text": "Dacă dau ascultare şi vin la supunere, ei îşi isprăvesc zilele lor în fericire şi anii lor în desfătări;"
+        },
+        {
+          "verse": 12,
+          "text": "Iar dacă sunt neascultători, atunci trec prin strâmtorile morţii şi se sting nepricepuţi şi orbi."
+        },
+        {
+          "verse": 13,
+          "text": "Nelegiuiţii se mânie; ei nu se roagă lui Dumnezeu, când sunt puşi în lanţuri."
+        },
+        {
+          "verse": 14,
+          "text": "Unii ca aceştia se sting de tineri şi viaţa lor se veştejeşte în floare."
+        },
+        {
+          "verse": 15,
+          "text": "Dar pe cel nenorocit Dumnezeu îl scapă prin nenorocirea lui şi prin suferinţă Dumnezeu îi dă învăţătură."
+        },
+        {
+          "verse": 16,
+          "text": "Tot aşa şi pe tine te va scoate din strânsoarea durerii, ca să te pună la loc larg, unde nu mai este nici o stinghereală şi unde masa ta va fi încărcată cu mâncări grase şi alese."
+        },
+        {
+          "verse": 17,
+          "text": "Dacă tu ai fost pedepsit cu străşnicie, ca un nelegiuit, tu scoate din pedeapsă puterea dreptăţii;"
+        },
+        {
+          "verse": 18,
+          "text": "Certarea Lui să nu te împingă la mânie împotriva Lui şi mulţimea bătăii să nu te scoată din calea cugetului drept."
+        },
+        {
+          "verse": 19,
+          "text": "Era oare să pună Dumnezeu vreun preţ pe bogăţiile tale? Nu! Nici pe aur, nici pe toate mijloacele puterii pământeşti."
+        },
+        {
+          "verse": 20,
+          "text": "Nu pofti noaptea (depărtării de Dumnezeu), căci în ea, popoare întregi au fost smulse din locul lor."
+        },
+        {
+          "verse": 21,
+          "text": "Ia seama, nu te duce la nedreptate, căci ea este adevărata cauză a suferinţei."
+        },
+        {
+          "verse": 22,
+          "text": "Da, Dumnezeu este nespus de mare prin puterea Lui! Cine poate să înveţe ca El?"
+        },
+        {
+          "verse": 23,
+          "text": "Cine I-a dat învăţătură cum să se poarte? Şi cine poate să-I spună: \"Aceasta ai făcut-o rău?\""
+        },
+        {
+          "verse": 24,
+          "text": "Adu-ţi aminte şi preamăreşte opera Lui, pe care o cântă, în laudele lor, oamenii;"
+        },
+        {
+          "verse": 25,
+          "text": "Orice om o priveşte, măcar că o îmbrăţişează cu ochiul, numai de departe."
+        },
+        {
+          "verse": 26,
+          "text": "Cât este de mare Dumnezeu! Dar noi nu putem să-L înţelegem şi numărul anilor Săi nu se poate socoti."
+        },
+        {
+          "verse": 27,
+          "text": "El atrage picăturile de apă, El le preface în aburi şi dă ploaia."
+        },
+        {
+          "verse": 28,
+          "text": "Iar norii o trec prin sita lor şi o varsă picături peste mulţimile omeneşti."
+        },
+        {
+          "verse": 29,
+          "text": "Cine poate să priceapă cum se desfăşoară norii şi cum bubuie tunetul în cortul lui?"
+        },
+        {
+          "verse": 30,
+          "text": "Iată că El a rostogolit aburii Săi şi a acoperit adâncimile mării."
+        },
+        {
+          "verse": 31,
+          "text": "Prin el Domnul hrăneşte popoarele şi le dă belşug de mâncare."
+        },
+        {
+          "verse": 32,
+          "text": "El ridică fulgerul, cu amândouă mâinile şi-l trimite să lovească la ţintă."
+        },
+        {
+          "verse": 33,
+          "text": "El dă din vreme de veste ciobanului şi oilor, care simt din aer apropierea vijeliei."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_36_02",
+      "chapter": 36,
+      "pericope_num": "02",
+      "title_en": "Elihu Proclaims God’s Majesty",
+      "title_ro": "Elihu vestește măreția lui Dumnezeu",
+      "start_verse": 24,
+      "end_verse": 33,
+      "verse_count": 10,
+      "verses": [
+        {
+          "verse": 24,
+          "text": "Adu-ţi aminte şi preamăreşte opera Lui, pe care o cântă, în laudele lor, oamenii;"
+        },
+        {
+          "verse": 25,
+          "text": "Orice om o priveşte, măcar că o îmbrăţişează cu ochiul, numai de departe."
+        },
+        {
+          "verse": 26,
+          "text": "Cât este de mare Dumnezeu! Dar noi nu putem să-L înţelegem şi numărul anilor Săi nu se poate socoti."
+        },
+        {
+          "verse": 27,
+          "text": "El atrage picăturile de apă, El le preface în aburi şi dă ploaia."
+        },
+        {
+          "verse": 28,
+          "text": "Iar norii o trec prin sita lor şi o varsă picături peste mulţimile omeneşti."
+        },
+        {
+          "verse": 29,
+          "text": "Cine poate să priceapă cum se desfăşoară norii şi cum bubuie tunetul în cortul lui?"
+        },
+        {
+          "verse": 30,
+          "text": "Iată că El a rostogolit aburii Săi şi a acoperit adâncimile mării."
+        },
+        {
+          "verse": 31,
+          "text": "Prin el Domnul hrăneşte popoarele şi le dă belşug de mâncare."
+        },
+        {
+          "verse": 32,
+          "text": "El ridică fulgerul, cu amândouă mâinile şi-l trimite să lovească la ţintă."
+        },
+        {
+          "verse": 33,
+          "text": "El dă din vreme de veste ciobanului şi oilor, care simt din aer apropierea vijeliei."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_37_01",
+      "chapter": 37,
+      "pericope_num": "01",
+      "title_en": "Job Chapter 37",
+      "title_ro": "Capitolul 37",
+      "start_verse": 1,
+      "end_verse": 37,
+      "verse_count": 24,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi din pricina aceasta inima mea se zbuciumă şi se zbate din locul ei."
+        },
+        {
+          "verse": 2,
+          "text": "Ascultaţi bubuitul glasului Său Şi tunetul care iese din gura Sa."
+        },
+        {
+          "verse": 3,
+          "text": "Peste toată întinderea cerului El azvârle fulgerul Său şi fulgerul Său ajunge până la marginile pământului."
+        },
+        {
+          "verse": 4,
+          "text": "În urma fulgerului, vine un muget prelung. El tună cu glasul Lui zguduitor, El nu mai împiedică fulgerele cât timp glasul Lui răsună."
+        },
+        {
+          "verse": 5,
+          "text": "Dumnezeu cu tunetul Său săvârşeşte minuni, El face lucruri mari pe care noi nu putem să le pricepem."
+        },
+        {
+          "verse": 6,
+          "text": "El porunceşte zăpezii: \"Cazi pe pământ \", şi ploilor îmbelşugate: \"Stăruiţi cu putere!\""
+        },
+        {
+          "verse": 7,
+          "text": "Pe fiecare om El pune a Sa pecetie, pentru ca toţi oamenii să recunoască puterea Lui."
+        },
+        {
+          "verse": 8,
+          "text": "Fiarele sălbatice se dau înapoi în culcuşurile lor şi rămân ascunse în vizuinile lor."
+        },
+        {
+          "verse": 9,
+          "text": "Vijelia vine de la miazăzi şi frigul vine de la miazănoapte."
+        },
+        {
+          "verse": 10,
+          "text": "La suflarea lui Dumnezeu se încheagă ghiaţa şi întinderea apelor se face sloi."
+        },
+        {
+          "verse": 11,
+          "text": "El umple norii cu apă şi din întunecimea furtunii sloboade fulgerele."
+        },
+        {
+          "verse": 12,
+          "text": "Iar norii, învârtindu-se în cercuri, aleargă după planurile Sale, astfel că îndeplinesc tot ce le porunceşte, în lungul şi în latul lumii Sale pământeşti."
+        },
+        {
+          "verse": 13,
+          "text": "Şi Domnul îi trimite: aici ca o bătaie pentru pământ, dincolo ca o milostivire a voinţei Sale."
+        },
+        {
+          "verse": 14,
+          "text": "Iov, ia aminte la aceste lucruri, stai locului şi te uită la minunile lui Dumnezeu!"
+        },
+        {
+          "verse": 15,
+          "text": "Înţelegi tu cum cârmuieşte Dumnezeu norii Săi şi în ce fel poate norul să sloboadă fulgerul pe pământ?"
+        },
+        {
+          "verse": 16,
+          "text": "Înţelegi tu plutirea norilor, minuni ale Aceluia a Cărui ştiinţă este desăvârşită?"
+        },
+        {
+          "verse": 17,
+          "text": "Tu, care te aprinzi în veşmintele tale, când pământul se odihneşte sub vântul arzător din miazăzi,"
+        },
+        {
+          "verse": 18,
+          "text": "Poţi să întinzi la fel cu El boltitura cerului, ca o oglindă turnată din metal?"
+        },
+        {
+          "verse": 19,
+          "text": "Spune-mi şi mie ce vom putea să grăim cu El? Ce vorbă vom începe noi cu El, astfel întunecaţi la minte precum suntem?"
+        },
+        {
+          "verse": 20,
+          "text": "Acum, când eu vorbesc, cine-I dă de veste ce zic eu? Când a vorbit cineva ceva, El o ştie fiindcă I-a Spus altul?"
+        },
+        {
+          "verse": 21,
+          "text": "Oamenii nu pot să privească prealuminosul soare, care străluceşte pe cer, acum după ce vântul a împrăştiat norii."
+        },
+        {
+          "verse": 22,
+          "text": "Acum lumină biruitoare se revarsă din norii de la miazănoapte şi măreţia Domnului robeşte şi cutremură inima."
+        },
+        {
+          "verse": 23,
+          "text": "Pe Cel Atotputernic nu putem să-L ajungem cu priceperea noastră. El este atotînalt în putere şi bogat în judecată şi nu calcă niciodată dreptatea în picioare."
+        },
+        {
+          "verse": 24,
+          "text": "Pentru aceea oamenii se tem de El şi I se închină; El însă nu-şi pogoară privirile asupra nici unuia dintre cei ce se cred pe sine înţelepţi\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_38_01",
+      "chapter": 38,
+      "pericope_num": "01",
+      "title_en": "TheLordAnswers Job",
+      "title_ro": "Domnul îi răspunde lui Iov",
+      "start_verse": 1,
+      "end_verse": 41,
+      "verse_count": 41,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Atunci Dumnezeu i-a răspuns lui Iov, din sânul vijeliei, şi i-a zis:"
+        },
+        {
+          "verse": 2,
+          "text": "\"Cine este cel ce pune pronia sub obroc, prin cuvinte fără înţelepciune?"
+        },
+        {
+          "verse": 3,
+          "text": "Încinge-ţi deci coapsele ca un viteaz şi Eu te voi întreba şi tu Îmi vei da lămuriri!"
+        },
+        {
+          "verse": 4,
+          "text": "Unde erai tu, când am întemeiat pământul? Spune-Mi, dacă ştii să spui."
+        },
+        {
+          "verse": 5,
+          "text": "Ştii tu cine a hotărât măsurile pământului sau cine a întins deasupra lui lanţul de măsurat?"
+        },
+        {
+          "verse": 6,
+          "text": "În ce au fost întărite temeliile lui sau cine a pus piatra lui cea din capul unghiului,"
+        },
+        {
+          "verse": 7,
+          "text": "Atunci când stelele dimineţii cântau laolaltă şi toţi îngerii lui Dumnezeu Mă sărbătoreau?"
+        },
+        {
+          "verse": 8,
+          "text": "Cine a închis marea cu porţi, când ea ieşea năvalnică, din sânul firii,"
+        },
+        {
+          "verse": 9,
+          "text": "Şi când i-am dat ca veşmânt negura şi norii drept scutece,"
+        },
+        {
+          "verse": 10,
+          "text": "Apoi i-am hotărnicit hotarul Meu şi i-am pus porţi şi zăvoare"
+        },
+        {
+          "verse": 11,
+          "text": "Şi am zis: Până aici vei veni şi mai departe nu te vei întinde, aici se va sfărâma trufia valurilor tale?"
+        },
+        {
+          "verse": 12,
+          "text": "Ai poruncit tu dimineţii, vreodată în viaţa ta, şi i-ai arătat aurorei care este locul ei,"
+        },
+        {
+          "verse": 13,
+          "text": "Ca să apuce pământul de colţuri şi să scuture pe nelegiuiţi de pe pământ?"
+        },
+        {
+          "verse": 14,
+          "text": "În revărsatul zorilor, pământul se face roşu ca roşiile peceţi şi ia culori ca de veşmânt."
+        },
+        {
+          "verse": 15,
+          "text": "Cei răi rămân fără noaptea (prielnică lor) şi braţul ridicat este frânt."
+        },
+        {
+          "verse": 16,
+          "text": "Ai fost tu până la izvoarele mării sau te-ai plimbat pe fundul prăpastiei?"
+        },
+        {
+          "verse": 17,
+          "text": "Ţi s-au arătat oare porţile morţii şi porţile umbrei le-ai văzut?"
+        },
+        {
+          "verse": 18,
+          "text": "Ai cugetat oare la întinderea pământului? Spune, ştii toate acestea?"
+        },
+        {
+          "verse": 19,
+          "text": "Care drum duce la palatul luminii şi care este locul întunericului,"
+        },
+        {
+          "verse": 20,
+          "text": "Ca să ştii să-l călăuzeşti în cuprinsul lui şi să poţi să nimereşti potecile care duc la el acasă?"
+        },
+        {
+          "verse": 21,
+          "text": "Tu ştii bine, căci atunci erai născut şi numărul zilelor tale e foarte mare."
+        },
+        {
+          "verse": 22,
+          "text": "Ai ajuns tu la cămările zăpezii? Ai văzut tu cămările grindinei,"
+        },
+        {
+          "verse": 23,
+          "text": "Pe care le ţin deoparte pentru vremuri de strâmtorare, pentru zilele de bătălie şi de război?"
+        },
+        {
+          "verse": 24,
+          "text": "Unde se risipesc aburii şi se răspândeşte pe pământ vântul de la răsărit?"
+        },
+        {
+          "verse": 25,
+          "text": "Cine a săpat albie puhoaielor cerului şi cine a croit drum bubuitului tunetului,"
+        },
+        {
+          "verse": 26,
+          "text": "Ca să plouă pe un pământ nelocuit şi pe o pustietate unde nu se află fiinţă omenească"
+        },
+        {
+          "verse": 27,
+          "text": "Şi să adape ţinuturile sterpe şi uscate şi să scoată pajişte de iarbă din întinderea pleşuvă?"
+        },
+        {
+          "verse": 28,
+          "text": "Are ploaia un tată? Cine a zămislit stropii de rouă?"
+        },
+        {
+          "verse": 29,
+          "text": "Din sânul cui a ieşit gheaţa? Şi cine este cel ce naşte promoroaca din cer?"
+        },
+        {
+          "verse": 30,
+          "text": "Apele se încheagă şi se întăresc ca piatra şi fala mării se face sloi!"
+        },
+        {
+          "verse": 31,
+          "text": "Poţi tu să legi cataramele Pleiadelor sau să deznozi lanţurile Orionului?"
+        },
+        {
+          "verse": 32,
+          "text": "Poţi tu să scoţi la vreme cununa Zodiacului şi vei fi tu cârmaci Carului Mare şi stelelor lui?"
+        },
+        {
+          "verse": 33,
+          "text": "Cunoşti tu legile cerului şi poţi tu să faci să fie pe pământ ceea ce este scris în ele?"
+        },
+        {
+          "verse": 34,
+          "text": "Poţi tu să ridici până la nori glasul tău ca să se sloboadă peste tine potopul ploilor?"
+        },
+        {
+          "verse": 35,
+          "text": "Eşti tu în stare să azvârli fulgerele şi ele să plece şi să-ţi spună: Iată-ne?"
+        },
+        {
+          "verse": 36,
+          "text": "Cine a pus atâta înţelepciune în pasărea ibis sau cine i-a dat pricepere cocoşului?"
+        },
+        {
+          "verse": 37,
+          "text": "Cine poate să ţină cu destoinicie socoteala norilor şi să verse pe pământ burdufurile cerului,"
+        },
+        {
+          "verse": 38,
+          "text": "Ca să se adune pulberea şi să se întărească, iar bulgării de pământ să se lipească laolaltă?"
+        },
+        {
+          "verse": 39,
+          "text": "Tu eşti cel ce aduci pradă leoaicei şi potoleşti foamea puilor de leu,"
+        },
+        {
+          "verse": 40,
+          "text": "Când s-au ascuns în vizuini sau stau şi pândesc ascunşi în hăţişuri?"
+        },
+        {
+          "verse": 41,
+          "text": "Cine are grijă de mâncarea corbului, când puii lui croncănesc la Dumnezeu, de foame, şi zboară încoace şi încolo după hrană?"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_39_01",
+      "chapter": 39,
+      "pericope_num": "01",
+      "title_en": "Job Chapter 39",
+      "title_ro": "Capitolul 39",
+      "start_verse": 1,
+      "end_verse": 39,
+      "verse_count": 30,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Ştii tu când nasc caprele sălbatice? Ai băgat de seamă care este vremea cerboaicelor?"
+        },
+        {
+          "verse": 2,
+          "text": "Numeri tu lunile sarcinii lor şi ştii tu când le vine ceasul să nască?"
+        },
+        {
+          "verse": 3,
+          "text": "Ele îngenunchiază, fată puii şi scapă de durerile lor,"
+        },
+        {
+          "verse": 4,
+          "text": "Iar puii lor prind putere, se fac mari pe câmp, pornesc şi nu se mai întorc spre mamele lor."
+        },
+        {
+          "verse": 5,
+          "text": "Cine a lăsat slobod asinul sălbatic şi l-a dezlegat de la iesle?"
+        },
+        {
+          "verse": 6,
+          "text": "I-am dat pustiul ca să-l locuiască şi pământul sărat i l-am hărăzit ocol;"
+        },
+        {
+          "verse": 7,
+          "text": "El îşi bate joc de zarva oraşelor; el nu aude strigătele nici unui stăpân;"
+        },
+        {
+          "verse": 8,
+          "text": "El străbate munţii, locul său de păşune, şi umblă după orişice verdeaţă."
+        },
+        {
+          "verse": 9,
+          "text": "Va voi bivolul sălbatic să se bage la tine slugă şi să petreacă noaptea lingă ieslele tale?"
+        },
+        {
+          "verse": 10,
+          "text": "Poţi tu să-l legi cu funia de gât şi să tragă grapa după tine, peste arătură?"
+        },
+        {
+          "verse": 11,
+          "text": "Poţi să te încrezi în el, fiindcă este atât de tare, şi să-i laşi în grijă munca ta?"
+        },
+        {
+          "verse": 12,
+          "text": "Te bizui tu pe el, că mai vine înapoi să-ţi aducă roadele la aria ta?"
+        },
+        {
+          "verse": 13,
+          "text": "Aripile struţului sunt negrăit de agere; struţul are pene preafrumoase ţi mândru penaj."
+        },
+        {
+          "verse": 14,
+          "text": "Când îşi lasă ouăle pe pământ şi le lasă să se clocească în nisipul fierbinte,"
+        },
+        {
+          "verse": 15,
+          "text": "El uită că oarecine poate să le calce cu piciorul şi că vreo fiară sălbatică poate să le strivească."
+        },
+        {
+          "verse": 16,
+          "text": "Struţul e hain cu puii săi, ca şi cum n-ar fi ai lui, şi nu-i pasă deloc de truda sa zadarnică."
+        },
+        {
+          "verse": 17,
+          "text": "Vezi că Dumnezeu nu l-a înzestrat cu pricepere şi pătrundere."
+        },
+        {
+          "verse": 18,
+          "text": "Când se scoală însă şi porneşte, face de ocară şi pe cal şi pe călăreţ."
+        },
+        {
+          "verse": 19,
+          "text": "Tu eşti cel ce dai putere calului? Tu i-ai împodobit gâtul cu falnica lui coamă?"
+        },
+        {
+          "verse": 20,
+          "text": "Tu l-ai învăţat să sară uşor, ca o lăcustă? Nechezatul lui viteaz insuflă spaimă!"
+        },
+        {
+          "verse": 21,
+          "text": "El bate pământul cu copita şi mândru de puterea lui porneşte spre taberele înarmate;"
+        },
+        {
+          "verse": 22,
+          "text": "El îşi bate joc de primejdie şi n-are nici o teamă şi nu se dă înapoi dinaintea sabiei."
+        },
+        {
+          "verse": 23,
+          "text": "La oblânc îi sună tolba cu săgeţi; fulgere aruncă suliţa şi lancea."
+        },
+        {
+          "verse": 24,
+          "text": "De aprindere, de nerăbdare, el mănâncă, gonind, pământul şi, când a sunat trâmbiţa, nu mai are astâmpăr."
+        },
+        {
+          "verse": 25,
+          "text": "La chemarea trâmbiţei, pare că zice: Haide! Şi de departe soarbe cu nările bătălia, tunetul poruncilor căpeteniilor şi strigătele războinice."
+        },
+        {
+          "verse": 26,
+          "text": "Oare, prin deşteptăciunea ta s-a îmbrăcat în pene şoimul şi îşi întinde aripile ca nişte seceri, spre miazăzi?"
+        },
+        {
+          "verse": 27,
+          "text": "Nu cumva vulturul se ridică în înălţime din porunca ta şi îşi aşază cuibul pe vârfuri neajunse?"
+        },
+        {
+          "verse": 28,
+          "text": "El îşi face sălaşul în stânci şi acolo petrece noaptea - pe un vârf de stâncă şi pe vreo înălţime prăpăstioasă."
+        },
+        {
+          "verse": 29,
+          "text": "Acolo el stă şi îşi pândeşte prada; ochii săi străpung depărtările,"
+        },
+        {
+          "verse": 30,
+          "text": "Puii săi beau sângele prăzii şi unde sunt hoiturile, acolo se adună vulturii\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_40_01",
+      "chapter": 40,
+      "pericope_num": "01",
+      "title_en": "Job’s Response to God",
+      "title_ro": "Răspunsul lui Iov către Dumnezeu",
+      "start_verse": 1,
+      "end_verse": 5,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi Domnul a vorbit mai departe cu Iov şi i-a zis:"
+        },
+        {
+          "verse": 2,
+          "text": "Cel ce s-a apucat la ceartă cu Cel Atotputernic se va da oare bătut? Cel ce judecă pe Dumnezeu va răspunde ceva?"
+        },
+        {
+          "verse": 3,
+          "text": "Şi Iov a răspuns Domnului zicând:"
+        },
+        {
+          "verse": 4,
+          "text": "\"Dacă am fost uşuratic, ce răspuns să-ţi mai dau? Voi pune mâna mea pe gura mea."
+        },
+        {
+          "verse": 5,
+          "text": "Am vorbit o dată, dar încă o dată nu voi mai vorbi; de două ori şi nu voi lua-o iar de la început\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_40_02",
+      "chapter": 40,
+      "pericope_num": "02",
+      "title_en": "God’s Challenge to Job",
+      "title_ro": "Întrebarea lui Dumnezeu către Iov",
+      "start_verse": 6,
+      "end_verse": 24,
+      "verse_count": 19,
+      "verses": [
+        {
+          "verse": 6,
+          "text": "Atunci Domnul a vorbit cu Iov, din mijlocul furtunii şi a zis:"
+        },
+        {
+          "verse": 7,
+          "text": "\"Încinge-ţi coapsele ca un viteaz şi te voi întreba şi Îmi vei da lămuriri."
+        },
+        {
+          "verse": 8,
+          "text": "Poţi tu cu adevărat să găseşti cusur judecăţii Mele? Şi Mă vei osândi pe Mine, ca să-ţi faci dreptate?"
+        },
+        {
+          "verse": 9,
+          "text": "Este braţul tău ca braţul lui Dumnezeu? Şi glasul tău este, oare, tunet, precum este glasul Lui?"
+        },
+        {
+          "verse": 10,
+          "text": "Atunci împodobeşte-te cu măreţie şi cu semeţie, îmbracă-te cu strălucire şi cu cinste!"
+        },
+        {
+          "verse": 11,
+          "text": "Revarsă puhoaiele mâniei tale şi doboară cu o privire pe cel trufaş!"
+        },
+        {
+          "verse": 12,
+          "text": "Vezi de toţi semeţii şi smereşte-i şi calcă în picioare, fără zăbavă, pe toţi cei răi!"
+        },
+        {
+          "verse": 13,
+          "text": "Ascunde-i pe toţi grămadă, în pământ, şi îi înmormântează."
+        },
+        {
+          "verse": 14,
+          "text": "Şi atunci Eu Însumi te voi preamări, pentru toate câte ai izbândit cu dreapta ta."
+        },
+        {
+          "verse": 15,
+          "text": "Ia priveşte acum înaintea ta, hipopotamul; şi el ca şi tine este făptura Mea; el paşte iarbă ca boul."
+        },
+        {
+          "verse": 16,
+          "text": "Vezi ce putere are în coapsele lui şi ce tărie are în muşchii de pe pântece."
+        },
+        {
+          "verse": 17,
+          "text": "Coada lui e dârză ca lemnul cedrului şi vinele de pe pulpele lui stau ca nişte noduri."
+        },
+        {
+          "verse": 18,
+          "text": "Oasele lui sunt ca nişte ţevi de aramă şi mădularele ca nişte drugi de fier."
+        },
+        {
+          "verse": 19,
+          "text": "El este fruntea făpturilor lui Dumnezeu şi făcut să fie cel mai mare peste celelalte dobitoace."
+        },
+        {
+          "verse": 20,
+          "text": "Munţii îi dau hrană şi toate fiarele sălbatice sunt îngrozite când îl văd."
+        },
+        {
+          "verse": 21,
+          "text": "El se culcă sub florile de lotus, în ocolul trestiilor şi al bălţii."
+        },
+        {
+          "verse": 22,
+          "text": "Frunzele de lotus îi fac umbră şi sălciile bălţii îl împrejmuiesc."
+        },
+        {
+          "verse": 23,
+          "text": "Dacă fluviul vine mare, fără de veste, el nu se sinchiseşte; el stă liniştit pe loc, chiar când ar fi ca Iordanul să-i urce năvalnic până la gură."
+        },
+        {
+          "verse": 24,
+          "text": "Cine poate să-l privească? Cine poate să-i străpungă nasul cu un laţ?"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_41_01",
+      "chapter": 41,
+      "pericope_num": "01",
+      "title_en": "Job Chapter 41",
+      "title_ro": "Capitolul 41",
+      "start_verse": 1,
+      "end_verse": 41,
+      "verse_count": 34,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Poţi tu să prinzi leviatanul cu undiţa, ori să-i legi limba cu o sfoară?"
+        },
+        {
+          "verse": 2,
+          "text": "Vei putea tu să-i vâri în nas o trestie sau să-i găureşti falca cu cârligul?"
+        },
+        {
+          "verse": 3,
+          "text": "Îţi va face el multe rugăminţi şi îţi va spune el lucruri drăgălaşe?"
+        },
+        {
+          "verse": 4,
+          "text": "Ori va face cu tine legământ şi-l vei lua la tine rob pe toată viaţa?"
+        },
+        {
+          "verse": 5,
+          "text": "Te vei juca tu cu el, cum te joci cu o pasăre, sau îl vei lega tu ca să-ţi înveseleşti fetele?"
+        },
+        {
+          "verse": 6,
+          "text": "Pescarii întovărăşiţi vor putea să-l scoată de vânzare şi negustorii să-l vândă cu bucata?"
+        },
+        {
+          "verse": 7,
+          "text": "Vei putea tu să-i găureşti pielea cu săgeţi şi capul cu cârligul pescăresc?"
+        },
+        {
+          "verse": 8,
+          "text": "Ridică-ţi numai mâna împotriva lui şi vei pomeni de o asemenea luptă şi nu o vei mai începe niciodată!"
+        },
+        {
+          "verse": 9,
+          "text": "Iată, este o deşertăciune să mai nădăjduieşti în izbândă; numai înfăţişarea lui şi te dă la pământ."
+        },
+        {
+          "verse": 10,
+          "text": "Cine este atât de nechibzuit încât să-l întărâte? Cine va îndrăzni să dea piept cu Mine?"
+        },
+        {
+          "verse": 11,
+          "text": "Cine M-a îndatorat cu ceva, ca să fiu acum dator să-i dau înapoi? Tot ce se află sub ceruri este al Meu."
+        },
+        {
+          "verse": 12,
+          "text": "Cât despre leviatan, voi vorbi despre mădularele lui şi despre tăria lui şi despre frumoasa lui întocmire."
+        },
+        {
+          "verse": 13,
+          "text": "Cine a ridicat pulpana din faţă a veşmântului lui şi cine poate pătrunde în căptuşeala armurei lui?"
+        },
+        {
+          "verse": 14,
+          "text": "Cine a deschis vreodată porţile gurii lui? Zimţii lui sunt îngrozitori!"
+        },
+        {
+          "verse": 15,
+          "text": "Spinarea lui este ca un şirag de scuturi, pe care le-ai fi întărit şi pecetluit puternic."
+        },
+        {
+          "verse": 16,
+          "text": "Ele sunt strânse unul într-altul atât de tare, că nici vântul nu pătrunde printre ele."
+        },
+        {
+          "verse": 17,
+          "text": "Fiecare e lipit de cel de lângă el şi se ţin aşa şi nu se mai despart."
+        },
+        {
+          "verse": 18,
+          "text": "Din strănutul lui scapără lumină şi ochii lui sunt roşii ca pleoapele zorilor."
+        },
+        {
+          "verse": 19,
+          "text": "Din gura lui ies parcă nişte torţe aprinse şi izbucnesc valuri de scântei."
+        },
+        {
+          "verse": 20,
+          "text": "Din nările lui iese fum, ca dintr-o căldare pusă la foc şi care fierbe."
+        },
+        {
+          "verse": 21,
+          "text": "Răsuflarea lui este de cărbuni aprinşi şi din gura lui ţâşnesc flăcări."
+        },
+        {
+          "verse": 22,
+          "text": "Puterea lui e adunată în grumazul lui şi înaintea lui ţâşneşte groaza."
+        },
+        {
+          "verse": 23,
+          "text": "Carnea lui e îndesată; oricât ai apăsa în ea nu se lasă."
+        },
+        {
+          "verse": 24,
+          "text": "Inima lui este tare ca piatra, tare ca piatra râşniţei, cea de dedesubt."
+        },
+        {
+          "verse": 25,
+          "text": "De măreţia lui se tem şi valurile; valurile mării se dau înapoi din faţa lui."
+        },
+        {
+          "verse": 26,
+          "text": "Să-l atingi cu sabia nu foloseşti nimic; nici cu lancea, nici cu săgeata, nici cu toporul."
+        },
+        {
+          "verse": 27,
+          "text": "Fierul pentru pielea lui este ca paiul, iar arama ca lemnul putred."
+        },
+        {
+          "verse": 28,
+          "text": "Săgeata nu-l pune pe fugă şi pietrele din praştie cad pe el ca nişte pleavă."
+        },
+        {
+          "verse": 29,
+          "text": "O săgeată pentru el este un pai în vânt şi îşi bate joc de vâjâitul unei lănci ce zboară."
+        },
+        {
+          "verse": 30,
+          "text": "Sub pântecele lui sunt nişte solzi ascuţiţi; când dă prin noroi, pare că dă cu grapa."
+        },
+        {
+          "verse": 31,
+          "text": "Când se afundă, apa fierbe ca într-o căldare; el preface marea într-un cazan de fiert mirodenii."
+        },
+        {
+          "verse": 32,
+          "text": "El lasă în urmă o dâră luminoasă şi adâncul pare un cap cu plete albe."
+        },
+        {
+          "verse": 33,
+          "text": "Pe pământ el nu-şi află perechea şi e făcut să nu cunoască frica."
+        },
+        {
+          "verse": 34,
+          "text": "El se uită de sus la toţi câţi sunt puternici şi este împărat peste toate fiarele sălbatice\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_42_01",
+      "chapter": 42,
+      "pericope_num": "01",
+      "title_en": "Job Is Humbled and Satisfied",
+      "title_ro": "Iov este umilit și mulțumit",
+      "start_verse": 1,
+      "end_verse": 42,
+      "verse_count": 17,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi Iov a răspuns Domnului zicând:"
+        },
+        {
+          "verse": 2,
+          "text": "\"Ştiu că poţi să faci orice şi că nu este nici un gând care să nu ajungă pentru Tine faptă."
+        },
+        {
+          "verse": 3,
+          "text": "Cine cutează, ai zis Tu, să bârfească planurile Mele, din lipsă de înţelepciune? Cu adevărat, am vorbit fără să înţeleg despre lucruri prea minunate pentru mine şi nu ştiam."
+        },
+        {
+          "verse": 4,
+          "text": "Ascultă - ai spus Tu iar - şi Eu voi vorbi, te voi întreba şi tu Îmi vei da lămuriri."
+        },
+        {
+          "verse": 5,
+          "text": "Din spusele unora şi altora auzisem despre Tine, dar acum ochiul meu Te-a văzut."
+        },
+        {
+          "verse": 6,
+          "text": "Pentru aceea, mă urgisesc eu pe mine însumi şi mă pocăiesc în praf şi în cenuşă\"."
+        },
+        {
+          "verse": 7,
+          "text": "Iar după ce Domnul a rostit aceste cuvinte către Iov, a grăit către Elifaz din Teman: \"Mânia Mea arde împotriva ta şi împotriva celor doi prieteni ai tăi, pentru că n-aţi vorbit de Mine aşa de drept, precum a vorbit robul Meu Iov."
+        },
+        {
+          "verse": 8,
+          "text": "Acum deci luaţi şapte viţei şi şapte berbeci şi duceţi-vă la robul Meu Iov şi aduceţi-le, pentru voi, ardere de tot; iar robul Meu Iov să se roage pentru voi; din dragoste pentru el, voi fi îngăduitor, ca să nu Mă port cu voi după nebunia voastră, întrucât n-aţi vorbit despre Mine aşa de drept cum a vorbit robul Meu Iov\"."
+        },
+        {
+          "verse": 9,
+          "text": "Astfel Elifaz din Teman, Bildad din Şuah şi Ţofar din Naamat, s-au dus şi au făcut cum le spusese Domnul, şi Domnul a primit rugăciunea lui Iov."
+        },
+        {
+          "verse": 10,
+          "text": "Şi Domnul l-a pus pe Iov iarăşi în starea lui de la început, după ce s-a rugat pentru prieteni, şi i-a întors îndoit tot ce avusese mai înainte."
+        },
+        {
+          "verse": 11,
+          "text": "Şi toţi fraţii şi toate surorile şi toţi prietenii lui de altă dată au venit să-l cerceteze, au mâncat pâine în casa lui, l-au compătimit, l-au mângâiat de toate nenorocirile pe care le slobozise Domnul asupra lui şi fiecare i-a dat câte un chesita şi câte un inel de aur."
+        },
+        {
+          "verse": 12,
+          "text": "Şi Dumnezeu a binecuvântat sfârşitul vieţii lui Iov mai bogat decât începutul ei, şi el a strâns paisprezece mii de oi, şase mii de cămile, o mie de perechi de boi şi o mie de asine."
+        },
+        {
+          "verse": 13,
+          "text": "Şi a avut şapte fii şi trei fiice."
+        },
+        {
+          "verse": 14,
+          "text": "Celei dintâi i-a pus numele Iemima, celei de a doua, Cheţia şi celei de a treia, Cheren-Hapuc."
+        },
+        {
+          "verse": 15,
+          "text": "Iar în toată ţara nu se găseau femei atât de frumoase ca fetele lui Iov, şi tatăl lor le-a făcut părtaşe la moştenire, lângă fraţii lor."
+        },
+        {
+          "verse": 16,
+          "text": "Şi Iov a mai trăit după aceea o sută patruzeci de ani şi a văzut pe fiii săi şi pe fiii fiilor săi, până la al patrulea neam."
+        },
+        {
+          "verse": 17,
+          "text": "Şi Iov a murit bătrân şi încărcat de zile."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_42_02",
+      "chapter": 42,
+      "pericope_num": "02",
+      "title_en": "Job’s Friends Are Humiliated",
+      "title_ro": "Prietenii lui Iov sunt umiliți",
+      "start_verse": 7,
+      "end_verse": 9,
+      "verse_count": 3,
+      "verses": [
+        {
+          "verse": 7,
+          "text": "Iar după ce Domnul a rostit aceste cuvinte către Iov, a grăit către Elifaz din Teman: \"Mânia Mea arde împotriva ta şi împotriva celor doi prieteni ai tăi, pentru că n-aţi vorbit de Mine aşa de drept, precum a vorbit robul Meu Iov."
+        },
+        {
+          "verse": 8,
+          "text": "Acum deci luaţi şapte viţei şi şapte berbeci şi duceţi-vă la robul Meu Iov şi aduceţi-le, pentru voi, ardere de tot; iar robul Meu Iov să se roage pentru voi; din dragoste pentru el, voi fi îngăduitor, ca să nu Mă port cu voi după nebunia voastră, întrucât n-aţi vorbit despre Mine aşa de drept cum a vorbit robul Meu Iov\"."
+        },
+        {
+          "verse": 9,
+          "text": "Astfel Elifaz din Teman, Bildad din Şuah şi Ţofar din Naamat, s-au dus şi au făcut cum le spusese Domnul, şi Domnul a primit rugăciunea lui Iov."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Job_42_03",
+      "chapter": 42,
+      "pericope_num": "03",
+      "title_en": "Job’s Fortunes Are Restored Twofold",
+      "title_ro": "Averea lui Iov este întoarsă înoit",
+      "start_verse": 10,
+      "end_verse": 17,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 10,
+          "text": "Şi Domnul l-a pus pe Iov iarăşi în starea lui de la început, după ce s-a rugat pentru prieteni, şi i-a întors îndoit tot ce avusese mai înainte."
+        },
+        {
+          "verse": 11,
+          "text": "Şi toţi fraţii şi toate surorile şi toţi prietenii lui de altă dată au venit să-l cerceteze, au mâncat pâine în casa lui, l-au compătimit, l-au mângâiat de toate nenorocirile pe care le slobozise Domnul asupra lui şi fiecare i-a dat câte un chesita şi câte un inel de aur."
+        },
+        {
+          "verse": 12,
+          "text": "Şi Dumnezeu a binecuvântat sfârşitul vieţii lui Iov mai bogat decât începutul ei, şi el a strâns paisprezece mii de oi, şase mii de cămile, o mie de perechi de boi şi o mie de asine."
+        },
+        {
+          "verse": 13,
+          "text": "Şi a avut şapte fii şi trei fiice."
+        },
+        {
+          "verse": 14,
+          "text": "Celei dintâi i-a pus numele Iemima, celei de a doua, Cheţia şi celei de a treia, Cheren-Hapuc."
+        },
+        {
+          "verse": 15,
+          "text": "Iar în toată ţara nu se găseau femei atât de frumoase ca fetele lui Iov, şi tatăl lor le-a făcut părtaşe la moştenire, lângă fraţii lor."
+        },
+        {
+          "verse": 16,
+          "text": "Şi Iov a mai trăit după aceea o sută patruzeci de ani şi a văzut pe fiii săi şi pe fiii fiilor săi, până la al patrulea neam."
+        },
+        {
+          "verse": 17,
+          "text": "Şi Iov a murit bătrân şi încărcat de zile."
+        }
+      ]
+    }
+  ]
+}

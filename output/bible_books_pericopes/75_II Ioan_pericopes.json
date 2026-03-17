@@ -1,0 +1,100 @@
+{
+  "id": 37,
+  "book_number": 75,
+  "name_en": "2 John",
+  "name_ro": "II Ioan",
+  "testament": "NT",
+  "chapter_count": 1,
+  "pericope_count": 3,
+  "url": "https://www.bibliaortodoxa.ro/carte.php?id=37",
+  "pericopes": [
+    {
+      "pericope_id": "2_John_01_01",
+      "chapter": 1,
+      "pericope_num": "01",
+      "title_en": "Salutation",
+      "title_ro": "Salutare",
+      "start_verse": 1,
+      "end_verse": 3,
+      "verse_count": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Preotul, către aleasa Doamnă şi către fiii ei, pe care ei îi iubesc întru adevăr şi nu numai eu, ci şi toţi care au cunoscut adevărul,"
+        },
+        {
+          "verse": 2,
+          "text": "Pentru adevărul care rămâne în noi şi va fi cu noi în veac:"
+        },
+        {
+          "verse": 3,
+          "text": "Har, milă, pace fie cu voi, de la Dumnezeu-Tatăl şi de la Iisus Hristos, Fiul Tatălui, în adevăr şi în dragoste."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_John_01_02",
+      "chapter": 1,
+      "pericope_num": "02",
+      "title_en": "Truth and Love",
+      "title_ro": "Adevăr și iubire",
+      "start_verse": 4,
+      "end_verse": 11,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 4,
+          "text": "M-am bucurat foarte, că am aflat pe unii din fiii tăi umblând întru adevăr, precum am primit poruncă de la Tatăl."
+        },
+        {
+          "verse": 5,
+          "text": "Şi acum te rog, Doamnă, nu ca şi cum ţi-aş scrie poruncă nouă, ci pe aceea pe care noi o avem de la început, ca să ne iubim unii pe alţii."
+        },
+        {
+          "verse": 6,
+          "text": "Şi aceasta este iubirea, ca să umblăm după poruncile Lui; aceasta este porunca, precum aţi auzit dintru început, ca să umblaţi întru iubire."
+        },
+        {
+          "verse": 7,
+          "text": "Pentru că mulţi amăgitori au ieşit în lume, care nu mărturisesc că Iisus Hristos a venit în trup; acesta este amăgitorul şi antihristul."
+        },
+        {
+          "verse": 8,
+          "text": "Păziţi-vă pe voi înşivă, ca să nu pierdeţi ceea ce aţi lucrat, ci să primiţi plată deplină."
+        },
+        {
+          "verse": 9,
+          "text": "Oricine se abate şi nu rămâne în învăţătura lui Hristos nu are pe Dumnezeu; cel ce rămâne în învăţătura Lui, acela are şi pe Tatăl şi pe Fiul."
+        },
+        {
+          "verse": 10,
+          "text": "Dacă cineva vine la voi şi nu aduce învăţătura aceasta, să nu-l primiţi în casă şi să nu-i ziceţi: Bun venit!"
+        },
+        {
+          "verse": 11,
+          "text": "Căci cel ce-i zice: Bun venit! se face părtaş la faptele lui cele rele."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_John_01_03",
+      "chapter": 1,
+      "pericope_num": "03",
+      "title_en": "Final Greetings",
+      "title_ro": "Salutări finale",
+      "start_verse": 12,
+      "end_verse": 13,
+      "verse_count": 2,
+      "verses": [
+        {
+          "verse": 12,
+          "text": "Multe având a vă scrie, n-am voit să le scriu pe hârtie şi cu cerneală, ci nădăjduiesc să vin la voi şi să vorbesc gură către gură, ca bucuria noastră să fie deplină."
+        },
+        {
+          "verse": 13,
+          "text": "Te îmbrăţişează fiii surorii tale celei alese."
+        }
+      ]
+    }
+  ]
+}

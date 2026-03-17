@@ -1,0 +1,26 @@
+---
+testament: NT
+book: John
+book_romanian: Ioan
+chapter: 5
+pericope: 2
+pericope_title: "The Authority of the Son"
+verses_start: 19
+verses_end: 29
+verses_total: 0
+language: ro
+english_source: "[[New Testament/John/(John 05.02) The Authority of the Son]]"
+---
+# The Authority of the Son
+
+19. A răspuns Iisus şi le-a zis: Adevărat, adevărat zic vouă: Fiul nu poate să facă nimic de la Sine, dacă nu va vedea pe Tatăl făcând; căci cele ce face Acela, acestea le face şi Fiul întocmai.
+20. Că Tatăl iubeşte pe Fiul şi-I arată toate câte face El şi lucruri mai mari decât acestea va arăta Lui, ca voi să vă miraţi.
+21. Căci, după cum Tatăl scoală pe cei morţi şi le dă viaţă, tot aşa şi Fiul dă viaţă celor ce voieşte.
+22. Tatăl nu judecă pe nimeni, ci toată judecata a dat-o Fiului.
+23. Ca toţi să cinstească pe Fiul cum cinstesc pe Tatăl. Cine nu cinsteşte pe Fiul nu cinsteşte pe Tatăl care L-a trimis.
+24. Adevărat, adevărat zic vouă: Cel ce ascultă cuvântul Meu şi crede în Cel ce M-a trimis are viaţă veşnică şi la judecată nu va veni, ci s-a mutat de la moarte la viaţă.
+25. Adevărat, adevărat zic vouă, că vine ceasul şi acum este, când morţii vor auzi glasul Fiului lui Dumnezeu şi cei ce vor auzi vor învia.
+26. Căci precum Tatăl are viaţă în Sine, aşa I-a dat şi Fiului să aibă viaţă în Sine;
+27. Şi I-a dat putere să facă judecată, pentru că este Fiul Omului.
+28. Nu vă miraţi de aceasta; căci vine ceasul când toţi cei din morminte vor auzi glasul Lui,
+29. Şi vor ieşi, cei ce au făcut cele bune spre învierea vieţii şi cei ce au făcut cele rele spre învierea osândirii.

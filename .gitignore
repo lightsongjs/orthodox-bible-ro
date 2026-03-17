@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+extraction_log.txt
+frontmatter_output.log
+dry_run_output.txt
+
+# Temporary files
+temp/
+temp_*/
+*.tmp
+*.bak
+*.backup
+
+# Cache
+.cache/
+*.cache
+
+# CSV reports (optional - can be generated)
+*.csv
+
+# Optional: Uncomment to exclude large generated outputs from Git
+# (Keep source data, exclude generated files to save space)
+# output/markdown_ro/
+# output/markdown_en/
+# output/Biblia_Generata/
+
+# But always keep the pericope JSON (smaller and important)
+!output/bible_books_pericopes/
+
+# OS files
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,25 @@
+---
+testament: NT
+book: John
+book_romanian: Ioan
+chapter: 13
+pericope: 2
+pericope_title: "Jesus Foretells His Betrayal"
+verses_start: 21
+verses_end: 30
+verses_total: 0
+language: ro
+english_source: "[[New Testament/John/(John 13.02) Jesus Foretells His Betrayal]]"
+---
+# Jesus Foretells His Betrayal
+
+21. Iisus, zicând acestea, S-a tulburat cu duhul şi a mărturisit şi a zis: Adevărat, adevărat zic vouă că unul dintre voi Mă va vinde.
+22. Deci ucenicii se uitau unii la alţii, nedumerindu-se despre cine vorbeşte.
+23. Iar la masă era rezemat la pieptul lui Iisus unul dintre ucenicii Lui, pe care-l iubea Iisus.
+24. Deci Simon Petru i-a făcut semn acestuia şi i-a zis: Întreabă cine este despre care vorbeşte.
+25. Şi căzând acela astfel la pieptul lui Iisus, I-a zis: Doamne, cine este?
+26. Iisus i-a răspuns: Acela este, căruia Eu, întingând bucăţica de pâine, i-o voi da. Şi întingând bucăţica, a luat-o şi a dat-o lui Iuda, fiul lui Simon Iscarioteanul.
+27. Şi după îmbucătură a intrat satana în el. Iar Iisus i-a zis: Ceea ce faci, fă mai curând.
+28. Dar nimeni din cei care şedeau la masă n-a înţeles pentru ce i-a zis aceasta.
+29. Căci unii socoteau, deoarece Iuda avea punga, că lui îi zice Iisus: Cumpără cele de care avem de trebuinţă la sărbătoare, sau să dea ceva săracilor.
+30. Deci după ce a luat acela bucăţica de pâine, a ieşit numaidecât. Şi era noapte.

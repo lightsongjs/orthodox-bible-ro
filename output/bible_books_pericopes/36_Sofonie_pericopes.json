@@ -1,0 +1,296 @@
+{
+  "id": 73,
+  "book_number": 36,
+  "name_en": "Zephaniah",
+  "name_ro": "Sofonie",
+  "testament": "OT",
+  "chapter_count": 3,
+  "pericope_count": 6,
+  "url": "https://www.bibliaortodoxa.ro/carte.php?id=73",
+  "pericopes": [
+    {
+      "pericope_id": "Zephaniah_01_01",
+      "chapter": 1,
+      "pericope_num": "01",
+      "title_en": "The Coming Judgment on Judah",
+      "title_ro": "Judecata ce vine asupra lui Iuda",
+      "start_verse": 1,
+      "end_verse": 13,
+      "verse_count": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Cuvântul Domnului care a fost către Sofonie, fiul lui Cuşi, fiul lui Ghedalia, fiul lui Amaria, fiul lui Iezechia, în zilele lui Iosia, fiul lui Amon, regele lui Iuda."
+        },
+        {
+          "verse": 2,
+          "text": "\"Voi nimici totul de pe faţa pământului\", zice Domnul."
+        },
+        {
+          "verse": 3,
+          "text": "\"Voi nimici oamenii şi dobitoacele, păsările cerului şi peştii mării! Voi face să se poticnească nelegiuiţii şi voi pierde pe oameni de pe faţa pământului\", zice Domnul."
+        },
+        {
+          "verse": 4,
+          "text": "\"Şi voi întinde mâna Mea împotriva lui Iuda şi împotriva tuturor locuitorilor din Ierusalim şi voi distruge din locul acesta pe Baal până la ultimele lui rămăşiţe, numele slujitorilor săi, împreună cu al preoţilor;"
+        },
+        {
+          "verse": 5,
+          "text": "Şi pe toţi cei ce se închină, pe acoperişuri, oştirii cerului, şi pe toţi cei ce slăvesc pe Domnul, dar se jură şi pe Milcom;"
+        },
+        {
+          "verse": 6,
+          "text": "Pe cei ce se întorc de la Domnul, pe cei care nu-L caută pe Domnul şi năzuiesc spre El\"."
+        },
+        {
+          "verse": 7,
+          "text": "Tăceţi toţi înaintea Domnului Dumnezeu, că aproape este ziua Lui, că Domnul a pregătit ospăţ şi a sfinţit pe cei chemaţi ai Lui!"
+        },
+        {
+          "verse": 8,
+          "text": "Şi în ziua ospăţului voi pedepsi pe căpetenii şi casa regelui şi pe toţi cei care se îmbracă în veşminte străine;"
+        },
+        {
+          "verse": 9,
+          "text": "Voi pedepsi pe cei care sar peste prag şi umplu casa stăpânilor lor de silnicie şi viclenie."
+        },
+        {
+          "verse": 10,
+          "text": "Şi se va ridica în ziua aceea un strigăt de la Poarta Peştilor, urlete din cetatea cea nouă şi mare larmă de pe coline."
+        },
+        {
+          "verse": 11,
+          "text": "Urlaţi voi, locuitori ai Macteşului, căci toţi cei care fac negoţ sunt nimiciţi şi cei care sunt cântăritori de argint sunt distruşi."
+        },
+        {
+          "verse": 12,
+          "text": "Şi în ziua aceea, voi scormoni Ierusalimul cu făclii şi voi pedepsi pe toţi cei care zac pe drojdia lor şi zic în inima lor: \"Dumnezeu nu face nici bine, nici rău!\""
+        },
+        {
+          "verse": 13,
+          "text": "Pentru aceasta, averea lor va fi distrusă şi oasele lor pustiite; şi vor zidi case, dar nu le vor locui; vor sădi vii, şi din vinul lor nu vor bea."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Zephaniah_01_02",
+      "chapter": 1,
+      "pericope_num": "02",
+      "title_en": "The Great Day of theLord",
+      "title_ro": "Marea zi a Domnului",
+      "start_verse": 14,
+      "end_verse": 18,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 14,
+          "text": "Aproape este ziua cea mare a Domnului, aproape este şi zoreşte într-una. Se aude venind ziua Domnului! Viteazul va ţipa groaznic atunci."
+        },
+        {
+          "verse": 15,
+          "text": "Zi de mânie este ziua aceea, zi de strâmtorare şi de jale, zi de pustiire şi de nimicire, zi de întuneric şi de beznă, zi de nori şi de negură;"
+        },
+        {
+          "verse": 16,
+          "text": "Zi cu sunet de trâmbiţă şi de strigăte de război împotriva cetăţilor întărite şi a turnurilor înalte."
+        },
+        {
+          "verse": 17,
+          "text": "Voi strâmtora pe oameni şi vor merge ca orbii, căci împotriva Domnului au săvârşit păcate; sângele lor vărsat va fi ca pulberea şi trupurile lor ca gunoiul."
+        },
+        {
+          "verse": 18,
+          "text": "Nici aurul, nici argintul nu vor putea să-i izbăvească în ziua mâniei Domnului, căci tot pământul va fi mistuit de focul mâniei Lui; căci El va distruge, da, va pierde într-o clipă pe toţi locuitorii pământului."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Zephaniah_02_01",
+      "chapter": 2,
+      "pericope_num": "01",
+      "title_en": "Judgment on Israel's Enemies",
+      "title_ro": "Judecata asupra vrăjmașilor lui Israel",
+      "start_verse": 1,
+      "end_verse": 15,
+      "verse_count": 15,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Umblă după lege şi fii cu rânduială, neam fără ruşine,"
+        },
+        {
+          "verse": 2,
+          "text": "Până a nu vă toca mânia mărunt ca paiele, până să nu ajungă la voi aprinderea mâniei Domnului, până să nu vină la voi ziua întărâtării Domnului."
+        },
+        {
+          "verse": 3,
+          "text": "Căutaţi pe Domnul, toţi cei smeriţi din ţară, care săvârşiţi faptele legii Domnului; căutaţi dreptatea, căutaţi smerenia; poate veţi fi feriţi de ziua mâniei Domnului."
+        },
+        {
+          "verse": 4,
+          "text": "Căci Gaza va fi părăsită şi Ascalonul dărâmat; în miezul zilei va fi scos poporul din Aşdod şi Ecronul va fi ras de pe pământ."
+        },
+        {
+          "verse": 5,
+          "text": "Vai vouă, locuitori ai ţinutului de lingă mare, din neamul Cheretienilor! Cuvântul Domnului se îndreaptă către voi! Îţi voi face atâta pagubă Canaane, ţară a Filistenilor, că nu va mai rămâne nici un locuitor!"
+        },
+        {
+          "verse": 6,
+          "text": "Şi ţinutul cel de lângă mare, Cheretul, va ajunge păşune pentru ciobani şi târle pentru oi."
+        },
+        {
+          "verse": 7,
+          "text": "Şi va fi o bucată de pământ lângă mare pentru cei rămaşi din Iuda, unde îşi vor paşte turmele; seara se vor sălăşlui în casele din Ascalon, căci Domnul Dumnezeul lor îi va cerceta şi îi va întoarce din robie."
+        },
+        {
+          "verse": 8,
+          "text": "Am auzit de defăimarea Moabului şi de batjocurile fiilor lui Amon, care au defăimat poporul Meu şi îşi măreau ţara în paguba hotarelor lui."
+        },
+        {
+          "verse": 9,
+          "text": "Pentru aceasta, viu sunt Eu, zice Domnul Savaot, Dumnezeul lui Israel, că Moabul va fi ca Sodoma şi fiii lui Amon ca Gomora, un loc plin de mărăcini, o ocnă de sare şi o pustietate pentru totdeauna. Cei rămaşi din poporul Meu îi vor jefui şi pe cei scăpaţi cu viată ii vor stăpâni."
+        },
+        {
+          "verse": 10,
+          "text": "Iată ce li se va întâmpla din pricina semeţiei lor, pentru că au batjocorit şi s-au trufit împotriva poporului Domnului Savaot."
+        },
+        {
+          "verse": 11,
+          "text": "Atunci Domnul va fi înfricoşător pentru ei, căci El va distruge pe toţi dumnezeii pământului şi înaintea Lui se vor închina locuitorii ţinuturilor celor mai de departe, fiecare din locul său."
+        },
+        {
+          "verse": 12,
+          "text": "Şi voi, Etiopienilor, veţi fi doborâţi de sabia Mea la pământ!\""
+        },
+        {
+          "verse": 13,
+          "text": "Atunci El va întinde mâna Sa şi spre miazănoapte şi va nimici Asiria, va pustii Ninive şi o va preface în pustietate."
+        },
+        {
+          "verse": 14,
+          "text": "În mijlocul cetăţii vor sălăşlui turmele şi toate dobitoacele pământului. Şi pelicanul, ca şi ariciul vor sta pe capetele stâlpilor din ea; vuietul vântului se va auzi la ferestre şi pustiul se va întinde până pe prag, căci lemnăria de cedru a fost smulsă din loc."
+        },
+        {
+          "verse": 15,
+          "text": "Iată cum a ajuns cetatea cea veselă care stătea fără de grijă şi care zicea în sine: \"Eu sunt şi nici una nu mai este ca mine!\" Cum a fost pustiită şi prefăcută în culcuş pentru dobitoace! Oricine va trece pe lângă ea va fluiera şi va arăta cu mâna."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Zephaniah_03_01",
+      "chapter": 3,
+      "pericope_num": "01",
+      "title_en": "The Wickedness of Jerusalem",
+      "title_ro": "Nelegiuirea Ierusalimului",
+      "start_verse": 1,
+      "end_verse": 7,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Vai de cetatea răzvrătită şi pângărită, cetatea asupririi!"
+        },
+        {
+          "verse": 2,
+          "text": "N-a luat aminte la nici un semn, şi n-a primit nici o dojană; în Domnul nu şi-a pus nădejdea şi nici nu s-a apropiat de Dumnezeul ei."
+        },
+        {
+          "verse": 3,
+          "text": "Căpeteniile ei sunt, în mijlocul ei, lei care răcnesc; judecătorii ei, lupi de seară care nu păstrează nimic pentru a doua zi;"
+        },
+        {
+          "verse": 4,
+          "text": "Proorocii sunt oameni uşuratici, vicleni; preoţii pângăresc cele sfinte şi calcă legea."
+        },
+        {
+          "verse": 5,
+          "text": "Domnul este drept în mijlocul ei şi nu face nici o strâmbătate; în fiecare dimineaţă El dă la lumină dreptatea; El nu lipseşte niciodată şi nici nu cunoaşte nedreptatea."
+        },
+        {
+          "verse": 6,
+          "text": "Nimicit-am neamurile, pustiit-am turnurile lor, uliţele le-am lăsat goale şi fără nici un trecător; cetăţile lor au fost pustiite şi n-a mai rămas în ele nici un locuitor."
+        },
+        {
+          "verse": 7,
+          "text": "Şi am zis: \"Acum te vei teme de Mine şi te vei lăsa învăţată şi locaşul tău nu va mai fi nimicit aşa precum am hotărât!\" Dar ei mai vârtos se sileau să facă fapte şi mai nelegiuite."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Zephaniah_03_02",
+      "chapter": 3,
+      "pericope_num": "02",
+      "title_en": "Punishment and Conversion of the Nations",
+      "title_ro": "Pedepsirea și întoarcerea neamurilor",
+      "start_verse": 8,
+      "end_verse": 13,
+      "verse_count": 6,
+      "verses": [
+        {
+          "verse": 8,
+          "text": "\"Pentru aceasta, aşteptaţi-Mă, zice Domnul, până în ziua când Mă voi scula ca mărturie! Căci gândul Meu este să strâng laolaltă toate neamurile şi să adun regatele, ca să vărs peste ele întărâtarea Mea şi iuţimea urgiei Mele. Şi tot pământul va fi mistuit de văpaia mâniei Mele."
+        },
+        {
+          "verse": 9,
+          "text": "Atunci voi da popoarelor buze curate, ca toate să se roage Domnului şi cu râvnă să-I slujească Lui."
+        },
+        {
+          "verse": 10,
+          "text": "Din ţinuturile de cealaltă parte a fluviilor Etiopiei, închinătorii Mei, risipiţii Mei, Îmi vor aduce prinoase."
+        },
+        {
+          "verse": 11,
+          "text": "În ziua aceea nu te vei mai ruşina de toate faptele tale cu care ai păcătuit împotriva Mea, căci atunci voi da la o parte pe cei ce petrec în chip trufaş, iar tu nu te vei mai îngâmfa în muntele cel sfânt al Meu."
+        },
+        {
+          "verse": 12,
+          "text": "Şi voi lăsa în mijlocul tău un neam smerit şi sărac, care va nădăjdui întru numele Domnului."
+        },
+        {
+          "verse": 13,
+          "text": "Cei care vor mai rămâne din neamul lui Israel nu vor săvârşi nedreptate şi nici nu vor grăi cuvânt de minciună şi nu se va afla în gura lor limbă vicleană. Ci ei vor putea să mănânce şi să se odihnească, fără să se teamă de cineva."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Zephaniah_03_03",
+      "chapter": 3,
+      "pericope_num": "03",
+      "title_en": "A Song of Joy",
+      "title_ro": "Cântare de bucurie",
+      "start_verse": 14,
+      "end_verse": 20,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 14,
+          "text": "Bucură-te, fiica Sionului, saltă de veselie, Israele; veseleşte-te şi te bucură din toată inima, fiică a Ierusalimului!"
+        },
+        {
+          "verse": 15,
+          "text": "Căci Domnul a înlăturat judecăţile rostite împotriva ta şi a întors pe vrăjmaşii tăi. Domnul, Împăratul lui Israel, este în mijlocul tău; tu nu vei mai vedea nici o nenorocire."
+        },
+        {
+          "verse": 16,
+          "text": "În ziua aceea se va zice Ierusalimului: \"Nu te teme Sioane, căci mâinile tale nu vor slăbi."
+        },
+        {
+          "verse": 17,
+          "text": "Domnul Dumnezeul tău este în mijlocul tău ca un izbăvitor puternic. El se va bucura foarte de tine şi în dragostea Lui va tresălta şi va cânta de bucurie pentru tine."
+        },
+        {
+          "verse": 18,
+          "text": "Voi strânge laolaltă pe cei ce sunt întristaţi şi fără sărbători, şi vor fi iarăşi dintre ai tăi, deşi ocara apasă asupra lor."
+        },
+        {
+          "verse": 19,
+          "text": "Şi în ziua aceea voi stârpi pe toţi asupritorii tăi, voi izbăvi pe cei care şchiopătează şi pe cei izgoniţi îi voi strânge de pe drumuri, şi îi voi face de laudă şi cu nume, în ţinuturile în care fuseseră făcuţi de ocară."
+        },
+        {
+          "verse": 20,
+          "text": "În vremea aceea vă voi aduce înapoi. Şi în clipa în care vă vor aduna vă voi face de laudă şi cu nume la toate popoarele pământului, când în faţa lor voi întoarce din rabie pe robii voştri\", zice Domnul."
+        }
+      ]
+    }
+  ]
+}

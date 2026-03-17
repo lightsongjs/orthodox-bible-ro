@@ -1,0 +1,680 @@
+{
+  "id": 8,
+  "book_number": 42,
+  "name_en": "Baruch",
+  "name_ro": "Baruh",
+  "testament": "OT",
+  "chapter_count": 5,
+  "pericope_count": 9,
+  "url": "https://www.bibliaortodoxa.ro/carte.php?id=8",
+  "pericopes": [
+    {
+      "pericope_id": "Baruch_01_01",
+      "chapter": 1,
+      "pericope_num": "01",
+      "title_en": "Baruch and the Jews in Babylon",
+      "title_ro": "Baruh și iudeii în Babilon",
+      "start_verse": 1,
+      "end_verse": 9,
+      "verse_count": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Acestea sînt cuvintele cărţii pe care a scris-o Baruh, fiul lui Neria, fiul lui Maaseia, fiul lui Sedechia, fiul lui Asadia, fiul lui Helchie, în Babilon,"
+        },
+        {
+          "verse": 2,
+          "text": "În anul al cincilea, în luna a şaptea, în vremea în care au luat Caldeii Ierusalimul si l-au ars cu foc."
+        },
+        {
+          "verse": 3,
+          "text": "Şi a citit Baruh cuvintele cărţii acesteia înaintea lui Iehonia, fiul lui Ioiachim, rege în Iuda, şi înaintea a tot poporul, care venise să audă cartea."
+        },
+        {
+          "verse": 4,
+          "text": "Şi înaintea dregătorilor, şi a fiilor regelui, şi înaintea bătrânilor şi înaintea a tot poporul, de la cel mic până la cel mare, a tuturor celor ce locuiau în Babilon, pe malul râului Sud,"
+        },
+        {
+          "verse": 5,
+          "text": "Care plângeau şi posteau şi se rugau înaintea Domnului."
+        },
+        {
+          "verse": 6,
+          "text": "Şi a adunat argint după cît a putut da mâna fiecăruia."
+        },
+        {
+          "verse": 7,
+          "text": "Şi a trimis în Ierusalim la Ioiachim, fiul lui Helchie, fiul lui Salom preotul, şi la preoţi şi la tot poporul, care s-a aflat cu el în Ierusalim,"
+        },
+        {
+          "verse": 8,
+          "text": "Când a luat el vasele templului Domnului, care s-au scos din templu, să se întoarcă în pământul lui Iuda în ziua a zecea a lunii Sivan, vase de argint, pe care le-a făcut Sedechia, fiul lui Iosie, regele lui Iuda,"
+        },
+        {
+          "verse": 9,
+          "text": "După ce a scos Nabucodonosor, regele Babilonului, din Ierusalim ca robi, pe Iehonia cu căpeteniile, cu făurarii, cu dregătorii şi cu poporul de rând, şi i-a dus în Babilon,"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Baruch_01_02",
+      "chapter": 1,
+      "pericope_num": "02",
+      "title_en": "A Letter to Jerusalem",
+      "title_ro": "Scrisoare către Ierusalim",
+      "start_verse": 10,
+      "end_verse": 14,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 10,
+          "text": "Şi a zis: Iată am trimis la voi argint, cu care să cumpăraţi arderi de tot şi jertfe pentru păcat şi tămâie, şi faceţi miresme şi aduceţi-le pe jertfelnicul Domnului Dumnezeului nostru."
+        },
+        {
+          "verse": 11,
+          "text": "Şi vă rugaţi pentru viaţa lui Nabucodonosor, regele Babilonului, şi pentru viaţa lui Belşaţar, fiul lui, ca să fie zilele lor ca zilele cerului pe pământ."
+        },
+        {
+          "verse": 12,
+          "text": "Şi va da Domnul putere, şi va lumina ochii noştri, şi vom trăi sub umbra lui Nabucodonosor, regele Babilonului, şi sub umbra lui Belşaţar, fiul lui, şi vom sluji lor zile multe, şi vom afla har înaintea lor."
+        },
+        {
+          "verse": 13,
+          "text": "Şi vă rugaţi pentru noi către Domnul Dumnezeul nostru, fiindcă am păcătuit împotriva Domnului Dumnezeului nostru, şi nu s-a întors mânia Domnului şi urgia Lui de la noi până în ziua aceasta."
+        },
+        {
+          "verse": 14,
+          "text": "Şi veţi citi cartea aceasta, pe care am trimis-o la voi, ca să o citiţi în templul Domnului, la sărbătoarea corturilor şi în zilele de adunare la templu,"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Baruch_01_03",
+      "chapter": 1,
+      "pericope_num": "03",
+      "title_en": "Confession of Sins",
+      "title_ro": "Mărturisirea păcatelor",
+      "start_verse": 15,
+      "end_verse": 22,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 15,
+          "text": "Şi veţi grăi: A Domnului Dumnezeului nostru este dreptatea, iar a noastră, ruşinea felelor, cum se arată în ziua aceasta omului iudeu şi celor ce locuiesc Ierusalimul,"
+        },
+        {
+          "verse": 16,
+          "text": "Şi regilor noştri şi mai-marilor noştri, şi preoţilor noştri şi proorocilor noştri şi părinţilor noştri."
+        },
+        {
+          "verse": 17,
+          "text": "Căci am păcătuit înaintea Domnului şi n-am ascultat de Dânsul."
+        },
+        {
+          "verse": 18,
+          "text": "N-am ascultat glasul Domnului Dumnezeului nostru, ca să umblăm întru poruncile Lui, pe care le-a dat înaintea feţei noastre."
+        },
+        {
+          "verse": 19,
+          "text": "Din ziua în care a scos Domnul pe părinţii noştri din pământul Egiptului şi până în ziua aceasta, am fost neascultători de Domnul Dumnezeul nostru şi ne-am lenevit, ca să nu auzim glasul Lui."
+        },
+        {
+          "verse": 20,
+          "text": "Şi s-au lipit de noi răutăţile şi blestemul pe care le-a poruncit Domnul slujitorului Său Moise, în ziua în care a scos pe părinţii noştri din ţara Egiptului, ca să ne dea nouă pământ în care curge lapte şi miere, precum este în ziua aceasta."
+        },
+        {
+          "verse": 21,
+          "text": "Şi n-am ascultat glasul Domnului Dumnezeului nostru după toate cuvintele proorocilor, pe care i-a trimis la noi."
+        },
+        {
+          "verse": 22,
+          "text": "Şi am mers fiecare întru cugetul inimii sale celei rele, pentru a lucra dumnezeilor străini şi a face rele înaintea ochilor Domnului Dumnezeului nostru."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Baruch_02_01",
+      "chapter": 2,
+      "pericope_num": "01",
+      "title_en": "Prayer for Deliverance",
+      "title_ro": "Rugăciune pentru izbăvire",
+      "start_verse": 1,
+      "end_verse": 26,
+      "verse_count": 26,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi a împlinit Domnul cuvântul Său, pe care l-a rostit împotriva noastră şi a judecătorilor noştri, care au judecat pe Israel şi împotriva regilor noştri şi a conducătorilor noştri şi împotriva oamenilor din Israel şi din Iuda,"
+        },
+        {
+          "verse": 2,
+          "text": "Ca să aducă asupra noastră greutăţi mari, care nu s-au făcut sub tot cerul, aşa cum a făcut în Ierusalim, după cele ce sînt scrise în legea lui Moise,"
+        },
+        {
+          "verse": 3,
+          "text": "Ca să mănânce omul cărnurile fiului său şi cărnurile fiicei sale."
+        },
+        {
+          "verse": 4,
+          "text": "Şi i-a dat supuşi tuturor regilor celor dimprejurul nostru spre ocară şi spre pustiire, printre popoarele dimprejur, la care i-a risipit Domnul."
+        },
+        {
+          "verse": 5,
+          "text": "Şi în loc să fie stăpâni, ei au fost supuşi, pentru că am păcătuit înaintea Domnului Dumnezeului nostru, neascultând glasul Lui."
+        },
+        {
+          "verse": 6,
+          "text": "Domnului Dumnezeului nostru, dreptatea; iar nouă şi părinţilor noştri, ruşinea feţelor, cum este în ziua aceasta."
+        },
+        {
+          "verse": 7,
+          "text": "Toate relele, pe care le-a rostit Domnul împotriva noastră, acestea au venit peste noi."
+        },
+        {
+          "verse": 8,
+          "text": "Şi nu ne-am rugat feţei Domnului ca să se întoarcă fiecare de la cugetele inimii sale celei rele."
+        },
+        {
+          "verse": 9,
+          "text": "Şi a privegheat Domnul asupra celor răi şi i-a adus Domnul peste noi, că drept este Domnul în toate lucrurile Sale, pe care ni le-a poruncit."
+        },
+        {
+          "verse": 10,
+          "text": "Şi n-am ascultat glasul Lui, ca să umblăm după poruncile Domnului, pe care le-a dat înaintea feţei noastre."
+        },
+        {
+          "verse": 11,
+          "text": "Şi acum, Doamne Dumnezeul lui Israel, Cel ce ai scos pe poporul Tău din pământul Egiptului cu mână tare şi cu braţ înalt, cu semne şi cu minuni şi cu putere mare, şi ţi-ai făcut nume mare până în ziua de azi,"
+        },
+        {
+          "verse": 12,
+          "text": "Am păcătuit, am fost nelegiuiţi, am fost nedrepţi, Doamne Dumnezeul nostru, în toate poruncile Tale;"
+        },
+        {
+          "verse": 13,
+          "text": "Întoarcă-se mânia Ta de la noi, că am rămas puţini între neamuri, unde ne-ai risipit."
+        },
+        {
+          "verse": 14,
+          "text": "Ascultă, Doamne, rugăciunea noastră şi cererea noastră şi ne scoate pentru Tine şi ne dă har înaintea feţei celor ce ne-au înstrăinat."
+        },
+        {
+          "verse": 15,
+          "text": "Ca să cunoască tot pământul că Tu eşti Domnul Dumnezeul nostru, că numele Tău s-a chemat peste Israel şi peste neamul lui."
+        },
+        {
+          "verse": 16,
+          "text": "Doamne, caută din locaşul Tău cel sfânt şi ia aminte spre noi; pleacă Doamne, urechea Ta şi auzi,"
+        },
+        {
+          "verse": 17,
+          "text": "Şi deschide ochii Tăi, Doamne, şi vezi că nu cei morţi care sînt în locuinţa morţilor, de la care s-a luat duhul din cele dinăuntru ale lor, vor da slavă şi dreptate Domnului,"
+        },
+        {
+          "verse": 18,
+          "text": "Ci sufletul cel mâhnit peste măsură, cel ce merge gârbovit şi fără putere, ochii cei slăbiţi şi sufletul cel flămând îţi vor da slavă şi dreptate, Doamne."
+        },
+        {
+          "verse": 19,
+          "text": "Că nu pentru dreptăţile părinţilor noştri şi ale regilor noştri cerem mila către noi înaintea feţei Tale, Doamne Dumnezeul nostru;"
+        },
+        {
+          "verse": 20,
+          "text": "Ci pentru că ai slobozit mânia şi iuţimea Ta peste noi, precum ai grăit prin glasul slugilor Tale, proorocilor, zicând:"
+        },
+        {
+          "verse": 21,
+          "text": "Aşa zice Domnul: Plecaţi sub jug umărul vostru şi lucraţi regelui. Babilonului, ca astfel să locuiţi în pământul pe care l-am dat părinţilor voştri."
+        },
+        {
+          "verse": 22,
+          "text": "Şi de nu veţi asculta glasul Domnului, ca să lucraţi regelui Babilonului,"
+        },
+        {
+          "verse": 23,
+          "text": "Voi face să amuţească, din cetăţile lui Iuda şi din preajma Ierusalimului, glasul bucuriei şi glasul miresei şi tot pământul va ajunge o paragină, fără locuitori."
+        },
+        {
+          "verse": 24,
+          "text": "Şi noi n-am ascultat glasul Tău, ca să lucrăm regelui Babilonului şi ai întărit cuvintele Tale pe care le-ai grăit prin glasul slugilor Tale, proorocii, că vor scoate oasele regilor şi oasele părinţilor noştri din locul lor."
+        },
+        {
+          "verse": 25,
+          "text": "Şi iată sînt lepădate la căldura zilei şi la îngheţul nopţii, iar părinţii noştri au murit în suferinţe grele, în foamete şi în sabie şi în robie."
+        },
+        {
+          "verse": 26,
+          "text": "Şi ai adus templul, în care s-a chemat numele Tău, la starea în care este în ziua aceasta, pentru răutatea casei lui Israel şi a casei lui Iuda."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Baruch_02_02",
+      "chapter": 2,
+      "pericope_num": "02",
+      "title_en": "God’s Promise Recalled",
+      "title_ro": "Amintirea promisiunii lui Dumnezeu",
+      "start_verse": 27,
+      "end_verse": 35,
+      "verse_count": 9,
+      "verses": [
+        {
+          "verse": 27,
+          "text": "Şi ai făcut cu noi, Doamne Dumnezeul nostru, după toată bunătatea Ta şi după toată îndurarea Ta cea mare,"
+        },
+        {
+          "verse": 28,
+          "text": "Cum ai grăit prin glasul slujitorului Tău Moise în ziua în care i-ai poruncit să scrie legea Ta înaintea fiilor lui Israel zicând:"
+        },
+        {
+          "verse": 29,
+          "text": "\"De nu veţi asculta glasul Meu cu adevărat, acest neam mare şi mult se va întoarce micşorat la neamurile întru care îi voi risipi."
+        },
+        {
+          "verse": 30,
+          "text": "Că am cunoscut că nu Mă vor asculta, că este popor tare la cerbice, ci se vor întoarce în inima lor în pământul înstrăinării lor."
+        },
+        {
+          "verse": 31,
+          "text": "Şi vor cunoaşte că Eu sînt Domnul Dumnezeul lor; şi le voi da inimă şi urechi de auzit;"
+        },
+        {
+          "verse": 32,
+          "text": "Şi Mă vor lăuda în pământul înstrăinării lor şi vor pomeni numele Meu."
+        },
+        {
+          "verse": 33,
+          "text": "Şi se vor întoarce de la cerbicia lor cea tare şi de la lucrurile lor cele rele, că îşi vor aduce aminte de calea părinţilor lor, care au păcătuit înaintea Domnului."
+        },
+        {
+          "verse": 34,
+          "text": "Şi ii voi întoarce în pământul despre care M-am jurat părinţilor lor, lui Avraam şi lui Isaac şi lui Iacov, şi-l vor stăpâni, şi îi voi înmulţi, şi nu se vor împuţina."
+        },
+        {
+          "verse": 35,
+          "text": "Şi le voi întări veşnică legătură ca să le fiu Dumnezeu si ei Îmi vor fi popor şi nu voi mai mişca pe poporul Meu Israel din ţara pe care le-am dat-o\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Baruch_03_01",
+      "chapter": 3,
+      "pericope_num": "01",
+      "title_en": "In Praise of Wisdom",
+      "title_ro": "Lauda Înțelepciunii",
+      "start_verse": 1,
+      "end_verse": 37,
+      "verse_count": 37,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Doamne atotţiitorule, Dumnezeul lui Israel, sufletul cel strâmtorat şi duhul cel necăjit strigă către Tine."
+        },
+        {
+          "verse": 2,
+          "text": "Ascultă, Doamne, şi ne miluieşte, că am păcătuit înaintea Ta."
+        },
+        {
+          "verse": 3,
+          "text": "Tu domneşti în veci, iar noi pierim fără încetare."
+        },
+        {
+          "verse": 4,
+          "text": "Doamne atotţiitorule, Dumnezeul lui Israel, auzi rugăciunea celor ce au murit ai lui Israel, şi a fiilor celor care au păcătuit înaintea Ta, care n-au ascultat glasul Tău, Dumnezeul lor, şi s-au lipit de noi relele."
+        },
+        {
+          "verse": 5,
+          "text": "Nu-ţi aduce aminte de nedreptăţile părinţilor noştri, ci adu-ţi aminte de mâna Ta şi de numele Tău în vremea aceasta."
+        },
+        {
+          "verse": 6,
+          "text": "Că Tu eşti Domnul Dumnezeul nostru, şi Te vom lăuda pe Tine, Doamne,"
+        },
+        {
+          "verse": 7,
+          "text": "Că pentru aceea ai dat frica Ta în inimile noastre, ca să chemăm numele Tău şi să Te lăudăm întru înstrăinarea noastră că am abătut de la inima noastră toată nedreptatea părinţilor noştri, care au păcătuit înaintea Ta."
+        },
+        {
+          "verse": 8,
+          "text": "Iată noi astăzi suntem încă întru înstrăinarea noastră, unde ne-ai risipit spre ocară şi spre blestem, şi spre pedeapsă cuvenită tuturor nedreptăţilor părinţilor noştri, care s-au depărtat de la Domnul Dumnezeul lor."
+        },
+        {
+          "verse": 9,
+          "text": "Auzi, Israele, poruncile vieţii şi ia în urechi a cunoaşte înţelepciunea."
+        },
+        {
+          "verse": 10,
+          "text": "Ce este, Israele, că eşti în pământul vrăjmaşilor? Te-ai învechit în pământ străin."
+        },
+        {
+          "verse": 11,
+          "text": "Te-ai pângărit împreună cu cei morţi, te-ai socotit cu cei ce se coboară în locuinţa morţilor."
+        },
+        {
+          "verse": 12,
+          "text": "Părăsit-ai izvorul înţelepciunii."
+        },
+        {
+          "verse": 13,
+          "text": "În calea lui Dumnezeu de ai fi umblat, ai fi locuit cu pace în veci."
+        },
+        {
+          "verse": 14,
+          "text": "Învaţă unde este înţelepciunea, unde este tăria, unde este puterea înţelegerii, pentru a cunoaşte de asemenea, unde este lungimea zilelor şi viaţa, unde este lumina ochilor şi pacea!"
+        },
+        {
+          "verse": 15,
+          "text": "Cine a aflat locul ei şi cine a intrat în vistieriile ei?"
+        },
+        {
+          "verse": 16,
+          "text": "Unde sînt căpeteniile neamurilor şi cei ce stăpânesc fiarele pământului?"
+        },
+        {
+          "verse": 17,
+          "text": "Cei ce cu păsările cerului se joacă şi strâng argint şi aur, în care nădăjduiesc oamenii şi a căror avere era fără sfârşit?"
+        },
+        {
+          "verse": 18,
+          "text": "Cei ce lucrau argintul şi se străduiau ca lucrările lor să fie neîntrecute?"
+        },
+        {
+          "verse": 19,
+          "text": "S-au stins şi în locuinţa morţilor coborând, alţii s-au sculat în locul lor."
+        },
+        {
+          "verse": 20,
+          "text": "Cei mai tineri au văzut lumină şi au locuit pe pământ, şi calea ştiinţei n-au cunoscut."
+        },
+        {
+          "verse": 21,
+          "text": "Nici n-au înţeles cărările ei, nici nu s-au ţinut de ea; fiii lor s-au îndepărtat de la calea lor."
+        },
+        {
+          "verse": 22,
+          "text": "Nici nu s-a auzit de ea în Canaan, nici nu s-a văzut în Teman."
+        },
+        {
+          "verse": 23,
+          "text": "Nici fiii Agarei, cei ce caută înţelepciunea cea de pe pământ, nici neguţătorii Madianului şi ai Temanului şi povestitorii de pilde, şi cei ce caută priceperea n-au cunoscut calea înţelepciunii, nici nu şi-au adus aminte de cărările ei."
+        },
+        {
+          "verse": 24,
+          "text": "O, Israele! Cât este de mare templul lui Dumnezeu şi cît de întins locul stăpânirii Lui!"
+        },
+        {
+          "verse": 25,
+          "text": "Mare este şi n-are sfârşit, înalt şi nemăsurat!"
+        },
+        {
+          "verse": 26,
+          "text": "Acolo au fost uriaşii cei vestiţi, înalţi la statură şi iscusiţi în război."
+        },
+        {
+          "verse": 27,
+          "text": "Nu pe aceştia i-a ales Dumnezeu, nici calea ştiinţei nu le-a dat;"
+        },
+        {
+          "verse": 28,
+          "text": "Pierit-au pentru că n-au avut înţelepciune; pierit-au prin nebunia lor."
+        },
+        {
+          "verse": 29,
+          "text": "Cine s-a suit în cer şi a luat înţelepciunea şi a coborât-o din nori?"
+        },
+        {
+          "verse": 30,
+          "text": "Cine a trecut marea ca s-o descopere şi s-o cumpere în schimbul aurului curat?"
+        },
+        {
+          "verse": 31,
+          "text": "Nu este nimeni care să ştie calea ei sau să cuprindă cărarea ei;"
+        },
+        {
+          "verse": 32,
+          "text": "Ci Cel care ştie toate o ştie pe ea şi o află cu înţelepciunea Lui, El Care a zidit pământul pentru veşnicie şi 1-a umplut de dobitoace."
+        },
+        {
+          "verse": 33,
+          "text": "El Care trimite lumina şi merge şi o cheamă pe ea, şi ea Îl ascultă cu cutremur."
+        },
+        {
+          "verse": 34,
+          "text": "Din pricina Căruia stelele strălucesc la locul lor şi se veselesc."
+        },
+        {
+          "verse": 35,
+          "text": "Chematu-le-a, şi ele au răspuns: \"Iată-ne!\" Ele strălucesc cu bucurie pentru Cel care le-a făcut."
+        },
+        {
+          "verse": 36,
+          "text": "Acesta este Dumnezeul nostru, şi nimeni altul nu este asemenea Lui."
+        },
+        {
+          "verse": 37,
+          "text": "Aflat-a toată calea ştiinţei şi a dat-o lui Iacob, sluga Sa, şi lui Israel, cel iubit de Dânsul."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Baruch_04_01",
+      "chapter": 4,
+      "pericope_num": "01",
+      "title_en": "Encouragement for Israel",
+      "title_ro": "Îmbărbătare pentru Israel",
+      "start_verse": 1,
+      "end_verse": 29,
+      "verse_count": 29,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Aceasta este cartea poruncilor lui Dumnezeu şi legea care dăinuieşte în veac; toţi cei ce o ţin vor trăi, iar cei ce au părăsit-o vor pieri."
+        },
+        {
+          "verse": 2,
+          "text": "Întoarce-te, Iacove, şi te teme de ea, umblă prin strălucire în preajma luminii ei."
+        },
+        {
+          "verse": 3,
+          "text": "Nu da altuia mărirea ta şi cele de folos ţie, celui de alt neam."
+        },
+        {
+          "verse": 4,
+          "text": "Fericiţi suntem, Israele, că cele ce Îi plac lui Dumnezeu ni s-au arătat."
+        },
+        {
+          "verse": 5,
+          "text": "Îndrăzneşte, poporul meu, pomenirea lui Israel."
+        },
+        {
+          "verse": 6,
+          "text": "Vândutu-v-aţi neamurilor nu spre pieire, ci, pentru că aţi mâniat pe Dumnezeu, v-aţi dat vrăjmaşilor."
+        },
+        {
+          "verse": 7,
+          "text": "Pentru că aţi întărâtat pe Cel care v-a făcut, jertfind demonilor, şi nu lui Dumnezeu."
+        },
+        {
+          "verse": 8,
+          "text": "Şi aţi uitat pe Cel care v-a zidit, pe Dumnezeul cel Veşnic, şi aţi întristat Ierusalimul care v-a hrănit."
+        },
+        {
+          "verse": 9,
+          "text": "Văzut-a el mânia care v-a venit de la Dumnezeu şi a zis: Auziţi, vecinele Sionului, Dumnezeu mi-a adus întristare mare,"
+        },
+        {
+          "verse": 10,
+          "text": "Că am văzut robirea fiilor mei şi a fiicelor mele pe care le-a adus lor Cel Veşnic."
+        },
+        {
+          "verse": 11,
+          "text": "Că i-am hrănit cu bucurie şi i-am slobozit cu plângere şi cu jale."
+        },
+        {
+          "verse": 12,
+          "text": "Nimeni să nu se bucure de mine, care sînt văduvă şi părăsită de mulţi; am fost pustiită pentru păcatele copiilor mei, abătuţi de la legea lui Dumnezeu."
+        },
+        {
+          "verse": 13,
+          "text": "Şi judecăţile Lui nu le-au cunoscut, nici n-au umblat în căile poruncilor lui Dumnezeu, nici pe cărările învăţăturii în dreptatea Lui n-au mers."
+        },
+        {
+          "verse": 14,
+          "text": "Veniţi, vecinele Sionului, şi vă aduceţi aminte de robirea fiilor şi a fiicelor mele, pe care le-a adus-o Cel Veşnic."
+        },
+        {
+          "verse": 15,
+          "text": "Că a adus peste ei neam de departe, neam fără de ruşine şi de altă limbă."
+        },
+        {
+          "verse": 16,
+          "text": "Că nu s-au ruşinat de cel bătrân, nici nu le-a fost milă de prunc şi au luat pe cei iubiţi ai văduvei, şi pe mine m-au lăsat singură, fără de fiice."
+        },
+        {
+          "verse": 17,
+          "text": "Şi eu cu ce v-aş putea ajuta?"
+        },
+        {
+          "verse": 18,
+          "text": "Că Cel care v-a adus relele vă va scoate din mâna vrăjmaşilor voştri."
+        },
+        {
+          "verse": 19,
+          "text": "Duceţi-vă, fiilor, duceţi-vă, că eu am rămas pustie."
+        },
+        {
+          "verse": 20,
+          "text": "Dezbrăcatu-m-am de veşmântul păcii şi m-am îmbrăcat cu sacul rugăciunii mele, şi voi striga către Cel Veşnic în zilele mele:"
+        },
+        {
+          "verse": 21,
+          "text": "Îndrăzniţi, fiilor, strigaţi către Dumnezeu şi El vă va scoate din silnica robie şi din mâna vrăjmaşilor."
+        },
+        {
+          "verse": 22,
+          "text": "Că eu de la Cel Veşnic am nădăjduit izbăvirea voastră şi mi-a venit bucurie de la Cel Sfânt, pentru milostenia care va veni vouă degrab de la El."
+        },
+        {
+          "verse": 23,
+          "text": "Că v-am trimis cu plângere şi cu jale, şi vă va întoarce către mine Dumnezeu, cu bucurie şi veselie în veac."
+        },
+        {
+          "verse": 24,
+          "text": "Că precum au văzut acum vecinele Sionului robirea voastră, aşa vor vedea curând izbăvirea voastră de la Dumnezeul vostru, care va veni vouă cu slavă mare şi cu strălucirea Celui Veşnic."
+        },
+        {
+          "verse": 25,
+          "text": "Fiilor! Îndelung răbdaţi mânia care v-a venit de la Dumnezeu. Vrăjmaşul te-a prigonit, dar vei vedea în curând pieirea lui şi pe grumajii lui vei pune piciorul tău."
+        },
+        {
+          "verse": 26,
+          "text": "Copiii mei cei răsfăţaţi au mers pe căi aspre, au fost ridicaţi ca o turmă prădată de vrăjmaş."
+        },
+        {
+          "verse": 27,
+          "text": "Îndrăzniţi, fiilor, şi strigaţi către Dumnezeu, că Cel care v-a adus încercarea Îşi va aduce aminte de voi."
+        },
+        {
+          "verse": 28,
+          "text": "Că precum a fost cugetul vostru, ca să vă abateţi de la Dumnezeu, întoarceţi-vă şi căutaţi-L de zece ori mai puternic."
+        },
+        {
+          "verse": 29,
+          "text": "Că Acel Care v-a adus aceste nenorociri vă va aduce veşnică veselie odată cu mântuirea voastră."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Baruch_04_02",
+      "chapter": 4,
+      "pericope_num": "02",
+      "title_en": "Jerusalem Is Assured of Help",
+      "title_ro": "Ierusalimului i se asigură ajutor",
+      "start_verse": 30,
+      "end_verse": 37,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 30,
+          "text": "Îndrăzneşte, Ierusalime, te va mângâia Cel care ţi-a dat un nume!"
+        },
+        {
+          "verse": 31,
+          "text": "Vai de cei ce ţi-au făcut mult rău şi s-au bucurat de căderea ta!"
+        },
+        {
+          "verse": 32,
+          "text": "Vai cetăţilor ai căror robi au fost copiii tăi! Vai celei care a primit pe fiii tăi!"
+        },
+        {
+          "verse": 33,
+          "text": "Că precum ea s-a bucurat de căderea ta şi a fost fericită de ruina ta, aşa se va mâhni pentru pustiirea sa."
+        },
+        {
+          "verse": 34,
+          "text": "Şi voi lua de la ea bucuria ei de cetate cu popor mult şi semeţia ei va fi spre plângere."
+        },
+        {
+          "verse": 35,
+          "text": "Că un foc va veni peste ea de la Cel Veşnic, pentru zile îndelungate, şi va fi locuită de demoni multă vreme."
+        },
+        {
+          "verse": 36,
+          "text": "Priveşte către răsărit, Ierusalime, şi vezi bucuria care-ţi vine de la Dumnezeu."
+        },
+        {
+          "verse": 37,
+          "text": "Iată vin fiii tăi, pe care i-ai trimis, vin de la răsărit până la apus, adunaţi prin cuvântul Celui Sfânt, bucurându-se de slava lui Dumnezeu."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Baruch_05_01",
+      "chapter": 5,
+      "pericope_num": "01",
+      "title_en": "Baruch Chapter 5",
+      "title_ro": "Baruh capitolul 5",
+      "start_verse": 1,
+      "end_verse": 9,
+      "verse_count": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Dezbracă-te, Ierusalime, de haina întristării şi a suferinţei tale şi îmbracă-te pentru totdeauna cu podoaba slavei lui Dumnezeu."
+        },
+        {
+          "verse": 2,
+          "text": "Îmbracă veşmântul dreptăţii celei de la Dumnezeu, pune cununa slavei Celui Veşnic pe capul tău,"
+        },
+        {
+          "verse": 3,
+          "text": "Pentru că Dumnezeu va arăta tuturor celor de sub cer strălucirea ta."
+        },
+        {
+          "verse": 4,
+          "text": "Că se va chema numele tău de la Dumnezeu pentru totdeauna: \"Pacea dreptăţii\" şi \"Strălucirea evlaviei\"."
+        },
+        {
+          "verse": 5,
+          "text": "Ridică-te, Ierusalime, ţine-te la înălţime şi priveşte spre răsărit, vezi pe fiii tăi adunaţi de la apus la răsărit, prin cuvântul Celui Sfânt, bucurându-se că Şi-a adus aminte de ei."
+        },
+        {
+          "verse": 6,
+          "text": "Căci ei te părăsiseră mergând pe jos, sub pază de vrăjmaşi, dar Dumnezeu ţi-i va aduce purtaţi întru mărire ca pe fiii de rege."
+        },
+        {
+          "verse": 7,
+          "text": "Că a rânduit Dumnezeu să supună tot muntele înalt şi stâncile cele veşnice, iar văile să se umple, să fie pământul neted, ca să umble Israel fără frică sub slava lui Dumnezeu."
+        },
+        {
+          "verse": 8,
+          "text": "Şi vor face umbră lui Israel pădurile şi tot lemnul bine mirositor, la porunca lui Dumnezeu;"
+        },
+        {
+          "verse": 9,
+          "text": "Pentru că va călăuzi Dumnezeu pe Israel cu veselie la lumina slavei Sale, dându-le ca pază îndurarea şi dreptatea Sa."
+        }
+      ]
+    }
+  ]
+}

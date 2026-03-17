@@ -1,0 +1,22 @@
+---
+testament: NT
+book: John
+book_romanian: Ioan
+chapter: 9
+pericope: 3
+pericope_title: "Spiritual Blindness"
+verses_start: 35
+verses_end: 41
+verses_total: 0
+language: ro
+english_source: "[[New Testament/John/(John 09.03) Spiritual Blindness]]"
+---
+# Spiritual Blindness
+
+35. Şi a auzit Iisus că l-au dat afară. Şi, găsindu-l, i-a zis: Crezi tu în Fiul lui Dumnezeu?
+36. El a răspuns şi a zis: Dar cine este, Doamne, ca să cred în El?
+37. Şi a zis Iisus: L-ai şi văzut! Şi Cel ce vorbeşte cu tine Acela este.
+38. Iar el a zis: Cred, Doamne. Şi s-a închinat Lui.
+39. Şi a zis: Spre judecată am venit în lumea aceasta, ca cei care nu văd să vadă, iar cei care văd să fie orbi.
+40. Şi au auzit acestea unii dintre fariseii, care erau cu El, şi I-au zis: Oare şi noi suntem orbi?
+41. Iisus le-a zis: Dacă aţi fi orbi n-aţi avea păcat. Dar acum ziceţi: Noi vedem. De aceea păcatul rămâne asupra voastră.

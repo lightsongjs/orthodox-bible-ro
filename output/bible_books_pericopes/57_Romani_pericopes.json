@@ -1,0 +1,2324 @@
+{
+  "id": 70,
+  "book_number": 57,
+  "name_en": "Romans",
+  "name_ro": "Romani",
+  "testament": "NT",
+  "chapter_count": 16,
+  "pericope_count": 41,
+  "url": "https://www.bibliaortodoxa.ro/carte.php?id=70",
+  "pericopes": [
+    {
+      "pericope_id": "Romans_01_01",
+      "chapter": 1,
+      "pericope_num": "01",
+      "title_en": "Salutation",
+      "title_ro": "Salutare",
+      "start_verse": 1,
+      "end_verse": 7,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Pavel, rob al lui Iisus Hristos, chemat de El apostol, rânduit pentru vestirea Evangheliei lui Dumnezeu,"
+        },
+        {
+          "verse": 2,
+          "text": "Pe care a făgăduit-o mai înainte, prin proorocii Săi, în Sfintele Scripturi,"
+        },
+        {
+          "verse": 3,
+          "text": "Despre Fiul Său, Cel născut din sămânţa lui David, după trup,"
+        },
+        {
+          "verse": 4,
+          "text": "Care a fost rânduit Fiu al lui Dumnezeu întru putere, după Duhul sfinţeniei, prin învierea Lui din morţi, Iisus Hristos, Domnul nostru,"
+        },
+        {
+          "verse": 5,
+          "text": "Prin Care am primit har şi apostolie, ca să aduc, în numele Său, la ascultarea credinţei, toate neamurile,"
+        },
+        {
+          "verse": 6,
+          "text": "Întru care sunteţi şi voi chemaţi ai lui Iisus Hristos:"
+        },
+        {
+          "verse": 7,
+          "text": "Tuturor celor ce sunteţi în Roma, iubiţi de Dumnezeu, chemaţi şi sfinţi: har vouă şi pace de la Dumnezeu, Tatăl nostru, şi de la Domnul Iisus Hristos!"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_01_02",
+      "chapter": 1,
+      "pericope_num": "02",
+      "title_en": "Prayer of Thanksgiving",
+      "title_ro": "Rugăciune de mulțumire",
+      "start_verse": 8,
+      "end_verse": 15,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 8,
+          "text": "Mulţumesc, întâi Dumnezeului meu, prin Iisus Hristos, pentru voi toţi, fiindcă credinţa voastră se vesteşte în toată lumea."
+        },
+        {
+          "verse": 9,
+          "text": "Căci martor îmi este Dumnezeu, Căruia Îi slujesc cu duhul meu, întru Evanghelia Fiului Său, că neîncetat fac pomenire despre voi,"
+        },
+        {
+          "verse": 10,
+          "text": "Cerând totdeauna în rugăciunile mele ca să am cumva, prin voinţa Lui, vreodată, bun prilej ca să vin la voi."
+        },
+        {
+          "verse": 11,
+          "text": "Pentru că doresc mult să vă văd ca să vă împărtăşesc vreun dar duhovnicesc, spre întărirea voastră."
+        },
+        {
+          "verse": 12,
+          "text": "Şi aceasta ca să mă mângâi împreună cu voi prin credinţa noastră laolaltă, a voastră şi a mea."
+        },
+        {
+          "verse": 13,
+          "text": "Fraţilor, nu vreau ca voi să nu ştiţi că, de multe ori, mi-am pus în gând să vin la voi, dar am fost până acum împiedicat, ca să am şi între voi vreo roadă, ca şi la celelalte neamuri."
+        },
+        {
+          "verse": 14,
+          "text": "Dator sunt şi elinilor şi barbarilor şi învăţaţilor şi neînvăţaţilor;"
+        },
+        {
+          "verse": 15,
+          "text": "Astfel, cât despre mine, sunt bucuros să vă vestesc Evanghelia şi vouă, celor din Roma."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_01_03",
+      "chapter": 1,
+      "pericope_num": "03",
+      "title_en": "The Power of the Gospel",
+      "title_ro": "Puterea Evangheliei",
+      "start_verse": 16,
+      "end_verse": 17,
+      "verse_count": 2,
+      "verses": [
+        {
+          "verse": 16,
+          "text": "Căci nu mă ruşinez de Evanghelia lui Hristos, pentru că este putere a lui Dumnezeu spre mântuirea a tot celui care crede, iudeului întâi, şi elinului."
+        },
+        {
+          "verse": 17,
+          "text": "Căci dreptatea lui Dumnezeu se descoperă în ea din credinţă spre credinţă, precum este scris: \"Iar dreptul din credinţă va fi viu\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_01_04",
+      "chapter": 1,
+      "pericope_num": "04",
+      "title_en": "The Guilt of Humankind",
+      "title_ro": "Vinovăția omenirii",
+      "start_verse": 18,
+      "end_verse": 32,
+      "verse_count": 15,
+      "verses": [
+        {
+          "verse": 18,
+          "text": "Căci mânia lui Dumnezeu se descoperă din cer peste toată fărădelegea şi peste toată nedreptatea oamenilor care ţin nedreptatea drept adevăr."
+        },
+        {
+          "verse": 19,
+          "text": "Pentru că ceea ce se poate cunoaşte despre Dumnezeu este cunoscut de către ei; fiindcă Dumnezeu le-a arătat lor."
+        },
+        {
+          "verse": 20,
+          "text": "Cele nevăzute ale Lui se văd de la facerea lumii, înţelegându-se din făpturi, adică veşnica Lui putere şi dumnezeire, aşa ca ei să fie fără cuvânt de apărare,"
+        },
+        {
+          "verse": 21,
+          "text": "Pentru că, cunoscând pe Dumnezeu, nu L-au slăvit ca pe Dumnezeu, nici nu I-au mulţumit, ci s-au rătăcit în gândurile lor şi inima lor cea nesocotită s-a întunecat."
+        },
+        {
+          "verse": 22,
+          "text": "Zicând că sunt înţelepţi, au ajuns nebuni."
+        },
+        {
+          "verse": 23,
+          "text": "Şi au schimbat slava lui Dumnezeu Celui nestricăcios cu asemănarea chipului omului celui stricăcios şi al păsărilor şi al celor cu patru picioare şi al târâtoarelor."
+        },
+        {
+          "verse": 24,
+          "text": "De aceea Dumnezeu i-a dat necurăţiei, după poftele inimilor lor, ca să-şi pângărească trupurile lor între ei,"
+        },
+        {
+          "verse": 25,
+          "text": "Ca unii care au schimbat adevărul lui Dumnezeu în minciună şi s-au închinat şi au slujit făpturii, în locul Făcătorului, Care este binecuvântat în veci, amin!"
+        },
+        {
+          "verse": 26,
+          "text": "Pentru aceea, Dumnezeu i-a dat unor patimi de ocară, căci şi femeile lor au schimbat fireasca rânduială cu cea împotriva firii;"
+        },
+        {
+          "verse": 27,
+          "text": "Asemenea şi bărbaţii lăsând rânduiala cea după fire a părţii femeieşti, s-au aprins în pofta lor unii pentru alţii, bărbaţi cu bărbaţi, săvârşind ruşinea şi luând cu ei răsplata cuvenită rătăcirii lor."
+        },
+        {
+          "verse": 28,
+          "text": "Şi precum n-au încercat să aibă pe Dumnezeu în cunoştinţă, aşa şi Dumnezeu i-a lăsat la mintea lor fără judecată, să facă cele ce nu se cuvine."
+        },
+        {
+          "verse": 29,
+          "text": "Plini fiind de toată nedreptatea, de desfrânare, de viclenie, de lăcomie, de răutate; plini de pizmă, de ucidere, de ceartă, de înşelăciune, de purtări rele, bârfitori,"
+        },
+        {
+          "verse": 30,
+          "text": "Grăitori de rău, urâtori de Dumnezeu, ocărâtori, semeţi, trufaşi, lăudăroşi, născocitori de rele, nesupuşi părinţilor,"
+        },
+        {
+          "verse": 31,
+          "text": "Neînţelepţi, călcători de cuvânt, fără dragoste, fără milă;"
+        },
+        {
+          "verse": 32,
+          "text": "Aceştia, deşi au cunoscut dreapta orânduire a lui Dumnezeu, că cei ce fac unele ca acestea sunt vrednici de moarte, nu numai că fac ei acestea, ci le şi încuviinţează celor care le fac."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_02_01",
+      "chapter": 2,
+      "pericope_num": "01",
+      "title_en": "The Righteous Judgment of God",
+      "title_ro": "Dreapta judecată a lui Dumnezeu",
+      "start_verse": 1,
+      "end_verse": 16,
+      "verse_count": 16,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Pentru aceea, oricine ai fi, o, omule, care judeci, eşti fără cuvânt de răspuns, căci, în ceea ce judeci pe altul, pe tine însuţi te osândeşti, căci acelaşi lucruri faci şi tu care judeci."
+        },
+        {
+          "verse": 2,
+          "text": "Şi noi ştim că judecata lui Dumnezeu este după adevăr, faţă de cei ce fac unele ca acestea."
+        },
+        {
+          "verse": 3,
+          "text": "Şi socoteşti tu, oare, omule, care judeci pe cei ce fac unele ca acestea, dar le faci şi tu, că tu vei scăpa de judecata lui Dumnezeu?"
+        },
+        {
+          "verse": 4,
+          "text": "Sau dispreţuieşti tu bogăţia bunătăţii Lui şi a îngăduinţei şi a îndelungii Lui răbdări, neştiind că bunătatea lui Dumnezeu te îndeamnă la pocăinţă?"
+        },
+        {
+          "verse": 5,
+          "text": "Dar după învârtoşarea ta şi după inima ta nepocăită, îţi aduni mânie în ziua mâniei şi a arătării dreptei judecăţi a lui Dumnezeu,"
+        },
+        {
+          "verse": 6,
+          "text": "Care va răsplăti fiecăruia după faptele lui:"
+        },
+        {
+          "verse": 7,
+          "text": "Viaţă veşnică celor ce, prin stăruinţă în faptă bună, caută mărire, cinste şi nestricăciune,"
+        },
+        {
+          "verse": 8,
+          "text": "Iar iubitorilor de ceartă, care nu se supun adevărului, ci se supun nedreptăţii: mânie şi furie."
+        },
+        {
+          "verse": 9,
+          "text": "Necaz şi strâmtorare peste sufletul oricărui om care săvârşeşte răul, al iudeului mai întâi, şi al elinului;"
+        },
+        {
+          "verse": 10,
+          "text": "Dar mărire, cinste şi pace oricui face binele: iudeului mai întâi, şi elinului."
+        },
+        {
+          "verse": 11,
+          "text": "Căci nu este părtinire la Dumnezeu!"
+        },
+        {
+          "verse": 12,
+          "text": "Câţi, deci, fără lege, au păcătuit, fără lege vor şi pieri; iar câţi au păcătuit în lege, prin lege vor fi judecaţi."
+        },
+        {
+          "verse": 13,
+          "text": "Fiindcă nu cei ce aud legea sunt drepţi la Dumnezeu, ci cei ce împlinesc legea vor fi îndreptaţi."
+        },
+        {
+          "verse": 14,
+          "text": "Căci, când păgânii care nu au lege, din fire fac ale legii, aceştia, neavând lege, îşi sunt loruşi lege,"
+        },
+        {
+          "verse": 15,
+          "text": "Ceea ce arată fapta legii scrisă în inimile lor, prin mărturia conştiinţei lor şi prin judecăţile lor, care îi învinovăţesc sau îi şi apără,"
+        },
+        {
+          "verse": 16,
+          "text": "În ziua în care Dumnezeu va judeca, prin Iisus Hristos, după Evanghelia mea, cele ascunse ale oamenilor."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_02_02",
+      "chapter": 2,
+      "pericope_num": "02",
+      "title_en": "The Jews and the Law",
+      "title_ro": "Iudeii și Legea",
+      "start_verse": 17,
+      "end_verse": 29,
+      "verse_count": 13,
+      "verses": [
+        {
+          "verse": 17,
+          "text": "Dar dacă tu te numeşti iudeu şi te reazimi pe lege şi te lauzi cu Dumnezeu,"
+        },
+        {
+          "verse": 18,
+          "text": "Şi cunoşti voia Lui şi ştii să încuviinţezi cele bune, fiind învăţat din lege,"
+        },
+        {
+          "verse": 19,
+          "text": "Şi eşti încredinţat că tu eşti călăuză orbilor, lumină celor ce sunt în întuneric,"
+        },
+        {
+          "verse": 20,
+          "text": "Povăţuitor celor fără de minte, învăţător celor nevârstnici, având în lege dreptarul cunoştiinţei şi al adevărului,"
+        },
+        {
+          "verse": 21,
+          "text": "Deci tu, cel care înveţi pe altul, pe tine însuţi nu te înveţi? Tu cel care propovăduieşti: Să nu furi - şi tu furi?"
+        },
+        {
+          "verse": 22,
+          "text": "Tu, cel care zici: Să nu săvârşeşti adulter, săvârşeşti adulter? Tu cel care urăşti idolii, furi cele sfinte?"
+        },
+        {
+          "verse": 23,
+          "text": "Tu, care te lauzi cu legea, Îl necinsteşti pe Dumnezeu, prin călcarea legii?"
+        },
+        {
+          "verse": 24,
+          "text": "\"Căci numele lui Dumnezeu, din pricina voastră, este hulit între neamuri\", precum este scris."
+        },
+        {
+          "verse": 25,
+          "text": "Căci tăierea împrejur foloseşte, dacă păzeşti legea; dacă însă eşti călcător de lege, tăierea ta împrejur s-a făcut netăiere împrejur."
+        },
+        {
+          "verse": 26,
+          "text": "Deci dacă cel netăiat împrejur păzeşte hotărârile legii, netăierea lui împrejur nu va fi, oare, socotită ca tăiere împrejur?"
+        },
+        {
+          "verse": 27,
+          "text": "Iar el - din fire netăiat împrejur, dar împlinitor al legii - nu te va judeca, oare, pe tine, care, prin litera legii şi prin tăierea împrejur, eşti călcător de lege?"
+        },
+        {
+          "verse": 28,
+          "text": "Pentru că nu cel ce se arată pe din afară e iudeu, nici cea arătată pe dinafară în trup, este tăiere împrejur;"
+        },
+        {
+          "verse": 29,
+          "text": "Ci este iudeu cel întru ascuns, iar tăierea împrejur este aceea a inimii, în duh, nu în literă; a cărui laudă nu vine de la oameni, ci de la Dumnezeu."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_03_01",
+      "chapter": 3,
+      "pericope_num": "01",
+      "title_en": "None Is Righteous",
+      "title_ro": "Nimeni nu este drept",
+      "start_verse": 1,
+      "end_verse": 20,
+      "verse_count": 20,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Care este deci întâietatea iudeului şi folosul tăierii împrejur?"
+        },
+        {
+          "verse": 2,
+          "text": "Este mare în toate privinţele. Întâi, pentru că lor li s-au încredinţat cuvintele lui Dumnezeu."
+        },
+        {
+          "verse": 3,
+          "text": "Căci ce este dacă unii n-au crezut? Oare necredinţa lor va nimici credincioşia lui Dumnezeu?"
+        },
+        {
+          "verse": 4,
+          "text": "Nicidecum! Ci Dumnezeu se vădeşte în adevărul Său, pe când tot omul întru minciună, precum este scris: \"Drept eşti Tu întru cuvintele Tale şi biruitor când vei judeca Tu\"."
+        },
+        {
+          "verse": 5,
+          "text": "Iar dacă nedreptatea noastră învederează dreptatea lui Dumnezeu, ce vom zice? Nu cumva este nedrept Dumnezeu care aduce mânia? - Ca om vorbesc."
+        },
+        {
+          "verse": 6,
+          "text": "Nicidecum! Căci atunci cum va judeca Dumnezeu lumea?"
+        },
+        {
+          "verse": 7,
+          "text": "Căci dacă adevărul lui Dumnezeu, prin minciuna mea, a prisosit spre slava Lui, pentru ce dar mai sunt şi eu judecat ca păcătos?"
+        },
+        {
+          "verse": 8,
+          "text": "Şi de ce n-am face cele rele, ca să vină cele bune, precum suntem huliţi şi precum spun unii că zicem noi? Osânda aceasta este dreaptă."
+        },
+        {
+          "verse": 9,
+          "text": "Dar ce? Avem noi vreo precădere? Nicidecum. Căci am învinuit mai înainte şi pe iudei, şi pe elini, că toţi sunt sub păcat,"
+        },
+        {
+          "verse": 10,
+          "text": "După cum este scris: \"Nu este drept nici unul;"
+        },
+        {
+          "verse": 11,
+          "text": "Nu este cel ce înţelege, nu este cel ce caută pe Dumnezeu."
+        },
+        {
+          "verse": 12,
+          "text": "Toţi s-au abătut, împreună, netrebnici s-au făcut. Nu este cine să facă binele, nici măcar unul nu este."
+        },
+        {
+          "verse": 13,
+          "text": "Mormânt deschis este gâtlejul lor; viclenii vorbit-au cu limbile lor; venin de viperă este sub buzele lor;"
+        },
+        {
+          "verse": 14,
+          "text": "Gura lor e plină de blestem şi amărăciune;"
+        },
+        {
+          "verse": 15,
+          "text": "Iuţi sunt picioarele lor să verse sânge;"
+        },
+        {
+          "verse": 16,
+          "text": "Pustiire şi nenorocire sunt în drumurile lor;"
+        },
+        {
+          "verse": 17,
+          "text": "Şi calea păcii ei nu au cunoscut-o;"
+        },
+        {
+          "verse": 18,
+          "text": "Nu este frică de Dumnezeu înaintea ochilor lor\"."
+        },
+        {
+          "verse": 19,
+          "text": "Dar ştim că cele câte zice Legea le spune celor care sunt sub Lege, ca orice gură să fie închisă şi ca toată lumea să fie vinovată înaintea lui Dumnezeu."
+        },
+        {
+          "verse": 20,
+          "text": "Pentru că din faptele Legii nici un om nu se va îndrepta înaintea Lui, căci prin Lege vine cunoştinţa păcatului."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_03_02",
+      "chapter": 3,
+      "pericope_num": "02",
+      "title_en": "Righteousness through Faith",
+      "title_ro": "Îndreptățirea prin credință",
+      "start_verse": 21,
+      "end_verse": 31,
+      "verse_count": 11,
+      "verses": [
+        {
+          "verse": 21,
+          "text": "Dar acum, în afară de Lege, s-a arătat dreptatea lui Dumnezeu, fiind mărturisită de Lege şi de prooroci."
+        },
+        {
+          "verse": 22,
+          "text": "Dar dreptatea lui Dumnezeu vine prin credinţa în Iisus Hristos, pentru toţi şi peste toţi cei ce cred, căci nu este deosebire."
+        },
+        {
+          "verse": 23,
+          "text": "Fiindcă toţi au păcătuit şi sunt lipsiţi de slava lui Dumnezeu;"
+        },
+        {
+          "verse": 24,
+          "text": "Îndreptându-se în dar cu harul Lui, prin răscumpărarea cea în Hristos Iisus."
+        },
+        {
+          "verse": 25,
+          "text": "Pe Care Dumnezeu L-a rânduit (jertfă de) ispăşire, prin credinţa în sângele Lui, ca să-Şi arate dreptatea Sa, pentru iertarea păcatelor celor mai înainte făcute,"
+        },
+        {
+          "verse": 26,
+          "text": "Întru îngăduinţa lui Dumnezeu - ca să-Şi arate dreptatea Sa, în vremea de acum, spre a fi El Însuşi drept, şi îndreptând pe cel ce trăieşte din credinţa în Iisus."
+        },
+        {
+          "verse": 27,
+          "text": "Deci, unde este pricina de laudă? A fost înlăturată. Prin care Lege? Prin Legea faptelor? Nu, ci prin Legea credinţei."
+        },
+        {
+          "verse": 28,
+          "text": "Căci socotim că prin credinţă se va îndrepta omul, fără faptele Legii."
+        },
+        {
+          "verse": 29,
+          "text": "Oare Dumnezeu este numai al iudeilor? Nu este El şi Dumnezeul păgânilor? Da, şi al păgânilor."
+        },
+        {
+          "verse": 30,
+          "text": "Fiindcă este un singur Dumnezeu, Care va îndrepta din credinţă pe cei tăiaţi împrejur şi, prin credinţă, pe cei netăiaţi împrejur."
+        },
+        {
+          "verse": 31,
+          "text": "Desfiinţăm deci noi Legea prin credinţă? Nicidecum! Dimpotrivă, întărim Legea."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_04_01",
+      "chapter": 4,
+      "pericope_num": "01",
+      "title_en": "The Example of Abraham",
+      "title_ro": "Exemplul lui Avraam",
+      "start_verse": 1,
+      "end_verse": 12,
+      "verse_count": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Deci, ce vom zice că a dobândit după trup strămoşul nostru Avraam?"
+        },
+        {
+          "verse": 2,
+          "text": "Căci dacă Avraam s-a îndreptat din fapte, are de ce să se laude, dar nu înaintea lui Dumnezeu."
+        },
+        {
+          "verse": 3,
+          "text": "Căci, ce spune Scriptura? Şi \"Avraam a crezut lui Dumnezeu şi i s-a socotit lui ca dreptate\"."
+        },
+        {
+          "verse": 4,
+          "text": "Celui care face fapte, nu i se socoteşte plata după har, ci după datorie;"
+        },
+        {
+          "verse": 5,
+          "text": "Iar celui care nu face fapte, ci crede în Cel ce îndreptează pe cel păcătos, credinţa lui i se socoteşte ca dreptate."
+        },
+        {
+          "verse": 6,
+          "text": "Precum şi David vorbeşte despre fericirea omului căruia Dumnezeu îi socoteşte dreptatea fără fapte:"
+        },
+        {
+          "verse": 7,
+          "text": "\"Fericiţi aceia, cărora li s-au iertat fărădelegile şi ale căror păcate li s-au acoperit!"
+        },
+        {
+          "verse": 8,
+          "text": "Fericit bărbatul căruia Domnul nu-i va socoti păcatul\"."
+        },
+        {
+          "verse": 9,
+          "text": "Deci fericirea aceasta este ea numai pentru cei tăiaţi împrejur sau şi pentru cei netăiaţi împrejur? Căci zicem: \"I s-a socotit lui Avraam credinţa ca dreptate\"."
+        },
+        {
+          "verse": 10,
+          "text": "Dar cum i s-a socotit? Când era tăiat împrejur sau când era netăiat împrejur? Nu când era tăiat împrejur, ci când era netăiat împrejur."
+        },
+        {
+          "verse": 11,
+          "text": "Iar semnul tăierii împrejur l-a primit ca pecete a dreptăţii pentru credinţa lui din vremea netăierii împrejur, ca să fie el părinte al tuturor celor ce cred, netăiaţi împrejur, pentru a li se socoti şi lor (credinţa) ca dreptate,"
+        },
+        {
+          "verse": 12,
+          "text": "Şi părinte al celor tăiaţi împrejur. Dar nu numai al celor care sunt tăiaţi împrejur, ci şi care umblă pe urmele credinţei pe care o avea părintele nostru Avraam, pe când era netăiat împrejur."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_04_02",
+      "chapter": 4,
+      "pericope_num": "02",
+      "title_en": "God's Promise Realized through Faith",
+      "title_ro": "Făgăduința lui Dumnezeu împlinită prin credință",
+      "start_verse": 13,
+      "end_verse": 25,
+      "verse_count": 13,
+      "verses": [
+        {
+          "verse": 13,
+          "text": "Pentru că Avraam şi seminţia lui nu prin lege au primit făgăduinţa că vor moşteni lumea, ci prin dreptatea cea din credinţă."
+        },
+        {
+          "verse": 14,
+          "text": "Căci dacă moştenitorii sunt cei ce au legea, atunci credinţa a ajuns zadarnică, iar făgăduinţa s-a desfiinţat,"
+        },
+        {
+          "verse": 15,
+          "text": "Căci legea pricinuieşte mâine; dar unde nu este lege, nu este nici călcare de lege."
+        },
+        {
+          "verse": 16,
+          "text": "De aceea (moştenirea făgăduită) este din credinţă, ca să fie din har şi ca făgăduinţa să rămână sigură pentru toţi urmaşii, nu numai pentru toţi cei ce se ţin de lege, ci şi pentru cei ce se ţin de credinţa lui Avraam, care este părinte al nostru al tuturor,"
+        },
+        {
+          "verse": 17,
+          "text": "Precum este scris: \"Te-am pus părinte al multor neamuri\", în faţa Celui în Care a crezut, a lui Dumnezeu, Care înviază morţii şi cheamă la fiinţă cele ce încă nu sunt;"
+        },
+        {
+          "verse": 18,
+          "text": "Împotriva oricărei nădejdi, Avraam a crezut cu nădejde că el va fi părinte al multor neamuri, după cum i s-a spus: \"Aşa va fi seminţia ta\";"
+        },
+        {
+          "verse": 19,
+          "text": "Şi neslăbind în credinţă, nu s-a uitat la trupul său amorţit - căci era aproape de o sută de ani - şi nici la amorţirea pântecelui Sarrei;"
+        },
+        {
+          "verse": 20,
+          "text": "Şi nu s-a îndoit, prin necredinţă, de făgăduinţa lui Dumnezeu, ci s-a întărit în credinţă, dând slavă lui Dumnezeu,"
+        },
+        {
+          "verse": 21,
+          "text": "Şi fiind încredinţat că ceea ce i-a făgăduit are putere să şi facă."
+        },
+        {
+          "verse": 22,
+          "text": "De acea, credinţa lui i s-a socotit ca dreptate."
+        },
+        {
+          "verse": 23,
+          "text": "Şi nu s-a scris numai pentru el că i s-a socotit ca dreptate,"
+        },
+        {
+          "verse": 24,
+          "text": "Ci se va socoti şi pentru noi, cei care credem în Cel ce a înviat din morţi pe Iisus, Domnul nostru,"
+        },
+        {
+          "verse": 25,
+          "text": "Care S-a dat pentru păcatele noastre şi a înviat pentru îndreptarea noastră."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_05_01",
+      "chapter": 5,
+      "pericope_num": "01",
+      "title_en": "Results of Justification",
+      "title_ro": "Roadele îndreptățirii",
+      "start_verse": 1,
+      "end_verse": 11,
+      "verse_count": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Deci fiind îndreptaţi din credinţă, avem pace cu Dumnezeu, prin Domnul nostru Iisus Hristos,"
+        },
+        {
+          "verse": 2,
+          "text": "Prin Care am avut şi apropiere, prin credinţă, la harul acesta, în care stăm, şi ne lăudăm întru nădejdea slavei lui Dumnezeu."
+        },
+        {
+          "verse": 3,
+          "text": "Şi nu numai atât, ci ne lăudăm şi în suferinţe, bine ştiind că suferinţa aduce răbdare,"
+        },
+        {
+          "verse": 4,
+          "text": "Şi răbdarea încercare, şi încercarea nădejde"
+        },
+        {
+          "verse": 5,
+          "text": "Iar nădejdea nu ruşinează pentru că iubirea lui Dumnezeu s-a vărsat în inimile noastre, prin Duhul Sfânt, Cel dăruit nouă."
+        },
+        {
+          "verse": 6,
+          "text": "Căci Hristos, încă fiind noi neputincioşi, la timpul hotărât a murit pentru cei necredincioşi."
+        },
+        {
+          "verse": 7,
+          "text": "Căci cu greu va muri cineva pentru un drept; dar pentru cel bun poate se hotărăşte cineva să moară."
+        },
+        {
+          "verse": 8,
+          "text": "Dar Dumnezeu Îşi arată dragostea Lui faţă de noi prin aceea că, pentru noi, Hristos a murit când noi eram încă păcătoşi."
+        },
+        {
+          "verse": 9,
+          "text": "Cu atât mai vârtos, deci, acum, fiind îndreptaţi prin sângele Lui, ne vom izbăvi prin El de mânie."
+        },
+        {
+          "verse": 10,
+          "text": "Căci dacă, pe când eram vrăjmaşi, ne-am împăcat cu Dumnezeu, prin moartea Fiului Său, cu atât mai mult, împăcaţi fiind, ne vom mântui prin viaţa Lui."
+        },
+        {
+          "verse": 11,
+          "text": "Şi nu numai atât, ci şi ne lăudăm în Dumnezeu prin Domnul nostru Iisus Hristos, prin Care am primit acum împăcarea."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_05_02",
+      "chapter": 5,
+      "pericope_num": "02",
+      "title_en": "Adam and Christ",
+      "title_ro": "Adam și Hristos",
+      "start_verse": 12,
+      "end_verse": 21,
+      "verse_count": 10,
+      "verses": [
+        {
+          "verse": 12,
+          "text": "De aceea, precum printr-un om a intrat păcatul în lume şi prin păcat moartea, aşa şi moartea a trecut la toţi oamenii, pentru că toţi au păcătuit în el."
+        },
+        {
+          "verse": 13,
+          "text": "Căci, până la lege, păcatul era în lume, dar păcatul nu se socoteşte când nu este lege."
+        },
+        {
+          "verse": 14,
+          "text": "Ci a împărăţit moartea de la Adam până la Moise şi peste cei ce nu păcătuiseră, după asemănarea greşelii lui Adam, care este chip al Celui ce avea să vină."
+        },
+        {
+          "verse": 15,
+          "text": "Dar nu este cu greşeala cum este cu harul, căci dacă prin greşeala unuia cei mulţi au murit, cu mult mai mult harul lui Dumnezeu şi darul Lui au prisosit asupra celor mulţi, prin harul unui singur om, Iisus Hristos."
+        },
+        {
+          "verse": 16,
+          "text": "Şi ce aduce darul nu seamănă cu ce a adus acel unul care a păcătuit; căci judecata dintr-unul duce la osândire, iar harul din multe greşeli duce la îndreptare."
+        },
+        {
+          "verse": 17,
+          "text": "Căci, dacă prin greşeala unuia moartea a împărăţit printr-unul, cu mult mai mult cei ce primesc prisosinţa harului şi a darului dreptăţii vor împărăţi în viaţă prin Unul Iisus Hristos."
+        },
+        {
+          "verse": 18,
+          "text": "Aşadar, precum prin greşeala unuia a venit osânda pentru toţi oamenii, aşa şi prin îndreptarea adusă de Unul a venit, pentru toţi oamenii, îndreptarea care dă viaţă;"
+        },
+        {
+          "verse": 19,
+          "text": "Căci precum prin neascultarea unui om s-au făcut păcătoşi cei mulţi, tot aşa prin ascultarea unuia se vor face drepţi cei mulţi."
+        },
+        {
+          "verse": 20,
+          "text": "Iar Legea a intrat şi ea ca se înmulţească greşeala; iar unde s-a înmulţit păcatul, a prisosit harul;"
+        },
+        {
+          "verse": 21,
+          "text": "Pentru că precum a împărăţit păcatul prin moarte, aşa şi harul să împărăţească prin dreptate, spre viaţa veşnică, prin Iisus Hristos, Domnul nostru."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_06_01",
+      "chapter": 6,
+      "pericope_num": "01",
+      "title_en": "Dying and Rising with Christ",
+      "title_ro": "Murim și înviem cu Hristos",
+      "start_verse": 1,
+      "end_verse": 14,
+      "verse_count": 14,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Ce vom zice deci? Rămâne-vom, oare, în păcat, ca să se înmulţească harul?"
+        },
+        {
+          "verse": 2,
+          "text": "Nicidecum! Noi care am murit păcatului, cum vom mai trăi în păcat?"
+        },
+        {
+          "verse": 3,
+          "text": "Au nu ştiţi că toţi câţi în Hristos Iisus ne-am botezat, întru moartea Lui ne-am botezat?"
+        },
+        {
+          "verse": 4,
+          "text": "Deci ne-am îngropat cu El, în moarte, prin botez, pentru ca, precum Hristos a înviat din morţi, prin slava Tatălui, aşa să umblăm şi noi întru înnoirea vieţii;"
+        },
+        {
+          "verse": 5,
+          "text": "Căci dacă am fost altoiţi pe El prin asemănarea morţii Lui, atunci vom fi părtaşi şi ai învierii Lui,"
+        },
+        {
+          "verse": 6,
+          "text": "Cunoscând aceasta, că omul nostru cel vechi a fost răstignit împreună cu El, ca să se nimicească trupul păcatului, pentru a nu mai fi robi ai păcatului."
+        },
+        {
+          "verse": 7,
+          "text": "Căci Cel care a murit a fost curăţit de păcat."
+        },
+        {
+          "verse": 8,
+          "text": "Iar dacă am murit împreună cu Hristos, credem că vom şi vieţui împreună cu El,"
+        },
+        {
+          "verse": 9,
+          "text": "Ştiind că Hristos, înviat din morţi, nu mai moare. Moarta nu mai are stăpânire asupra Lui."
+        },
+        {
+          "verse": 10,
+          "text": "Căci ce a murit, a murit păcatului o dată pentru totdeauna, iar ce trăieşte, trăieşte lui Dumnezeu."
+        },
+        {
+          "verse": 11,
+          "text": "Aşa şi voi, socotiţi-vă că sunteţi morţi păcatului, dar vii pentru Dumnezeu, în Hristos Iisus, Domnul nostru."
+        },
+        {
+          "verse": 12,
+          "text": "Deci să nu împărăţească păcatul în trupul vostru cel muritor, ca să vă supuneţi poftelor lui;"
+        },
+        {
+          "verse": 13,
+          "text": "Nici să nu puneţi mădularele voastre ca arme ale nedreptăţii în slujba păcatului, ci, înfăţişaţi-vă pe voi lui Dumnezeu, ca vii, sculaţi din morţi, şi mădularele voastre ca arme ale dreptăţii lui Dumnezeu."
+        },
+        {
+          "verse": 14,
+          "text": "Căci păcatul nu va avea stăpânire asupra voastră, fiindcă nu sunteţi sub lege, ci sub har."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_06_02",
+      "chapter": 6,
+      "pericope_num": "02",
+      "title_en": "Slaves of Righteousness",
+      "title_ro": "Robi ai neprihănirii",
+      "start_verse": 15,
+      "end_verse": 23,
+      "verse_count": 9,
+      "verses": [
+        {
+          "verse": 15,
+          "text": "Oare, atunci să păcătuim fiindcă nu suntem sub lege, ci sub har? Nicidecum!"
+        },
+        {
+          "verse": 16,
+          "text": "Au nu ştiţi că celui ce vă daţi spre ascultare robi, sunteţi robi aceluia căruia vă supuneţi: fie ai păcatului spre moarte, fie ai ascultării spre dreptate?"
+        },
+        {
+          "verse": 17,
+          "text": "Mulţumim însă lui Dumnezeu, că (deşi) eraţi robi ai păcatului, v-aţi supus din toată inima dreptarului învăţăturii căreia aţi fost încredinţaţi,"
+        },
+        {
+          "verse": 18,
+          "text": "Şi izbăvindu-vă de păcat, v-aţi făcut robi ai dreptăţii."
+        },
+        {
+          "verse": 19,
+          "text": "Omeneşte vorbesc, pentru slăbiciunea trupului vostru. - Căci precum aţi făcut mădularele voastre roabe necurăţiei şi fărădelegii, spre fărădelege, tot aşa faceţi acum mădularele voastre roabe dreptăţii, spre sfinţire."
+        },
+        {
+          "verse": 20,
+          "text": "Căci atunci, când eraţi robi ai păcatului, eraţi liberi faţă de dreptate."
+        },
+        {
+          "verse": 21,
+          "text": "Deci ce roadă aveaţi atunci? Roade de care acum vă e ruşine; pentru că sfârşitul acelora este moartea."
+        },
+        {
+          "verse": 22,
+          "text": "Dar acum, izbăviţi fiind de păcat şi robi făcându-vă lui Dumnezeu, aveţi roada voastră spre sfinţire, iar sfârşitul, viaţă veşnică."
+        },
+        {
+          "verse": 23,
+          "text": "Pentru că plata păcatului este moartea, iar harul lui Dumnezeu, viaţa veşnică, în Hristos Iisus, Domnul nostru."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_07_01",
+      "chapter": 7,
+      "pericope_num": "01",
+      "title_en": "An Analogy from Marriage",
+      "title_ro": "O analogie din căsătorie",
+      "start_verse": 1,
+      "end_verse": 7,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Oare nu ştiţi, fraţilor - căci celor ce cunosc Legea vorbesc - că Legea are putere asupra omului, atâta timp cât el trăieşte?"
+        },
+        {
+          "verse": 2,
+          "text": "Căci femeia măritată e legată, prin lege, de bărbatul său atâta timp cât el trăieşte; iar dacă i-a murit bărbatul, este dezlegată de legea bărbatului."
+        },
+        {
+          "verse": 3,
+          "text": "Deci, trăindu-i bărbatul, se va numi adulteră dacă va fi cu alt bărbat; iar dacă i-a murit bărbatul este liberă faţă de lege, ca să nu fie adulteră, luând un alt bărbat."
+        },
+        {
+          "verse": 4,
+          "text": "Aşa că, fraţii mei, şi voi aţi murit Legii, prin trupul lui Hristos, spre a fi ai altuia, ai Celui ce a înviat din morţi, ca să aducem roade lui Dumnezeu."
+        },
+        {
+          "verse": 5,
+          "text": "Căci pe când eram în trup, patimile păcatelor, care erau prin Lege, lucrau în mădularele noastre, ca să aducem roade morţii;"
+        },
+        {
+          "verse": 6,
+          "text": "Dar acum ne-am desfăcut de Lege, murind aceluia în care eram ţinuţi robi, ca noi să slujim întru înnoirea Duhului, iar nu după slova cea veche."
+        },
+        {
+          "verse": 7,
+          "text": "Ce vom zice deci? Au doară Legea este păcat? Nicidecum. Dar eu n-am cunoscut păcatul,  decât prin Lege. Căci n-aş fi ştiut pofta, dacă Legea n-ar fi zis: Să nu pofteşti!"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_07_02",
+      "chapter": 7,
+      "pericope_num": "02",
+      "title_en": "The Law and Sin",
+      "title_ro": "Legea și păcatul",
+      "start_verse": 7,
+      "end_verse": 13,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 7,
+          "text": "Ce vom zice deci? Au doară Legea este păcat? Nicidecum. Dar eu n-am cunoscut păcatul,  decât prin Lege. Căci n-aş fi ştiut pofta, dacă Legea n-ar fi zis: Să nu pofteşti!"
+        },
+        {
+          "verse": 8,
+          "text": "Dar păcatul, luând pricină prin poruncă, a lucrat în mine tot felul de pofte. Căci fără lege, păcatul era mort."
+        },
+        {
+          "verse": 9,
+          "text": "Iar eu cândva trăiam fără lege, dar după ce a venit porunca, păcatul a prins viaţă;"
+        },
+        {
+          "verse": 10,
+          "text": "Iar eu am murit! Şi porunca, dată spre viaţă, mi s-a aflat a fi spre moarte."
+        },
+        {
+          "verse": 11,
+          "text": "Pentru că păcatul, luând îndemn prin poruncă, m-a înşelat şi m-a ucis prin ea."
+        },
+        {
+          "verse": 12,
+          "text": "Deci, Legea e sfântă şi porunca e sfântă şi dreaptă şi bună."
+        },
+        {
+          "verse": 13,
+          "text": "Atunci, ce era bun s-a făcut pentru mine pricina morţii? Nicidecum! Ci păcatul, ca să se arate păcat, mi-a adus moartea, prin ceea ce a fost bun, pentru ca păcatul, prin poruncă, să fie peste măsură de păcătos."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_07_03",
+      "chapter": 7,
+      "pericope_num": "03",
+      "title_en": "The Inner Conflict",
+      "title_ro": "Conflictul interior",
+      "start_verse": 14,
+      "end_verse": 25,
+      "verse_count": 12,
+      "verses": [
+        {
+          "verse": 14,
+          "text": "Căci ştim că Legea e duhovnicească; dar eu sunt trupesc, vândut sub păcat."
+        },
+        {
+          "verse": 15,
+          "text": "Pentru că ceea ce fac nu ştiu; căci nu săvârşesc ceea ce voiesc, ci fac ceea ce urăsc."
+        },
+        {
+          "verse": 16,
+          "text": "Iar dacă fac ceea ce nu voiesc, recunosc că Legea este bună."
+        },
+        {
+          "verse": 17,
+          "text": "Dar acum nu eu fac acestea, ci păcatul care locuieşte în mine."
+        },
+        {
+          "verse": 18,
+          "text": "Fiindcă ştiu că nu locuieşte în mine, adică în trupul meu, ce este bun. Căci a voi se află în mine, dar a face binele nu aflu;"
+        },
+        {
+          "verse": 19,
+          "text": "Căci nu fac binele pe care îl voiesc, ci răul pe care nu-l voiesc, pe acela îl săvârşesc."
+        },
+        {
+          "verse": 20,
+          "text": "Iar dacă fac ceea ce nu voiesc eu, nu eu fac aceasta, ci păcatul care locuieşte în mine."
+        },
+        {
+          "verse": 21,
+          "text": "Găsesc deci în mine, care voiesc să fac bine, legea că răul este legat de mine."
+        },
+        {
+          "verse": 22,
+          "text": "Că, după omul cel lăuntric, mă bucur de legea lui Dumnezeu;"
+        },
+        {
+          "verse": 23,
+          "text": "Dar văd în mădularele mele o altă lege, luptându-se împotriva legii minţii mele şi făcându-mă rob legii păcatului, care este în mădularele mele."
+        },
+        {
+          "verse": 24,
+          "text": "Om nenorocit ce sunt! Cine mă va izbăvi de trupul morţii acesteia?"
+        },
+        {
+          "verse": 25,
+          "text": "Mulţumesc lui Dumnezeu, prin Iisus Hristos, Domnul nostru! Deci, dar, eu însumi, cu mintea mea, slujesc legii lui Dumnezeu, iar cu trupul, legii păcatului."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_08_01",
+      "chapter": 8,
+      "pericope_num": "01",
+      "title_en": "Life in the Spirit",
+      "title_ro": "Viața în Duhul",
+      "start_verse": 1,
+      "end_verse": 17,
+      "verse_count": 17,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Drept aceea nici o osândă nu este acum asupra celor ce sunt în Hristos Iisus."
+        },
+        {
+          "verse": 2,
+          "text": "Căci legea duhului vieţii în Hristos Iisus m-a eliberat de legea păcatului şi a morţii,"
+        },
+        {
+          "verse": 3,
+          "text": "Pentru că ceea ce era cu neputinţă Legii - fiind slabă prin trup - a săvârşit Dumnezeu, trimiţând pe Fiul Său întru asemănarea trupului păcatului şi pentru păcat a osândit păcatul în trup,"
+        },
+        {
+          "verse": 4,
+          "text": "Pentru ca îndreptarea din Lege să se împlinească în noi, care nu umblăm după trup, ci după duh."
+        },
+        {
+          "verse": 5,
+          "text": "Căci cei ce sunt după trup cugetă cele ale trupului, iar cei ce sunt după Duh, cele ale Duhului."
+        },
+        {
+          "verse": 6,
+          "text": "Căci dorinţa cărnii este moarte dar dorinţa Duhului este viaţă şi pace;"
+        },
+        {
+          "verse": 7,
+          "text": "Fiindcă dorinţa cărnii este vrăjmăşie împotriva lui Dumnezeu, căci nu se supune legii lui Dumnezeu, că nici nu poate."
+        },
+        {
+          "verse": 8,
+          "text": "Iar cei ce sunt în carne nu pot să placă lui Dumnezeu."
+        },
+        {
+          "verse": 9,
+          "text": "Dar voi nu sunteţi în carne, ci în Duh, dacă Duhul lui Dumnezeu locuieşte în voi. Iar dacă cineva nu are Duhul lui Hristos, acela nu este al Lui."
+        },
+        {
+          "verse": 10,
+          "text": "Iar dacă Hristos este în voi, trupul este mort pentru păcat; iar Duhul, viaţă pentru dreptate,"
+        },
+        {
+          "verse": 11,
+          "text": "Iar dacă Duhul Celui ce a înviat pe Iisus din morţi locuieşte în voi, Cel ce a înviat pe Hristos Iisus din morţi va face vii şi trupurile voastre cele muritoare, prin Duhul Său care locuieşte în voi."
+        },
+        {
+          "verse": 12,
+          "text": "Drept aceea, fraţilor, nu suntem datori trupului, ca să vieţuim după trup."
+        },
+        {
+          "verse": 13,
+          "text": "Căci dacă vieţuiţi după trup, veţi muri, iar dacă ucideţi, cu Duhul, faptele trupului, veţi fi vii."
+        },
+        {
+          "verse": 14,
+          "text": "Căci câţi sunt mânaţi de Duhul lui Dumnezeu sunt fii ai lui Dumnezeu."
+        },
+        {
+          "verse": 15,
+          "text": "Pentru că n-aţi primit iarăşi un duh al robiei, spre temere, ci aţi primit Duhul înfierii, prin care strigăm: Avva! Părinte!"
+        },
+        {
+          "verse": 16,
+          "text": "Duhul însuşi mărturiseşte împreună cu duhul nostru că suntem fii ai lui Dumnezeu."
+        },
+        {
+          "verse": 17,
+          "text": "Şi dacă suntem fii, suntem şi moştenitori - moştenitori ai lui Dumnezeu şi împreună-moştenitori cu Hristos, dacă pătimim împreună cu El, ca împreună cu El să ne şi preamărim."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_08_02",
+      "chapter": 8,
+      "pericope_num": "02",
+      "title_en": "Future Glory",
+      "title_ro": "Slava viitoare",
+      "start_verse": 18,
+      "end_verse": 30,
+      "verse_count": 13,
+      "verses": [
+        {
+          "verse": 18,
+          "text": "Căci socotesc că pătimirile vremii de acum nu sunt vrednice de mărirea care ni se va descoperi."
+        },
+        {
+          "verse": 19,
+          "text": "Pentru că făptura aşteaptă cu nerăbdare descoperirea fiilor lui Dumnezeu."
+        },
+        {
+          "verse": 20,
+          "text": "Căci făptura a fost supusă deşertăciunii - nu din voia ei, ci din cauza aceluia care a supus-o - cu nădejde,"
+        },
+        {
+          "verse": 21,
+          "text": "Pentru că şi făptura însăşi se va izbăvi din robia stricăciunii, ca să fie părtaşă la libertatea măririi fiilor lui Dumnezeu."
+        },
+        {
+          "verse": 22,
+          "text": "Căci ştim că toată făptura împreună suspină şi împreună are dureri până acum."
+        },
+        {
+          "verse": 23,
+          "text": "Şi nu numai atât, ci şi noi, care avem pârga Duhului, şi noi înşine suspinăm în noi, aşteptând înfierea, răscumpărarea trupului nostru."
+        },
+        {
+          "verse": 24,
+          "text": "Căci prin nădejde ne-am mântuit; dar nădejdea care se vede nu mai e nădejde. Cum ar nădăjdui cineva ceea ce vede?"
+        },
+        {
+          "verse": 25,
+          "text": "Iar dacă nădăjduim ceea ce nu vedem, aşteptăm prin răbdare."
+        },
+        {
+          "verse": 26,
+          "text": "De asemenea şi Duhul vine în ajutor slăbiciunii noastre, căci noi nu ştim să ne rugăm cum trebuie, ci Însuşi Duhul Se roagă pentru noi cu suspine negrăite."
+        },
+        {
+          "verse": 27,
+          "text": "Iar Cel ce cercetează inimile ştie care este dorinţa Duhului, căci după Dumnezeu El Se roagă pentru sfinţi."
+        },
+        {
+          "verse": 28,
+          "text": "Şi ştim că Dumnezeu toate le lucrează spre binele celor ce iubesc pe Dumnezeu, al celor care sunt chemaţi după voia Lui;"
+        },
+        {
+          "verse": 29,
+          "text": "Căci pe cei pe care i-a cunoscut mai înainte, mai înainte i-a şi hotărât să fie asemenea chipului Fiului Său, ca El să fie întâi născut între mulţi fraţi."
+        },
+        {
+          "verse": 30,
+          "text": "Iar pe care i-a hotărât mai înainte, pe aceştia i-a şi chemat; şi pe care i-a chemat, pe aceştia i-a şi îndreptat; iar pe care i-a îndreptat, pe aceştia i-a şi mărit."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_08_03",
+      "chapter": 8,
+      "pericope_num": "03",
+      "title_en": "God's Love in Christ Jesus",
+      "title_ro": "Dragostea lui Dumnezeu în Iisus Hristos",
+      "start_verse": 31,
+      "end_verse": 39,
+      "verse_count": 9,
+      "verses": [
+        {
+          "verse": 31,
+          "text": "Ce vom zice deci la acestea? Dacă Dumnezeu e pentru noi, cine este împotriva noastră?"
+        },
+        {
+          "verse": 32,
+          "text": "El, Care pe Însuşi Fiul Său nu L-a cruţat, ci L-a dat morţii, pentru noi toţi, cum nu ne va da, oare, toate împreună cu El?"
+        },
+        {
+          "verse": 33,
+          "text": "Cine va ridica pâră împotriva aleşilor lui Dumnezeu? Dumnezeu este Cel ce îndreptează;"
+        },
+        {
+          "verse": 34,
+          "text": "Cine este Cel ce osândeşte? Hristos, Cel ce a murit, şi mai ales Cel ce a înviat, Care şi este de-a dreapta lui Dumnezeu, Care mijloceşte pentru noi!"
+        },
+        {
+          "verse": 35,
+          "text": "Cine ne va despărţi pe noi de iubirea lui Hristos? Necazul, sau strâmtorarea, sau prigoana, sau foametea, sau lipsa de îmbrăcăminte, sau primejdia, sau sabia?"
+        },
+        {
+          "verse": 36,
+          "text": "Precum este scris: \"Pentru Tine suntem omorâţi toată ziua, socotiţi am fost ca nişte oi de junghiere\"."
+        },
+        {
+          "verse": 37,
+          "text": "Dar în toate acestea suntem mai mult decât biruitori, prin Acela Care ne-a iubit."
+        },
+        {
+          "verse": 38,
+          "text": "Căci sunt încredinţat că nici moartea, nici viaţa, nici îngerii, nici stăpânirile, nici cele de acum, nici cele ce vor fi, nici puterile,"
+        },
+        {
+          "verse": 39,
+          "text": "Nici înălţimea, nici adâncul şi nici o altă făptură nu va putea să ne despartă pe noi de dragostea lui Dumnezeu, cea întru Hristos Iisus, Domnul nostru."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_09_01",
+      "chapter": 9,
+      "pericope_num": "01",
+      "title_en": "God's Election of Israel",
+      "title_ro": "Alegerea lui Israel de către Dumnezeu",
+      "start_verse": 1,
+      "end_verse": 18,
+      "verse_count": 18,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Spun adevărul în Hristos, nu mint, martor fiindu-mi conştiinţa mea în Duhul Sfânt,"
+        },
+        {
+          "verse": 2,
+          "text": "Că mare îmi este întristarea şi necurmată durerea inimii."
+        },
+        {
+          "verse": 3,
+          "text": "Căci aş fi dorit să fiu eu însumi anatema de la Hristos pentru fraţii mei, cei de un neam cu mine, după trup,"
+        },
+        {
+          "verse": 4,
+          "text": "Care sunt israeliţi, ale cărora sunt înfierea şi slava şi legămintele şi Legea şi închinarea şi făgăduinţele,"
+        },
+        {
+          "verse": 5,
+          "text": "Ai cărora sunt părinţii şi din care după trup este Hristos, Cel ce este peste toate Dumnezeu, binecuvântat în veci. Amin!"
+        },
+        {
+          "verse": 6,
+          "text": "Dar nu aşa că ar fi căzut cuvântul lui Dumnezeu: căci nu toţi cei din Israel sunt şi israeliţi;"
+        },
+        {
+          "verse": 7,
+          "text": "Nici pentru că sunt urmaşii lui Avraam, sunt toţi fii, ci \"întru Isaac, a zis, se vor chema ţie urmaşi\","
+        },
+        {
+          "verse": 8,
+          "text": "Adică: Nu copiii trupului sunt copii ai lui Dumnezeu, ci fiii făgăduinţei se socotesc urmaşi."
+        },
+        {
+          "verse": 9,
+          "text": "Căci al făgăduinţei este cuvântul acesta: \"(La anul) pe vremea aceasta voi veni şi Sara va avea un fiu\"."
+        },
+        {
+          "verse": 10,
+          "text": "Dar nu numai ea, ci şi Rebeca, având copii gemeni dintr-unul, Isaac, părintele nostru;"
+        },
+        {
+          "verse": 11,
+          "text": "Şi nefiind ei încă născuţi şi nefăcând ei ceva bun sau rău, ca să rămână voia lui Dumnezeu cea după alegere, nu din fapte, ci de la Cel care cheamă,"
+        },
+        {
+          "verse": 12,
+          "text": "I s-a zis ei că \"cel mai mare va sluji celui mai mic\","
+        },
+        {
+          "verse": 13,
+          "text": "Precum este scris: \"Pe Iacov l-am iubit, iar pe Isav l-am urât\"."
+        },
+        {
+          "verse": 14,
+          "text": "Ce vom zice dar? Nu cumva la Dumnezeu este nedreptate? Nicidecum!"
+        },
+        {
+          "verse": 15,
+          "text": "Căci grăieşte către Moise: \"Voi milui pe cine vreau să-l miluiesc şi Mă voi îndura de cine vreau să Mă îndur\"."
+        },
+        {
+          "verse": 16,
+          "text": "Deci, dar, nu este nici de la cel care voieşte, nici de la cel ce aleargă, ci de la Dumnezeu care miluieşte."
+        },
+        {
+          "verse": 17,
+          "text": "Căci Scriptura zice lui Faraon: \"Pentru aceasta chiar te-am ridicat, ca să arăt în tine puterea Mea şi ca numele Meu să se vestească în tot pământul\"."
+        },
+        {
+          "verse": 18,
+          "text": "Deci, dar, Dumnezeu pe cine voieşte îl miluieşte, iar pe cine voieşte îl împietreşte."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_09_02",
+      "chapter": 9,
+      "pericope_num": "02",
+      "title_en": "God's Wrath and Mercy",
+      "title_ro": "Mânia și mila lui Dumnezeu",
+      "start_verse": 19,
+      "end_verse": 29,
+      "verse_count": 11,
+      "verses": [
+        {
+          "verse": 19,
+          "text": "Îmi vei zice deci: De ce mai dojeneşte? Căci voinţei Lui cine i-a stat împotrivă?"
+        },
+        {
+          "verse": 20,
+          "text": "Dar, omule, tu cine eşti care răspunzi împotriva lui Dumnezeu? Oare făptura va zice Celui ce a făcut-o: De ce m-ai făcut aşa?"
+        },
+        {
+          "verse": 21,
+          "text": "Sau nu are olarul putere peste lutul lui, ca din aceeaşi frământătură să facă un vas de cinste, iar altul de necinste?"
+        },
+        {
+          "verse": 22,
+          "text": "Şi ce este dacă Dumnezeu, voind să-Şi arate mânia şi să facă cunoscută puterea Sa, a suferit cu multă răbdare vasele mâniei Sale, gătite spre pierire,"
+        },
+        {
+          "verse": 23,
+          "text": "Şi ca să facă cunoscută bogăţia slavei Sale către vasele milei, pe care mai dinainte le-a gătit spre slavă?"
+        },
+        {
+          "verse": 24,
+          "text": "Adică pe noi, pe care ne-a şi chemat, nu numai dintre iudei, ci şi dintre păgâni,"
+        },
+        {
+          "verse": 25,
+          "text": "Precum zice El şi la Osea: \"Chema-voi poporul Meu pe cel ce nu este poporul Meu, şi iubită pe cea care nu era iubită;"
+        },
+        {
+          "verse": 26,
+          "text": "Şi va fi în locul unde li s-a zis lor: Nu voi sunteţi poporul Meu - acolo se vor chema fii ai Dumnezeului Celui viu\"."
+        },
+        {
+          "verse": 27,
+          "text": "Iar Isaia strigă pentru Israel : \"Dacă numărul fiilor lui Israel ar fi ca nisipul mării, rămăşiţa se va mântui."
+        },
+        {
+          "verse": 28,
+          "text": "Pentru că împlinind şi scurtând, Domnul va îndeplini, pe pământ, cuvântul Său\"."
+        },
+        {
+          "verse": 29,
+          "text": "Şi precum a proorocit Isaia: \"Dacă Domnul Savaot nu ne-ar fi lăsat nouă urmaşi, am fi ajuns ca Sodoma şi ne-am fi asemănat cu Gomora\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_09_03",
+      "chapter": 9,
+      "pericope_num": "03",
+      "title_en": "Israel's Unbelief",
+      "title_ro": "Necredința lui Israel",
+      "start_verse": 30,
+      "end_verse": 33,
+      "verse_count": 4,
+      "verses": [
+        {
+          "verse": 30,
+          "text": "Ce vom zice, deci? Că neamurile care nu căutau dreptatea au dobândit dreptatea, însă dreptatea din credinţă;"
+        },
+        {
+          "verse": 31,
+          "text": "Iar Israel, urmărind legea dreptăţii, n-a ajuns la legea dreptăţii."
+        },
+        {
+          "verse": 32,
+          "text": "Pentru ce? Pentru că nu o căutau din credinţă, ci ca din faptele Legii. S-au poticnit de piatra poticnirii,"
+        },
+        {
+          "verse": 33,
+          "text": "Precum este scris: \"Iată pun în Sion piatră de poticnire şi piatră de sminteală; şi tot cel ce crede în El nu se va ruşina\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_10_01",
+      "chapter": 10,
+      "pericope_num": "01",
+      "title_en": "Salvation Is for All",
+      "title_ro": "Mântuirea este pentru toți",
+      "start_verse": 1,
+      "end_verse": 21,
+      "verse_count": 21,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Fraţilor, bunăvoinţa inimii mele şi rugăciunea mea către Dumnezeu, pentru Israel, este spre mântuire."
+        },
+        {
+          "verse": 2,
+          "text": "Căci le mărturisesc că au râvnă pentru Dumnezeu, dar sunt fără cunoştinţă."
+        },
+        {
+          "verse": 3,
+          "text": "Deoarece, necunoscând dreptatea lui Dumnezeu şi căutând să statornicească dreptatea lor, dreptăţii lui Dumnezeu ei nu s-au supus."
+        },
+        {
+          "verse": 4,
+          "text": "Căci sfârşitul Legii este Hristos, spre dreptate tot celui ce crede."
+        },
+        {
+          "verse": 5,
+          "text": "Căci Moise scrie despre dreptatea care vine din lege, că: \"Omul care o va îndeplini va trăi prin ea\"."
+        },
+        {
+          "verse": 6,
+          "text": "Iar dreptatea din credinţă grăieşte aşa: \"Să nu zici în inima ta: Cine se va sui la cer?\", ca adică să coboare pe Hristos!"
+        },
+        {
+          "verse": 7,
+          "text": "Sau: \"Cine se va coborî întru adânc?\", ca să ridice pe Hristos din morţi!"
+        },
+        {
+          "verse": 8,
+          "text": "Dar ce zice Scriptura? \"Aproape este de tine cuvântul, în gura ta şi în inima ta\", - adică cuvântul credinţei pe care-l propovăduim."
+        },
+        {
+          "verse": 9,
+          "text": "Că de vei mărturisi cu gura ta că Iisus este Domnul şi vei crede în inima ta că Dumnezeu L-a înviat pe El din morţi, te vei mântui."
+        },
+        {
+          "verse": 10,
+          "text": "Căci cu inima se crede spre dreptate, iar cu gura se mărturiseşte spre mântuire."
+        },
+        {
+          "verse": 11,
+          "text": "Căci zice Scriptura: \"Tot cel ce crede în El nu se va ruşina\"."
+        },
+        {
+          "verse": 12,
+          "text": "Căci nu este deosebire între iudeu şi elin, pentru că Acelaşi este Domnul tuturor, Care îmbogăţeşte pe toţi cei ce-L cheamă pe El."
+        },
+        {
+          "verse": 13,
+          "text": "Căci: \"Oricine va chema numele Domnului se va mântui\"."
+        },
+        {
+          "verse": 14,
+          "text": "Dar cum vor chema numele Aceluia în Care încă n-au crezut? Şi cum vor crede în Acela de Care n-au auzit? Şi cum vor auzi, fără propovăduitor?"
+        },
+        {
+          "verse": 15,
+          "text": "Şi cum vor propovădui, de nu vor fi trimişi? Precum este scris: \"Cât de frumoase sunt picioarele celor ce vestesc pacea, ale celor ce vestesc cele bune!\""
+        },
+        {
+          "verse": 16,
+          "text": "Dar nu toţi s-au supus Evangheliei, căci Isaia zice: \"Doamne, cine a crezut celor auzite de la noi?\""
+        },
+        {
+          "verse": 17,
+          "text": "Prin urmare, credinţa este din auzire, iar auzirea prin cuvântul lui Hristos."
+        },
+        {
+          "verse": 18,
+          "text": "Dar întreb: Oare n-au auzit? Dimpotrivă: \"În tot pământul a ieşit vestirea lor şi la marginile lumii cuvintele lor\"."
+        },
+        {
+          "verse": 19,
+          "text": "Dar zic: Nu cumva Israel n-a înţeles? Moise spune cel dintâi: \"Voi întărâta râvna voastră prin cel ce nu este poporul (Meu) şi voi aţâţa mânia voastră cu un popor nepriceput\"."
+        },
+        {
+          "verse": 20,
+          "text": "Isaia îndrăzneşte şi zice: \"Am fost aflat de cei ce nu Mă căutau şi M-am făcut arătat celor ce nu întrebau de Mine\"."
+        },
+        {
+          "verse": 21,
+          "text": "Dar către Israel zice: \"Toată ziua întins-am mâinile Mele către un popor neascultător şi împotrivă grăitor\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_11_01",
+      "chapter": 11,
+      "pericope_num": "01",
+      "title_en": "Israel's Rejection Is Not Final",
+      "title_ro": "Respingerea lui Israel nu este definitivă",
+      "start_verse": 1,
+      "end_verse": 11,
+      "verse_count": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Întreb deci: Oare lepădat-a Dumnezeu pe poporul Său? Nicidecum! Căci şi eu sunt israelit, din urmaşii lui Avraam, din seminţia lui Veniamin."
+        },
+        {
+          "verse": 2,
+          "text": "Nu a lepădat Dumnezeu pe poporul Său, pe care mai înainte l-a cunoscut. Nu ştiţi, oare, ce zice Scriptura despre Ilie? Cum se roagă el împotriva lui Israel, zicând:"
+        },
+        {
+          "verse": 3,
+          "text": "\"Doamne, pe proorocii Tăi i-au omorât, jertfelnicele Tale le-au surpat şi eu am rămas singur şi ei caută să-mi ia sufletul!\"."
+        },
+        {
+          "verse": 4,
+          "text": "Dar ce-i spune dumnezeiescul răspuns? \"Mi-am pus deoparte şapte mii de bărbaţi, care nu şi-au plecat genunchiul înaintea lui Baal\"."
+        },
+        {
+          "verse": 5,
+          "text": "Deci tot aşa şi în vremea de acum este o rămăşiţă aleasă prin har."
+        },
+        {
+          "verse": 6,
+          "text": "Iar dacă este prin har, nu mai este din fapte; altfel harul nu mai este har. Iar dacă este din fapte, nu mai este har, altfel fapta nu mai este faptă."
+        },
+        {
+          "verse": 7,
+          "text": "Ce este deci? Nu tot Israelul a dobândit ceea ce căuta; ci cei aleşi au dobândit, iar ceilalţi s-au împietrit,"
+        },
+        {
+          "verse": 8,
+          "text": "Precum este scris: \"Dumnezeu le-a dat duh de amorţire, ochi ca să nu vadă şi urechi ca să nu audă până în ziua de azi\"."
+        },
+        {
+          "verse": 9,
+          "text": "Iar David zice: \"Facă-se masa lor cursă şi laţ şi sminteală şi răsplătire lor!"
+        },
+        {
+          "verse": 10,
+          "text": "Întunce-se ochii lor ca să nu vadă şi spinarea lor încovoaie-o pentru totdeauna!\""
+        },
+        {
+          "verse": 11,
+          "text": "Deci, întreb: S-a poticnit, oare, ca să cadă? Nicidecum! Şi prin căderea lor, neamurilor le-a venit mântuirea, ca Israel să-şi întărâte râvna faţă de ele."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_11_02",
+      "chapter": 11,
+      "pericope_num": "02",
+      "title_en": "The Salvation of the Gentiles",
+      "title_ro": "Mântuirea neamurilor",
+      "start_verse": 11,
+      "end_verse": 24,
+      "verse_count": 14,
+      "verses": [
+        {
+          "verse": 11,
+          "text": "Deci, întreb: S-a poticnit, oare, ca să cadă? Nicidecum! Şi prin căderea lor, neamurilor le-a venit mântuirea, ca Israel să-şi întărâte râvna faţă de ele."
+        },
+        {
+          "verse": 12,
+          "text": "Dar dacă greşeala lor a fost bogăţie lumii şi micşorarea lor bogăţie neamurilor, cu cât mai mult întreg numărul lor!"
+        },
+        {
+          "verse": 13,
+          "text": "Căci v-o spun vouă, neamurilor: Întru cât sunt eu, deci, apostol al neamurilor, slăvesc slujirea mea,"
+        },
+        {
+          "verse": 14,
+          "text": "Doar voi izbuti să aţâţ râvna celor din neamul meu şi să mântuiesc pe unii dintre ei."
+        },
+        {
+          "verse": 15,
+          "text": "Căci dacă înlăturarea lor a adus împăcarea lumii, ce va fi primirea lor la loc, dacă nu o înviere din morţi?"
+        },
+        {
+          "verse": 16,
+          "text": "Iar dacă este pârga (de făină) sfântă, şi frământătura este sfântă; şi dacă rădăcina este sfântă, şi ramurile sunt."
+        },
+        {
+          "verse": 17,
+          "text": "Iar dacă unele din ramuri au fost tăiate, şi tu, care erai măslin sălbatic, ai fost altoit printre cele rămase, şi părtaş te-ai făcut rădăcinii şi grăsimii măslinului,"
+        },
+        {
+          "verse": 18,
+          "text": "Nu te mândri faţă de ramuri; iar dacă te mândreşti, nu tu porţi rădăcina, ci rădăcina pe tine."
+        },
+        {
+          "verse": 19,
+          "text": "Dar vei zice: Au fost tăiate ramurile, ca să fiu altoit eu."
+        },
+        {
+          "verse": 20,
+          "text": "Bine! Din cauza necredinţei au fost tăiate, iar tu stai prin credinţă. Nu te îngâmfa, ci teme-te;"
+        },
+        {
+          "verse": 21,
+          "text": "Căci dacă Dumnezeu n-a cruţat ramurile fireşti, nici pe tine nu te va cruţa."
+        },
+        {
+          "verse": 22,
+          "text": "Vezi deci bunătatea şi asprimea lui Dumnezeu: Asprimea Lui către cei ce au căzut în bunătatea Lui către tine, dacă vei stărui în această bunătate; altfel şi tu vei fi tăiat."
+        },
+        {
+          "verse": 23,
+          "text": "Dar şi aceia, de nu vor stărui în necredinţă, vor fi altoiţi; căci puternic este Dumnezeu să-i altoiască iarăşi."
+        },
+        {
+          "verse": 24,
+          "text": "Căci dacă tu ai fost tăiat din măslinul cel din fire sălbatic şi împotriva firii ai fost altoit în măslin bun, cu atât mai vârtos aceştia, care sunt după fire, vor fi altoiţi în însuşi măslinul lor."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_11_03",
+      "chapter": 11,
+      "pericope_num": "03",
+      "title_en": "All Israel Will Be Saved",
+      "title_ro": "Tot Israelul se va mântui",
+      "start_verse": 25,
+      "end_verse": 36,
+      "verse_count": 12,
+      "verses": [
+        {
+          "verse": 25,
+          "text": "Pentru că nu voiesc, fraţilor, ca voi să nu ştiţi taina aceasta, ca să nu vă socotiţi pe voi înşivă înţelepţi; că împietrirea s-a făcut lui Israel în parte, până ce va intra tot numărul neamurilor."
+        },
+        {
+          "verse": 26,
+          "text": "Şi astfel întregul Israel se va mântui, precum este scris: \"Din Sion va veni Izbăvitorul şi va îndepărta nelegiuirile de la Iacov;"
+        },
+        {
+          "verse": 27,
+          "text": "Şi acesta este legământul Meu cu ei, când voi ridica păcatele lor\"."
+        },
+        {
+          "verse": 28,
+          "text": "Cât priveşte Evanghelia, ei sunt vrăjmaşi din pricina voastră, dar cu privire la alegere ei sunt iubiţi, din cauza părinţilor."
+        },
+        {
+          "verse": 29,
+          "text": "Căci darurile şi chemarea lui Dumnezeu nu se pot lua înapoi."
+        },
+        {
+          "verse": 30,
+          "text": "După cum voi, cândva, n-aţi ascultat de Dumnezeu, dar acum aţi fost miluiţi prin neascultarea acestora,"
+        },
+        {
+          "verse": 31,
+          "text": "Tot aşa şi aceştia n-au ascultat acum, ca, prin mila către voi, să fie miluiţi şi ei acum."
+        },
+        {
+          "verse": 32,
+          "text": "Căci Dumnezeu i-a închis pe toţi în neascultare, pentru ca pe toţi să-i miluiască."
+        },
+        {
+          "verse": 33,
+          "text": "O, adâncul bogăţiei şi al înţelepciunii şi al ştiinţei lui Dumnezeu! Cât sunt de necercetate judecăţile Lui şi cât sunt de nepătrunse căile Lui!"
+        },
+        {
+          "verse": 34,
+          "text": "Căci cine a cunoscut gândul Domnului sau cine a fost sfetnicul Lui?"
+        },
+        {
+          "verse": 35,
+          "text": "Sau cine mai înainte I-a dat Lui şi va lua înapoi de la El?"
+        },
+        {
+          "verse": 36,
+          "text": "Pentru că de la El şi prin El şi întru El sunt toate. A Lui să fie mărirea în veci. Amin!"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_12_01",
+      "chapter": 12,
+      "pericope_num": "01",
+      "title_en": "The New Life in Christ",
+      "title_ro": "Noua viață în Hristos",
+      "start_verse": 1,
+      "end_verse": 12,
+      "verse_count": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Vă îndemn, deci, fraţilor, pentru îndurările lui Dumnezeu, să înfăţişaţi trupurile voastre ca pe o jertfă vie, sfântă, bine plăcută lui Dumnezeu, ca închinarea voastră cea duhovnicească,"
+        },
+        {
+          "verse": 2,
+          "text": "Şi să nu vă potriviţi cu acest veac, ci să vă schimbaţi prin înnoirea minţii, ca să deosebiţi care este voia lui Dumnezeu, ce este bun şi plăcut şi desăvârşit."
+        },
+        {
+          "verse": 3,
+          "text": "Căci, prin harul ce mi s-a dat, spun fiecăruia din voi să nu cugete despre sine mai mult decât trebuie să cugete, ci să cugete fiecare spre a fi înţelept, precum Dumnezeu i-a împărţit măsura credinţei."
+        },
+        {
+          "verse": 4,
+          "text": "Ci precum într-un singur trup avem multe mădulare şi mădularele nu au toate aceeaşi lucrare,"
+        },
+        {
+          "verse": 5,
+          "text": "Aşa şi noi, cei mulţi, un trup suntem în Hristos şi fiecare suntem mădulare unii altora;"
+        },
+        {
+          "verse": 6,
+          "text": "Dar avem felurite daruri, după harul ce ni s-a dat. Dacă avem proorocie, să proorocim după  măsura credinţei;"
+        },
+        {
+          "verse": 7,
+          "text": "Dacă avem slujbă, să stăruim în slujbă; dacă unul învaţă, să se sârguiască în învăţătură;"
+        },
+        {
+          "verse": 8,
+          "text": "Dacă îndeamnă, să fie la îndemnare; dacă împarte altora, să împartă cu firească nevinovăţie; dacă stă în frunte, să fie cu tragere de inimă; dacă miluieşte, să miluiască cu voie bună!"
+        },
+        {
+          "verse": 9,
+          "text": "Dragostea să fie nefăţarnică. Urâţi răul, alipiţi-vă de bine."
+        },
+        {
+          "verse": 10,
+          "text": "În iubire frăţească, unii pe alţii iubiţi-vă; în cinste, unii altora daţi-vă întâietate."
+        },
+        {
+          "verse": 11,
+          "text": "La sârguinţă, nu pregetaţi; cu duhul fiţi fierbinţi; Domnului slujiţi."
+        },
+        {
+          "verse": 12,
+          "text": "Bucuraţi-vă în nădejde; în suferinţă fiţi răbdători; la rugăciune stăruiţi."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_12_02",
+      "chapter": 12,
+      "pericope_num": "02",
+      "title_en": "Marks of the True Christian",
+      "title_ro": "Trăsăturile adevăratului creștin",
+      "start_verse": 9,
+      "end_verse": 21,
+      "verse_count": 13,
+      "verses": [
+        {
+          "verse": 9,
+          "text": "Dragostea să fie nefăţarnică. Urâţi răul, alipiţi-vă de bine."
+        },
+        {
+          "verse": 10,
+          "text": "În iubire frăţească, unii pe alţii iubiţi-vă; în cinste, unii altora daţi-vă întâietate."
+        },
+        {
+          "verse": 11,
+          "text": "La sârguinţă, nu pregetaţi; cu duhul fiţi fierbinţi; Domnului slujiţi."
+        },
+        {
+          "verse": 12,
+          "text": "Bucuraţi-vă în nădejde; în suferinţă fiţi răbdători; la rugăciune stăruiţi."
+        },
+        {
+          "verse": 13,
+          "text": "Faceţi-vă părtaşi la trebuinţele sfinţilor, iubirea de străini urmând."
+        },
+        {
+          "verse": 14,
+          "text": "Binecuvântaţi pe cei ce vă prigonesc, binecuvântaţi-i şi nu-i blestemaţi."
+        },
+        {
+          "verse": 15,
+          "text": "Bucuraţi-vă cu cei ce se bucură; plângeţi cu cei ce plâng."
+        },
+        {
+          "verse": 16,
+          "text": "Cugetaţi acelaşi lucru unii pentru alţii; nu cugetaţi la cele înalte, ci lăsaţi-vă duşi de spre cele smerite. Nu vă socotiţi voi înşivă înţelepţi."
+        },
+        {
+          "verse": 17,
+          "text": "Nu răsplătiţi nimănui răul cu rău. Purtaţi grijă de cele bune înaintea tuturor oamenilor."
+        },
+        {
+          "verse": 18,
+          "text": "Dacă se poate, pe cât stă în puterea voastră, trăiţi în bună pace cu toţi oamenii."
+        },
+        {
+          "verse": 19,
+          "text": "Nu vă răzbunaţi singuri, iubiţilor, ci lăsaţi loc mâniei (lui Dumnezeu), căci scris este: \"A Mea este răzbunarea; Eu voi răsplăti, zice Domnul\"."
+        },
+        {
+          "verse": 20,
+          "text": "Deci, dacă vrăjmaşul tău este flămând, dă-i de mâncare; dacă îi este sete, dă-i să bea, căci, făcând acestea, vei grămădi cărbuni de foc pe capul lui."
+        },
+        {
+          "verse": 21,
+          "text": "Nu te lăsa biruit de rău, ci biruieşte răul cu binele."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_13_01",
+      "chapter": 13,
+      "pericope_num": "01",
+      "title_en": "Being Subject to Authorities",
+      "title_ro": "Supunerea față de autorități",
+      "start_verse": 1,
+      "end_verse": 13,
+      "verse_count": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Tot sufletul să se supună înaltelor stăpâniri, căci nu este stăpânire decât de la Dumnezeu; iar cele ce sunt, de Dumnezeu sunt rânduite."
+        },
+        {
+          "verse": 2,
+          "text": "Pentru aceea, cel ce se împotriveşte stăpânirii se împotriveşte rânduielii lui Dumnezeu. Iar cel ce se împotrivesc îşi vor lua osândă."
+        },
+        {
+          "verse": 3,
+          "text": "Căci dregătorii nu sunt frică pentru fapta bună, ci pentru cea rea. Voieşti, deci, să nu-ţi fie frică de stăpânire? Fă binele şi vei avea laudă de la ea."
+        },
+        {
+          "verse": 4,
+          "text": "Căci ea este slujitoare a lui Dumnezeu spre binele tău. Iar dacă faci rău, teme-te; căci nu în zadar poartă sabia; pentru că ea este slujitoare a lui Dumnezeu şi răzbunătoare a mâniei Lui, asupra celui ce săvârşeşte răul."
+        },
+        {
+          "verse": 5,
+          "text": "De aceea este nevoie să vă supuneţi, nu numai pentru mânie, ci şi pentru conştiinţă."
+        },
+        {
+          "verse": 6,
+          "text": "Că pentru aceasta plătiţi şi dări. Căci (dregătorii) sunt slujitorii lui Dumnezeu, stăruind în această slujire neîncetat."
+        },
+        {
+          "verse": 7,
+          "text": "Daţi deci tuturor cele ce sunteţi datori: celui cu darea, darea; celui cu vama, vamă; celui cu teama, teamă; celui cu cinstea, cinste."
+        },
+        {
+          "verse": 8,
+          "text": "Nimănui cu nimic nu fiţi datori, decât cu iubirea unuia faţă de altul; că cel care iubeşte pe aproapele a împlinit legea."
+        },
+        {
+          "verse": 9,
+          "text": "Pentru că (poruncile): Să nu săvârşeşti adulter; să nu ucizi; să nu furi; să nu mărturiseşti strâmb; să nu pofteşti... şi orice altă poruncă ar mai fi se cuprind în acest cuvânt: Să iubeşti pe aproapele tău ca pe tine însuţi."
+        },
+        {
+          "verse": 10,
+          "text": "Iubirea nu face rău aproapelui; iubirea este deci împlinirea legii."
+        },
+        {
+          "verse": 11,
+          "text": "Şi aceasta, fiindcă ştiţi în ce timp ne găsim, căci este chiar ceasul să vă treziţi din somn; căci acum mântuirea este mai aproape de noi, decât atunci când am crezut."
+        },
+        {
+          "verse": 12,
+          "text": "Noaptea e pe sfârşite; ziua este aproape. Să lepădăm dar lucrurile întunericului şi să ne îmbrăcăm cu armele luminii."
+        },
+        {
+          "verse": 13,
+          "text": "Să umblăm cuviincios, ca ziua: nu în ospeţe şi în beţii, nu în desfrânări şi în fapte de ruşine, nu în ceartă şi în pizmă;"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_13_02",
+      "chapter": 13,
+      "pericope_num": "02",
+      "title_en": "Love for One Another",
+      "title_ro": "Dragostea unii față de alții",
+      "start_verse": 8,
+      "end_verse": 10,
+      "verse_count": 3,
+      "verses": [
+        {
+          "verse": 8,
+          "text": "Nimănui cu nimic nu fiţi datori, decât cu iubirea unuia faţă de altul; că cel care iubeşte pe aproapele a împlinit legea."
+        },
+        {
+          "verse": 9,
+          "text": "Pentru că (poruncile): Să nu săvârşeşti adulter; să nu ucizi; să nu furi; să nu mărturiseşti strâmb; să nu pofteşti... şi orice altă poruncă ar mai fi se cuprind în acest cuvânt: Să iubeşti pe aproapele tău ca pe tine însuţi."
+        },
+        {
+          "verse": 10,
+          "text": "Iubirea nu face rău aproapelui; iubirea este deci împlinirea legii."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_13_03",
+      "chapter": 13,
+      "pericope_num": "03",
+      "title_en": "An Urgent Appeal",
+      "title_ro": "Un îndemn urgent",
+      "start_verse": 11,
+      "end_verse": 14,
+      "verse_count": 4,
+      "verses": [
+        {
+          "verse": 11,
+          "text": "Şi aceasta, fiindcă ştiţi în ce timp ne găsim, căci este chiar ceasul să vă treziţi din somn; căci acum mântuirea este mai aproape de noi, decât atunci când am crezut."
+        },
+        {
+          "verse": 12,
+          "text": "Noaptea e pe sfârşite; ziua este aproape. Să lepădăm dar lucrurile întunericului şi să ne îmbrăcăm cu armele luminii."
+        },
+        {
+          "verse": 13,
+          "text": "Să umblăm cuviincios, ca ziua: nu în ospeţe şi în beţii, nu în desfrânări şi în fapte de ruşine, nu în ceartă şi în pizmă;"
+        },
+        {
+          "verse": 14,
+          "text": "Ci îmbrăcaţi-vă în Domnul Iisus Hristos şi grija de trup să nu o faceţi spre pofte."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_14_01",
+      "chapter": 14,
+      "pericope_num": "01",
+      "title_en": "Do Not Judge Another",
+      "title_ro": "Nu judeca pe altul",
+      "start_verse": 1,
+      "end_verse": 14,
+      "verse_count": 14,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Primiţi-l pe cel slab în credinţă fără să-i judecaţi gândurile."
+        },
+        {
+          "verse": 2,
+          "text": "Unul crede să mănânce de toate; cel slab însă mănâncă legume."
+        },
+        {
+          "verse": 3,
+          "text": "Cel ce mănâncă să nu dispreţuiască pe cel ce nu mănâncă; iar cel ce nu mănâncă să nu osândească pe cel ce mănâncă, fiindcă Dumnezeu l-a primit."
+        },
+        {
+          "verse": 4,
+          "text": "Cine eşti tu, ca să judeci pe sluga altuia? Pentru stăpânul său stă sau cade. Dar va sta, căci Domnul are putere ca să-l facă să stea."
+        },
+        {
+          "verse": 5,
+          "text": "Unul deosebeşte o zi de alta, iar altul judecă toate zilele la fel. Fiecare să fie deplin încredinţat în mintea lui."
+        },
+        {
+          "verse": 6,
+          "text": "Cel ce ţine ziua, o ţine pentru Domnul; şi cel ce nu ţine ziua, nu o ţine pentru Domnul. Şi cel ce mănâncă pentru Domnul mănâncă, căci mulţumeşte lui Dumnezeu; şi cel ce nu mănâncă pentru Domnul nu mănâncă, şi mulţumeşte lui Dumnezeu."
+        },
+        {
+          "verse": 7,
+          "text": "Căci nimeni dintre noi nu trăieşte pentru sine şi nimeni nu moare pentru sine."
+        },
+        {
+          "verse": 8,
+          "text": "Că dacă trăim, pentru Domnul trăim, şi dacă murim, pentru Domnul murim. Deci şi dacă trăim, şi dacă murim, ai Domnului suntem."
+        },
+        {
+          "verse": 9,
+          "text": "Căci pentru aceasta a murit şi a înviat Hristos, ca să stăpânească şi peste morţi şi peste vii."
+        },
+        {
+          "verse": 10,
+          "text": "Dar tu, de ce judeci pe fratele tău? Sau şi tu, de ce dispreţuieşti pe fratele tău? Căci toţi ne vom înfăţişa înaintea judecăţii lui Dumnezeu."
+        },
+        {
+          "verse": 11,
+          "text": "Căci scris este: \"Viu sunt Eu! - zice Domnul - Tot genunchiul să Mi se plece şi toată limba  să dea slavă lui Dumnezeu\"."
+        },
+        {
+          "verse": 12,
+          "text": "Deci, dar, fiecare din voi va da seama despre sine lui Dumnezeu."
+        },
+        {
+          "verse": 13,
+          "text": "Deci să nu ne mai judecăm unii pe alţii, ci mai degrabă judecaţi aceasta: Să nu daţi fratelui prilej de poticnire sau de sminteală."
+        },
+        {
+          "verse": 14,
+          "text": "Ştiu şi sunt încredinţat în Domnul Iisus că nimic nu este întinat prin sine, decât numai pentru cel care gândeşte că e ceva întinat; pentru acela întinat este."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_14_02",
+      "chapter": 14,
+      "pericope_num": "02",
+      "title_en": "Do Not Make Another Stumble",
+      "title_ro": "Nu-l face pe altul să se poticnească",
+      "start_verse": 13,
+      "end_verse": 23,
+      "verse_count": 11,
+      "verses": [
+        {
+          "verse": 13,
+          "text": "Deci să nu ne mai judecăm unii pe alţii, ci mai degrabă judecaţi aceasta: Să nu daţi fratelui prilej de poticnire sau de sminteală."
+        },
+        {
+          "verse": 14,
+          "text": "Ştiu şi sunt încredinţat în Domnul Iisus că nimic nu este întinat prin sine, decât numai pentru cel care gândeşte că e ceva întinat; pentru acela întinat este."
+        },
+        {
+          "verse": 15,
+          "text": "Dar dacă, pentru mâncare, fratele tău se mâhneşte, nu mai umbli potrivit iubirii. Nu pierde, cu mâncarea ta, pe acela pentru care a murit Hristos."
+        },
+        {
+          "verse": 16,
+          "text": "Nu lăsaţi ca bunul vostru să fie defăimat."
+        },
+        {
+          "verse": 17,
+          "text": "Căci împărăţia lui Dumnezeu nu este mâncare şi băutură, ci dreptate şi pace şi bucurie în Duhul Sfânt."
+        },
+        {
+          "verse": 18,
+          "text": "Iar cel ce slujeşte lui Hristos, în aceasta este plăcut lui Dumnezeu şi cinstit de oameni."
+        },
+        {
+          "verse": 19,
+          "text": "Drept aceea să urmărim cele ale păcii şi cele ale zidirii unuia de către altul."
+        },
+        {
+          "verse": 20,
+          "text": "Nu strica, pentru mâncare, lucrul lui Dumnezeu. Toate sunt curate, dar rău este pentru omul care mănâncă spre poticnire."
+        },
+        {
+          "verse": 21,
+          "text": "Bine este să nu mănânci carne, nici să bei vin, nici să faci ceva de care fratele tău se poticneşte, se sminteşte sau slăbeşte (în credinţă)."
+        },
+        {
+          "verse": 22,
+          "text": "Credinţa pe care o ai, s-o ai pentru tine însuţi, înaintea lui Dumnezeu. Fericit este cel ce nu se judecă pe sine în ceea ce aprobă!"
+        },
+        {
+          "verse": 23,
+          "text": "Iar cel ce se îndoieşte, dacă va mânca, se osândeşte, fiindcă n-a fost din credinţă. Şi tot ce nu este din credinţă este păcat."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_15_01",
+      "chapter": 15,
+      "pericope_num": "01",
+      "title_en": "Please Others, Not Yourselves",
+      "title_ro": "Plăcuiți-i pe alții, nu vouă înșivă",
+      "start_verse": 1,
+      "end_verse": 15,
+      "verse_count": 15,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Datori suntem noi cei tari să purtăm slăbiciunile celor neputincioşi şi să nu căutăm plăcerea noastră."
+        },
+        {
+          "verse": 2,
+          "text": "Ci fiecare dintre noi să caute să placă aproapelui său, la ce este bine, spre zidire."
+        },
+        {
+          "verse": 3,
+          "text": "Că şi Hristos n-a căutat plăcerea Sa, ci, precum este scris: \"Ocările celor ce Te ocărăsc pe Tine, au căzut asupra Mea\"."
+        },
+        {
+          "verse": 4,
+          "text": "Căci toate câte s-au scris mai înainte, s-au scris spre învăţătura noastră, ca prin răbdarea şi mângâierea, care vin din Scripturi, să avem nădejde."
+        },
+        {
+          "verse": 5,
+          "text": "Iar Dumnezeul răbdării şi al mângâierii să vă dea vouă a gândi la fel unii pentru alţii, după Iisus Hristos,"
+        },
+        {
+          "verse": 6,
+          "text": "Pentru ca toţi laolaltă şi cu o singură gură să slăviţi pe Dumnezeu şi Tatăl Domnului nostru Iisus Hristos."
+        },
+        {
+          "verse": 7,
+          "text": "De aceea, primiţi-vă unii pe alţii, precum şi Hristos v-a primit pe voi, spre slava lui Dumnezeu."
+        },
+        {
+          "verse": 8,
+          "text": "Căci spun: Că Hristos S-a făcut slujitor al tăierii împrejur pentru adevărul lui Dumnezeu, ca să întărească făgăduinţele date părinţilor,"
+        },
+        {
+          "verse": 9,
+          "text": "Iar neamurile să slăvească pe Dumnezeu pentru mila Lui, precum este scris: \"Pentru aceasta Te voi lăuda între neamuri şi voi cânta numele Tău\"."
+        },
+        {
+          "verse": 10,
+          "text": "Şi iarăşi zice Scriptura: \"Veseliţi-vă, neamuri, cu poporul Lui\"."
+        },
+        {
+          "verse": 11,
+          "text": "Şi iarăşi: \"Lăudaţi pe Domnul toate neamurile; lăudaţi-L pe El toate popoarele\"."
+        },
+        {
+          "verse": 12,
+          "text": "Şi iarăşi Isaia zice: \"Şi Se va arăta rădăcina lui Iesei, Cel care Se ridică să domnească peste neamuri; întru Acela neamurile vor nădăjdui\"."
+        },
+        {
+          "verse": 13,
+          "text": "Iar Dumnezeul nădejdii să vă umple pe voi de toată bucuria şi pacea în credinţă, ca să prisosească nădejdea voastră, prin puterea Duhului Sfânt."
+        },
+        {
+          "verse": 14,
+          "text": "Şi, fraţii mei, sunt încredinţat eu însumi despre voi, că şi voi sunteţi plini de bunătate, plini de toată cunoştinţa, putând să vă povăţuiţi unii pe alţii."
+        },
+        {
+          "verse": 15,
+          "text": "Şi v-am scris, fraţilor, mai cu îndrăzneală, în parte, ca să vă amintesc despre harul ce mi-a fost dat de Dumnezeu,"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_15_02",
+      "chapter": 15,
+      "pericope_num": "02",
+      "title_en": "The Gospel for Jews and Gentiles Alike",
+      "title_ro": "Evanghelia pentru iudei și neamuri deopotrivă",
+      "start_verse": 7,
+      "end_verse": 13,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 7,
+          "text": "De aceea, primiţi-vă unii pe alţii, precum şi Hristos v-a primit pe voi, spre slava lui Dumnezeu."
+        },
+        {
+          "verse": 8,
+          "text": "Căci spun: Că Hristos S-a făcut slujitor al tăierii împrejur pentru adevărul lui Dumnezeu, ca să întărească făgăduinţele date părinţilor,"
+        },
+        {
+          "verse": 9,
+          "text": "Iar neamurile să slăvească pe Dumnezeu pentru mila Lui, precum este scris: \"Pentru aceasta Te voi lăuda între neamuri şi voi cânta numele Tău\"."
+        },
+        {
+          "verse": 10,
+          "text": "Şi iarăşi zice Scriptura: \"Veseliţi-vă, neamuri, cu poporul Lui\"."
+        },
+        {
+          "verse": 11,
+          "text": "Şi iarăşi: \"Lăudaţi pe Domnul toate neamurile; lăudaţi-L pe El toate popoarele\"."
+        },
+        {
+          "verse": 12,
+          "text": "Şi iarăşi Isaia zice: \"Şi Se va arăta rădăcina lui Iesei, Cel care Se ridică să domnească peste neamuri; întru Acela neamurile vor nădăjdui\"."
+        },
+        {
+          "verse": 13,
+          "text": "Iar Dumnezeul nădejdii să vă umple pe voi de toată bucuria şi pacea în credinţă, ca să prisosească nădejdea voastră, prin puterea Duhului Sfânt."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_15_03",
+      "chapter": 15,
+      "pericope_num": "03",
+      "title_en": "Paul's Reason for Writing So Boldly",
+      "title_ro": "Motivul pentru care Pavel scrie atât de îndrăzneț",
+      "start_verse": 14,
+      "end_verse": 21,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 14,
+          "text": "Şi, fraţii mei, sunt încredinţat eu însumi despre voi, că şi voi sunteţi plini de bunătate, plini de toată cunoştinţa, putând să vă povăţuiţi unii pe alţii."
+        },
+        {
+          "verse": 15,
+          "text": "Şi v-am scris, fraţilor, mai cu îndrăzneală, în parte, ca să vă amintesc despre harul ce mi-a fost dat de Dumnezeu,"
+        },
+        {
+          "verse": 16,
+          "text": "Ca să fiu slujitor al lui Iisus Hristos la neamuri, slujind Evanghelia lui Dumnezeu, pentru ca prinosul neamurilor, fiind sfinţit în Duhul Sfânt, să fie bine primit."
+        },
+        {
+          "verse": 17,
+          "text": "Aşadar, în Hristos Iisus am laudă, în cele către Dumnezeu."
+        },
+        {
+          "verse": 18,
+          "text": "Căci nu voi cuteza să spun ceva din cele ce n-a săvârşit Hristos prin mine, spre ascultarea neamurilor, prin cuvânt şi prin faptă,"
+        },
+        {
+          "verse": 19,
+          "text": "Prin puterea semnelor şi a minunilor, prin puterea Duhului Sfânt, aşa încât de la Ierusalim şi din ţinuturile de primprejur până la Iliria, am împlinit propovăduirea Evangheliei lui Hristos,"
+        },
+        {
+          "verse": 20,
+          "text": "Râvnind astfel să binevestesc acolo unde Hristos nu fusese numit, ca să nu zidesc pe temelie străină,"
+        },
+        {
+          "verse": 21,
+          "text": "Ci precum este scris: \"Cărora nu li s-a vestit despre El, aceia Îl vor vedea; şi cei ce n-au auzit Îl vor înţelege\"."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_15_04",
+      "chapter": 15,
+      "pericope_num": "04",
+      "title_en": "Paul's Plan to Visit Rome",
+      "title_ro": "Planul lui Pavel de a vizita Roma",
+      "start_verse": 22,
+      "end_verse": 33,
+      "verse_count": 12,
+      "verses": [
+        {
+          "verse": 22,
+          "text": "De aceea am şi fost împiedicat, de multe ori, ca să vin la voi."
+        },
+        {
+          "verse": 23,
+          "text": "Dar acum, nemaiavând loc în aceste ţinuturi şi având dorinţa de mulţi ani să vin la voi,"
+        },
+        {
+          "verse": 24,
+          "text": "Când mă voi duce în Spania, voi veni la voi. Căci nădăjduiesc să vă văd în trecere şi, de către voi, să fiu însoţit până acolo, după ce mă voi bucura întâi, în parte, de voi."
+        },
+        {
+          "verse": 25,
+          "text": "Acum însă mă duc la Ierusalim, ca să slujesc sfinţilor."
+        },
+        {
+          "verse": 26,
+          "text": "Căci Macedonia şi Ahaia au binevoit să facă o strângere de ajutoare pentru săracii dintre sfinţii de la Ierusalim."
+        },
+        {
+          "verse": 27,
+          "text": "Căci ei au binevoit şi sunt datori faţă de ei. Căci dacă neamurile s-au împărtăşit de cele duhovniceşti ale lor, datori sunt şi ei să le slujească în cele trupeşti."
+        },
+        {
+          "verse": 28,
+          "text": "Săvârşind deci aceasta şi încredinţându-le roada aceasta, voi trece pe la voi, în Spania."
+        },
+        {
+          "verse": 29,
+          "text": "Şi ştiu că, venind la voi, voi veni cu deplinătatea binecuvântării lui Hristos."
+        },
+        {
+          "verse": 30,
+          "text": "Dar vă îndemn, fraţilor, pentru Domnul nostru Iisus Hristos şi pentru iubirea Duhului Sfânt, ca împreună cu mine să luptaţi în rugăciuni către Dumnezeu pentru mine,"
+        },
+        {
+          "verse": 31,
+          "text": "Ca să scap de necredincioşii din Iudeea şi ca ajutorul meu la Ierusalim să fie bine primit de către sfinţi,"
+        },
+        {
+          "verse": 32,
+          "text": "Ca să vin la voi cu bucurie prin voia lui Dumnezeu şi să-mi găsesc liniştea împreună cu voi."
+        },
+        {
+          "verse": 33,
+          "text": "Iar Dumnezeul păcii să fie cu voi cu toţi. Amin!"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_16_01",
+      "chapter": 16,
+      "pericope_num": "01",
+      "title_en": "Personal Greetings",
+      "title_ro": "Salutări personale",
+      "start_verse": 1,
+      "end_verse": 16,
+      "verse_count": 16,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi vă încredinţez pe Febe, sora noastră, care este diaconiţă a Bisericii din Chenhrea,"
+        },
+        {
+          "verse": 2,
+          "text": "Ca s-o primiţi în Domnul, cu vrednicia cuvenită sfinţilor şi să-i fiţi de ajutor la orice ar avea nevoie de ajutorul vostru. Căci şi ea a ajutat pe mulţi şi pe mine însumi."
+        },
+        {
+          "verse": 3,
+          "text": "Îmbrăţişaţi pe Priscila şi Acvila, împreună-lucrători cu mine în Hristos Iisus,"
+        },
+        {
+          "verse": 4,
+          "text": "Care şi-au pus grumazul lor pentru viaţa mea şi cărora nu numai eu le mulţumesc, ci şi toate Bisericile dintre neamuri,"
+        },
+        {
+          "verse": 5,
+          "text": "Şi Biserica din casa lor.  Îmbrăţişaţi pe Epenet, iubitul meu, care este pârga Asiei, în Hristos."
+        },
+        {
+          "verse": 6,
+          "text": "Îmbrăţişaţi pe Maria care s-a ostenit mult pentru voi."
+        },
+        {
+          "verse": 7,
+          "text": "Îmbrăţişaţi pe Andronic şi pe Iunias, cei de un neam cu mine şi împreună închişi cu mine, care sunt vestiţi între apostoli şi care înaintea mea au fost în Hristos."
+        },
+        {
+          "verse": 8,
+          "text": "Îmbrăţişaţi pe Ampliat, iubitul meu în Domnul."
+        },
+        {
+          "verse": 9,
+          "text": "Îmbrăţişaţi pe Urban, împreună-lucrător cu mine în Hristos, şi pe Stahis, iubitul meu."
+        },
+        {
+          "verse": 10,
+          "text": "Îmbrăţişaţi pe Apelles, cel încercat în Hristos. Îmbrăţişaţi pe cei ce sunt din casa lui Aristobul."
+        },
+        {
+          "verse": 11,
+          "text": "Îmbrăţişaţi pe Irodion, cel de un neam cu mine. Îmbrăţişaţi pe cei din casa lui Narcis, care sunt în Domnul."
+        },
+        {
+          "verse": 12,
+          "text": "Îmbrăţişaţi pe Trifena şi pe Trifosa, care s-au ostenit în Domnul. Îmbrăţişaţi pe iubita Persida, care mult s-a ostenit în Domnul."
+        },
+        {
+          "verse": 13,
+          "text": "Îmbrăţişaţi pe Ruf, cel ales întru Domnul, şi pe mama lui, care este şi a mea."
+        },
+        {
+          "verse": 14,
+          "text": "Îmbrăţişaţi pe Asincrit, pe Flegon, pe Hermes, pe Patrova, pe Hermas şi pe fraţii care sunt împreună cu ei."
+        },
+        {
+          "verse": 15,
+          "text": "Îmbrăţişaţi pe Filolog şi pe Iulia, pe Nereu şi pe sora lui, pe Olimpian şi pe toţi sfinţii care sunt împreună cu ei."
+        },
+        {
+          "verse": 16,
+          "text": "Îmbrăţişaţi-vă unii pe alţii cu sărutare sfântă. Vă îmbrăţişează pe voi toate Bisericile lui Hristos."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_16_02",
+      "chapter": 16,
+      "pericope_num": "02",
+      "title_en": "Final Instructions",
+      "title_ro": "Îndrumări finale",
+      "start_verse": 17,
+      "end_verse": 23,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 17,
+          "text": "Şi vă îndemn, fraţilor, să vă păziţi de cei ce fac dezbinări şi sminteli împotriva învăţăturii pe care aţi primit-o. Depărtaţi-vă de ei."
+        },
+        {
+          "verse": 18,
+          "text": "Căci unii ca aceştia nu slujesc Domnului nostru Iisus Hristos, ci pântecelui lor, şi prin vorbele lor frumoase şi măgulitoare, înşeală inimile celor fără de răutate."
+        },
+        {
+          "verse": 19,
+          "text": "Căci ascultarea voastră este cunoscută de toţi. Mă bucur deci de voi şi voiesc să fiţi înţelepţi spre bine şi nevinovaţi la rău."
+        },
+        {
+          "verse": 20,
+          "text": "Iar Dumnezeul păcii va zdrobi repede sub picioarele voastre pe satana. Harul Domnului nostru Iisus Hristos cu voi!"
+        },
+        {
+          "verse": 21,
+          "text": "Vă îmbrăţişează Timotei, cel împreună-lucrător cu mine, şi Luciu şi Iason şi Sosipatru, cei de un neam cu mine,"
+        },
+        {
+          "verse": 22,
+          "text": "Vă îmbrăţişez în Domnul eu, Tertius, care am scris epistola."
+        },
+        {
+          "verse": 23,
+          "text": "Vă îmbrăţişează Gaius, gazda mea şi a toată Biserica. Vă îmbrăţişează Erast, vistiernicul cetăţii, şi fratele Cvartus."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Romans_16_03",
+      "chapter": 16,
+      "pericope_num": "03",
+      "title_en": "Final Doxology",
+      "title_ro": "Doxologie finală",
+      "start_verse": 25,
+      "end_verse": 27,
+      "verse_count": 3,
+      "verses": [
+        {
+          "verse": 25,
+          "text": "Iar celui ce poate să vă întărească după Evanghelia mea şi după propovăduirea lui Iisus Hristos, potrivit cu descoperirea tainei celei ascunse din timpuri veşnice,"
+        },
+        {
+          "verse": 26,
+          "text": "Iar acum arătată prin Scripturile proorocilor, după porunca veşnicului Dumnezeu şi cunoscută la toate neamurile spre ascultarea credinţei,"
+        },
+        {
+          "verse": 27,
+          "text": "Unuia înţeleptului Dumnezeu, prin Iisus Hristos, fie slava în vecii vecilor. Amin!"
+        }
+      ]
+    }
+  ]
+}

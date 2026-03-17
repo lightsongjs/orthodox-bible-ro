@@ -1,0 +1,25 @@
+---
+testament: NT
+book: John
+book_romanian: Ioan
+chapter: 8
+pericope: 2
+pericope_title: "Jesus Foretells His Death"
+verses_start: 21
+verses_end: 30
+verses_total: 0
+language: ro
+english_source: "[[New Testament/John/(John 08.02) Jesus Foretells His Death]]"
+---
+# Jesus Foretells His Death
+
+21. Şi iarăşi le-a zis: Eu Mă duc şi Mă veţi căuta şi veţi muri în păcatul vostru. Unde Mă duc Eu, voi nu puteţi veni.
+22. Deci ziceau iudeii: Nu cumva Îşi va ridica singur viaţa? Că zice: Unde Mă duc Eu, voi nu puteţi veni.
+23. Şi El le zicea: Voi sunteţi din cele de jos; Eu sunt din cele de sus. Voi sunteţi din lumea aceasta; Eu nu sunt din lumea aceasta.
+24. V-am spus deci vouă că veţi muri în păcatele voastre. Căci dacă nu credeţi că Eu sunt, veţi muri în păcatele voastre.
+25. Deci Îi ziceau ei: Cine eşti Tu? Şi a zis lor Iisus: Ceea ce v-am spus de la început.
+26. Multe am de spus despre voi şi de judecat. Dar Cel ce M-a trimis pe Mine adevărat este, şi cele ce am auzit de la El, Eu acestea le grăiesc în lume.
+27. Şi ei n-au înţeles că le vorbea despre Tatăl.
+28. Deci le-a zis Iisus: Când veţi înălţa pe Fiul Omului, atunci veţi cunoaşte că Eu sunt şi că de la Mine însumi nu fac nimic, ci precum M-a învăţat Tatăl, aşa vorbesc.
+29. Şi Cel ce M-a trimis este cu Mine; nu M-a lăsat singur, fiindcă Eu fac pururea cele plăcute Lui.
+30. Spunând El acestea, mulţi au crezut în El.

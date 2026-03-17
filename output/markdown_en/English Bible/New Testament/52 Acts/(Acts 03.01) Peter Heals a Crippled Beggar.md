@@ -1,0 +1,23 @@
+---
+testament: NT
+book: Acts
+chapter: 3
+pericope: 1
+pericope_title: "Peter Heals a Crippled Beggar"
+verses_start: 2
+verses_end: 10
+verses_total: 0
+language: en
+---
+# Peter Heals a Crippled Beggar
+
+3. One day Peter and John were going up to the temple at the hour of prayer, at three o’clock in the afternoon.
+2. And a man lame from birth was being carried in. People would lay him daily at the gate of the temple called the Beautiful Gate so that he could ask for alms from those entering the temple.
+3. When he saw Peter and John about to go into the temple, he asked them for alms.
+4. Peter looked intently at him, as did John, and said, “Look at us.”
+5. And he fixed his attention on them, expecting to receive something from them.
+6. But Peter said, “I have no silver or gold, but what I have I give you; in the name of Jesus Christ of Nazareth,stand up and walk.”
+7. And he took him by the right hand and raised him up; and immediately his feet and ankles were made strong.
+8. Jumping up, he stood and began to walk, and he entered the temple with them, walking and leaping and praising God.
+9. All the people saw him walking and praising God,
+10. and they recognized him as the one who used to sit and ask for alms at the Beautiful Gate of the temple; and they were filled with wonder and amazement at what had happened to him.

@@ -1,0 +1,576 @@
+{
+  "id": 61,
+  "book_number": 72,
+  "name_en": "1 Peter",
+  "name_ro": "I Petru",
+  "testament": "NT",
+  "chapter_count": 5,
+  "pericope_count": 12,
+  "url": "https://www.bibliaortodoxa.ro/carte.php?id=61",
+  "pericopes": [
+    {
+      "pericope_id": "1_Peter_01_01",
+      "chapter": 1,
+      "pericope_num": "01",
+      "title_en": "Salutation",
+      "title_ro": "Salutare",
+      "start_verse": 1,
+      "end_verse": 2,
+      "verse_count": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Petru, apostol al lui Iisus Hristos, către cei ce trăiesc împrăştiaţi printre străini, în Pont, în Galatia, în Capadocia, în Asia şi în Bitinia,"
+        },
+        {
+          "verse": 2,
+          "text": "Aleşi după cea mai dinainte ştiinţă a lui Dumnezeu-Tatăl, şi prin sfinţirea de către Duhul, spre ascultare şi stropirea cu sângele lui Iisus Hristos: har vouă şi pacea să se înmulţească!"
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Peter_01_02",
+      "chapter": 1,
+      "pericope_num": "02",
+      "title_en": "A Living Hope",
+      "title_ro": "O nădejde vie",
+      "start_verse": 3,
+      "end_verse": 12,
+      "verse_count": 10,
+      "verses": [
+        {
+          "verse": 3,
+          "text": "Binecuvântat fie Dumnezeu şi Tatăl Domnului nostru Iisus Hristos, Care, după mare mila Sa, prin învierea lui Iisus Hristos din morţi, ne-a născut din nou, spre nădejde vie,"
+        },
+        {
+          "verse": 4,
+          "text": "Spre moştenire nestricăcioasă şi neîntinată şi neveştejită, păstrată în ceruri pentru voi,"
+        },
+        {
+          "verse": 5,
+          "text": "Cei ce sunteţi păziţi cu puterea lui Dumnezeu, prin credinţă, spre mântuire, gata să se dea pe faţă în vremea de apoi."
+        },
+        {
+          "verse": 6,
+          "text": "Întru aceasta vă bucuraţi, măcar că acum ar trebui să fiţi trişti, încercaţi fiind de multe feluri de ispite pentru puţină vreme,"
+        },
+        {
+          "verse": 7,
+          "text": "Pentru ca credinţa voastră încercată, mult mai de preţ decât aurul cel pieritor, dar lămurit prin foc, să fie găsită spre laudă şi spre slavă şi spre cinste, la arătarea lui Iisus Hristos."
+        },
+        {
+          "verse": 8,
+          "text": "Pe El, fără să-L fi văzut, Îl iubiţi; întru El, deşi acum nu-L vedeţi, voi credeţi şi vă bucuraţi cu bucurie negrăită şi preamărită,"
+        },
+        {
+          "verse": 9,
+          "text": "Dobândind răsplata credinţei voastre, mântuirea sufletelor."
+        },
+        {
+          "verse": 10,
+          "text": "Această mântuire au căutat-o cu stăruinţă şi au cercetat-o cu de-amănuntul proorocii, care au proorocit despre harul ce avea să vină la voi."
+        },
+        {
+          "verse": 11,
+          "text": "Cercetând în care şi în ce fel de vreme le arăta Duhul lui Hristos, Care era întru ei, când le mărturisea de mai înainte despre patimile lui Hristos şi despre măririle cele de după ele,"
+        },
+        {
+          "verse": 12,
+          "text": "Lor le-a fost descoperit că nu pentru ei înşişi, ci pentru voi slujeau ei aceste lucruri, care acum vi s-au vestit prin cei ce, întru Duhul Sfânt trimis din cer, v-au propovăduit Evanghelia, spre care şi îngerii doresc să privească."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Peter_01_03",
+      "chapter": 1,
+      "pericope_num": "03",
+      "title_en": "A Call to Holy Living",
+      "title_ro": "Chemare la viață sfântă",
+      "start_verse": 13,
+      "end_verse": 25,
+      "verse_count": 13,
+      "verses": [
+        {
+          "verse": 13,
+          "text": "Pentru aceea, încingând mijloacele cugetului vostru, trezindu-vă, nădăjduiţi desăvârşit în harul care vi se va da vouă, la arătarea lui Iisus Hristos."
+        },
+        {
+          "verse": 14,
+          "text": "Ca fii ascultători, nu vă potriviţi poftelor de mai înainte, din vremea neştiinţei voastre,"
+        },
+        {
+          "verse": 15,
+          "text": "Ci, după Sfântul Care v-a chemat pe voi, fiţi şi voi înşivă sfinţi în toată petrecerea vieţii."
+        },
+        {
+          "verse": 16,
+          "text": "Că scris este: \"Fiţi sfinţi, pentru că Eu sunt Sfânt\"."
+        },
+        {
+          "verse": 17,
+          "text": "Şi dacă chemaţi Tată pe Cel ce judecă cu nepărtinire, după lucrul fiecăruia, petreceţi în frică zilele vremelniciei voastre,"
+        },
+        {
+          "verse": 18,
+          "text": "Ştiind că nu cu lucruri stricăcioase, cu argint sau cu aur, aţi fost răscumpăraţi din viaţa voastră deşartă, lăsată de la părinţi,"
+        },
+        {
+          "verse": 19,
+          "text": "Ci cu scumpul sânge al lui Hristos, ca al unui miel nevinovat şi neprihănit,"
+        },
+        {
+          "verse": 20,
+          "text": "Care a fost cunoscut mai dinainte de întemeierea lumii, dar Care S-a arătat, în anii cei mai de pe urmă, pentru voi,"
+        },
+        {
+          "verse": 21,
+          "text": "Cei ce prin El aţi crezut în Dumnezeu, Care L-a înviat pe El din morţi, şi I-a dat Lui slavă, ca să vă fie credinţa şi nădejdea voastră în Dumnezeu."
+        },
+        {
+          "verse": 22,
+          "text": "Curăţindu-vă sufletele prin ascultarea de adevăr, spre nefăţarnică iubire de fraţi, iubiţi-vă unul pe altul, din toată inima, cu toată stăruinţa,"
+        },
+        {
+          "verse": 23,
+          "text": "Fiind născuţi din nou nu din sămânţă stricăcioasă, ci din nestricăcioasă, prin cuvântul lui Dumnezeu cel viu şi care rămâne în veac."
+        },
+        {
+          "verse": 24,
+          "text": "Pentru că tot trupul este ca iarba şi toată slava lui ca floarea ierbii: uscatu-s-a iarba şi floarea a căzut,"
+        },
+        {
+          "verse": 25,
+          "text": "Iar cuvântul Domnului rămâne în veac. Şi acesta este cuvântul, care vi s-a binevestit."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Peter_02_01",
+      "chapter": 2,
+      "pericope_num": "01",
+      "title_en": "The Living Stone and a Chosen People",
+      "title_ro": "Piatra vie și poporul ales",
+      "start_verse": 1,
+      "end_verse": 10,
+      "verse_count": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Deci, lepădând toată răutatea şi tot vicleşugul şi făţărniciile şi pizmele şi toate clevetirile,"
+        },
+        {
+          "verse": 2,
+          "text": "Ca nişte prunci de curând născuţi, să doriţi laptele cel duhovnicesc şi neprefăcut, ca prin el să creşteţi spre mântuire,"
+        },
+        {
+          "verse": 3,
+          "text": "De vreme ce aţi gustat şi aţi văzut că bun este Domnul."
+        },
+        {
+          "verse": 4,
+          "text": "Apropiaţi-vă de El, piatra cea vie, de oameni într-adevăr neluată în seamă, dar la Dumnezeu aleasă şi de preţ;"
+        },
+        {
+          "verse": 5,
+          "text": "Şi voi înşivă, ca pietre vii, zidiţi-vă drept casă duhovnicească, preoţie sfântă, ca să aduceţi jertfe duhovniceşti, bine-plăcute lui Dumnezeu, prin Iisus Hristos;"
+        },
+        {
+          "verse": 6,
+          "text": "Pentru că scris este în Scriptură: \"Iată, pun în Sion Piatra din capul unghiului, aleasă, de mare preţ, şi cel ce va crede în ea nu se va ruşina\"."
+        },
+        {
+          "verse": 7,
+          "text": "Pentru voi, deci, care credeţi, (Piatra) este cinstea; iar pentru cei ce nu cred, piatra pe care n-au băgat-o în seamă ziditorii, aceasta a ajuns să fie în capul unghiului,"
+        },
+        {
+          "verse": 8,
+          "text": "Şi piatră de poticnire şi stâncă de sminteală, de care se poticnesc, fiindcă n-au dat ascultare cuvântului, spre care au şi fost puşi."
+        },
+        {
+          "verse": 9,
+          "text": "Iar voi sunteţi seminţie aleasă, preoţie împărătească, neam sfânt, popor agonisit de Dumnezeu, ca să vestiţi în lume bunătăţile Celui ce v-a chemat din întuneric, la lumina Sa cea minunată,"
+        },
+        {
+          "verse": 10,
+          "text": "Voi care odinioară nu eraţi popor, iar acum sunteţi poporul lui Dumnezeu; voi care odinioară n-aveaţi parte de milă, iar acum sunteţi miluiţi."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Peter_02_02",
+      "chapter": 2,
+      "pericope_num": "02",
+      "title_en": "Live as Servants of God",
+      "title_ro": "Viața ca robi ai lui Dumnezeu",
+      "start_verse": 11,
+      "end_verse": 17,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 11,
+          "text": "Iubiţilor, vă îndemn ca pe nişte străini ce sunteţi şi călători aici pe pământ, să vă feriţi de poftele cele trupeşti care se războiesc împotriva sufletului."
+        },
+        {
+          "verse": 12,
+          "text": "Purtaţi-vă cu cinste între neamuri, ca în ceea ce ei acum vă bârfesc ca pe nişte făcători de rele, privind ei mai de aproape faptele voastre cele bune, să preamărească pe Dumnezeu, în ziua când îi va cerceta."
+        },
+        {
+          "verse": 13,
+          "text": "Supuneţi-vă, pentru Domnul, oricărei orânduiri omeneşti, fie împăratului, ca înalt stăpânitor,"
+        },
+        {
+          "verse": 14,
+          "text": "Fie dregătorilor, ca unora ce sunt trimişi de el, spre pedepsirea făcătorilor de rele şi spre lauda făcătorilor de bine;"
+        },
+        {
+          "verse": 15,
+          "text": "Căci aşa este voia lui Dumnezeu, ca voi, prin faptele voastre cele bune, să închideţi gura oamenilor fără minte şi fără cunoştinţă."
+        },
+        {
+          "verse": 16,
+          "text": "Trăiţi ca oamenii liberi, dar nu ca şi cum aţi avea libertatea drept acoperământ al răutăţii, ci ca robi ai lui Dumnezeu."
+        },
+        {
+          "verse": 17,
+          "text": "Daţi tuturor cinste, iubiţi frăţia, temeţi-vă de Dumnezeu, cinstiţi pe împărat."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Peter_02_03",
+      "chapter": 2,
+      "pericope_num": "03",
+      "title_en": "The Example of Christ's Suffering",
+      "title_ro": "Pilda suferinței lui Hristos",
+      "start_verse": 18,
+      "end_verse": 25,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 18,
+          "text": "Slugilor, supuneţi-vă stăpânilor voştri, cu toată frica, nu numai celor buni şi blânzi, ci şi celor urâcioşi."
+        },
+        {
+          "verse": 19,
+          "text": "Căci aceasta este plăcut lui Dumnezeu, să sufere cineva întristări, pe nedrept, cu gândul la El."
+        },
+        {
+          "verse": 20,
+          "text": "Căci, ce laudă este dacă, pentru greşeală, primiţi bătaie întru răbdare? Iar dacă, pentru binele făcut, veţi pătimi şi veţi răbda, aceasta este plăcut lui Dumnezeu."
+        },
+        {
+          "verse": 21,
+          "text": "Căci spre aceasta aţi fost chemaţi, că şi Hristos a pătimit pentru voi, lăsându-vă pildă, ca să păşiţi pe urmele Lui,"
+        },
+        {
+          "verse": 22,
+          "text": "Care n-a săvârşit nici un păcat, nici s-a aflat vicleşug în gura Lui,"
+        },
+        {
+          "verse": 23,
+          "text": "Şi Care, ocărât fiind, nu răspundea cu ocară; suferind, nu ameninţa, ci Se lăsa în ştirea Celui ce judecă cu dreptate."
+        },
+        {
+          "verse": 24,
+          "text": "El a purtat păcatele noastre, în trupul Său, pe lemn, pentru ca noi, murind faţă de păcate, să vieţuim dreptăţii: cu a Cărui rană v-aţi vindecat."
+        },
+        {
+          "verse": 25,
+          "text": "Căci eraţi ca nişte oi rătăcite, dar v-aţi întors acum la Păstorul şi la Păzitorul sufletelor voastre."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Peter_03_01",
+      "chapter": 3,
+      "pericope_num": "01",
+      "title_en": "Wives and Husbands",
+      "title_ro": "Soții și soțiile",
+      "start_verse": 1,
+      "end_verse": 7,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Asemenea şi voi, femeilor, supuneţi-vă bărbaţilor voştri, aşa încât, chiar dacă sunt unii care nu se pleacă cuvântului, să fie câştigaţi, fără propovăduire, prin purtarea femeilor lor,"
+        },
+        {
+          "verse": 2,
+          "text": "Văzând de aproape viaţa voastră curată şi plină de sfială."
+        },
+        {
+          "verse": 3,
+          "text": "Podoaba voastră să nu fie cea din afară: împletirea părului, podoabele de aur şi îmbrăcarea hainelor scumpe,"
+        },
+        {
+          "verse": 4,
+          "text": "Ci să fie omul cel tainic al inimii, întru nestricăcioasa podoabă a duhului blând şi liniştit, care este de mare preţ înaintea lui Dumnezeu."
+        },
+        {
+          "verse": 5,
+          "text": "Că aşa se împodobeau, odinioară, şi sfintele femei, care nădăjduiau în Dumnezeu, supunându-se bărbaţilor lor,"
+        },
+        {
+          "verse": 6,
+          "text": "Precum Sarra asculta de Avraam şi-l numea pe el domn, ale cărei fiice sunteţi, dacă faceţi ce e bine şi nu vă temeţi de nimic."
+        },
+        {
+          "verse": 7,
+          "text": "Voi, bărbaţilor, de asemenea, trăiţi înţelepţeşte cu femeile voastre, ca fiind făpturi mai slabe, şi faceţi-le parte de cinste, ca unora care, împreună cu voi, sunt moştenitoare ale harului vieţii, aşa încât rugăciunile voastre să nu fie împiedicate."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Peter_03_02",
+      "chapter": 3,
+      "pericope_num": "02",
+      "title_en": "Suffering for Doing Right",
+      "title_ro": "Suferința pentru dreptate",
+      "start_verse": 8,
+      "end_verse": 22,
+      "verse_count": 15,
+      "verses": [
+        {
+          "verse": 8,
+          "text": "În sfârşit, fiţi toţi într-un gând, împreună-pătimitori, iubitori de fraţi, milostivi, smeriţi."
+        },
+        {
+          "verse": 9,
+          "text": "Nu răsplătiţi răul cu rău sau ocara cu ocară, ci, dimpotrivă, binecuvântaţi, căci spre aceasta aţi fost chemaţi, ca să moşteniţi binecuvântarea."
+        },
+        {
+          "verse": 10,
+          "text": "Cel ce voieşte să iubească viaţa şi să vadă zile bune să-şi oprească limba de la rău şi buzele sale să nu grăiască vicleşug;"
+        },
+        {
+          "verse": 11,
+          "text": "Să se ferească de rău şi să facă bine; să caute pacea şi s-o urmeze;"
+        },
+        {
+          "verse": 12,
+          "text": "Căci ochii Domnului sunt peste cei drepţi şi urechile Lui spre rugăciunile lor, iar faţa Domnului este împotriva celor ce fac rele."
+        },
+        {
+          "verse": 13,
+          "text": "Şi cine vă va face vouă rău, dacă sunteţi plini de râvnă pentru bine?"
+        },
+        {
+          "verse": 14,
+          "text": "Dar de veţi şi pătimi pentru dreptate, fericiţi veţi fi. Iar de frica lor să nu vă temeţi, nici să vă tulburaţi."
+        },
+        {
+          "verse": 15,
+          "text": "Ci pe Domnul, pe Hristos, să-L sfinţiţi în inimile voastre şi să fiţi gata totdeauna să răspundeţi oricui vă cere socoteală despre nădejdea voastră,"
+        },
+        {
+          "verse": 16,
+          "text": "Dar cu blândeţe şi cu frică, având cuget curat, ca, tocmai în ceea ce sunteţi clevetiţi, să iasă de ruşine cei ce grăiesc de rău purtarea voastră cea bună întru Hristos."
+        },
+        {
+          "verse": 17,
+          "text": "Căci e mai bine, dacă aşa este voia lui Dumnezeu, să pătimiţi făcând cele bune, decât făcând cele rele."
+        },
+        {
+          "verse": 18,
+          "text": "Pentru că şi Hristos a suferit odată moartea pentru păcatele noastre, El cel drept pentru cei nedrepţi, ca să ne aducă pe noi la Dumnezeu, omorât fiind cu trupul, dar viu făcut cu duhul,"
+        },
+        {
+          "verse": 19,
+          "text": "Cu care S-a coborât şi a propovăduit şi duhurilor ţinute în închisoare,"
+        },
+        {
+          "verse": 20,
+          "text": "Care fuseseră neascultătoare altădată, când îndelunga-răbdare a lui Dumnezeu aştepta, în zilele lui Noe, şi se pregătea corabia în care puţine suflete, adică opt, s-au mântuit prin apă."
+        },
+        {
+          "verse": 21,
+          "text": "Iar această mântuire prin apă închipuia botezul, care vă mântuieşte astăzi şi pe voi, nu ca ştergere a necurăţiei trupului, ci ca deschiderea cugetului bun către Dumnezeu, prin învierea lui Iisus Hristos,"
+        },
+        {
+          "verse": 22,
+          "text": "Care, după ce S-a suit la cer, este de-a dreapta lui Dumnezeu, şi se supun Lui îngerii şi stăpâniile şi puterile."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Peter_04_01",
+      "chapter": 4,
+      "pericope_num": "01",
+      "title_en": "Good Stewards of God's Grace",
+      "title_ro": "Buni iconomi ai harului lui Dumnezeu",
+      "start_verse": 1,
+      "end_verse": 11,
+      "verse_count": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Aşadar, fiindcă Hristos a pătimit cu trupul, înarmaţi-vă şi voi cu gândul acesta: că cine a suferit cu trupul a isprăvit cu păcatul,"
+        },
+        {
+          "verse": 2,
+          "text": "Ca să nu mai trăiască timpul ce mai are de trăit în trup după poftele oamenilor, ci după voia lui Dumnezeu."
+        },
+        {
+          "verse": 3,
+          "text": "Destul este că, în vremurile trecute, aţi făcut cu desăvârşire voia neamurilor, umblând în desfrânări, în pofte, în beţii, în ospeţe fără măsură, în petreceri cu vin mult şi în neiertate slujiri idoleşti."
+        },
+        {
+          "verse": 4,
+          "text": "De aceea ei se miră că voi nu mai alergaţi cu ei în aceeaşi revărsare a desfrâului şi vă hulesc."
+        },
+        {
+          "verse": 5,
+          "text": "Ei îşi vor da seama înaintea Celui ce este gata să judece viii şi morţii."
+        },
+        {
+          "verse": 6,
+          "text": "Că spre aceasta s-a binevestit morţilor, ca să fie judecaţi ca oameni, după trup, dar să vieze, după Dumnezeu cu duhul."
+        },
+        {
+          "verse": 7,
+          "text": "Iar sfârşitul tuturor s-a apropiat; fiţi dar cu mintea întreagă şi privegheaţi în rugăciuni."
+        },
+        {
+          "verse": 8,
+          "text": "Dar mai presus de toate, ţineţi din răsputeri la dragostea dintre voi, pentru că dragostea acoperă mulţime de păcate."
+        },
+        {
+          "verse": 9,
+          "text": "Fiţi, între voi, iubitori de străini, fără cârtire."
+        },
+        {
+          "verse": 10,
+          "text": "După darul pe care l-a primit fiecare, slujiţi unii altora, ca nişte buni iconomi ai harului celui de multe feluri al lui Dumnezeu."
+        },
+        {
+          "verse": 11,
+          "text": "Dacă vorbeşte cineva, cuvintele lui să fie ca ale lui Dumnezeu; dacă slujeşte cineva, slujba lui să fie ca din puterea pe care o dă Dumnezeu, pentru ca întru toate Dumnezeu să se slăvească prin Iisus Hristos, Căruia Îi este slava şi stăpânirea în vecii vecilor. Amin."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Peter_04_02",
+      "chapter": 4,
+      "pericope_num": "02",
+      "title_en": "Suffering as a Christian",
+      "title_ro": "Suferința ca creștin",
+      "start_verse": 12,
+      "end_verse": 19,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 12,
+          "text": "Iubiţilor, nu vă miraţi de focul aprins între voi spre ispitire, ca şi cum vi s-ar întâmpla ceva străin,"
+        },
+        {
+          "verse": 13,
+          "text": "Ci, întrucât sunteţi părtaşi la suferinţele lui Hristos, bucuraţi-vă, pentru ca şi la arătarea slavei Lui să vă bucuraţi cu bucurie mare."
+        },
+        {
+          "verse": 14,
+          "text": "De sunteţi ocărâţi pentru numele lui Hristos, fericiţi sunteţi, căci Duhul slavei şi al lui Dumnezeu Se odihneşte peste voi; de către unii El se huleşte, iar de voi se preaslăveşte."
+        },
+        {
+          "verse": 15,
+          "text": "Nimeni dintre voi să nu sufere ca ucigaş, sau fur, sau făcător de rele, sau ca un râvnitor de lucruri străine."
+        },
+        {
+          "verse": 16,
+          "text": "Iar de suferă ca creştin, să nu se ruşineze, ci să preamărească pe Dumnezeu, pentru numele acesta."
+        },
+        {
+          "verse": 17,
+          "text": "Căci vremea este ca să înceapă judecata de la casa lui Dumnezeu; şi dacă începe întâi de la noi, care va fi sfârşitul celor care nu ascultă de Evanghelia lui Dumnezeu?"
+        },
+        {
+          "verse": 18,
+          "text": "Şi dacă dreptul abia se mântuieşte, ce va fi cu cel necredincios şi păcătos?"
+        },
+        {
+          "verse": 19,
+          "text": "Pentru aceea, şi cei ce suferă, după voia lui Dumnezeu, să-şi încredinţeze Lui, credinciosului Ziditor, sufletele lor, săvârşind fapte bune."
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Peter_05_01",
+      "chapter": 5,
+      "pericope_num": "01",
+      "title_en": "Tending the Flock of God",
+      "title_ro": "Păstorirea turmei lui Dumnezeu",
+      "start_verse": 1,
+      "end_verse": 11,
+      "verse_count": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Pe preoţii cei dintre voi îi rog ca unul ce sunt împreună-preot şi martor al patimilor lui Hristos şi părtaş al slavei celei ce va să se descopere:"
+        },
+        {
+          "verse": 2,
+          "text": "Păstoriţi turma lui Dumnezeu, dată în paza voastră, cercetând-o, nu cu silnicie, ci cu voie bună, după Dumnezeu, nu pentru câştig urât, ci din dragoste;"
+        },
+        {
+          "verse": 3,
+          "text": "Nu ca şi cum aţi fi stăpâni peste Biserici, ci pilde făcându-vă turmei."
+        },
+        {
+          "verse": 4,
+          "text": "Iar când Se va arăta Mai-marele păstorilor, veţi lua cununa cea neveştejită a măririi."
+        },
+        {
+          "verse": 5,
+          "text": "Tot aşa şi voi, fiilor duhovniceşti, supuneţi-vă preoţilor; şi toţi, unii faţă de alţii, îmbrăcaţi-vă întru smerenie, pentru că Dumnezeu celor mândri le stă împotrivă, iar celor smeriţi le dă har."
+        },
+        {
+          "verse": 6,
+          "text": "Deci, smeriţi-vă sub mâna cea tare a lui Dumnezeu, ca El să vă înalţe la timpul cuvenit."
+        },
+        {
+          "verse": 7,
+          "text": "Lăsaţi-I Lui toată grija voastră, căci El are grijă de voi."
+        },
+        {
+          "verse": 8,
+          "text": "Fiţi treji, privegheaţi. Potrivnicul vostru, diavolul, umblă, răcnind ca un leu, căutând pe cine să înghită,"
+        },
+        {
+          "verse": 9,
+          "text": "Căruia staţi împotrivă, tari în credinţă, ştiind că aceleaşi suferinţe îndură şi fraţii voştri în lume."
+        },
+        {
+          "verse": 10,
+          "text": "Iar Dumnezeul a tot harul, Care v-a chemat la slava Sa cea veşnică, întru Hristos Iisus, El însuşi, după ce veţi suferi puţină vreme, vă va duce la desăvârşire, vă va întări, vă va împuternici, vă va face neclintiţi."
+        },
+        {
+          "verse": 11,
+          "text": "A Lui fie slava şi puterea în vecii vecilor. Amin!"
+        }
+      ]
+    },
+    {
+      "pericope_id": "1_Peter_05_02",
+      "chapter": 5,
+      "pericope_num": "02",
+      "title_en": "Final Greetings and Benediction",
+      "title_ro": "Salutări finale și binecuvântare",
+      "start_verse": 12,
+      "end_verse": 14,
+      "verse_count": 3,
+      "verses": [
+        {
+          "verse": 12,
+          "text": "V-am scris aceste puţine lucruri, prin Silvan, pe care îl socotesc frate credincios, ca să vă îndemn şi să vă mărturisesc că adevăratul har al lui Dumnezeu este acesta, în care staţi."
+        },
+        {
+          "verse": 13,
+          "text": "Biserica cea aleasă din Babilon şi Marcu, fiul meu, vă îmbrăţişează."
+        },
+        {
+          "verse": 14,
+          "text": "Îmbrăţişaţi-vă unul pe altul cu sărutarea dragostei. Pace vouă tuturor, celor întru Hristos Iisus. Amin."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "id": 27,
+  "book_number": 69,
+  "name_en": "Philemon",
+  "name_ro": "Filimon",
+  "testament": "NT",
+  "chapter_count": 1,
+  "pericope_count": 4,
+  "url": "https://www.bibliaortodoxa.ro/carte.php?id=27",
+  "pericopes": [
+    {
+      "pericope_id": "Philemon_01_01",
+      "chapter": 1,
+      "pericope_num": "01",
+      "title_en": "Salutation",
+      "title_ro": "Salutare",
+      "start_verse": 1,
+      "end_verse": 3,
+      "verse_count": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Pavel, cel pus în lanţuri pentru Iisus Hristos, şi fratele Timotei, iubitului Filimon, împreună-lucrător cu noi,"
+        },
+        {
+          "verse": 2,
+          "text": "Şi surorii Apfia, şi lui Arhip, cel împreună-oştean cu noi, şi Bisericii din casa ta:"
+        },
+        {
+          "verse": 3,
+          "text": "Har vouă şi pace, de la Dumnezeu, Tatăl nostru, şi de la Domnul Iisus Hristos!"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Philemon_01_02",
+      "chapter": 1,
+      "pericope_num": "02",
+      "title_en": "Philemon's Love and Faith",
+      "title_ro": "Dragostea și credința lui Filimon",
+      "start_verse": 4,
+      "end_verse": 7,
+      "verse_count": 4,
+      "verses": [
+        {
+          "verse": 4,
+          "text": "Mulţumesc pururea Dumnezeului meu, pomenindu-te în rugăciunile mele,"
+        },
+        {
+          "verse": 5,
+          "text": "Auzind despre dragostea ta şi despre credinţa pe care o ai către Domnul Iisus şi către toţi sfinţii,"
+        },
+        {
+          "verse": 6,
+          "text": "Ca părtăşia ta la credinţă să se facă lucrătoare în deplina cunoştinţă a oricărei fapte bune, pe care o faceţi pentru Hristos Iisus;"
+        },
+        {
+          "verse": 7,
+          "text": "Căci am avut multă bucurie şi mângâiere, din dragostea ta, întrucât inimile sfinţilor s-au odihnit prin tine, frate."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Philemon_01_03",
+      "chapter": 1,
+      "pericope_num": "03",
+      "title_en": "Paul's Plea for Onesimus",
+      "title_ro": "Rugămintea lui Pavel pentru Onisim",
+      "start_verse": 8,
+      "end_verse": 22,
+      "verse_count": 15,
+      "verses": [
+        {
+          "verse": 8,
+          "text": "De aceea, deşi având întru Hristos tot dreptul să-ţi poruncesc ce se cuvine,"
+        },
+        {
+          "verse": 9,
+          "text": "Pentru dragoste, îţi fac mai degrabă o rugăminte. Aşa cum sunt eu, Pavel, ca un bătrân, iar acum şi pus în lanţuri pentru Iisus Hristos,"
+        },
+        {
+          "verse": 10,
+          "text": "Te rog pe tine pentru fiul meu, pe care l-am născut fiind în lanţuri, Onisim,"
+        },
+        {
+          "verse": 11,
+          "text": "Cel ce altădată nu-ţi era de folos, dar acum şi ţie şi mie de folos,"
+        },
+        {
+          "verse": 12,
+          "text": "Pentru aceasta ţi l-am trimis, pe el însuşi, adică inima mea; primeşte-l."
+        },
+        {
+          "verse": 13,
+          "text": "Eu vream să-l ţin la mine, ca, în locul tău, să-mi slujească mie, care sunt în lanţuri pentru Evanghelie,"
+        },
+        {
+          "verse": 14,
+          "text": "Dar n-am voit să fac nimic fără de încuviinţarea ta, ca fapta ta cea bună să nu fie ca de silă, ci de bunăvoie."
+        },
+        {
+          "verse": 15,
+          "text": "Căci poate pentru aceea a fost despărţit de tine câtva timp, ca veşnic să fie al tău,"
+        },
+        {
+          "verse": 16,
+          "text": "Dar nu ca un rob, ci mai presus de rob, ca pe un frate iubit, mai ales pentru mine, dar cu atât mai vârtos pentru tine, şi după trup şi în Domnul."
+        },
+        {
+          "verse": 17,
+          "text": "Deci, dacă mă socoteşti părtaş cu tine, primeşte-l pe el, ca pe mine."
+        },
+        {
+          "verse": 18,
+          "text": "Iar de te-a păgubit cu ceva, sau îţi este dator ceva, pune aceasta în socoteala mea."
+        },
+        {
+          "verse": 19,
+          "text": "Eu, Pavel, am scris cu mâna mea; eu îţi voi plăti, ca să nu-ţi spun că şi tu îmi eşti dator cu tine însuţi."
+        },
+        {
+          "verse": 20,
+          "text": "Da, frate, eu te rog, fă-mi binele acesta în Domnul; linişteşte inima mea în Hristos!"
+        },
+        {
+          "verse": 21,
+          "text": "Bine încredinţat de ascultarea ta, ţi-am scris ţie, ştiind că vei face chiar mai mult decât cele ce-ţi spun."
+        },
+        {
+          "verse": 22,
+          "text": "Ci odată cu aceasta pregăteşte-mi loc de găzduit, fiindcă nădăjduiesc că, prin rugăciunile voastre, voi fi dăruit vouă."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Philemon_01_04",
+      "chapter": 1,
+      "pericope_num": "04",
+      "title_en": "Final Greetings and Benediction",
+      "title_ro": "Salutări finale și binecuvântare",
+      "start_verse": 23,
+      "end_verse": 25,
+      "verse_count": 3,
+      "verses": [
+        {
+          "verse": 23,
+          "text": "Te îmbrăţişează Epafras, cel închis împreună cu mine pentru Hristos Iisus,"
+        },
+        {
+          "verse": 24,
+          "text": "Marcu, Aristarh, Dimas, Luca cei împreună-lucrători cu mine."
+        },
+        {
+          "verse": 25,
+          "text": "Harul Domnului nostru Iisus Hristos să fie cu duhul vostru! Amin."
+        }
+      ]
+    }
+  ]
+}

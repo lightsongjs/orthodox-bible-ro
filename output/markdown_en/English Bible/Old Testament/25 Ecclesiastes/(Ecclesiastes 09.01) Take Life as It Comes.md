@@ -1,0 +1,25 @@
+---
+testament: OT
+book: Ecclesiastes
+chapter: 9
+pericope: 1
+pericope_title: "Take Life as It Comes"
+verses_start: 2
+verses_end: 12
+verses_total: 0
+language: en
+---
+# Take Life as It Comes
+
+9. All this I laid to heart, examining it all, how the righteous and the wise and their deeds are in the hand of God; whether it is love or hate one does not know. Everything that confronts them
+2. is vanity,since the same fate comes to all, to the righteous and the wicked, to the good and the evil,to the clean and the unclean, to those who sacrifice and those who do not sacrifice. As are the good, so are the sinners; those who swear are like those who shun an oath.
+3. This is an evil in all that happens under the sun, that the same fate comes to everyone. Moreover, the hearts of all are full of evil; madness is in their hearts while they live, and after that they go to the dead.
+4. But whoever is joined with all the living has hope, for a living dog is better than a dead lion.
+5. The living know that they will die, but the dead know nothing; they have no more reward, and even the memory of them is lost.
+6. Their love and their hate and their envy have already perished; never again will they have any share in all that happens under the sun.
+7. Go, eat your bread with enjoyment, and drink your wine with a merry heart; for God has long ago approved what you do.
+8. Let your garments always be white; do not let oil be lacking on your head.
+9. Enjoy life with the wife whom you love, all the days of your vain life that are given you under the sun, because that is your portion in life and in your toil at which you toil under the sun.
+10. Whatever your hand finds to do, do with your might; for there is no work or thought or knowledge or wisdom in Sheol, to which you are going.
+11. Again I saw that under the sun the race is not to the swift, nor the battle to the strong, nor bread to the wise, nor riches to the intelligent, nor favor to the skillful; but time and chance happen to them all.
+12. For no one can anticipate the time of disaster. Like fish taken in a cruel net, and like birds caught in a snare, so mortals are snared at a time of calamity, when it suddenly falls upon them.

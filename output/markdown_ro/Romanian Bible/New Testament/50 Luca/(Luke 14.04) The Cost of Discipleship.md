@@ -1,0 +1,24 @@
+---
+testament: NT
+book: Luke
+book_romanian: Luca
+chapter: 14
+pericope: 4
+pericope_title: "The Cost of Discipleship"
+verses_start: 25
+verses_end: 33
+verses_total: 0
+language: ro
+english_source: "[[New Testament/Luke/(Luke 14.04) The Cost of Discipleship]]"
+---
+# The Cost of Discipleship
+
+25. Şi mergeau cu El mulţimi multe; şi întorcându-Se, a zis către ele:
+26. Dacă vine cineva la Mine şi nu urăşte pe tatăl său şi pe mamă şi pe femeie şi pe copii şi pe fraţi şi pe surori, chiar şi sufletul său însuşi, nu poate să fie ucenicul Meu.
+27. Şi cel ce nu-şi poartă crucea sa şi nu vine după Mine nu poate să fie ucenicul Meu.
+28. Că cine dintre voi vrând să zidească un turn nu stă mai întâi şi-şi face socoteala cheltuielii, dacă are cu ce să-l isprăvească?
+29. Ca nu cumva, punându-i temelia şi neputând să-l termine, toţi cei care vor vedea să înceapă a-l lua în râs,
+30. Zicând: Acest om a început să zidească, dar n-a putut isprăvi.
+31. Sau care rege, plecând să se bată în război cu alt rege, nu va sta întâi să se sfătuiască, dacă va putea să întâmpine cu zece mii pe cel care vine împotriva lui cu douăzeci de mii?
+32. Iar de nu, încă fiind el departe, îi trimite solie şi se roagă de pace.
+33. Aşadar oricine dintre voi care nu se leapădă de tot ce are nu poate să fie ucenicul Meu.

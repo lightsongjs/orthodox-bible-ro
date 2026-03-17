@@ -1,0 +1,2388 @@
+{
+  "id": 4,
+  "book_number": 78,
+  "name_en": "Revelation",
+  "name_ro": "Apocalipsa",
+  "testament": "NT",
+  "chapter_count": 22,
+  "pericope_count": 42,
+  "url": "https://www.bibliaortodoxa.ro/carte.php?id=4",
+  "pericopes": [
+    {
+      "pericope_id": "Revelation_01_01",
+      "chapter": 1,
+      "pericope_num": "01",
+      "title_en": "Introduction and Salutation",
+      "title_ro": "Introducere și salutare",
+      "start_verse": 1,
+      "end_verse": 8,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Descoperirea lui Iisus Hristos, pe care I-a dat-o Dumnezeu, ca să arate robilor Săi cele ce trebuie să se petreacă în curând, iar El, prin trimiterea îngerului Său, a destăinuit-o robului Său Ioan,"
+        },
+        {
+          "verse": 2,
+          "text": "Care a mărturisit cuvântul lui Dumnezeu şi mărturia lui Iisus Hristos, câte a văzut."
+        },
+        {
+          "verse": 3,
+          "text": "Fericit este cel ce citeşte şi cei ce ascultă cuvintele proorociei şi păstrează cele scrise în aceasta! Căci vremea este aproape."
+        },
+        {
+          "verse": 4,
+          "text": "Ioan, celor şapte Biserici, care sunt în Asia: Har vouă şi pace de la Cel ce este şi Cel ce era şi Cel ce vine şi de la cele şapte duhuri, care sunt înaintea scaunului Lui,"
+        },
+        {
+          "verse": 5,
+          "text": "Şi de la Iisus Hristos, Martorul cel credincios, Cel întâi născut din morţi, şi Domnul împăraţilor pământului. Lui, Care ne iubeşte şi ne-a dezlegat pe noi din păcatele noastre, prin sângele Său,"
+        },
+        {
+          "verse": 6,
+          "text": "Şi ne-a făcut pe noi împărăţie, preoţi ai lui Dumnezeu şi Tatăl Său, Lui fie slava şi puterea, în vecii vecilor. Amin!"
+        },
+        {
+          "verse": 7,
+          "text": "Iată, El vine cu norii şi orice ochi Îl va vedea şi-L vor vedea şi cei ce L-au împuns şi se vor jeli, din pricina Lui, toate seminţiile pământului. Aşa. Amin."
+        },
+        {
+          "verse": 8,
+          "text": "Eu sunt Alfa şi Omega, zice Domnul Dumnezeu, Cel ce este, Cel ce era şi Cel ce vine, Atotţiitorul."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_01_02",
+      "chapter": 1,
+      "pericope_num": "02",
+      "title_en": "A Vision of Christ",
+      "title_ro": "Viziunea lui Hristos",
+      "start_verse": 9,
+      "end_verse": 20,
+      "verse_count": 12,
+      "verses": [
+        {
+          "verse": 9,
+          "text": "Eu Ioan, fratele vostru şi împreună cu voi părtaş la suferinţa şi la împărăţia şi la răbdarea în Iisus, fost-a în insula ce se cheamă Patmos, pentru cuvântul lui Dumnezeu şi pentru mărturia lui Iisus."
+        },
+        {
+          "verse": 10,
+          "text": "Am fost în duh în zi de duminică şi am auzit, în urma mea, glas mare de trâmbiţă,"
+        },
+        {
+          "verse": 11,
+          "text": "Care zicea: Ceea ce vezi scrie în carte şi trimite celor şapte Biserici: la Efes, şi la Smirna, şi la Pergam, şi la Tiatira, şi la Sardes, şi la Filadelfia, şi la Laodiceea."
+        },
+        {
+          "verse": 12,
+          "text": "Şi m-am întors să văd al cui este glasul care vorbea cu mine şi, întorcându-mă, am văzut şapte sfeşnice de aur."
+        },
+        {
+          "verse": 13,
+          "text": "Şi în mijlocul sfeşnicelor pe Cineva asemenea Fiului Omului, îmbrăcat în veşmânt lung până la picioare şi încins pe sub sân cu un brâu de aur."
+        },
+        {
+          "verse": 14,
+          "text": "Capul Lui şi părul Lui erau albe ca lâna albă şi ca zăpada, şi ochii Lui, ca para focului."
+        },
+        {
+          "verse": 15,
+          "text": "Picioarele Lui erau asemenea aramei arse în cuptor, iar glasul Lui era ca un vuiet de ape multe;"
+        },
+        {
+          "verse": 16,
+          "text": "În mâna Lui cea dreaptă avea şapte stele; şi din gura Lui ieşea o sabie ascuţită cu două tăişuri, iar faţa Lui era ca soarele, când străluceşte în puterea lui."
+        },
+        {
+          "verse": 17,
+          "text": "Şi când L-am văzut, am căzut la picioarele Lui ca un mort. Şi El a pus mâna dreaptă peste mine, zicând: Nu te teme! Eu sunt Cel dintâi şi Cel de pe urmă,"
+        },
+        {
+          "verse": 18,
+          "text": "Şi Cel ce sunt viu. Am fost mort, şi, iată, sunt viu, în vecii vecilor, şi am cheile morţii şi ale iadului."
+        },
+        {
+          "verse": 19,
+          "text": "Scrie, deci, cele ce ai văzut şi cele ce sunt şi cele ce au să fie după acestea."
+        },
+        {
+          "verse": 20,
+          "text": "Taina celor şapte stele, pe care le-ai văzut în dreapta Mea, şi a celor şapte sfeşnice de aur este: Cele şapte stele sunt îngerii celor şapte Biserici, iar sfeşnicele cele şapte sunt şapte Biserici."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_02_01",
+      "chapter": 2,
+      "pericope_num": "01",
+      "title_en": "The Message to Ephesus",
+      "title_ro": "Mesajul către Efes",
+      "start_verse": 1,
+      "end_verse": 7,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Scrie îngerului Bisericii din Efes: Acestea zice Cel ce ţine cele şapte stele în dreapta Sa, Cel care umblă în mijlocul celor şapte sfeşnice de aur:"
+        },
+        {
+          "verse": 2,
+          "text": "Ştiu faptele tale şi osteneala ta şi răbdarea ta şi cum că nu poţi suferi pe cei răi şi ai cercat pe cei ce se zic pe sine apostoli şi nu sunt şi i-ai aflat mincinoşi;"
+        },
+        {
+          "verse": 3,
+          "text": "Şi stărui în răbdare şi ai suferit pentru numele Meu şi nu ai obosit."
+        },
+        {
+          "verse": 4,
+          "text": "Dar am împotriva ta faptul că ai părăsit dragostea ta cea dintâi."
+        },
+        {
+          "verse": 5,
+          "text": "Drept aceea, adu-ţi aminte de unde ai căzut şi te pocăieşte şi fă faptele de mai înainte; iar de nu, vin la tine curând şi voi mişca sfeşnicul tău din locul lui, dacă nu te vei pocăi."
+        },
+        {
+          "verse": 6,
+          "text": "Ai însă partea bună că urăşti faptele nicolaiţilor, pe care le urăsc şi Eu."
+        },
+        {
+          "verse": 7,
+          "text": "Cine are urechi să audă ceea ce Duhul zice Bisericilor: Celui ce va birui îi voi da să mănânce din pomul vieţii, care este în raiul lui Dumnezeu."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_02_02",
+      "chapter": 2,
+      "pericope_num": "02",
+      "title_en": "The Message to Smyrna",
+      "title_ro": "Mesajul către Smirna",
+      "start_verse": 8,
+      "end_verse": 11,
+      "verse_count": 4,
+      "verses": [
+        {
+          "verse": 8,
+          "text": "Iar îngerului Bisericii din Smirna, scrie-i: Acestea zice Cel dintâi şi Cel de pe urmă, Cel care a murit şi a înviat:"
+        },
+        {
+          "verse": 9,
+          "text": "Ştiu necazul tău şi sărăcia ta, dar eşti bogat, şi hula din partea celor ce zic despre ei înşişi că sunt iudei şi nu sunt, ci sinagogă a satanei."
+        },
+        {
+          "verse": 10,
+          "text": "Nu te teme de cele ce ai să pătimeşti. Că iată diavolul va să arunce dintre voi în temniţă, ca să fiţi ispitiţi, şi veţi avea necaz zece zile. Fii credincios până la moarte şi îţi voi da cununa vieţii."
+        },
+        {
+          "verse": 11,
+          "text": "Cine are urechi să audă ceea ce Duhul zice Bisericilor: Cel ce biruieşte nu va fi vătămat de moartea cea de-a doua."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_02_03",
+      "chapter": 2,
+      "pericope_num": "03",
+      "title_en": "The Message to Pergamum",
+      "title_ro": "Mesajul către Pergam",
+      "start_verse": 12,
+      "end_verse": 17,
+      "verse_count": 6,
+      "verses": [
+        {
+          "verse": 12,
+          "text": "Iar îngerului Bisericii din Pergam scrie-i: Acestea zice Cel ce are sabia ascuţită de amândouă părţile:"
+        },
+        {
+          "verse": 13,
+          "text": "Ştiu unde sălăşluieşti: unde este scaunul satanei; şi ţii numele Meu şi n-ai tăgăduit credinţa Mea, în zilele lui Antipa, martorul Meu cel credincios, care a fost ucis la voi, unde locuieşte satana."
+        },
+        {
+          "verse": 14,
+          "text": "Dar am împotriva ta câteva lucruri, că ai acolo pe unii care ţin învăţătura lui Balaam, cel ce învăţa pe Balac să pună piatră de poticneală înaintea fiilor lui Israel, ca să mănânce care jertfită idolilor şi să se dea desfrânării."
+        },
+        {
+          "verse": 15,
+          "text": "Astfel ai şi tu pe unii care, de asemenea, ţin învăţătura nicolaiţilor."
+        },
+        {
+          "verse": 16,
+          "text": "Pocăieşte-te deci, iar de nu, vin la tine curând şi voi face cu ei război, cu sabia gurii Mele."
+        },
+        {
+          "verse": 17,
+          "text": "Cine are urechi să audă ceea ce Duhul zice Bisericilor: Biruitorului îi voi da din mana cea ascunsă şi-i voi da lui o pietricică albă şi pe pietricică scris un nume nou, pe care nimeni nu-l ştie, decât primitorul."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_02_04",
+      "chapter": 2,
+      "pericope_num": "04",
+      "title_en": "The Message to Thyatira",
+      "title_ro": "Mesajul către Tiatira",
+      "start_verse": 18,
+      "end_verse": 29,
+      "verse_count": 12,
+      "verses": [
+        {
+          "verse": 18,
+          "text": "Iar îngerului Bisericii din Tiatira scrie-i: Acestea zice Fiul lui Dumnezeu, ai Cărui ochi sunt ca para focului şi picioarele asemenea aramei strălucitoare:"
+        },
+        {
+          "verse": 19,
+          "text": "Ştiu faptele tale şi dragostea şi credinţa şi slujirea şi răbdarea ta şi ştiu că faptele tale cele de pe urmă sunt mai multe decât cele dintâi."
+        },
+        {
+          "verse": 20,
+          "text": "Dar am împotriva ta faptul că laşi pe femeia Izabela, care se zice pe sine proorociţă, de învaţă şi amăgeşte pe robii Mei, ca să facă desfrânări şi să mănânce cele jertfite idolilor."
+        },
+        {
+          "verse": 21,
+          "text": "Şi i-am dat timp să se pocăiască şi nu voieşte să se pocăiască de desfrânarea ei."
+        },
+        {
+          "verse": 22,
+          "text": "Iată, o arunc pe ea bolnavă la pat şi pe cei ce se desfrânează cu ea, în mare strâmtorare, dacă nu se vor pocăi de faptele lor."
+        },
+        {
+          "verse": 23,
+          "text": "Şi pe fiii ei cu moarte îi voi ucide şi vor cunoaşte toate Bisericile că Eu sunt Cel care cercetez rănunchii şi inimile şi voi da vouă, fiecăruia, după faptele voastre."
+        },
+        {
+          "verse": 24,
+          "text": "Iar vouă şi celorlalţi din Tiatira câţi nu au învăţătura aceasta, ca unii care n-au cunoscut adâncurile satanei, după cum spun ei, vă zic: nu pun peste voi altă greutate."
+        },
+        {
+          "verse": 25,
+          "text": "Însă, ceea ce aveţi, ţineţi până voi veni."
+        },
+        {
+          "verse": 26,
+          "text": "Şi celui ce biruieşte şi celui ce păzeşte până la capăt faptele Mele, îi voi da lui stăpânire peste neamuri."
+        },
+        {
+          "verse": 27,
+          "text": "Şi le va păstori pe ele cu toiag de fier şi ca pe vasele olarului le va sfărâma, precum şi eu am luat putere de la Tatăl Meu."
+        },
+        {
+          "verse": 28,
+          "text": "Şi-i voi da lui steaua cea de dimineaţă."
+        },
+        {
+          "verse": 29,
+          "text": "Cine are urechi să audă ceea ce Duhul zice Bisericilor."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_03_01",
+      "chapter": 3,
+      "pericope_num": "01",
+      "title_en": "The Message to Sardis",
+      "title_ro": "Mesajul către Sardes",
+      "start_verse": 1,
+      "end_verse": 6,
+      "verse_count": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Iar îngerului Bisericii din Sardes scrie-i: Acestea zice Cel ce are cele şapte duhuri ale lui Dumnezeu şi cele şapte stele: Ştiu faptele tale, că ai nume, că trăieşti, dar eşti mort."
+        },
+        {
+          "verse": 2,
+          "text": "Priveghează şi întăreşte ce a mai rămas şi era să moară. Căci n-am găsit faptele tale depline înaintea Dumnezeului Meu."
+        },
+        {
+          "verse": 3,
+          "text": "Drept aceea, adu-ţi aminte cum ai primit şi ai auzit şi păstrează şi te pocăieşte. Iar de nu vei priveghea, voi veni ca un fur şi nu vei şti în care ceas voi veni asupra ta."
+        },
+        {
+          "verse": 4,
+          "text": "Dar ai câţiva oameni în Sardes, care nu şi-au mânjit hainele lor, ci ei vor umbla cu Mine îmbrăcaţi în veşminte albe, fiindcă sunt vrednici."
+        },
+        {
+          "verse": 5,
+          "text": "Cel ce biruieşte va fi astfel îmbrăcat în veşminte albe şi nu voi şterge deloc numele lui din cartea vieţii şi voi mărturisi numele lui înaintea părintelui Meu şi înaintea îngerilor Lui."
+        },
+        {
+          "verse": 6,
+          "text": "Cel ce are urechi să audă ceea ce Duhul zice Bisericilor."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_03_02",
+      "chapter": 3,
+      "pericope_num": "02",
+      "title_en": "The Message to Philadelphia",
+      "title_ro": "Mesajul către Filadelfia",
+      "start_verse": 7,
+      "end_verse": 13,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 7,
+          "text": "Iar îngerului Bisericii din Filadelfia scrie-i: Acestea zice Cel Sfânt, Cel Adevărat, Cel ce are cheia lui David, Cel ce deschide şi nimeni nu va închide şi închide şi nimeni nu va deschide:"
+        },
+        {
+          "verse": 8,
+          "text": "Ştiu faptele tale; iată, am lăsat înaintea ta o uşă deschisă, pe care nimeni nu poate să o închidă, fiindcă, deşi ai putere mică, tu ai păzit cuvântul Meu şi nu ai tăgăduit numele Meu."
+        },
+        {
+          "verse": 9,
+          "text": "Iată, îţi dau din sinagoga satanei, dintre cei care se zic pe sine că sunt iudei şi nu sunt, ci mint; iată, îi voi face să vină şi să se închine înaintea picioarelor tale şi vor cunoaşte că te-am iubit."
+        },
+        {
+          "verse": 10,
+          "text": "Pentru că ai păzit cuvântul răbdării Mele, şi Eu te voi păzi pe tine de ceasul ispitei ce va să vină peste toată lumea, ca să încerce pe cei ce locuiesc pe pământ."
+        },
+        {
+          "verse": 11,
+          "text": "Vin curând; ţine ce ai, ca nimeni să nu ia cununa ta."
+        },
+        {
+          "verse": 12,
+          "text": "Pe cel ce biruieşte îl voi face stâlp în templul Dumnezeului Meu şi afară nu va mai ieşi şi voi scrie pe el numele Dumnezeului Meu şi numele cetăţii Dumnezeului Meu, - al noului Ierusalim, care se pogoară din cer, de la Dumnezeul Meu - şi numele Meu cel nou."
+        },
+        {
+          "verse": 13,
+          "text": "Cine are urechi să audă ceea ce Duhul zice Bisericilor."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_03_03",
+      "chapter": 3,
+      "pericope_num": "03",
+      "title_en": "The Message to Laodicea",
+      "title_ro": "Mesajul către Laodiceea",
+      "start_verse": 14,
+      "end_verse": 22,
+      "verse_count": 9,
+      "verses": [
+        {
+          "verse": 14,
+          "text": "Iar îngerului Bisericii din Laodiceea scrie-i: Acestea zice Cel ce este Amin, martorul cel credincios şi adevărat, începutul zidirii lui Dumnezeu:"
+        },
+        {
+          "verse": 15,
+          "text": "Ştiu faptele tale; că nu eşti nici rece, nici fierbinte. O, de ai fi rece sau fierbinte!"
+        },
+        {
+          "verse": 16,
+          "text": "Astfel, fiindcă eşti căldicel - nici fierbinte, nici rece - am să te vărs din gura Mea."
+        },
+        {
+          "verse": 17,
+          "text": "Fiindcă tu zici: Sunt bogat şi m-am îmbogăţit şi de nimic nu am nevoie! Şi nu ştii că tu eşti cel ticălos şi vrednic de plâns, şi sărac şi orb şi gol!"
+        },
+        {
+          "verse": 18,
+          "text": "Te sfătuiesc să cumperi de la Mine aur lămurit în foc, ca să te îmbogăţeşti, şi veşminte albe ca să te îmbraci şi să nu se dea pe faţă ruşinea goliciunii tale, şi alifie de ochi ca să-ţi ungi ochii şi să vezi."
+        },
+        {
+          "verse": 19,
+          "text": "Eu pe câţi îi iubesc îi mustru şi îi pedepsesc; sârguieşte dar şi te pocăieşte."
+        },
+        {
+          "verse": 20,
+          "text": "Iată, stau la uşă şi bat; de va auzi cineva glasul Meu şi va deschide uşa, voi intra la el şi voi cina cu el şi el cu Mine."
+        },
+        {
+          "verse": 21,
+          "text": "Celui ce biruieşte îi voi da să şadă cu Mine pe scaunul Meu, precum şi Eu am biruit şi am şezut cu Tatăl Meu pe scaunul Lui."
+        },
+        {
+          "verse": 22,
+          "text": "Cine are urechi să audă ceea ce Duhul zice Bisericilor."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_04_01",
+      "chapter": 4,
+      "pericope_num": "01",
+      "title_en": "The Heavenly Worship",
+      "title_ro": "Închinarea cerească",
+      "start_verse": 1,
+      "end_verse": 11,
+      "verse_count": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "După acestea, m-am uitat şi iată o uşă era deschisă în cer şi glasul cel dintâi - glasul ca de trâmbiţă, pe care l-am auzit vorbind cu mine - mi-a zis: Suie-te aici şi îţi voi arăta cele ce trebuie să fie după acestea."
+        },
+        {
+          "verse": 2,
+          "text": "Îndată am fost în duh; şi iată un tron era în cer şi pe tron şedea Cineva."
+        },
+        {
+          "verse": 3,
+          "text": "Şi Cel ce şedea semăna la vedere cu piatra de iasp şi de sardiu, iar de jur împrejurul tronului era un curcubeu, cu înfăţişarea smaraldului."
+        },
+        {
+          "verse": 4,
+          "text": "Şi douăzeci şi patru de scaune înconjurau tronul şi pe scaune douăzeci şi patru de bătrâni, şezând, îmbrăcaţi în haine albe şi purtând pe capetele lor cununi de aur."
+        },
+        {
+          "verse": 5,
+          "text": "Şi din tron ieşeau fulgere şi glasuri şi tunete; şi şapte făclii de foc ardeau înaintea tronului, care sunt cele şapte duhuri ale lui Dumnezeu,"
+        },
+        {
+          "verse": 6,
+          "text": "Şi înaintea tronului, ca o mare de sticlă, asemenea cu cristalul. Iar în mijlocul tronului şi împrejurul tronului patru fiinţe, pline de ochi, dinainte şi dinapoi."
+        },
+        {
+          "verse": 7,
+          "text": "Şi fiinţa cea dintâi era asemenea leului, a doua fiinţă asemenea viţelului, a treia fiinţă avea faţă de om, iar a patra fiinţă era asemenea vulturului care zboară."
+        },
+        {
+          "verse": 8,
+          "text": "Şi cele patru fiinţe, având fiecare din ele câte şase aripi, sunt pline de ochi, de jur împrejur şi pe dinăuntru, şi odihnă nu au, ziua şi noaptea, zicând: Sfânt, Sfânt, Sfânt, Domnul Dumnezeu, Atotţiitorul, Cel ce era şi Cel ce este şi Cel ce vine."
+        },
+        {
+          "verse": 9,
+          "text": "Şi când cele patru fiinţe dădeau slavă, cinste şi mulţumită Celui ce şade pe tron, Celui ce este viu în vecii vecilor,"
+        },
+        {
+          "verse": 10,
+          "text": "Atunci cei douăzeci şi patru de bătrâni, căzând înaintea Celui ce şedea pe tron, se închinau Celui ce este viu în vecii vecilor şi aruncau cununile lor înaintea tronului, zicând:"
+        },
+        {
+          "verse": 11,
+          "text": "Vrednic eşti, Doamne şi Dumnezeul nostru, să primeşti slava şi cinstea şi puterea, căci Tu ai zidit toate lucrurile şi prin voinţa Ta ele erau şi s-au făcut."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_05_01",
+      "chapter": 5,
+      "pericope_num": "01",
+      "title_en": "The Scroll and the Lamb",
+      "title_ro": "Sulul și Mielul",
+      "start_verse": 1,
+      "end_verse": 14,
+      "verse_count": 14,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Am văzut apoi, în mâna dreaptă a Celui ce şedea pe tron, o carte scrisă înăuntru şi pe dos, pecetluită cu şapte peceţi."
+        },
+        {
+          "verse": 2,
+          "text": "Şi am văzut un înger puternic, care striga cu glas mare: Cine este vrednic să deschidă cartea şi să desfacă toate peceţile ei?"
+        },
+        {
+          "verse": 3,
+          "text": "Dar nimeni în cer, nici pe pământ, nici sub pământ nu putea să deschidă cartea, nici să se uite în ea."
+        },
+        {
+          "verse": 4,
+          "text": "Şi am plâns mult, fiindcă nimeni n-a fost găsit vrednic să deschidă cartea, nici să se uite în ea."
+        },
+        {
+          "verse": 5,
+          "text": "Şi unul dintre bătrâni mi-a zis: Nu plânge. Iată, a biruit leul din seminţia lui Iuda, rădăcina lui David, ca să deschidă cartea şi cele şapte peceţi ale ei."
+        },
+        {
+          "verse": 6,
+          "text": "Şi am văzut, la mijloc, între tron şi cele patru fiinţe şi în mijlocul bătrânilor, stând un Miel, ca înjunghiat, şi care avea şapte coarne şi şapte ochi, care sunt cele şapte duhuri ale lui Dumnezeu, trimise în tot pământul."
+        },
+        {
+          "verse": 7,
+          "text": "Şi a venit şi a luat cartea, din dreapta Celui ce şedea pe tron."
+        },
+        {
+          "verse": 8,
+          "text": "Şi când a luat cartea, cele patru fiinţe şi cei douăzeci şi patru de bătrâni au căzut înaintea Mielului, având fiecare alăută şi cupe de aur pline cu tămâie care sunt rugăciunile sfinţilor."
+        },
+        {
+          "verse": 9,
+          "text": "Şi cântau o cântare nouă, zicând: Vrednic eşti să iei cartea şi să deschizi peceţile ei, fiindcă ai fost înjunghiat şi ai răscumpărat lui Dumnezeu, cu sângele Tău, oameni din toată seminţia şi limba şi poporul şi neamul;"
+        },
+        {
+          "verse": 10,
+          "text": "Şi I-ai făcut Dumnezeului nostru împărăţie şi preoţi, şi vor împărăţi pe pământ."
+        },
+        {
+          "verse": 11,
+          "text": "Şi am văzut şi am auzit glas de îngeri mulţi, de jur împrejurul tronului şi al fiinţelor şi al bătrânilor, şi era numărul lor zeci de mii de zeci de mii şi mii de mii,"
+        },
+        {
+          "verse": 12,
+          "text": "Zicând cu glas mare: Vrednic este Mielul cel înjunghiat ca să ia puterea şi bogăţia şi înţelepciunea şi tăria şi cinstea şi slava şi binecuvântarea."
+        },
+        {
+          "verse": 13,
+          "text": "Şi toată făptura care este în cer şi pe pământ şi sub pământ şi în mare şi toate câte sunt în acestea le-am auzit, zicând: Celui ce şade pe tron şi Mielului fie binecuvântarea şi cinstea şi slava şi puterea, în vecii vecilor!"
+        },
+        {
+          "verse": 14,
+          "text": "Şi cele patru fiinţe ziceau: Amin! Iar bătrânii căzură şi se închinară."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_06_01",
+      "chapter": 6,
+      "pericope_num": "01",
+      "title_en": "The Seven Seals",
+      "title_ro": "Cele șapte peceți",
+      "start_verse": 1,
+      "end_verse": 17,
+      "verse_count": 17,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi am văzut când Mielul a deschis pe cea dintâi din cele şapte peceţi, şi am auzit pe una din cele patru fiinţe zicând cu glas ca de tunet: Vino şi vezi."
+        },
+        {
+          "verse": 2,
+          "text": "Şi m-am uitat şi iată un cal alb şi cel care şedea pe el avea un arc; şi i s-a dat lui cunună şi a pornit ca un biruitor ca să biruiască."
+        },
+        {
+          "verse": 3,
+          "text": "Şi când a deschis pecetea a doua, am auzit, zicând, pe a doua fiinţă: Vino şi vezi."
+        },
+        {
+          "verse": 4,
+          "text": "Şi a ieşit alt cal, roşu ca focul; şi celui ce şedea pe el i s-a dat să ia pacea de pe pământ, ca oamenii să se junghie între ei; şi o sabie mare i s-a dat."
+        },
+        {
+          "verse": 5,
+          "text": "Şi când a deschis pecetea a treia, am auzit pe a treia fiinţă, zicând: Vino şi vezi. Şi m-am uitat şi iată un cal negru şi cel care şedea pe el avea un cântar în mâna lui."
+        },
+        {
+          "verse": 6,
+          "text": "Şi am auzit, în mijlocul celor patru fiinţe, ca un glas care zicea: Măsura de grâu un dinar, şi trei măsuri de orz un dinar. Dar de untdelemn şi de vin să nu te atingi."
+        },
+        {
+          "verse": 7,
+          "text": "Şi când a deschis pecetea a patra, am auzit glasul fiinţei a patra, zicând: Vino şi vezi."
+        },
+        {
+          "verse": 8,
+          "text": "Şi m-am uitat şi iată un cal galben-vânăt şi numele celui ce şedea pe el era: Moartea; şi iadul se ţinea după el; şi li s-a dat lor putere peste a patra parte a pământului, ca să ucidă cu sabie şi cu foamete, şi cu moarte şi cu fiarele de pe pământ."
+        },
+        {
+          "verse": 9,
+          "text": "Şi când a deschis pecetea a cincea, am văzut, sub jertfelnic, sufletele celor înjunghiaţi pentru cuvântul lui Dumnezeu şi pentru mărturia pe care au dat-o."
+        },
+        {
+          "verse": 10,
+          "text": "Şi strigau cu glas mare şi ziceau: Până când, Stăpâne sfinte şi adevărate, nu vei judeca şi nu vei răzbuna sângele nostru, faţă de cei ce locuiesc pe pământ?"
+        },
+        {
+          "verse": 11,
+          "text": "Şi fiecăruia dintre ei i s-a dat câte un veşmânt alb şi li s-a spus ca să stea în tihnă, încă puţină vreme, până când vor împlini numărul şi cei împreună-slujitori cu ei şi fraţii lor, cei ce aveau să fie omorâţi ca şi ei."
+        },
+        {
+          "verse": 12,
+          "text": "Şi m-am uitat când a deschis pecetea a şasea şi s-a făcut cutremur mare, soarele s-a făcut negru ca un sac de păr şi luna întreagă s-a făcut ca sângele,"
+        },
+        {
+          "verse": 13,
+          "text": "Şi stelele cerului au căzut pe pământ, precum smochinul îşi leapădă smochinele sale verzi, când este zguduit de vijelie."
+        },
+        {
+          "verse": 14,
+          "text": "Iar cerul s-a dat în lături, ca o carte de piele pe care o faci sul şi toţi munţii şi toate insulele s-au mişcat din locurile lor."
+        },
+        {
+          "verse": 15,
+          "text": "Şi împăraţii pământului şi domnii şi căpeteniile oştilor şi bogaţii şi cei puternici şi toţi robii şi toţi slobozii s-au ascuns în peşteri şi în stâncile munţilor,"
+        },
+        {
+          "verse": 16,
+          "text": "Strigând munţilor şi stâncilor: Cădeţi peste noi şi ne ascundeţi pe noi de faţa Celui ce şade pe tron şi de mânia Mielului;"
+        },
+        {
+          "verse": 17,
+          "text": "Că a venit ziua cea mare a mâniei lor, şi cine are putere ca să stea pe loc?"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_07_01",
+      "chapter": 7,
+      "pericope_num": "01",
+      "title_en": "The 144,000 of Israel Sealed",
+      "title_ro": "Cei 144.000 din Israel pecetluiți",
+      "start_verse": 1,
+      "end_verse": 8,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "După aceasta am văzut patru îngeri, stând la cele patru unghiuri ale pământului, ţinând cele patru vânturi ale pământului, ca să nu sufle vânt pe pământ, nici peste mare, nici peste vreun copac."
+        },
+        {
+          "verse": 2,
+          "text": "Şi am văzut un alt înger care se ridica de la Răsăritul Soarelui şi avea pecetea Viului Dumnezeu. Îngerul a strigat cu glas puternic către cei patru îngeri, cărora li s-a dat să vatăme pământul şi marea,"
+        },
+        {
+          "verse": 3,
+          "text": "Zicând: Nu vătămaţi pământul, nici marea, nici copacii, până ce nu vom pecetlui, pe frunţile lor, pe robii Dumnezeului nostru."
+        },
+        {
+          "verse": 4,
+          "text": "Şi am auzit numărul celor pecetluiţi: o sută patruzeci şi patru de mii de pecetluiţi, din toate seminţiile fiilor lui Israel:"
+        },
+        {
+          "verse": 5,
+          "text": "Din seminţia lui Iuda, douăsprezece mii de pecetluiţi; din seminţia lui Ruben, douăsprezece mii; din seminţia lui Gad, douăsprezece mii;"
+        },
+        {
+          "verse": 6,
+          "text": "Din seminţia lui Aşer, douăsprezece mii; din seminţia lui Neftali, douăsprezece mii; din seminţia lui Manase, douăsprezece mii;"
+        },
+        {
+          "verse": 7,
+          "text": "Din seminţia lui Simeon, douăsprezece mii; din seminţia lui Levi, douăsprezece mii; din seminţia lui Isahar, douăsprezece mii;"
+        },
+        {
+          "verse": 8,
+          "text": "Din seminţia lui Zabulon, douăsprezece mii; din seminţia lui Iosif, douăsprezece mii; din seminţia Veniamin, douăsprezece mii de pecetluiţi."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_07_02",
+      "chapter": 7,
+      "pericope_num": "02",
+      "title_en": "The Multitude from Every Nation",
+      "title_ro": "Mulțimea din toate neamurile",
+      "start_verse": 9,
+      "end_verse": 17,
+      "verse_count": 9,
+      "verses": [
+        {
+          "verse": 9,
+          "text": "După acestea, m-am uitat şi iată mulţime multă, pe care nimeni nu putea s-o numere, din tot neamul şi seminţiile şi popoarele şi limbile, stând înaintea tronului şi înaintea Mielului, îmbrăcaţi în veşminte albe şi având în mână ramuri de finic."
+        },
+        {
+          "verse": 10,
+          "text": "Şi mulţimea striga cu glas mare, zicând: Mântuirea este de la Dumnezeul nostru, Care şade pe tron, şi de la Mielul."
+        },
+        {
+          "verse": 11,
+          "text": "Şi toţi îngerii stăteau împrejurul tronului bătrânilor şi al celor patru fiinţe, şi au căzut înaintea tronului pe feţele lor şi s-au închinat lui Dumnezeu,"
+        },
+        {
+          "verse": 12,
+          "text": "Zicând: Amin! Binecuvântarea şi slava şi înţelepciunea şi mulţumirea şi cinstea şi puterea şi tăria fie Dumnezeului nostru, în vecii vecilor. Amin!"
+        },
+        {
+          "verse": 13,
+          "text": "Iar unul dintre bătrâni a deschis gura şi mi-a zis: Aceştia care sunt îmbrăcaţi în veşminte albe, cine sunt şi de unde au venit?"
+        },
+        {
+          "verse": 14,
+          "text": "Şi i-am zis: Doamne, Tu ştii. El mi-a răspuns: Aceştia sunt cei ce vin din strâmtorarea cea mare şi şi-au spălat veşmintele lor şi le-au făcut albe în sângele Mielului."
+        },
+        {
+          "verse": 15,
+          "text": "Pentru aceea sunt înaintea tronului lui Dumnezeu, şi Îi slujesc ziua şi noaptea, în templul Lui, şi Cel ce şade pe tron îi va adăposti în cortul Său."
+        },
+        {
+          "verse": 16,
+          "text": "Şi nu vor mai flămânzi, nici nu vor mai înseta, nici nu va mai cădea soarele peste ei şi nici o arşiţă;"
+        },
+        {
+          "verse": 17,
+          "text": "Căci Mielul, Cel ce stă în mijlocul tronului, îi va paşte pe ei şi-i va duce la izvoarele apelor vieţii şi Dumnezeu va şterge orice lacrimă din ochii lor."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_08_01",
+      "chapter": 8,
+      "pericope_num": "01",
+      "title_en": "The Seventh Seal and the Golden Censer",
+      "title_ro": "Pecetea a șaptea și cădelniţa de aur",
+      "start_verse": 1,
+      "end_verse": 8,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi când Mielul a deschis pecetea a şaptea, s-a făcut tăcere în cer, ca la o jumătate de ceas."
+        },
+        {
+          "verse": 2,
+          "text": "Şi am văzut pe cei şapte îngeri, care stau înaintea lui Dumnezeu şi li s-a dat lor şapte trâmbiţe."
+        },
+        {
+          "verse": 3,
+          "text": "Şi a venit un alt înger şi a stat la altar, având cădelniţă de aur, şi i s-a dat lui tămâie multă, ca s-o aducă împreună cu rugăciunile tuturor sfinţilor, pe altarul de aur dinaintea tronului."
+        },
+        {
+          "verse": 4,
+          "text": "Şi fumul tămâiei s-a suit, din mâna îngerului, înaintea lui Dumnezeu, împreună cu rugăciunile sfinţilor."
+        },
+        {
+          "verse": 5,
+          "text": "Şi îngerul a luat cădelniţa şi a umplut-o din focul altarului şi a aruncat pe pământ; şi s-au pornit tunete şi glasuri şi fulgere şi cutremur."
+        },
+        {
+          "verse": 6,
+          "text": "Iar cei şapte îngeri, care aveau cele şapte trâmbiţe, s-au gătit ca să trâmbiţeze."
+        },
+        {
+          "verse": 7,
+          "text": "Şi a trâmbiţat întâiul înger, şi s-a pornit grindină şi foc amestecat cu sânge şi au căzut pe pământ; şi a ars din pământ a treia parte, şi a ars din copaci a treia parte, iar iarba verde a ars de tot."
+        },
+        {
+          "verse": 8,
+          "text": "A trâmbiţat, apoi, al doilea înger, şi ca un munte mare arzând în flăcări s-a prăbuşit în mare şi a treia parte din mare s-a prefăcut în sânge;"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_08_02",
+      "chapter": 8,
+      "pericope_num": "02",
+      "title_en": "The Seven Trumpets",
+      "title_ro": "Cele șapte trâmbițe",
+      "start_verse": 6,
+      "end_verse": 13,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 6,
+          "text": "Iar cei şapte îngeri, care aveau cele şapte trâmbiţe, s-au gătit ca să trâmbiţeze."
+        },
+        {
+          "verse": 7,
+          "text": "Şi a trâmbiţat întâiul înger, şi s-a pornit grindină şi foc amestecat cu sânge şi au căzut pe pământ; şi a ars din pământ a treia parte, şi a ars din copaci a treia parte, iar iarba verde a ars de tot."
+        },
+        {
+          "verse": 8,
+          "text": "A trâmbiţat, apoi, al doilea înger, şi ca un munte mare arzând în flăcări s-a prăbuşit în mare şi a treia parte din mare s-a prefăcut în sânge;"
+        },
+        {
+          "verse": 9,
+          "text": "Şi a pierit a treia parte din făpturile cu viaţă în ele, care sunt în mare, şi a treia parte din corăbii s-a sfărâmat."
+        },
+        {
+          "verse": 10,
+          "text": "Şi a trâmbiţat al treilea înger, şi a căzut din cer o stea uriaşă, arzând ca o făclie, şi a căzut peste izvoarele apelor."
+        },
+        {
+          "verse": 11,
+          "text": "Şi numele stelei se cheamă Absintos. Şi a treia parte din ape s-a făcut ca pelinul şi mulţi dintre oameni au murit din pricina apelor, pentru că se făcuseră amare."
+        },
+        {
+          "verse": 12,
+          "text": "Şi a trâmbiţat al patrulea înger; şi a fost lovită a treia parte din soare, şi a treia parte din lună, şi a treia parte din stele, ca să fie întunecată a treia parte a lor şi ziua să-şi piardă din lumină a treia parte, şi noaptea tot aşa."
+        },
+        {
+          "verse": 13,
+          "text": "Şi am văzut şi am auzit un vultur, care zbura spre înaltul cerului şi striga cu glas mare: Vai, vai, vai celor ce locuiesc pe pământ, din pricina celorlalte glasuri ale trâmbiţei celor trei îngeri, care sunt gata să trâmbiţeze!"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_09_01",
+      "chapter": 9,
+      "pericope_num": "01",
+      "title_en": "Revelation Chapter 9",
+      "title_ro": "Apocalipsa capitolul 9",
+      "start_verse": 1,
+      "end_verse": 21,
+      "verse_count": 21,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi a trâmbiţat al cincilea înger, şi am văzut o stea căzută din cer pe pământ şi i s-a dat cheia fântânii adâncului."
+        },
+        {
+          "verse": 2,
+          "text": "Şi a deschis fântâna adâncului şi fum s-a ridicat din fântână, ca fumul unui cuptor mare, şi soarele şi văzduhul s-au întunecat de fumul fântânii."
+        },
+        {
+          "verse": 3,
+          "text": "Şi din fum au ieşit lăcuste pe pământ şi li s-a dat lor putere precum au putere scorpiile pământului."
+        },
+        {
+          "verse": 4,
+          "text": "Şi li s-a poruncit să nu vatăme iarba pământului şi nici o verdeaţă şi nici un copac, fără numai pe oamenii care nu au pecetea lui Dumnezeu pe frunţile lor."
+        },
+        {
+          "verse": 5,
+          "text": "Şi nu li s-a dat ca să-i omoare, ci ca să fie chinuiţi cinci luni; şi chinul lor este la fel cu chinul scorpiei, când a înţepat pe om."
+        },
+        {
+          "verse": 6,
+          "text": "Şi în zilele acelea vor căuta oamenii moartea şi nu o vor afla şi vor dori să moară; moartea însă va fugi de ei."
+        },
+        {
+          "verse": 7,
+          "text": "Iar înfăţişarea lăcustelor era asemenea unor cai pregătiţi de război. Pe capete aveau cununi ca de aur, şi feţele lor erau ca nişte feţe de oameni."
+        },
+        {
+          "verse": 8,
+          "text": "Şi aveau păr ca părul de femei şi dinţii lor erau ca dinţii leilor."
+        },
+        {
+          "verse": 9,
+          "text": "Şi aveau platoşe ca platoşele de fier, iar vuietul aripilor era la fel cu vuietul unei mulţimi de care şi de cai, care aleargă la luptă."
+        },
+        {
+          "verse": 10,
+          "text": "Şi aveau cozi şi bolduri asemenea scorpiilor; şi puterea lor e în cozile lor, ca să vatăme pe oameni cinci luni."
+        },
+        {
+          "verse": 11,
+          "text": "Şi au ca împărat al lor pe îngerul adâncului, al cărui nume, în evreieşte, este Abaddon, iar în elineşte are numele Apollion."
+        },
+        {
+          "verse": 12,
+          "text": "Întâiul \"vai\" a trecut; iată vine încă un \"vai\" şi încă unul, după acestea."
+        },
+        {
+          "verse": 13,
+          "text": "Şi a trâmbiţat al şaselea înger. Şi am auzit un glas, din cele patru cornuri ale altarului de aur, care este înaintea lui Dumnezeu,"
+        },
+        {
+          "verse": 14,
+          "text": "Zicând către îngerul al şaselea, cel ce avea trâmbiţa: Dezleagă pe cei patru îngeri care sunt legaţi la râul cel mare, Eufratul."
+        },
+        {
+          "verse": 15,
+          "text": "Şi au fost dezlegaţi cei patru îngeri, care erau gătiţi spre ceasul şi ziua şi luna şi anul acela, ca să omoare a treia parte din oameni."
+        },
+        {
+          "verse": 16,
+          "text": "Şi numărul oştilor era de douăzeci de mii de ori câte zece mii de călăreţi, căci am auzit numărul lor."
+        },
+        {
+          "verse": 17,
+          "text": "Şi aşa am văzut, în vedenie, caii şi pe cei ce şedeau pe ei, având platoşe ca de foc şi de iachint şi de pucioasă; iar capetele cailor semănau cu capetele leilor şi din gurile lor ieşea foc şi fum şi pucioasă."
+        },
+        {
+          "verse": 18,
+          "text": "De aceste trei plăgi: de focul şi de fumul şi de pucioasa, care ieşea din gurile lor, a fost ucisă a treia parte din oameni."
+        },
+        {
+          "verse": 19,
+          "text": "Pentru că puterea cailor este în gura lor şi în cozile lor; căci cozile lor sunt asemenea şerpilor, având capete, şi cu acestea vatămă."
+        },
+        {
+          "verse": 20,
+          "text": "Dar ceilalţi oameni care nu au murit de plăgile acestea, nu s-au pocăit de faptele mâinilor lor, ca să nu se mai închine idolilor de aur şi de argint şi de aramă şi de piatră şi de lemn, care nu pot nici să vadă, nici să audă, nici să umble."
+        },
+        {
+          "verse": 21,
+          "text": "Şi nu s-au pocăit de uciderile lor, nici de fermecătoriile lor, nici de desfrânarea lor, nici de furtişagurile lor."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_10_01",
+      "chapter": 10,
+      "pericope_num": "01",
+      "title_en": "The Angel with the Little Scroll",
+      "title_ro": "Îngerul cu sulul cel mic",
+      "start_verse": 1,
+      "end_verse": 11,
+      "verse_count": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi am văzut alt înger puternic, pogorându-se din cer, învăluit într-un nor şi pe capul lui era curcubeul, iar faţa lui strălucea ca soarele şi picioarele lui erau ca nişte stâlpi de foc,"
+        },
+        {
+          "verse": 2,
+          "text": "Şi în mână avea o carte mică, deschisă. Şi a pus piciorul lui cel drept pe mare, iar pe cel stâng pe pământ,"
+        },
+        {
+          "verse": 3,
+          "text": "Şi a strigat cu glas puternic, precum răcneşte leul. Iar când a strigat, cele şapte tunete au slobozit glasurile lor."
+        },
+        {
+          "verse": 4,
+          "text": "Şi când au vorbit cele şapte tunete, voiam să scriu, dar am auzit o voce care zicea din cer: Pecetluieşte cele ce au spus cele şapte tunete şi nu le scrie."
+        },
+        {
+          "verse": 5,
+          "text": "Iar îngerul pe care l-am văzut stând pe mare şi pe pământ, şi-a ridicat mâna dreaptă către cer,"
+        },
+        {
+          "verse": 6,
+          "text": "Şi s-a jurat pe Cel ce este viu în vecii vecilor, Care a făcut cerul şi cele ce sunt în cer şi pământul şi cele ce sunt pe pământ şi marea şi cele ce sunt în mare, că timp nu va mai fi,"
+        },
+        {
+          "verse": 7,
+          "text": "Ci, în zilele când va grăi al şaptelea înger - când va fi să trâmbiţeze - atunci va fi săvârşită taina lui Dumnezeu, precum bine a vestit robilor Săi, proorocilor."
+        },
+        {
+          "verse": 8,
+          "text": "Iar glasul din cer, pe care-l auzisem, iarăşi a vorbit cu mine, zicând: Mergi de ia cartea cea deschisă din mâna îngerului, care stă pe mare şi pe pământ."
+        },
+        {
+          "verse": 9,
+          "text": "Şi m-am dus la înger şi i-am zis să-mi dea cartea. Şi mi-a răspuns: Ia-o şi mănânc-o şi va amărî pântecele tău, dar în gura ta va fi dulce ca mierea."
+        },
+        {
+          "verse": 10,
+          "text": "Atunci am luat cartea din mâna îngerului şi am mâncat-o; şi era în gura mea dulce ca mierea, dar, după ce-am mâncat-o pântecele meu s-a amărât."
+        },
+        {
+          "verse": 11,
+          "text": "Şi apoi mi-a zis: Tu trebuie să prooroceşti, încă o dată, la popoare şi la neamuri şi la limbi şi la mulţi împăraţi."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_11_01",
+      "chapter": 11,
+      "pericope_num": "01",
+      "title_en": "The Two Witnesses",
+      "title_ro": "Cei doi martori",
+      "start_verse": 1,
+      "end_verse": 14,
+      "verse_count": 14,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Apoi mi-au dat o trestie, asemenea unui toiag, zicând: Scoală-te şi măsoară templul lui Dumnezeu şi altarul şi pe cei ce se închină în el."
+        },
+        {
+          "verse": 2,
+          "text": "Iar curtea cea din afară a templului, scoate-o din socoteală şi n-o măsura, pentru că a fost dată neamurilor, care vor călca în picioare cetatea sfântă patruzeci şi două de luni."
+        },
+        {
+          "verse": 3,
+          "text": "Şi voi da putere celor doi martori ai mei şi vor prooroci, îmbrăcaţi în sac, o mie două sute şi şaizeci de zile."
+        },
+        {
+          "verse": 4,
+          "text": "Aceştia sunt cei doi măslini şi cele două sfeşnice care stau înaintea Domnului pământului."
+        },
+        {
+          "verse": 5,
+          "text": "Şi dacă voieşte cineva să-i vatăme, foc iese din gura lor şi mistuieşte pe vrăjmaşii lor; şi dacă ar voi cineva să-i vatăme, acela trebuie ucis."
+        },
+        {
+          "verse": 6,
+          "text": "Aceştia au putere să închidă cerul, ca ploaia să nu plouă în zilele proorociei lor, şi putere au peste ape să le schimbe în sânge şi să bată pământul cu orice fel de urgie, ori de câte ori vor voi."
+        },
+        {
+          "verse": 7,
+          "text": "Iar când vor isprăvi cu mărturia lor, fiara care se ridică din adânc va face război cu ei, şi-i va birui şi-i va omorî."
+        },
+        {
+          "verse": 8,
+          "text": "Şi trupurile lor vor zăcea pe uliţele cetăţii celei mari, care se cheamă, duhovniceşte, Sodoma şi Egipt, unde a fost răstignit şi Domnul lor."
+        },
+        {
+          "verse": 9,
+          "text": "Şi din popoare, din seminţii, din limbi şi din neamuri vor privi la trupurile lor trei zile şi jumătate şi nu vor îngădui ca ele să fie puse în mormânt."
+        },
+        {
+          "verse": 10,
+          "text": "Iar locuitorii de pe pământ se vor bucura de moartea lor şi vor fi în veselie şi îşi vor trimite daruri unul altuia, pentru că aceşti doi prooroci au chinuit pe locuitorii de pe pământ."
+        },
+        {
+          "verse": 11,
+          "text": "Şi după cele trei zile şi jumătate, duh de viaţă de la Dumnezeu a intrat în ei şi s-au ridicat pe picioarele lor şi frică mare a căzut peste cei ce se uitau la ei."
+        },
+        {
+          "verse": 12,
+          "text": "Şi din cer au auzit glas puternic, zicându-le: Suiţi-vă aici! Şi s-au suit la cer, în nori, şi au privit la ei duşmanii lor."
+        },
+        {
+          "verse": 13,
+          "text": "Şi în ceasul acela s-a făcut cutremur mare şi a zecea parte din cetate s-a prăbuşit şi au pierit în cutremur şapte mii de oameni, iar ceilalţi s-au înfricoşat şi au dat slavă Dumnezeului cerului."
+        },
+        {
+          "verse": 14,
+          "text": "Al doilea \"vai\" a trecut; al treilea \"vai\", iată, vine degrabă."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_11_02",
+      "chapter": 11,
+      "pericope_num": "02",
+      "title_en": "The Seventh Trumpet",
+      "title_ro": "Trâmbița a șaptea",
+      "start_verse": 15,
+      "end_verse": 19,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 15,
+          "text": "Şi a trâmbiţat al şaptelea înger şi s-au pornit, în cer, glasuri puternice care ziceau: Împărăţia lumii a ajuns a Domnului nostru şi a Hristosului Său şi va împărăţi în vecii vecilor."
+        },
+        {
+          "verse": 16,
+          "text": "Şi cei douăzeci şi patru de bătrâni, care şed înaintea lui Dumnezeu pe scaunele lor, au căzut cu feţele la pământ şi s-au închinat lui Dumnezeu,"
+        },
+        {
+          "verse": 17,
+          "text": "Zicând: Mulţumim Ţie, Doamne Dumnezeule, Atotţiitorule, Cel ce eşti şi Cel ce erai şi Cel ce vii, că ai luat puterea Ta cea mare şi împărăţeşti."
+        },
+        {
+          "verse": 18,
+          "text": "Şi neamurile s-au mâniat, dar a venit mânia Ta şi vremea celor morţi, ca să fie judecaţi, şi să răsplăteşti pe robii Tăi, pe prooroci şi pe sfinţi şi pe cei ce se tem de numele Tău, pe cei mici şi pe cei mari, şi să pierzi pe cei ce prăpădesc pământul."
+        },
+        {
+          "verse": 19,
+          "text": "Şi s-a deschis templul lui Dumnezeu, cel din cer, şi s-a văzut în templul Lui chivotul legământului Său, şi au fost fulgere şi vuiete şi tunete şi cutremur şi grindină mare."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_12_01",
+      "chapter": 12,
+      "pericope_num": "01",
+      "title_en": "The Woman and the Dragon",
+      "title_ro": "Femeia și balaurul",
+      "start_verse": 1,
+      "end_verse": 12,
+      "verse_count": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi s-a arătat din cer un semn mare: o femeie înveşmântată cu soarele şi luna era sub picioarele ei şi pe cap purta cunună din douăsprezece stele."
+        },
+        {
+          "verse": 2,
+          "text": "Şi era însărcinată şi striga, chinuindu-se şi muncindu-se ca să nască."
+        },
+        {
+          "verse": 3,
+          "text": "Şi alt semn s-a arătat în cer: iată un balaur mare, roşu, având şapte capete şi zece coarne, şi pe capetele lui, şapte cununi împărăteşti."
+        },
+        {
+          "verse": 4,
+          "text": "Iar coada lui târa a treia parte din stelele cerului şi le-a aruncat pe pământ. Şi balaurul stătu înaintea femeii, care era să nască, pentru ca să înghită copilul, când se va naşte."
+        },
+        {
+          "verse": 5,
+          "text": "Şi a născut un copil de parte bărbătească, care avea să păstorească toate neamurile cu toiag de fier. Şi copilul ei fu răpit la Dumnezeu şi la tronul Lui,"
+        },
+        {
+          "verse": 6,
+          "text": "Iar femeia a fugit în pustie, unde are loc gătit de Dumnezeu, ca să o hrănească pe ea, acolo, o mie două sute şi şaizeci de zile."
+        },
+        {
+          "verse": 7,
+          "text": "Şi s-a făcut război în cer: Mihail şi îngerii lui au pornit război cu balaurul. Şi se războia şi balaurul şi îngerii lui."
+        },
+        {
+          "verse": 8,
+          "text": "Şi n-a izbutit el, nici nu s-a mai găsit pentru ei loc în cer."
+        },
+        {
+          "verse": 9,
+          "text": "Şi a fost aruncat balaurul cel mare, şarpele de demult, care se cheamă diavol şi satana, cel ce înşeală pe toată lumea, aruncat a fost pe pământ şi îngerii lui au fost aruncaţi cu el."
+        },
+        {
+          "verse": 10,
+          "text": "Şi am auzit glas mare, în cer, zicând: Acum s-a făcut mântuirea şi puterea şi împărăţia Dumnezeului nostru şi stăpânirea Hristosului Său, căci aruncat a fost pârâşul fraţilor noştri, cel ce îi pâra pe ei înaintea Dumnezeului nostru, ziua şi noaptea."
+        },
+        {
+          "verse": 11,
+          "text": "Şi ei l-au biruit prin sângele Mielului şi prin cuvântul mărturiei lor şi nu şi-au iubit sufletul lor, până la moarte."
+        },
+        {
+          "verse": 12,
+          "text": "Pentru aceasta, bucuraţi-vă ceruri şi cei ce locuiţi în ele. Vai vouă, pământule şi mare, fiindcă diavolul a coborât la voi având mânie mare, căci ştie că timpul lui e scurt."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_12_02",
+      "chapter": 12,
+      "pericope_num": "02",
+      "title_en": "Michael Defeats the Dragon",
+      "title_ro": "Mihail învinge balaurul",
+      "start_verse": 7,
+      "end_verse": 12,
+      "verse_count": 6,
+      "verses": [
+        {
+          "verse": 7,
+          "text": "Şi s-a făcut război în cer: Mihail şi îngerii lui au pornit război cu balaurul. Şi se războia şi balaurul şi îngerii lui."
+        },
+        {
+          "verse": 8,
+          "text": "Şi n-a izbutit el, nici nu s-a mai găsit pentru ei loc în cer."
+        },
+        {
+          "verse": 9,
+          "text": "Şi a fost aruncat balaurul cel mare, şarpele de demult, care se cheamă diavol şi satana, cel ce înşeală pe toată lumea, aruncat a fost pe pământ şi îngerii lui au fost aruncaţi cu el."
+        },
+        {
+          "verse": 10,
+          "text": "Şi am auzit glas mare, în cer, zicând: Acum s-a făcut mântuirea şi puterea şi împărăţia Dumnezeului nostru şi stăpânirea Hristosului Său, căci aruncat a fost pârâşul fraţilor noştri, cel ce îi pâra pe ei înaintea Dumnezeului nostru, ziua şi noaptea."
+        },
+        {
+          "verse": 11,
+          "text": "Şi ei l-au biruit prin sângele Mielului şi prin cuvântul mărturiei lor şi nu şi-au iubit sufletul lor, până la moarte."
+        },
+        {
+          "verse": 12,
+          "text": "Pentru aceasta, bucuraţi-vă ceruri şi cei ce locuiţi în ele. Vai vouă, pământule şi mare, fiindcă diavolul a coborât la voi având mânie mare, căci ştie că timpul lui e scurt."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_12_03",
+      "chapter": 12,
+      "pericope_num": "03",
+      "title_en": "The Dragon Fights Again on Earth",
+      "title_ro": "Balaurul luptă din nou pe pământ",
+      "start_verse": 13,
+      "end_verse": 17,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 13,
+          "text": "Iar când a văzut balaurul că a fost aruncat pe pământ, a prigonit pe femeia care născuse pruncul."
+        },
+        {
+          "verse": 14,
+          "text": "Şi femeii i s-au dat cele două aripi ale marelui vultur, ca să zboare în pustie, la locul ei, unde e hrănită acolo o vreme şi vremuri şi jumătate de vreme, departe de faţa şarpelui."
+        },
+        {
+          "verse": 15,
+          "text": "Şi şarpele a aruncat din gura lui, după femeie, apă ca un râu ca s-o ia apa."
+        },
+        {
+          "verse": 16,
+          "text": "Şi pământul i-a venit femeii într-ajutor, căci pământul şi-a deschis gura sa şi a înghiţit râul pe care-l aruncase balaurul, din gură."
+        },
+        {
+          "verse": 17,
+          "text": "Şi balaurul s-a aprins de mânie asupra femeii şi a pornit să facă război cu ceilalţi din seminţia ei, care păzesc poruncile lui Dumnezeu şi ţin mărturia lui Iisus."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_12_04",
+      "chapter": 12,
+      "pericope_num": "04",
+      "title_en": "The First Beast",
+      "title_ro": "Prima fiară",
+      "start_verse": 18,
+      "end_verse": 18,
+      "verse_count": 1,
+      "verses": [
+        {
+          "verse": 18,
+          "text": "Şi a stat pe nisipul mării."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_13_01",
+      "chapter": 13,
+      "pericope_num": "01",
+      "title_en": "The Second Beast",
+      "title_ro": "A doua fiară",
+      "start_verse": 1,
+      "end_verse": 18,
+      "verse_count": 18,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi am văzut ridicându-se din mare o fiară, care avea zece coarne şi şapte capete şi pe coarnele ei zece cununi împărăteşti şi pe capetele ei: nume de hulă."
+        },
+        {
+          "verse": 2,
+          "text": "Şi fiara pe care am văzut-o era asemenea leopardului, picioarele ei erau ca ale ursului, iar gura ei ca o gură de leu. Şi balaurul i-a dat ei puterea lui şi scaunul lui şi stăpânire mare."
+        },
+        {
+          "verse": 3,
+          "text": "Şi unul din capetele fiarei era ca înjunghiat de moarte, dar rana ei cea de moarte fu vindecată şi tot pământul s-a minunat mergând după fiară."
+        },
+        {
+          "verse": 4,
+          "text": "Şi s-au închinat balaurului, fiindcă i-a dat fiarei stăpânirea; şi s-au închinat fiarei, zicând: Cine este asemenea fiarei şi cine poate să se lupte cu ea?"
+        },
+        {
+          "verse": 5,
+          "text": "Şi i s-a dat ei gură să grăiască semeţii şi hule şi i s-a dat putere să lucreze timp de patruzeci şi două de luni."
+        },
+        {
+          "verse": 6,
+          "text": "Şi şi-a deschis gura sa spre hula lui Dumnezeu, ca să hulească numele Lui şi cortul Lui şi pe cei ce locuiesc în cer."
+        },
+        {
+          "verse": 7,
+          "text": "Şi i s-a dat să facă război cu sfinţii şi să-i biruiască şi i s-a dat ei stăpânire peste toată seminţia şi poporul şi limba şi neamul."
+        },
+        {
+          "verse": 8,
+          "text": "Şi i se vor închina ei toţi cei ce locuiesc pe pământ, ale căror nume nu sunt scrise, de la întemeierea lumii, în cartea vieţii Mielului celui înjunghiat."
+        },
+        {
+          "verse": 9,
+          "text": "Dacă are cineva urechi - să audă!"
+        },
+        {
+          "verse": 10,
+          "text": "Cine duce în robie de robie are parte; cine cu sabia va ucide trebuie să fie ucis de sabie. Aici este răbdarea şi credinţa sfinţilor."
+        },
+        {
+          "verse": 11,
+          "text": "Şi am văzut o altă fiară, ridicându-se din pământ, şi avea două coarne asemenea mielului, dar grăia ca un balaur"
+        },
+        {
+          "verse": 12,
+          "text": "Şi toată stăpânirea celei dintâi fiare ea o pune în lucrare, în faţa ei. Şi face pământul şi pe locuitorii de pe el să se închine fiarei celei dintâi, a cărei rană de moarte fusese vindecată."
+        },
+        {
+          "verse": 13,
+          "text": "Şi face semne mari, încât şi foc face să se pogoare din cer, pe pământ, înaintea oamenilor,"
+        },
+        {
+          "verse": 14,
+          "text": "Şi amăgeşte pe cei ce locuiesc pe pământ prin semnele ce i s-au dat să facă înaintea fiarei, zicând celor ce locuiesc pe pământ să facă un chip fiarei care a fost rănită cu sabia şi a rămas în viaţă."
+        },
+        {
+          "verse": 15,
+          "text": "Şi i s-a dat ei să insufle duh chipului fiarei, ca chipul fiarei să şi grăiască şi să omoare pe toţi câţi nu se vor închina chipului fiarei."
+        },
+        {
+          "verse": 16,
+          "text": "Şi ea îi sileşte pe toţi, pe cei mici şi pe cei mari, şi pe cei bogaţi şi pe cei săraci, şi pe cei slobozi şi pe cei robi, ca să-şi pună semn pe mâna lor cea dreaptă sau pe frunte."
+        },
+        {
+          "verse": 17,
+          "text": "Încât nimeni să nu poată cumpăra sau vinde, decât numai cel ce are semnul, adică numele fiarei, sau numărul numelui fiarei."
+        },
+        {
+          "verse": 18,
+          "text": "Aici este înţelepciunea. Cine are pricepere să socotească numărul fiarei; căci este număr de om. Şi numărul ei este şase sute şaizeci şi şase."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_14_01",
+      "chapter": 14,
+      "pericope_num": "01",
+      "title_en": "The Lamb and the 144,000",
+      "title_ro": "Mielul și cei 144.000",
+      "start_verse": 1,
+      "end_verse": 14,
+      "verse_count": 14,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi m-am uitat şi iată Mielul stătea pe muntele Sion şi cu El o sută patruzeci şi patru de mii, care aveau numele Lui şi numele Tatălui Lui, scris pe frunţile lor."
+        },
+        {
+          "verse": 2,
+          "text": "Atunci am auzit un glas din cer, ca un vuiet de ape multe şi ca bubuitul unui tunet puternic, iar glasul pe care l-am auzit ca glasul celor ce cântă cu alăutele lor."
+        },
+        {
+          "verse": 3,
+          "text": "Şi cântau o cântare nouă, înaintea tronului şi înaintea celor patru fiinţe şi înaintea bătrânilor; şi nimeni nu putea să înveţe cântarea decât numai cei o sută patruzeci şi patru de mii, care fuseseră răscumpăraţi de pe pământ."
+        },
+        {
+          "verse": 4,
+          "text": "Aceştia sunt care nu s-au întinat cu femei, căci sunt feciorelnici. Aceştia sunt care merg după Miel ori unde se va duce. Aceştia au fost răscumpăraţi dintre oameni, pârgă lui Dumnezeu şi Mielului."
+        },
+        {
+          "verse": 5,
+          "text": "Iar în gura lor nu s-a aflat minciună, fiindcă sunt fără prihană."
+        },
+        {
+          "verse": 6,
+          "text": "Şi am văzut apoi alt înger, care zbura prin mijlocul cerului, având să binevestească Evanghelia veşnică celor ce locuiesc pe pământ şi la tot neamul şi seminţia şi limba şi poporul,"
+        },
+        {
+          "verse": 7,
+          "text": "Zicând cu glas puternic: Temeţi-vă de Dumnezeu şi daţi Lui slavă, că a venit ceasul judecăţii Lui, şi vă închinaţi Celui ce a făcut cerul şi pământul şi marea şi izvoarele apelor."
+        },
+        {
+          "verse": 8,
+          "text": "Şi un al doilea înger a venit, zicând: A căzut, a căzut Babilonul, cetatea cea mare, care a adăpat toate neamurile din vinul furiei desfrânării sale."
+        },
+        {
+          "verse": 9,
+          "text": "Şi al treilea înger a venit după ei, strigând cu glas puternic: Cine se închină fiarei şi chipului ei şi primeşte semnul ei pe fruntea lui, sau pe mâna lui,"
+        },
+        {
+          "verse": 10,
+          "text": "Va bea şi el din vinul aprinderii lui Dumnezeu, turnat neamestecat, în potirul mâniei Sale, şi se va chinui în foc şi în pucioasă, înaintea sfinţilor îngeri şi înaintea Mielului."
+        },
+        {
+          "verse": 11,
+          "text": "Şi fumul chinului lor se siue în vecii vecilor. Şi nu au odihnă nici ziua nici noaptea cei ce se închină fiarei şi chipului ei şi oricine primeşte semnul numelui ei."
+        },
+        {
+          "verse": 12,
+          "text": "Aici este răbdarea sfinţilor, care păzesc poruncile lui Dumnezeu şi credinţa lui Iisus."
+        },
+        {
+          "verse": 13,
+          "text": "Şi am auzit un glas din cer, zicând: Scrie: Fericiţi cei morţi, cei ce acum mor întru Domnul! Da, grăieşte Duhul, odihnească-se de ostenelile lor, căci faptele lor vin cu ei,"
+        },
+        {
+          "verse": 14,
+          "text": "Şi am privit şi iată un nor alb şi Cel ce şedea pe nor era asemenea Fiului Omului, având pe cap cunună de aur şi în mână seceră ascuţită."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_14_02",
+      "chapter": 14,
+      "pericope_num": "02",
+      "title_en": "The Messages of the Three Angels",
+      "title_ro": "Mesajele celor trei îngeri",
+      "start_verse": 6,
+      "end_verse": 13,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 6,
+          "text": "Şi am văzut apoi alt înger, care zbura prin mijlocul cerului, având să binevestească Evanghelia veşnică celor ce locuiesc pe pământ şi la tot neamul şi seminţia şi limba şi poporul,"
+        },
+        {
+          "verse": 7,
+          "text": "Zicând cu glas puternic: Temeţi-vă de Dumnezeu şi daţi Lui slavă, că a venit ceasul judecăţii Lui, şi vă închinaţi Celui ce a făcut cerul şi pământul şi marea şi izvoarele apelor."
+        },
+        {
+          "verse": 8,
+          "text": "Şi un al doilea înger a venit, zicând: A căzut, a căzut Babilonul, cetatea cea mare, care a adăpat toate neamurile din vinul furiei desfrânării sale."
+        },
+        {
+          "verse": 9,
+          "text": "Şi al treilea înger a venit după ei, strigând cu glas puternic: Cine se închină fiarei şi chipului ei şi primeşte semnul ei pe fruntea lui, sau pe mâna lui,"
+        },
+        {
+          "verse": 10,
+          "text": "Va bea şi el din vinul aprinderii lui Dumnezeu, turnat neamestecat, în potirul mâniei Sale, şi se va chinui în foc şi în pucioasă, înaintea sfinţilor îngeri şi înaintea Mielului."
+        },
+        {
+          "verse": 11,
+          "text": "Şi fumul chinului lor se siue în vecii vecilor. Şi nu au odihnă nici ziua nici noaptea cei ce se închină fiarei şi chipului ei şi oricine primeşte semnul numelui ei."
+        },
+        {
+          "verse": 12,
+          "text": "Aici este răbdarea sfinţilor, care păzesc poruncile lui Dumnezeu şi credinţa lui Iisus."
+        },
+        {
+          "verse": 13,
+          "text": "Şi am auzit un glas din cer, zicând: Scrie: Fericiţi cei morţi, cei ce acum mor întru Domnul! Da, grăieşte Duhul, odihnească-se de ostenelile lor, căci faptele lor vin cu ei,"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_14_03",
+      "chapter": 14,
+      "pericope_num": "03",
+      "title_en": "Reaping the Earth's Harvest",
+      "title_ro": "Secerișul pământului",
+      "start_verse": 14,
+      "end_verse": 20,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 14,
+          "text": "Şi am privit şi iată un nor alb şi Cel ce şedea pe nor era asemenea Fiului Omului, având pe cap cunună de aur şi în mână seceră ascuţită."
+        },
+        {
+          "verse": 15,
+          "text": "Şi iată un alt înger a ieşit din templu, strigând cu glas mare Celui ce şedea pe nor: Trimite secera şi seceră, că a venit ceasul de secerat, fiindcă s-a copt secerişul pământului."
+        },
+        {
+          "verse": 16,
+          "text": "Şi Cel ce şedea pe nor a aruncat pe pământ secera lui şi pământul a fost secerat."
+        },
+        {
+          "verse": 17,
+          "text": "Şi un alt înger a ieşit din templul cel ceresc, având şi el un cuţitaş ascuţit."
+        },
+        {
+          "verse": 18,
+          "text": "Şi încă un înger a ieşit din altar, având putere asupra focului, şi a strigat cu glas mare celui care avea cuţitaşul ascuţit, zicând: Trimite cuţitaşul tău cel ascuţit şi culege ciorchinii viei pământului, căci s-au copt."
+        },
+        {
+          "verse": 19,
+          "text": "Şi îngerul a aruncat, pe pământ, cuţitaşul lui şi a cules via pământului şi strugurii i-a aruncat în teascul cel mare al mâniei lui Dumnezeu."
+        },
+        {
+          "verse": 20,
+          "text": "Şi teascul a fost călcat afară din cetate şi a ieşit sânge din teasc, până la zăbalele cailor, pe o întindere de o mie şase sute de stadii."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_15_01",
+      "chapter": 15,
+      "pericope_num": "01",
+      "title_en": "The Angels with the Seven Last Plagues",
+      "title_ro": "Îngerii cu cele șapte plăgi de pe urmă",
+      "start_verse": 1,
+      "end_verse": 15,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Am văzut, apoi, în cer, alt semn, mare şi minunat: şapte îngeri având şapte pedepse - cele de pe urmă - căci cu ele s-a sfârşit mânia lui Dumnezeu."
+        },
+        {
+          "verse": 2,
+          "text": "Şi am văzut ca o mare de cristal, amestecată cu foc, şi pe biruitorii fiarei şi ai chipului ei şi ai numărului numelui ei, stând în picioare pe marea de cristal şi având alăutele lui Dumnezeu."
+        },
+        {
+          "verse": 3,
+          "text": "Şi ei cântau cântarea lui Moise, robul lui Dumnezeu, şi cântarea Mielului, zicând: Mari şi minunate sunt lucrurile Tale, Doamne Dumnezeule, Atotţiitorule! Drepte şi adevărate sunt căile Tale, Împărate al neamurilor!"
+        },
+        {
+          "verse": 4,
+          "text": "Cine nu se va teme de Tine, Doamne, şi nu va slăvi numele Tău? Că tu singur eşti sfânt şi toate neamurile vor veni şi se vor închina înaintea Ta, pentru că judecăţile Tale s-au făcut cunoscute."
+        },
+        {
+          "verse": 5,
+          "text": "Şi după aceasta, m-am uitat şi s-a deschis templul cortului mărturiei din cer."
+        },
+        {
+          "verse": 6,
+          "text": "Şi au ieşit din templu cei şapte îngeri cu cele şapte pedepse, îmbrăcaţi în veşmânt de in curat, luminos, şi încinşi, pe la piept, cu cingători de aur."
+        },
+        {
+          "verse": 7,
+          "text": "Şi una din cele patru făpturi dădu celor şapte îngeri cele şapte cupe de aur pline de mânia lui Dumnezeu, Cel ce este viu în vecii vecilor."
+        },
+        {
+          "verse": 8,
+          "text": "Iar templul se umplu de fum, din slava lui Dumnezeu şi din puterea Lui, şi nimeni nu putea să intre în templu, până ce se vor sfârşi cele şapte urgii ale celor şapte îngeri."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_16_01",
+      "chapter": 16,
+      "pericope_num": "01",
+      "title_en": "The Bowls of God's Wrath",
+      "title_ro": "Potirele mâniei lui Dumnezeu",
+      "start_verse": 1,
+      "end_verse": 21,
+      "verse_count": 21,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi am auzit glas mare, din templu, zicând celor şapte îngeri: Duceţi-vă şi vărsaţi pe pământ cele şapte cupe ale mâniei lui Dumnezeu."
+        },
+        {
+          "verse": 2,
+          "text": "Şi s-a dus cel dintâi şi a vărsat cupa lui pe pământ. Şi o bubă rea şi ucigătoare s-a ivit pe oamenii care aveau semnul fiarei şi care se închinau chipului fiarei."
+        },
+        {
+          "verse": 3,
+          "text": "Şi al doilea înger a vărsat cupa lui în mare, şi marea s-a prefăcut în sânge ca de mort, şi orice suflare de viaţă a murit, din cele ce sunt în mare."
+        },
+        {
+          "verse": 4,
+          "text": "Iar cel de al treilea a vărsat cupa lui în râuri şi în izvoarele apelor şi s-au prefăcut în sânge."
+        },
+        {
+          "verse": 5,
+          "text": "Şi am auzit pe îngerul apelor, zicând: Drept eşti Tu, Cel ce eşti şi Cel ce erai, Cel Sfânt, că ai judecat acestea:"
+        },
+        {
+          "verse": 6,
+          "text": "Fiindcă au vărsat sângele sfinţilor şi al proorocilor, tot sânge le-ai dat să bea. Vrednici sunt!"
+        },
+        {
+          "verse": 7,
+          "text": "Şi am auzit din altar, grăind: Da, Doamne Dumnezeule, Atotţiitorule, adevărate şi drepte sunt judecăţile Tale!"
+        },
+        {
+          "verse": 8,
+          "text": "Şi al patrulea înger a vărsat cupa lui în soare şi i s-a dat să dogorească pe oameni cu focul lui."
+        },
+        {
+          "verse": 9,
+          "text": "Şi oamenii au fost dogoriţi cu mare arşiţă şi au hulit numele lui Dumnezeu, Care are putere peste urgiile acestea, şi nu s-au pocăit ca să-I dea slavă."
+        },
+        {
+          "verse": 10,
+          "text": "Şi al cincilea înger a vărsat cupa lui pe scaunul fiarei şi în împărăţia ei s-a făcut întuneric şi oamenii îşi muşcau limbile de durere."
+        },
+        {
+          "verse": 11,
+          "text": "Şi au hulit pe Dumnezeul cerului din pricina durerilor şi a bubelor lor, dar de faptele lor nu s-au pocăit."
+        },
+        {
+          "verse": 12,
+          "text": "Şi al şaselea înger a vărsat cupa lui în râul cel mare Eufrat şi apele lui au secat, ca să fie gătită calea împăraţilor de la Răsăritul Soarelui."
+        },
+        {
+          "verse": 13,
+          "text": "Şi am văzut ieşind din gura balaurului şi din gura fiarei şi din gura proorocului celui mincinos trei duhuri necurate ca nişte broaşte."
+        },
+        {
+          "verse": 14,
+          "text": "Căci sunt duhuri diavoleşti, făcătoare de semne şi care se duc la împăraţii lumii întregi, să-i adune la războiul zilei celei mari a lui Dumnezeu, Atotţiitorul."
+        },
+        {
+          "verse": 15,
+          "text": "Iată, vin ca un fur. Fericit este cel ce priveghează şi păstrează veşmintele sale, ca să nu umble gol şi să se vadă ruşinea lui!"
+        },
+        {
+          "verse": 16,
+          "text": "Şi i-au strâns la locul ce se cheamă evreieşte Harmaghedon."
+        },
+        {
+          "verse": 17,
+          "text": "Şi al şaptelea înger a vărsat cupa lui în văzduh şi glas mare a ieşit din templul cerului, de la tron, strigând: S-a făcut!"
+        },
+        {
+          "verse": 18,
+          "text": "Şi s-au pornit fulgere şi vuiete şi tunete şi s-a făcut cutremur mare, aşa cum nu a fost, de când este omul pe pământ, un cutremur atât de puternic."
+        },
+        {
+          "verse": 19,
+          "text": "Şi cetatea cea mare s-a rupt în trei părţi şi cetăţile neamurilor s-au prăbuşit, şi Babilonul cel mare a fost pomenit înaintea lui Dumnezeu, ca să-i dea paharul vinului aprinderii mâniei Lui."
+        },
+        {
+          "verse": 20,
+          "text": "Şi toate insulele pieriră şi munţii nu se mai aflară."
+        },
+        {
+          "verse": 21,
+          "text": "Şi grindină mare, cât talantul, se prăvăli din cer peste oameni. Şi oamenii huliră pe Dumnezeu, din pricina pedepsei cu grindină, căci urgia ei era foarte mare."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_17_01",
+      "chapter": 17,
+      "pericope_num": "01",
+      "title_en": "The Great Whore and the Beast",
+      "title_ro": "Marea desfrânată și fiara",
+      "start_verse": 1,
+      "end_verse": 18,
+      "verse_count": 18,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi a venit unul din cei şapte îngeri, care aveau cele şapte cupe, şi a grăit către mine, zicând: Vino să-ţi arăt judecata desfrânatei celei mari, care şade pe ape multe,"
+        },
+        {
+          "verse": 2,
+          "text": "Cu care s-au desfrânat împăraţii pământului şi cei ce locuiesc pe pământ s-au îmbătat de vinul desfrânării ei."
+        },
+        {
+          "verse": 3,
+          "text": "Şi m-a dus, în duh, în pustie. Şi am văzut o femeie şezând pe o fiară roşie, plină de nume de hulă, având şapte capete şi zece coarne."
+        },
+        {
+          "verse": 4,
+          "text": "Şi femeia era îmbrăcată în purpură şi în stofă stacojie şi împodobită cu aur şi cu pietre scumpe şi cu mărgăritare, având în mână un pahar de aur, plin de urâciunile şi de necurăţiile desfrânării ei."
+        },
+        {
+          "verse": 5,
+          "text": "Iar pe fruntea ei scris nume tainic: Babilonul cel mare, mama desfrânatelor şi a urâciunilor pământului."
+        },
+        {
+          "verse": 6,
+          "text": "Şi am văzut o femeie, beată de sângele sfinţilor şi de sângele mucenicilor lui Iisus, şi văzând-o, m-am mirat cu mirare mare."
+        },
+        {
+          "verse": 7,
+          "text": "Şi îngerul mi-a zis: De ce te miri? Eu îţi voi spune taina femeii şi a fiarei care o poartă şi care are cele şapte capete şi cele zece coarne."
+        },
+        {
+          "verse": 8,
+          "text": "Fiara pe care ai văzut-o era şi nu este şi va să se ridice din adânc şi să meargă spre pieire. Şi se vor mira cei ce locuiesc pe pământ ale căror nume nu sunt scrise de la întemeierea lumii în cartea vieţii, văzând pe fiară că era şi nu este, dar se va arăta."
+        },
+        {
+          "verse": 9,
+          "text": "Aici trebuie minte care are înţelepciune. Cele şapte capete sunt şapte munţi deasupra cărora şade femeia."
+        },
+        {
+          "verse": 10,
+          "text": "Dar sunt şi şapte împăraţi: cinci au căzut, unul mai este, celălalt încă nu a venit, iar când va veni are de stat puţină vreme."
+        },
+        {
+          "verse": 11,
+          "text": "Şi fiara care era şi nu mai este - este al optulea împărat şi este dintre cei şapte şi merge spre pieire."
+        },
+        {
+          "verse": 12,
+          "text": "Şi cele zece coarne pe care le-ai văzut sunt zece împăraţi, care încă n-au luat împărăţia, dar care vor lua stăpânire de împăraţi, un ceas, împreună cu fiara."
+        },
+        {
+          "verse": 13,
+          "text": "Aceştia au un singur cuget şi puterea şi stăpânirea lor o dau fiarei."
+        },
+        {
+          "verse": 14,
+          "text": "Ei vor porni război împotriva Mielului, dar Mielul îi va birui, pentru că este Domnul domnilor şi Împăratul împăraţilor şi vor birui şi cei împreună cu El - chemaţi şi aleşi şi credincioşi."
+        },
+        {
+          "verse": 15,
+          "text": "Şi mi-a zis: Apele pe care le-ai văzut şi deasupra cărora şade desfrânata, sunt popoare şi gloate şi neamuri şi limbi."
+        },
+        {
+          "verse": 16,
+          "text": "Şi cele zece coarne pe care le-ai văzut şi fiara vor urî pe desfrânată şi o vor face pustie şi goală şi carnea ei o vor mânca şi pe ea o vor arde în foc."
+        },
+        {
+          "verse": 17,
+          "text": "Căci Dumnezeu a pus în inimile lor să facă voia Lui şi să se întâlnească într-un gând şi să dea fiarei împărăţia lor, până se vor împlini cuvintele lui Dumnezeu."
+        },
+        {
+          "verse": 18,
+          "text": "Iar femeia pe care ai văzut-o este cetatea cea mare care are stăpânire peste împăraţii pământului."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_18_01",
+      "chapter": 18,
+      "pericope_num": "01",
+      "title_en": "The Fall of Babylon",
+      "title_ro": "Căderea Babilonului",
+      "start_verse": 1,
+      "end_verse": 24,
+      "verse_count": 24,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "După acestea, am văzut un alt înger, pogorându-se din cer, având putere mare, şi pământul s-a luminat de slava lui,"
+        },
+        {
+          "verse": 2,
+          "text": "Şi a strigat cu glas puternic şi a zis: A căzut! A căzut Babilonul cel mare şi a ajuns locaş demonilor, închisoare tuturor duhurilor necurate, şi închisoare tuturor păsărilor spurcate şi urâte."
+        },
+        {
+          "verse": 3,
+          "text": "Pentru că din vinul aprinderii desfrânării ei au băut toate neamurile şi împăraţii pământului s-au desfrânat cu ea şi neguţătorii lumii din mulţimea desfătărilor ei s-au îmbogăţit."
+        },
+        {
+          "verse": 4,
+          "text": "Şi am auzit un alt glas din cer, zicând: Ieşiţi din ea, poporul meu, ca să nu vă faceţi părtaşi la păcatele ei şi să nu fiţi loviţi de pedepsele sortite ei;"
+        },
+        {
+          "verse": 5,
+          "text": "Fiindcă păcatele ei au ajuns până la cer şi Dumnezeu Şi-a adus aminte de nedreptăţile ei."
+        },
+        {
+          "verse": 6,
+          "text": "Daţi-i înapoi, precum v-a dat şi ea şi, după faptele ei, cu măsură îndoită, îndoit măsuraţi-i; în paharul în care v-a turnat, turnaţi-i de două ori."
+        },
+        {
+          "verse": 7,
+          "text": "Pe cât s-a mărit pe sine şi a fost în desfătări, tot pe atâta daţi-i chin şi plângere. Fiindcă în inima ei zice: Şed ca împărăteasă şi văduvă nu sunt şi jale nu voi vedea nicidecum!"
+        },
+        {
+          "verse": 8,
+          "text": "Pentru aceea într-o singură zi vor veni pedepsele peste ea: moarte şi tânguire şi foamete şi focul va arde-o de tot, căci puternic este Domnul Dumnezeu, Cel ce o judecă."
+        },
+        {
+          "verse": 9,
+          "text": "Iar împăraţii pământului, care s-au desfrânat cu ea şi s-au dezmierdat cu ea, se vor jeli şi se vor bate în piept pentru ea, când vor vedea fumul focului în care arde,"
+        },
+        {
+          "verse": 10,
+          "text": "Stând departe de frica chipurilor ei, şi zicând: Vai! Vai! Cetatea cea mare, Babilonul, cetatea cea tare, că într-un ceas a venit judecata ta!"
+        },
+        {
+          "verse": 11,
+          "text": "Şi neguţătorii lumii plâng şi se tânguiesc asupra ei, căci nimeni nu mai cumpără marfa lor,"
+        },
+        {
+          "verse": 12,
+          "text": "Marfă de aur şi de argint, pietre preţioase şi mărgăritare, vison şi porfiră, mătase şi stofă stacojie, tot felul de lemn bine mirositor şi tot felul de lucruri de fildeş, de lemn de mare preţ şi marfă de aramă şi de fier şi de marmură,"
+        },
+        {
+          "verse": 13,
+          "text": "Şi scorţişoară şi balsam şi mirodenii şi mir şi tămâie şi vin şi untdelemn şi făină de grâu curat şi grâu şi vite şi oi şi cai şi căruţe şi trupuri şi suflete de oameni."
+        },
+        {
+          "verse": 14,
+          "text": "Şi roadele cele dorite de sufletul tău s-au dus de la tine şi toate cele grase şi strălucite au pierit de la tine şi niciodată nu le vor mai găsi."
+        },
+        {
+          "verse": 15,
+          "text": "Iar neguţătorii de aceste lucruri, care s-au îmbogăţit de pe urma ei, vor sta departe, de frica chinurilor ei, plângând şi tânguindu-se,"
+        },
+        {
+          "verse": 16,
+          "text": "Şi zicând: Vai! Vai! Cetatea cea mare, cea înveşmântată în vison şi în porfiră şi în stofă stacojie şi împodobită cu aur şi cu pietre scumpe şi cu mărgăritare! Că într-un ceas s-a pustiit atâta bogăţie!"
+        },
+        {
+          "verse": 17,
+          "text": "Şi toţi cârmacii şi toţi cei ce plutesc pe mare şi corăbierii şi toţi câţi lucrează pe mare stăteau departe,"
+        },
+        {
+          "verse": 18,
+          "text": "Şi strigau, uitându-se la fumul focului în care ardea, zicând: Care cetate era asemenea cu cetatea cea mare!"
+        },
+        {
+          "verse": 19,
+          "text": "Şi îşi puneau ţărână pe capetele lor şi strigau plângând şi tânguindu-se şi zicând: Vai! Vai! Cetatea cea mare, în care s-au îmbogăţit din comorile ei toţi cei ce ţin corăbii pe mare, că într-un ceas s-a pustiit!"
+        },
+        {
+          "verse": 20,
+          "text": "Veseleşte-te de ea, cerule şi voi sfinţilor, şi voi apostolilor, şi voi proorocilor, pentru că Dumnezeu a pronunţat judecata voastră asupra ei."
+        },
+        {
+          "verse": 21,
+          "text": "Şi un înger puternic a ridicat o piatră, mare cât o piatră de moară, şi a aruncat-o în mare, zicând: Cu astfel de repeziciune va fi aruncat Babilonul, cetatea cea mare, şi nu se va mai afla."
+        },
+        {
+          "verse": 22,
+          "text": "Şi glasul celor ce cântă din chitară şi din gură şi din flaut şi din trâmbiţă nu se va mai auzi de acum în tine şi nici un meşteşugar de orice fel de meşteşug nu se va mai afla în tine şi huruit de mori nu se va mai auzi în tine niciodată!"
+        },
+        {
+          "verse": 23,
+          "text": "Şi niciodată lumina de lampă nu se va mai ivi în tine; şi glasul de mire şi mireasă nu se vor mai auzi în tine niciodată, pentru că neguţătorii tăi erau stăpânitorii lumii şi pentru că toate neamurile s-au rătăcit cu fermecătoria ta."
+        },
+        {
+          "verse": 24,
+          "text": "Şi s-a găsit în ea sânge de prooroci şi de sfinţi şi sângele tuturor celor înjunghiaţi pe pământ."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_19_01",
+      "chapter": 19,
+      "pericope_num": "01",
+      "title_en": "The Rejoicing in Heaven",
+      "title_ro": "Bucuria în ceruri",
+      "start_verse": 1,
+      "end_verse": 19,
+      "verse_count": 19,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "După acestea, am auzit, în cer, ca un glas puternic de mulţime multă zicând: Aliluia! Mântuirea şi slava şi puterea sunt ale Dumnezeului nostru!"
+        },
+        {
+          "verse": 2,
+          "text": "Pentru că adevărate şi drepte sunt judecăţile Lui! Pentru că a judecat pe desfrânata cea mare, care a stricat pământul cu desfrânarea ei, şi a răzbunat sângele robilor Săi, din mâna ei!"
+        },
+        {
+          "verse": 3,
+          "text": "Şi a doua oară au zis: Aliluia! Şi fumul focului în care arde ea se ridică în vecii vecilor."
+        },
+        {
+          "verse": 4,
+          "text": "Iar cei douăzeci şi patru de bătrâni şi cele patru fiinţe au căzut şi s-au închinat lui Dumnezeu, Cel ce şade pe tron, zicând: Amin! Aliluia!"
+        },
+        {
+          "verse": 5,
+          "text": "Şi un glas a ieşit din tron, zicând: Lăudaţi pe Dumnezeul nostru toate slugile Lui, cei ce vă temeţi de El, mici şi mari."
+        },
+        {
+          "verse": 6,
+          "text": "Şi am auzit ca un glas de mulţime multă şi ca un vuiet de ape multe şi ca un bubuit de tunete puternice, zicând: Aliluia! pentru că Domnul Dumnezeul nostru, Atotţiitorul, împărăţeşte."
+        },
+        {
+          "verse": 7,
+          "text": "Să ne bucurăm şi să ne veselim şi să-I dăm slavă, căci a venit nunta Mielului şi mireasa Lui s-a pregătit,"
+        },
+        {
+          "verse": 8,
+          "text": "Şi i s-a dat ei să se înveşmânteze cu vison curat, luminos, căci visonul sunt faptele cele drepte ale sfinţilor."
+        },
+        {
+          "verse": 9,
+          "text": "Şi mi-a zis: Scrie: Fericiţi cei chemaţi la cina nunţii Mielului! Şi mi-a zis: Acestea sunt adevăratele cuvinte ale lui Dumnezeu."
+        },
+        {
+          "verse": 10,
+          "text": "Şi am căzut înaintea picioarelor lui, ca să mă închin lui. Şi el mi-a zis: Vezi să nu faci aceasta! Sunt împreună-slujitor cu tine şi cu fraţii tăi, care au mărturia lui Iisus. Lui Dumnezeu închină-te, căci mărturia lui Iisus este duhul proorociei."
+        },
+        {
+          "verse": 11,
+          "text": "Şi am văzut cerul deschis şi iată un cal alb, şi Cel ce şedea pe el se numeşte Credincios şi Adevărat şi judecă şi se războieşte întru dreptate."
+        },
+        {
+          "verse": 12,
+          "text": "Iar ochii Lui sunt ca para focului şi pe capul Lui sunt cununi multe şi are nume scris pe care nimeni nu-l înţelege decât numai El."
+        },
+        {
+          "verse": 13,
+          "text": "Şi este îmbrăcat în veşmânt stropit cu sânge şi numele Lui se cheamă: Cuvântul lui Dumnezeu."
+        },
+        {
+          "verse": 14,
+          "text": "Şi oştile din cer veneau după El, călare pe cai albi, purtând veşminte de vison alb, curat."
+        },
+        {
+          "verse": 15,
+          "text": "Iar din gura Lui ieşea sabie ascuţită, ca să lovească neamurile cu ea. Şi El îi va păstori cu toiag de fier şi va călca teascul vinului aprinderii mâniei lui Dumnezeu, Atotţiitorul."
+        },
+        {
+          "verse": 16,
+          "text": "Şi pe haina Lui şi pe coapsa Lui are nume scris: Împăratul împăraţilor şi Domnul domnilor."
+        },
+        {
+          "verse": 17,
+          "text": "Şi am văzut un înger stând în soare; şi a strigat cu glas puternic, grăind tuturor păsărilor care zboară spre înaltul cerului: Veniţi şi vă adunaţi la ospăţul cel mare al lui Dumnezeu,"
+        },
+        {
+          "verse": 18,
+          "text": "Ca să mâncaţi trupuri de împăraţi şi trupuri de căpetenii de oşti şi trupurile celor puternici, şi trupurile cailor şi ale călăreţilor lor, şi trupurile tuturor celor slobozi şi celor robi, şi ale celor mici şi celor mari."
+        },
+        {
+          "verse": 19,
+          "text": "Şi am văzut fiara şi pe împăraţii pământului, şi oştirile lor adunate, ca să facă război ce Cel ce şade pe cal şi cu oştirea Lui."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_19_02",
+      "chapter": 19,
+      "pericope_num": "02",
+      "title_en": "The Rider on the White Horse",
+      "title_ro": "Călărețul pe calul alb",
+      "start_verse": 11,
+      "end_verse": 16,
+      "verse_count": 6,
+      "verses": [
+        {
+          "verse": 11,
+          "text": "Şi am văzut cerul deschis şi iată un cal alb, şi Cel ce şedea pe el se numeşte Credincios şi Adevărat şi judecă şi se războieşte întru dreptate."
+        },
+        {
+          "verse": 12,
+          "text": "Iar ochii Lui sunt ca para focului şi pe capul Lui sunt cununi multe şi are nume scris pe care nimeni nu-l înţelege decât numai El."
+        },
+        {
+          "verse": 13,
+          "text": "Şi este îmbrăcat în veşmânt stropit cu sânge şi numele Lui se cheamă: Cuvântul lui Dumnezeu."
+        },
+        {
+          "verse": 14,
+          "text": "Şi oştile din cer veneau după El, călare pe cai albi, purtând veşminte de vison alb, curat."
+        },
+        {
+          "verse": 15,
+          "text": "Iar din gura Lui ieşea sabie ascuţită, ca să lovească neamurile cu ea. Şi El îi va păstori cu toiag de fier şi va călca teascul vinului aprinderii mâniei lui Dumnezeu, Atotţiitorul."
+        },
+        {
+          "verse": 16,
+          "text": "Şi pe haina Lui şi pe coapsa Lui are nume scris: Împăratul împăraţilor şi Domnul domnilor."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_19_03",
+      "chapter": 19,
+      "pericope_num": "03",
+      "title_en": "The Beast and Its Armies Defeated",
+      "title_ro": "Fiara și armatele ei învinse",
+      "start_verse": 17,
+      "end_verse": 21,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 17,
+          "text": "Şi am văzut un înger stând în soare; şi a strigat cu glas puternic, grăind tuturor păsărilor care zboară spre înaltul cerului: Veniţi şi vă adunaţi la ospăţul cel mare al lui Dumnezeu,"
+        },
+        {
+          "verse": 18,
+          "text": "Ca să mâncaţi trupuri de împăraţi şi trupuri de căpetenii de oşti şi trupurile celor puternici, şi trupurile cailor şi ale călăreţilor lor, şi trupurile tuturor celor slobozi şi celor robi, şi ale celor mici şi celor mari."
+        },
+        {
+          "verse": 19,
+          "text": "Şi am văzut fiara şi pe împăraţii pământului, şi oştirile lor adunate, ca să facă război ce Cel ce şade pe cal şi cu oştirea Lui."
+        },
+        {
+          "verse": 20,
+          "text": "Şi fiara a fost răpusă şi, cu ea, proorocul cel mincinos, cel ce făcea înaintea ei semnele cu care amăgea pe cei ce au purtat semnul fiarei şi pe cei ce s-au închinat chipului ei. Amândoi au fost aruncaţi de vii în iezerul de foc unde arde pucioasă."
+        },
+        {
+          "verse": 21,
+          "text": "Iar ceilalţi au fost ucişi cu sabia care iese din gura Celui ce şade pe cal, şi toate păsările s-au săturat din trupurile lor."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_20_01",
+      "chapter": 20,
+      "pericope_num": "01",
+      "title_en": "The Thousand Years",
+      "title_ro": "Cei o mie de ani",
+      "start_verse": 1,
+      "end_verse": 20,
+      "verse_count": 15,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi am văzut un înger, pogorându-se din cer, având cheia adâncului şi un lanţ mare în mâna lui."
+        },
+        {
+          "verse": 2,
+          "text": "Şi a prins pe balaur, şarpele cel vechi, care este diavolul şi satana, şi l-a legat pe mii de ani,"
+        },
+        {
+          "verse": 3,
+          "text": "Şi l-a aruncat în adânc şi l-a închis şi a pecetluit deasupra lui, ca să nu mai amăgească neamurile, până ce se vor sfârşi miile de ani. După aceea, trebuie să fie dezlegat câtăva vreme."
+        },
+        {
+          "verse": 4,
+          "text": "Şi am văzut tronuri şi celor ce şedeau pe ele li s-a dat să facă judecată. Şi am văzut sufletele celor tăiaţi pentru mărturia lui Iisus şi pentru cuvântul lui Dumnezeu, care nu s-au închinat fiarei, nici chipului ei, şi nu au primit semnul ei pe fruntea şi pe mâna lor. Şi ei au înviat şi au împărăţit cu Hristos mii de ani."
+        },
+        {
+          "verse": 5,
+          "text": "Iar ceilalţi morţi nu înviază până ce nu se vor sfârşi miile de ani. Aceasta este învierea cea dintâi."
+        },
+        {
+          "verse": 6,
+          "text": "Fericit şi sfânt este cel ce are parte de învierea cea dintâi. Peste aceştia moartea cea de a doua nu are putere, ci vor fi preoţi ai lui Dumnezeu şi ai lui Hristos şi vor împărăţi cu El mii de ani."
+        },
+        {
+          "verse": 7,
+          "text": "Şi către sfârşitul miilor de ani, satana va fi dezlegat din închisoarea lui,"
+        },
+        {
+          "verse": 8,
+          "text": "Şi va ieşi să amăgească neamurile, care sunt în cele patru unghiuri ale pământului, pe Gog şi pe Magog, şi să le adune la război; iar numărul lor este ca nisipul mării."
+        },
+        {
+          "verse": 9,
+          "text": "Şi s-au suit pe faţa pământului, şi au înconjurat tabăra sfinţilor şi cetatea cea iubită. Dar s-a pogorât foc din cer şi i-a mistuit."
+        },
+        {
+          "verse": 10,
+          "text": "Şi diavolul, care-i amăgise, a fost aruncat în iezerul de foc şi de pucioasă, unde este şi fiara şi proorocul mincinos, şi vor fi chinuiţi acolo, zi şi noapte, în vecii vecilor."
+        },
+        {
+          "verse": 11,
+          "text": "Şi am văzut, iar, un tron mare alb şi pe Cel ce şedea pe el, iar dinaintea feţei Lui pământul şi cerul au fugit şi loc nu s-a mai găsit pentru ele."
+        },
+        {
+          "verse": 12,
+          "text": "Şi am văzut pe morţi, pe cei mari şi pe cei mici, stând înaintea tronului şi cărţile au fost deschise; şi o altă carte a fost deschisă, care este cartea vieţii; şi morţii au fost judecaţi din cele scrise în cărţi, potrivit cu faptele lor."
+        },
+        {
+          "verse": 13,
+          "text": "Şi marea a dat pe morţii cei din ea şi moartea şi iadul au dat pe morţii lor, şi judecaţi au fost, fiecare după faptele sale."
+        },
+        {
+          "verse": 14,
+          "text": "Şi moartea şi iadul au fost aruncate în râul de foc. Aceasta e moartea cea de a doua: iezerul cel de foc."
+        },
+        {
+          "verse": 15,
+          "text": "Iar cine n-a fost aflat scris în cartea vieţii, a fost aruncat în iezerul de foc."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_20_02",
+      "chapter": 20,
+      "pericope_num": "02",
+      "title_en": "Satan's Doom",
+      "title_ro": "Pieirea lui Satan",
+      "start_verse": 7,
+      "end_verse": 10,
+      "verse_count": 4,
+      "verses": [
+        {
+          "verse": 7,
+          "text": "Şi către sfârşitul miilor de ani, satana va fi dezlegat din închisoarea lui,"
+        },
+        {
+          "verse": 8,
+          "text": "Şi va ieşi să amăgească neamurile, care sunt în cele patru unghiuri ale pământului, pe Gog şi pe Magog, şi să le adune la război; iar numărul lor este ca nisipul mării."
+        },
+        {
+          "verse": 9,
+          "text": "Şi s-au suit pe faţa pământului, şi au înconjurat tabăra sfinţilor şi cetatea cea iubită. Dar s-a pogorât foc din cer şi i-a mistuit."
+        },
+        {
+          "verse": 10,
+          "text": "Şi diavolul, care-i amăgise, a fost aruncat în iezerul de foc şi de pucioasă, unde este şi fiara şi proorocul mincinos, şi vor fi chinuiţi acolo, zi şi noapte, în vecii vecilor."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_20_03",
+      "chapter": 20,
+      "pericope_num": "03",
+      "title_en": "The Dead Are Judged",
+      "title_ro": "Judecarea morților",
+      "start_verse": 11,
+      "end_verse": 15,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 11,
+          "text": "Şi am văzut, iar, un tron mare alb şi pe Cel ce şedea pe el, iar dinaintea feţei Lui pământul şi cerul au fugit şi loc nu s-a mai găsit pentru ele."
+        },
+        {
+          "verse": 12,
+          "text": "Şi am văzut pe morţi, pe cei mari şi pe cei mici, stând înaintea tronului şi cărţile au fost deschise; şi o altă carte a fost deschisă, care este cartea vieţii; şi morţii au fost judecaţi din cele scrise în cărţi, potrivit cu faptele lor."
+        },
+        {
+          "verse": 13,
+          "text": "Şi marea a dat pe morţii cei din ea şi moartea şi iadul au dat pe morţii lor, şi judecaţi au fost, fiecare după faptele sale."
+        },
+        {
+          "verse": 14,
+          "text": "Şi moartea şi iadul au fost aruncate în râul de foc. Aceasta e moartea cea de a doua: iezerul cel de foc."
+        },
+        {
+          "verse": 15,
+          "text": "Iar cine n-a fost aflat scris în cartea vieţii, a fost aruncat în iezerul de foc."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_21_01",
+      "chapter": 21,
+      "pericope_num": "01",
+      "title_en": "The New Heaven and the New Earth",
+      "title_ro": "Cerul nou și pământul nou",
+      "start_verse": 1,
+      "end_verse": 21,
+      "verse_count": 21,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi am văzut cer nou şi pământ nou. Căci cerul cel dintâi şi pământul cel dintâi au trecut; şi marea nu mai este."
+        },
+        {
+          "verse": 2,
+          "text": "Şi am văzut cetatea sfântă, noul Ierusalim, pogorându-se din cer de la Dumnezeu, gătită ca o mireasă, împodobită pentru mirele ei."
+        },
+        {
+          "verse": 3,
+          "text": "Şi am auzit, din tron, un glas puternic care zicea: Iată, cortul lui Dumnezeu este cu oamenii şi El va sălăşlui cu ei şi ei vor fi poporul Lui şi însuşi Dumnezeu va fi cu ei."
+        },
+        {
+          "verse": 4,
+          "text": "Şi va şterge orice lacrimă din ochii lor şi moarte nu va mai fi; nici plângere, nici strigăt, nici durere nu vor mai fi, căci cele dintâi au trecut."
+        },
+        {
+          "verse": 5,
+          "text": "Şi Cel ce şedea pe tron a grăit: Iată, noi le facem pe toate. Şi a zis: Scrie, fiindcă aceste cuvinte sunt vrednice de crezare şi adevărate."
+        },
+        {
+          "verse": 6,
+          "text": "Şi iar mi-a zis: Făcutu-s-a! Eu sunt Alfa şi Omega, începutul şi sfârşitul. Celui ce însetează îi voi da să bea, în dar, din izvorul apei vieţii."
+        },
+        {
+          "verse": 7,
+          "text": "Cel ce va birui va moşteni acestea şi-i voi fi lui Dumnezeu şi el Îmi va fi Mie fiu"
+        },
+        {
+          "verse": 8,
+          "text": "Iar partea celor fricoşi şi necredincioşi şi spurcaţi şi ucigaşi şi desfrânaţi şi fermecători şi închinători de idoli şi a tuturor celor mincinoşi este în iezerul care arde, cu foc şi cu pucioasă, care este moartea a doua."
+        },
+        {
+          "verse": 9,
+          "text": "Şi a venit unul din cei şapte îngeri, care aveau cele şapte cupe pline cu cele din urmă şapte pedepse, şi a grăit către mine zicând: Vino să-ţi arăt pe mireasa, femeia Mielului."
+        },
+        {
+          "verse": 10,
+          "text": "Şi m-a dus pe mine, în duh, într-un munte mare şi înalt şi mi-a arătat cetatea cea sfântă, Ierusalimul, pogorându-se din cer, de la Dumnezeu,"
+        },
+        {
+          "verse": 11,
+          "text": "Având slava lui Dumnezeu. Lumina ei era asemenea cu cea a pietrei de mare preţ, ca piatra de iaspis, limpede cum e cristalul."
+        },
+        {
+          "verse": 12,
+          "text": "Şi avea zid mare şi înalt şi avea douăsprezece porţi, iar la porţi douăsprezece îngeri şi nume scrise deasupra, care sunt numele celor douăsprezece seminţii ale fiilor lui Israel."
+        },
+        {
+          "verse": 13,
+          "text": "Spre răsărit trei porţi şi spre miazănoapte trei porţi şi spre miazăzi trei porţi şi spre apus trei porţi."
+        },
+        {
+          "verse": 14,
+          "text": "Iar zidul cetăţii avea douăsprezece pietre de temelie şi în ele douăsprezece nume, ale celor douăsprezece apostoli ai Mielului."
+        },
+        {
+          "verse": 15,
+          "text": "Şi cel ce vorbea cu mine avea pentru măsurat o trestie de aur, ca să măsoare cetatea şi porţile ei şi zidul ei."
+        },
+        {
+          "verse": 16,
+          "text": "Şi cetatea este în patru colţuri şi lungimea ei este tot atâta cât şi lăţimea. Şi a măsurat cetatea cu trestia: douăsprezece mii de stadii. Lungimea şi lărgimea şi înălţimea ei sunt deopotrivă."
+        },
+        {
+          "verse": 17,
+          "text": "Şi a măsurat şi zidul ei: o sută patruzeci şi patru de coţi, după măsura omenească, care este şi a îngerului."
+        },
+        {
+          "verse": 18,
+          "text": "Şi zidăria zidului ei este de iaspis, iar cetatea este din aur curat, ca sticla cea curată."
+        },
+        {
+          "verse": 19,
+          "text": "Temeliile zidului cetăţii sunt împodobite cu tot felul de pietre scumpe: întâia piatră de temelie este de iaspis, a doua din safir, a treia din halcedon, a patra de smarald,"
+        },
+        {
+          "verse": 20,
+          "text": "A cincea de sardonix, a şasea de sardiu, a şaptea de hrisolit, a opta de beril, a noua de topaz, a zecea de hrisopras, a unsprezecea de iachint, a douăsprezecea de ametist."
+        },
+        {
+          "verse": 21,
+          "text": "Iar cele douăsprezece porţi sunt douăsprezece mărgăritare; fiecare din porţi este dintr-un mărgăritar. Şi piaţa cetăţii este de aur curat, şi străvezie ca sticla."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_21_02",
+      "chapter": 21,
+      "pericope_num": "02",
+      "title_en": "Vision of the New Jerusalem",
+      "title_ro": "Viziunea noului Ierusalim",
+      "start_verse": 9,
+      "end_verse": 27,
+      "verse_count": 19,
+      "verses": [
+        {
+          "verse": 9,
+          "text": "Şi a venit unul din cei şapte îngeri, care aveau cele şapte cupe pline cu cele din urmă şapte pedepse, şi a grăit către mine zicând: Vino să-ţi arăt pe mireasa, femeia Mielului."
+        },
+        {
+          "verse": 10,
+          "text": "Şi m-a dus pe mine, în duh, într-un munte mare şi înalt şi mi-a arătat cetatea cea sfântă, Ierusalimul, pogorându-se din cer, de la Dumnezeu,"
+        },
+        {
+          "verse": 11,
+          "text": "Având slava lui Dumnezeu. Lumina ei era asemenea cu cea a pietrei de mare preţ, ca piatra de iaspis, limpede cum e cristalul."
+        },
+        {
+          "verse": 12,
+          "text": "Şi avea zid mare şi înalt şi avea douăsprezece porţi, iar la porţi douăsprezece îngeri şi nume scrise deasupra, care sunt numele celor douăsprezece seminţii ale fiilor lui Israel."
+        },
+        {
+          "verse": 13,
+          "text": "Spre răsărit trei porţi şi spre miazănoapte trei porţi şi spre miazăzi trei porţi şi spre apus trei porţi."
+        },
+        {
+          "verse": 14,
+          "text": "Iar zidul cetăţii avea douăsprezece pietre de temelie şi în ele douăsprezece nume, ale celor douăsprezece apostoli ai Mielului."
+        },
+        {
+          "verse": 15,
+          "text": "Şi cel ce vorbea cu mine avea pentru măsurat o trestie de aur, ca să măsoare cetatea şi porţile ei şi zidul ei."
+        },
+        {
+          "verse": 16,
+          "text": "Şi cetatea este în patru colţuri şi lungimea ei este tot atâta cât şi lăţimea. Şi a măsurat cetatea cu trestia: douăsprezece mii de stadii. Lungimea şi lărgimea şi înălţimea ei sunt deopotrivă."
+        },
+        {
+          "verse": 17,
+          "text": "Şi a măsurat şi zidul ei: o sută patruzeci şi patru de coţi, după măsura omenească, care este şi a îngerului."
+        },
+        {
+          "verse": 18,
+          "text": "Şi zidăria zidului ei este de iaspis, iar cetatea este din aur curat, ca sticla cea curată."
+        },
+        {
+          "verse": 19,
+          "text": "Temeliile zidului cetăţii sunt împodobite cu tot felul de pietre scumpe: întâia piatră de temelie este de iaspis, a doua din safir, a treia din halcedon, a patra de smarald,"
+        },
+        {
+          "verse": 20,
+          "text": "A cincea de sardonix, a şasea de sardiu, a şaptea de hrisolit, a opta de beril, a noua de topaz, a zecea de hrisopras, a unsprezecea de iachint, a douăsprezecea de ametist."
+        },
+        {
+          "verse": 21,
+          "text": "Iar cele douăsprezece porţi sunt douăsprezece mărgăritare; fiecare din porţi este dintr-un mărgăritar. Şi piaţa cetăţii este de aur curat, şi străvezie ca sticla."
+        },
+        {
+          "verse": 22,
+          "text": "Şi templu n-am văzut în ea, pentru că Domnul Dumnezeu, Atotţiitorul, şi Mielul este templul ei."
+        },
+        {
+          "verse": 23,
+          "text": "Şi cetatea nu are trebuinţă de soare, nici de lună, ca să o lumineze, căci slava lui Dumnezeu a luminat-o şi făclia ei este Mielul."
+        },
+        {
+          "verse": 24,
+          "text": "Şi neamurile vor umbla în lumina ei, iar împăraţii pământului vor aduce la ea mărirea lor."
+        },
+        {
+          "verse": 25,
+          "text": "Şi porţile cetăţii nu se vor mai închide ziua, căci noaptea nu va mai fi acolo."
+        },
+        {
+          "verse": 26,
+          "text": "Şi vor aduce în ea slava şi cinstea neamurilor."
+        },
+        {
+          "verse": 27,
+          "text": "Şi în cetate nu va intra nimic pângărit şi nimeni care e dedat cu spurcăciunea şi cu minciuna, ci numai cei scrişi în Cartea vieţii Mielului."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_22_01",
+      "chapter": 22,
+      "pericope_num": "01",
+      "title_en": "The River of Life",
+      "title_ro": "Râul vieții",
+      "start_verse": 1,
+      "end_verse": 22,
+      "verse_count": 21,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi mi-a arătat, apoi, râul şi apa vieţii, limpede cum e cristalul şi care izvorăşte din tronul lui Dumnezeu şi al Mielului,"
+        },
+        {
+          "verse": 2,
+          "text": "Şi în mijlocul pieţei din cetate, de o parte şi de alta a râului, creşte pomul vieţii, făcând rod de douăsprezece ori pe an, în fiecare lună dându-şi rodul; şi frunzele pomului sunt spre tămăduirea neamurilor."
+        },
+        {
+          "verse": 3,
+          "text": "Nici un blestem nu va mai fi. Şi tronul lui Dumnezeu şi al Mielului va fi în ea şi slugile Lui Îi vor sluji Lui."
+        },
+        {
+          "verse": 4,
+          "text": "Şi vor vedea faţa Lui şi numele Lui va fi pe frunţile lor."
+        },
+        {
+          "verse": 5,
+          "text": "Şi noapte nu va mai fi; şi nu au trebuinţă de lumina lămpii sau de lumina soarelui, pentru că Domnul Dumnezeu le va fi lor lumină şi vor împărăţi în vecii vecilor."
+        },
+        {
+          "verse": 6,
+          "text": "Şi îngerul mi-a zis: Aceste cuvinte sunt vrednice de crezare şi adevărate şi Domnul, Dumnezeul duhurilor proorocilor, a trimis pe îngerul Său să arate robilor Săi cele ce trebuie să se întâmple în curând."
+        },
+        {
+          "verse": 7,
+          "text": "Şi iată vin curând. Fericit cel ce păzeşte cuvintele proorociei acestei cărţi!"
+        },
+        {
+          "verse": 8,
+          "text": "Şi eu, Ioan, sunt cel ce am văzut şi am auzit acestea, iar când am auzit şi am văzut, am căzut să mă închin înaintea picioarelor îngerului care mi-a arătat acestea."
+        },
+        {
+          "verse": 9,
+          "text": "Şi el mi-a zis: Vezi să nu faci aceasta! Căci sunt împreună-slujitor cu tine şi cu fraţii tăi, proorocii, şi cu cei ce păstrează cuvintele cărţii acesteia. Lui Dumnezeu închină-te!"
+        },
+        {
+          "verse": 10,
+          "text": "Apoi mi-a zis: Să nu pecetluieşti cuvintele proorociei acestei cărţi, căci vremea este aproape."
+        },
+        {
+          "verse": 11,
+          "text": "Cine e nedrept, să nedreptăţească înainte. Cine e spurcat, să se spurce încă. Cine este drept, să facă dreptate mai departe. Cine este sfânt, să se sfinţească încă."
+        },
+        {
+          "verse": 12,
+          "text": "Iată, vin curând şi plata Mea este cu Mine, ca să dau fiecăruia, după cum este fapta lui."
+        },
+        {
+          "verse": 13,
+          "text": "Eu sunt Alfa şi Omega, cel dintâi şi cel de pe urmă, începutul şi sfârşitul."
+        },
+        {
+          "verse": 14,
+          "text": "Fericiţi cei ce spală veşmintele lor ca să aibă stăpânire peste pomul vieţii şi prin porţi să intre în cetate!"
+        },
+        {
+          "verse": 15,
+          "text": "Afară câinii şi vrăjitorii şi desfrânaţii şi ucigaşii şi închinătorii de idoli şi toţi cei ce lucrează şi iubesc minciuna!"
+        },
+        {
+          "verse": 16,
+          "text": "Eu, Iisus, am trimis pe îngerul Meu ca să mărturisească vouă acestea, cu privire la Biserici. Eu sunt rădăcina şi odrasla lui David, steaua care străluceşte dimineaţa."
+        },
+        {
+          "verse": 17,
+          "text": "Şi Duhul şi mireasa zic: Vino. Şi cel ce aude să zică: Vino. Şi cel însetat să vină, cel ce doreşte să ia în dar apa vieţii."
+        },
+        {
+          "verse": 18,
+          "text": "Şi eu mărturisesc oricui ascultă cuvintele proorociei acestei cărţi: De va mai adăuga cineva ceva la ele, Dumnezeu va trimite asupra lui pedepsele ce sunt scrise în cartea aceasta;"
+        },
+        {
+          "verse": 19,
+          "text": "Iar de va scoate cineva din cuvintele cărţii acestei proorocii, Dumnezeu va scoate partea lui din pomul vieţii şi din cetatea sfântă şi de la cele scrise în cartea aceasta."
+        },
+        {
+          "verse": 20,
+          "text": "Cel ce mărturiseşte acestea zice: Da, vin curând. Amin! Vino, Doamne Iisuse!"
+        },
+        {
+          "verse": 21,
+          "text": "Harul Domnului Iisus Hristos, cu voi cu toţi! Amin."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Revelation_22_02",
+      "chapter": 22,
+      "pericope_num": "02",
+      "title_en": "Epilogue and Benediction",
+      "title_ro": "Epilog și binecuvântare",
+      "start_verse": 8,
+      "end_verse": 21,
+      "verse_count": 14,
+      "verses": [
+        {
+          "verse": 8,
+          "text": "Şi eu, Ioan, sunt cel ce am văzut şi am auzit acestea, iar când am auzit şi am văzut, am căzut să mă închin înaintea picioarelor îngerului care mi-a arătat acestea."
+        },
+        {
+          "verse": 9,
+          "text": "Şi el mi-a zis: Vezi să nu faci aceasta! Căci sunt împreună-slujitor cu tine şi cu fraţii tăi, proorocii, şi cu cei ce păstrează cuvintele cărţii acesteia. Lui Dumnezeu închină-te!"
+        },
+        {
+          "verse": 10,
+          "text": "Apoi mi-a zis: Să nu pecetluieşti cuvintele proorociei acestei cărţi, căci vremea este aproape."
+        },
+        {
+          "verse": 11,
+          "text": "Cine e nedrept, să nedreptăţească înainte. Cine e spurcat, să se spurce încă. Cine este drept, să facă dreptate mai departe. Cine este sfânt, să se sfinţească încă."
+        },
+        {
+          "verse": 12,
+          "text": "Iată, vin curând şi plata Mea este cu Mine, ca să dau fiecăruia, după cum este fapta lui."
+        },
+        {
+          "verse": 13,
+          "text": "Eu sunt Alfa şi Omega, cel dintâi şi cel de pe urmă, începutul şi sfârşitul."
+        },
+        {
+          "verse": 14,
+          "text": "Fericiţi cei ce spală veşmintele lor ca să aibă stăpânire peste pomul vieţii şi prin porţi să intre în cetate!"
+        },
+        {
+          "verse": 15,
+          "text": "Afară câinii şi vrăjitorii şi desfrânaţii şi ucigaşii şi închinătorii de idoli şi toţi cei ce lucrează şi iubesc minciuna!"
+        },
+        {
+          "verse": 16,
+          "text": "Eu, Iisus, am trimis pe îngerul Meu ca să mărturisească vouă acestea, cu privire la Biserici. Eu sunt rădăcina şi odrasla lui David, steaua care străluceşte dimineaţa."
+        },
+        {
+          "verse": 17,
+          "text": "Şi Duhul şi mireasa zic: Vino. Şi cel ce aude să zică: Vino. Şi cel însetat să vină, cel ce doreşte să ia în dar apa vieţii."
+        },
+        {
+          "verse": 18,
+          "text": "Şi eu mărturisesc oricui ascultă cuvintele proorociei acestei cărţi: De va mai adăuga cineva ceva la ele, Dumnezeu va trimite asupra lui pedepsele ce sunt scrise în cartea aceasta;"
+        },
+        {
+          "verse": 19,
+          "text": "Iar de va scoate cineva din cuvintele cărţii acestei proorocii, Dumnezeu va scoate partea lui din pomul vieţii şi din cetatea sfântă şi de la cele scrise în cartea aceasta."
+        },
+        {
+          "verse": 20,
+          "text": "Cel ce mărturiseşte acestea zice: Da, vin curând. Amin! Vino, Doamne Iisuse!"
+        },
+        {
+          "verse": 21,
+          "text": "Harul Domnului Iisus Hristos, cu voi cu toţi! Amin."
+        }
+      ]
+    }
+  ]
+}

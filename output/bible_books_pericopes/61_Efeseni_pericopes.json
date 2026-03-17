@@ -1,0 +1,832 @@
+{
+  "id": 19,
+  "book_number": 61,
+  "name_en": "Ephesians",
+  "name_ro": "Efeseni",
+  "testament": "NT",
+  "chapter_count": 6,
+  "pericope_count": 16,
+  "url": "https://www.bibliaortodoxa.ro/carte.php?id=19",
+  "pericopes": [
+    {
+      "pericope_id": "Ephesians_01_01",
+      "chapter": 1,
+      "pericope_num": "01",
+      "title_en": "Salutation",
+      "title_ro": "Salutare",
+      "start_verse": 1,
+      "end_verse": 2,
+      "verse_count": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Pavel, apostol al lui Iisus Hristos prin voinţa lui Dumnezeu, sfinţilor care sunt în Efes şi credincioşilor întru Hristos Iisus:"
+        },
+        {
+          "verse": 2,
+          "text": "Har vouă şi pace de la Dumnezeu, Tatăl nostru, şi de la Domnul Iisus Hristos!"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Ephesians_01_02",
+      "chapter": 1,
+      "pericope_num": "02",
+      "title_en": "Spiritual Blessings in Christ",
+      "title_ro": "Binecuvântări duhovnicești în Hristos",
+      "start_verse": 3,
+      "end_verse": 14,
+      "verse_count": 12,
+      "verses": [
+        {
+          "verse": 3,
+          "text": "Binecuvântat fie Dumnezeu şi Tatăl Domnului nostru Iisus Hristos, Cel ce, întru Hristos, ne-a binecuvântat pe noi, în ceruri, cu toată binecuvântarea duhovnicească;"
+        },
+        {
+          "verse": 4,
+          "text": "Precum întru El ne-a şi ales, înainte de întemeierea lumii, ca să fim sfinţi şi fără de prihană înaintea Lui,"
+        },
+        {
+          "verse": 5,
+          "text": "Mai înainte rânduindu-ne, în a Sa iubire, spre înfierea întru El, prin Iisus Hristos, după buna socotinţă a voii Sale,"
+        },
+        {
+          "verse": 6,
+          "text": "Spre lauda slavei harului Său, cu care ne-a dăruit pe noi prin Fiul Său cel iubit;"
+        },
+        {
+          "verse": 7,
+          "text": "Întru El avem răscumpărarea prin sângele Lui şi iertarea păcatelor, după bogăţia harului Lui,"
+        },
+        {
+          "verse": 8,
+          "text": "Pe care l-a făcut să prisosească în noi, în toată înţelepciunea şi priceperea;"
+        },
+        {
+          "verse": 9,
+          "text": "Făcându-ne cunoscută taina voii Sale, după buna Lui socotinţă, astfel cum hotărâse în Sine mai înainte,"
+        },
+        {
+          "verse": 10,
+          "text": "Spre iconomia plinirii vremilor, ca toate să fie iarăşi unite în Hristos, cele din ceruri şi cele de pe pământ - toate întru El,"
+        },
+        {
+          "verse": 11,
+          "text": "Întru Care şi moştenire am primit, rânduiţi fiind mai înainte - după rânduiala Celui ce toate le lucrează, potrivit sfatului voii Sale, -"
+        },
+        {
+          "verse": 12,
+          "text": "Ca să fim spre lauda slavei Sale, noi cei ce mai înainte am nădăjduit întru Hristos."
+        },
+        {
+          "verse": 13,
+          "text": "Întru Care şi voi, auzind cuvântul adevărului, Evanghelia mântuirii voastre, crezând în El, aţi fost pecetluiţi cu Sfântul Duh al făgăduinţei,"
+        },
+        {
+          "verse": 14,
+          "text": "Care este arvuna moştenirii noastre, spre răscumpărarea celor dobândiţi de El şi spre lauda slavei Sale."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Ephesians_01_03",
+      "chapter": 1,
+      "pericope_num": "03",
+      "title_en": "Paul's Prayer",
+      "title_ro": "Rugăciunea lui Pavel",
+      "start_verse": 15,
+      "end_verse": 23,
+      "verse_count": 9,
+      "verses": [
+        {
+          "verse": 15,
+          "text": "Drept aceea, şi eu auzind de credinţa voastră în Domnul Iisus şi de dragostea cea către toţi sfinţii,"
+        },
+        {
+          "verse": 16,
+          "text": "Nu încetez a mulţumi pentru voi, pomenindu-vă în rugăciunile mele,"
+        },
+        {
+          "verse": 17,
+          "text": "Ca Dumnezeul Domnului nostru Iisus Hristos, Tatăl slavei, să vă dea vouă duhul înţelepciunii şi al descoperirii, spre deplina Lui cunoaştere,"
+        },
+        {
+          "verse": 18,
+          "text": "Şi să vă lumineze ochii inimii, ca să pricepeţi care este nădejdea la care v-a chemat, care este bogăţia slavei moştenirii Lui, în cei sfinţi,"
+        },
+        {
+          "verse": 19,
+          "text": "Şi cât de covârşitoare este mărimea puterii Lui faţă de noi, după lucrarea puterii tăriei Lui, pentru noi cei ce credem."
+        },
+        {
+          "verse": 20,
+          "text": "Pe aceasta, Dumnezeu a lucrat-o în Hristos, sculându-L din morţi şi aşezându-L de-a dreapta Sa, în ceruri,"
+        },
+        {
+          "verse": 21,
+          "text": "Mai presus decât toată începătoria şi stăpânia şi puterea şi domnia şi decât tot numele ce se numeşte, nu numai în veacul acesta, ci şi în cel viitor."
+        },
+        {
+          "verse": 22,
+          "text": "Şi toate le-a supus sub picioarele Lui şi, mai presus de toate, L-a dat pe El cap Bisericii,"
+        },
+        {
+          "verse": 23,
+          "text": "Care este trupul Lui, plinirea Celui ce plineşte toate întru toţi."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Ephesians_02_01",
+      "chapter": 2,
+      "pericope_num": "01",
+      "title_en": "From Death to Life",
+      "title_ro": "De la moarte la viață",
+      "start_verse": 1,
+      "end_verse": 10,
+      "verse_count": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Iar pe voi v-a făcut vii, cei ce eraţi morţi prin greşealele şi prin păcatele voastre,"
+        },
+        {
+          "verse": 2,
+          "text": "În care aţi umblat mai înainte, potrivit veacului lumii acesteia, potrivit stăpânitorului puterii văzduhului, a duhului care lucrează acum în fiii neascultării,"
+        },
+        {
+          "verse": 3,
+          "text": "Întru care şi noi toţi am petrecut odinioară, în poftele trupului nostru, făcând voile trupului şi ale simţurilor şi, din fire, eram fiii mâniei ca şi ceilalţi."
+        },
+        {
+          "verse": 4,
+          "text": "Dar Dumnezeu, bogat fiind în milă, pentru multa Sa iubire cu care ne-a iubit,"
+        },
+        {
+          "verse": 5,
+          "text": "Pe noi cei ce eram morţi prin greşelile noastre, ne-a făcut vii împreună cu Hristos - prin har sunteţi mântuiţi! -"
+        },
+        {
+          "verse": 6,
+          "text": "Şi împreună cu El ne-a sculat şi împreună ne-a aşezat întru ceruri, în Hristos Iisus,"
+        },
+        {
+          "verse": 7,
+          "text": "Ca să arate în veacurile viitoare covârşitoarea bogăţie a harului Său, prin bunătatea ce a avut către noi întru Hristos Iisus."
+        },
+        {
+          "verse": 8,
+          "text": "Căci în har sunteţi mântuiţi, prin credinţă, şi aceasta nu e de la voi: este darul lui Dumnezeu;"
+        },
+        {
+          "verse": 9,
+          "text": "Nu din fapte, ca să nu se laude nimeni."
+        },
+        {
+          "verse": 10,
+          "text": "Pentru că a Lui făptură suntem, zidiţi în Hristos Iisus spre fapte bune, pe care Dumnezeu le-a gătit mai înainte, ca să umblăm întru ele."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Ephesians_02_02",
+      "chapter": 2,
+      "pericope_num": "02",
+      "title_en": "One in Christ",
+      "title_ro": "Una în Hristos",
+      "start_verse": 11,
+      "end_verse": 22,
+      "verse_count": 12,
+      "verses": [
+        {
+          "verse": 11,
+          "text": "De aceea, aduceţi-vă aminte că, odinioară, voi, păgânii cu trupul, numiţi netăiere-împrejur de către cei numiţi tăiere-împrejur, făcută de mână în trup,"
+        },
+        {
+          "verse": 12,
+          "text": "Eraţi, în vremea aceea, în afară de Hristos, înstrăinaţi de cetăţenia lui Israel, lipsiţi de nădejde şi fără de Dumnezeu, în lume."
+        },
+        {
+          "verse": 13,
+          "text": "Acum însă, fiind în Hristos Iisus, voi care altădată eraţi departe, v-aţi apropiat prin sângele lui Hristos,"
+        },
+        {
+          "verse": 14,
+          "text": "Căci El este pacea noastră, El care a făcut din cele două - una, surpând peretele din mijloc al despărţiturii,"
+        },
+        {
+          "verse": 15,
+          "text": "Desfiinţând vrăjmăşia în trupul Său, legea poruncilor şi învăţăturile ei, ca, întru Sine, pe cei doi să-i zidească într-un singur om nou şi să întemeieze pacea,"
+        },
+        {
+          "verse": 16,
+          "text": "Şi să-i împace cu Dumnezeu pe amândoi, uniţi într-un trup, prin cruce, omorând prin ea vrăjmăşia."
+        },
+        {
+          "verse": 17,
+          "text": "Şi, venind, a binevestit pace, vouă celor de departe şi pace celor de aproape;"
+        },
+        {
+          "verse": 18,
+          "text": "Că prin El avem şi unii şi alţii apropierea către Tatăl, într-un Duh."
+        },
+        {
+          "verse": 19,
+          "text": "Deci, dar, nu mai sunteţi străini şi locuitori vremelnici, ci sunteţi împreună cetăţeni cu sfinţii şi casnici ai lui Dumnezeu,"
+        },
+        {
+          "verse": 20,
+          "text": "Zidiţi fiind pe temelia apostolilor şi a proorocilor, piatra cea din capul unghiului fiind însuşi Iisus Hristos."
+        },
+        {
+          "verse": 21,
+          "text": "Întru El, orice zidire bine alcătuită creşte ca să ajungă un locaş sfânt în Domnul,"
+        },
+        {
+          "verse": 22,
+          "text": "În Care voi împreună sunteţi zidiţi, spre a fi locaş al lui Dumnezeu în Duh."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Ephesians_03_01",
+      "chapter": 3,
+      "pericope_num": "01",
+      "title_en": "Paul's Ministry to the Gentiles",
+      "title_ro": "Slujirea lui Pavel către neamuri",
+      "start_verse": 1,
+      "end_verse": 13,
+      "verse_count": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Pentru aceasta, eu Pavel, întemniţatul lui Iisus Hristos pentru voi, neamurile,"
+        },
+        {
+          "verse": 2,
+          "text": "Dacă în adevăr aţi auzit de iconomia harului lui Dumnezeu care mi-a fost dat mie pentru voi,"
+        },
+        {
+          "verse": 3,
+          "text": "Că prin descoperire mi s-a dat în cunoştinţă această taină, precum v-am scris înainte pe scurt."
+        },
+        {
+          "verse": 4,
+          "text": "De unde, citind, puteţi să cunoaşteţi înţelegerea mea în taina lui Hristos,"
+        },
+        {
+          "verse": 5,
+          "text": "Care, în alte veacuri, nu s-a făcut cunoscută fiilor oamenilor, cum s-a descoperit acum sfinţilor Săi apostoli şi prooroci, prin Duhul:"
+        },
+        {
+          "verse": 6,
+          "text": "Anume că neamurile sunt împreună moştenitoare (cu iudeii) şi mădulare ale aceluiaşi trup şi împreună-părtaşi ai făgăduinţei, în Hristos Iisus, prin Evanghelie,"
+        },
+        {
+          "verse": 7,
+          "text": "Al cărei slujitor m-am făcut după darul harului lui Dumnezeu, ce mi-a fost dat mie, prin lucrarea puterii Sale;"
+        },
+        {
+          "verse": 8,
+          "text": "Mie, celui mai mic decât toţi sfinţii, mi-a fost dat harul acesta, ca să binevestesc neamurilor bogăţia lui Hristos, de nepătruns,"
+        },
+        {
+          "verse": 9,
+          "text": "Şi să descopăr tuturor care este iconomia tainei celei din veci ascunse în Dumnezeu, Ziditorul a toate, prin Iisus Hristos,"
+        },
+        {
+          "verse": 10,
+          "text": "Pentru ca înţelepciunea lui Dumnezeu cea de multe feluri să se facă cunoscută acum, prin Biserică, începătoriilor şi stăpâniilor, în ceruri,"
+        },
+        {
+          "verse": 11,
+          "text": "După sfatul cel din veci, pe care El l-a împlinit în Hristos Iisus, Domnul nostru,"
+        },
+        {
+          "verse": 12,
+          "text": "Întru Care avem, prin credinţa în El, îndrăzneală şi apropiere de Dumnezeu, cu deplină încredere."
+        },
+        {
+          "verse": 13,
+          "text": "De aceea, vă rog să nu vă pierdeţi cumpătul, din pricina necazurilor mele pentru voi; ele sunt slava voastră."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Ephesians_03_02",
+      "chapter": 3,
+      "pericope_num": "02",
+      "title_en": "Prayer for the Readers",
+      "title_ro": "Rugăciune pentru cititori",
+      "start_verse": 14,
+      "end_verse": 21,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 14,
+          "text": "Pentru aceasta, îmi plec genunchii înaintea Tatălui Domnului nostru Iisus Hristos,"
+        },
+        {
+          "verse": 15,
+          "text": "Din Care îşi trage numele orice neam în cer şi pe pământ,"
+        },
+        {
+          "verse": 16,
+          "text": "Să vă dăruiască, după bogăţia slavei Sale, ca să fiţi puternic întăriţi, prin Duhul Său, în omul dinăuntru,"
+        },
+        {
+          "verse": 17,
+          "text": "Şi Hristos să Se sălăşluiască, prin credinţă, în inimile voastre, înrădăcinaţi şi întemeiaţi fiind în iubire,"
+        },
+        {
+          "verse": 18,
+          "text": "Ca să puteţi înţelege împreună cu toţi sfinţii care este lărgimea şi lungimea şi înălţimea şi adâncimea,"
+        },
+        {
+          "verse": 19,
+          "text": "Şi să cunoaşteţi iubirea lui Hristos, cea mai presus de cunoştinţă, ca să vă umpleţi de toată plinătatea lui Dumnezeu."
+        },
+        {
+          "verse": 20,
+          "text": "Iar Celui ce poate să facă, prin puterea cea lucrătoare în noi, cu mult mai presus decât toate câte cerem sau pricepem noi,"
+        },
+        {
+          "verse": 21,
+          "text": "Lui fie slava în Biserică şi întru Hristos Iisus în toate neamurile veacului veacurilor. Amin!"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Ephesians_04_01",
+      "chapter": 4,
+      "pericope_num": "01",
+      "title_en": "Unity in the Body of Christ",
+      "title_ro": "Unitatea în trupul lui Hristos",
+      "start_verse": 1,
+      "end_verse": 16,
+      "verse_count": 16,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "De aceea, vă îndemn, eu cel întemniţat pentru Domnul, să umblaţi cu vrednicie, după chemarea cu care aţi fost chemaţi,"
+        },
+        {
+          "verse": 2,
+          "text": "Cu toată smerenia şi blândeţea, cu îndelungă-răbdare, îngăduindu-vă unii pe alţii în iubire,"
+        },
+        {
+          "verse": 3,
+          "text": "Silindu-vă să păziţi unitatea Duhului, întru legătura păcii."
+        },
+        {
+          "verse": 4,
+          "text": "Este un trup şi un Duh, precum şi chemaţi aţi fost la o singură nădejde a chemării voastre;"
+        },
+        {
+          "verse": 5,
+          "text": "Este un Domn, o credinţă, un botez,"
+        },
+        {
+          "verse": 6,
+          "text": "Un Dumnezeu şi Tatăl tuturor, Care este peste toate şi prin toate şi întru toţi."
+        },
+        {
+          "verse": 7,
+          "text": "Iar fiecăruia dintre noi, i s-a dat harul după măsura darului lui Hristos."
+        },
+        {
+          "verse": 8,
+          "text": "Pentru aceea zice: \"Suindu-Se la înălţime, a robit robime şi a dat daruri oamenilor\"."
+        },
+        {
+          "verse": 9,
+          "text": "Iar aceea că \"S-a suit\" - ce înseamnă decât că S-a pogorât în părţile cele mai de jos ale pământului?"
+        },
+        {
+          "verse": 10,
+          "text": "Cel ce S-a pogorât, Acela este Care S-a suit mai presus de toate cerurile, ca pe toate să le umple."
+        },
+        {
+          "verse": 11,
+          "text": "Şi el a dat pe unii apostoli, pe alţii prooroci, pe alţii evanghelişti, pe alţii păstori şi învăţători,"
+        },
+        {
+          "verse": 12,
+          "text": "Spre desăvârşirea sfinţilor, la lucrul slujirii, la zidirea trupului lui Hristos,"
+        },
+        {
+          "verse": 13,
+          "text": "Până vom ajunge toţi la unitatea credinţei şi a cunoaşterii Fiului lui Dumnezeu, la starea bărbatului desăvârşit, la măsura vârstei deplinătăţii lui Hristos."
+        },
+        {
+          "verse": 14,
+          "text": "Ca să nu mai fim copii duşi de valuri, purtaţi încoace şi încolo de orice vânt al învăţăturii, prin înşelăciunea oamenilor, prin vicleşugul lor, spre uneltirea rătăcirii,"
+        },
+        {
+          "verse": 15,
+          "text": "Ci ţinând adevărul, în iubire, să creştem întru toate pentru El, Care este capul - Hristos."
+        },
+        {
+          "verse": 16,
+          "text": "Din El, tot trupul bine alcătuit şi bine încheiat, prin toate legăturile care îi dau tărie, îşi săvârşeşte creşterea, potrivit lucrării măsurate fiecăruia din mădulare, şi se zideşte întru dragoste."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Ephesians_04_02",
+      "chapter": 4,
+      "pericope_num": "02",
+      "title_en": "The Old Life and the New",
+      "title_ro": "Viața veche și cea nouă",
+      "start_verse": 17,
+      "end_verse": 24,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 17,
+          "text": "Aşadar, aceasta zic şi mărturisesc în Domnul, ca voi să nu mai umblaţi de acum cum umblă neamurile, în deşertăciunea minţii lor,"
+        },
+        {
+          "verse": 18,
+          "text": "Întunecaţi fiind la cuget, înstrăinaţi fiind de viaţa lui Dumnezeu, din pricina necunoştinţei care este în ei, din pricina împietririi inimii lor;"
+        },
+        {
+          "verse": 19,
+          "text": "Aceştia petrec în nesimţire şi s-au dat pe sine desfrânării, săvârşind cu nesaţ toate faptele necurăţiei."
+        },
+        {
+          "verse": 20,
+          "text": "Voi însă n-aţi învăţat aşa pe Hristos,"
+        },
+        {
+          "verse": 21,
+          "text": "Dacă, într-adevăr, L-aţi ascultat şi aţi fost învăţaţi întru El, aşa cum este adevărul întru Iisus;"
+        },
+        {
+          "verse": 22,
+          "text": "Să vă dezbrăcaţi de vieţuirea voastră de mai înainte, de omul cel vechi, care se strică prin poftele amăgitoare,"
+        },
+        {
+          "verse": 23,
+          "text": "Şi să vă înnoiţi în duhul minţii voastre,"
+        },
+        {
+          "verse": 24,
+          "text": "Şi să vă îmbrăcaţi în omul cel nou, cel după Dumnezeu, zidit întru dreptate şi în sfinţenia adevărului."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Ephesians_04_03",
+      "chapter": 4,
+      "pericope_num": "03",
+      "title_en": "Rules for the New Life",
+      "title_ro": "Reguli pentru viața nouă",
+      "start_verse": 25,
+      "end_verse": 32,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 25,
+          "text": "Pentru aceea, lepădând minciuna, grăiţi adevărul fiecare cu aproapele său, căci unul altuia suntem mădulare."
+        },
+        {
+          "verse": 26,
+          "text": "Mâniaţi-vă şi nu greşiţi; soarele să nu apună peste mânia voastră."
+        },
+        {
+          "verse": 27,
+          "text": "Nici nu daţi loc diavolului."
+        },
+        {
+          "verse": 28,
+          "text": "Cel ce fură să nu mai fure, ci mai vârtos să se ostenească lucrând cu mâinile sale, lucrul cel bun, ca să aibă să dea şi celui ce are nevoie."
+        },
+        {
+          "verse": 29,
+          "text": "Din gura voastră să nu iasă nici un cuvânt rău, ci numai ce este bun, spre zidirea cea de trebuinţă, ca să dea har celor ce ascultă."
+        },
+        {
+          "verse": 30,
+          "text": "Să nu întristaţi Duhul cel Sfânt al lui Dumnezeu, întru Care aţi fost pecetluiţi pentru ziua răscumpărării."
+        },
+        {
+          "verse": 31,
+          "text": "Orice amărăciune şi supărare şi mânie şi izbucnire şi defăimare să piară de la voi, împreună cu orice răutate."
+        },
+        {
+          "verse": 32,
+          "text": "Ci fiţi buni între voi şi milostivi, iertând unul altuia, precum şi Dumnezeu v-a iertat vouă, în Hristos."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Ephesians_05_01",
+      "chapter": 5,
+      "pericope_num": "01",
+      "title_en": "Renounce Pagan Ways",
+      "title_ro": "Renunțați la căile păgâne",
+      "start_verse": 1,
+      "end_verse": 20,
+      "verse_count": 20,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Fiţi dar următori ai lui Dumnezeu, ca nişte fii iubiţi,"
+        },
+        {
+          "verse": 2,
+          "text": "Şi umblaţi întru iubire, precum şi Hristos ne-a iubit pe noi şi S-a dat pe Sine pentru noi, prinos şi jertfă lui Dumnezeu, întru miros cu bună mireasmă."
+        },
+        {
+          "verse": 3,
+          "text": "Iar desfrâu şi orice necurăţie şi lăcomie de avere nici să se pomenească între voi, cum se cuvine sfinţilor;"
+        },
+        {
+          "verse": 4,
+          "text": "Nici vorbe de ruşine, nici vorbe nebuneşti, nici glume care nu se cuvin, ci mai degrabă mulţumire."
+        },
+        {
+          "verse": 5,
+          "text": "Căci aceasta s-o ştiţi bine, că nici un desfrânat, sau necurat, sau lacom de avere, care este un închinător la idoli, nu are moştenire în împărăţia lui Hristos şi a lui Dumnezeu."
+        },
+        {
+          "verse": 6,
+          "text": "Nimeni să nu vă amăgească cu cuvinte deşarte, căci pentru acestea vine mânia lui Dumnezeu peste fiii neascultării."
+        },
+        {
+          "verse": 7,
+          "text": "Deci să nu vă faceţi părtaşi cu ei."
+        },
+        {
+          "verse": 8,
+          "text": "Altădată eraţi întuneric, iar acum sunteţi lumină întru Domnul; umblaţi ca fii ai luminii!"
+        },
+        {
+          "verse": 9,
+          "text": "Pentru că roada luminii e în orice bunătate, dreptate şi adevăr."
+        },
+        {
+          "verse": 10,
+          "text": "Încercând ce este bineplăcut Domnului."
+        },
+        {
+          "verse": 11,
+          "text": "Şi nu fiţi părtaşi la faptele cele fără roadă ale întunericului, ci mai degrabă, osândiţi-le pe faţă."
+        },
+        {
+          "verse": 12,
+          "text": "Căci cele ce se fac întru ascuns de ei, ruşine este a le şi grăi."
+        },
+        {
+          "verse": 13,
+          "text": "Iar tot ce este pe faţă, se descoperă prin lumină,"
+        },
+        {
+          "verse": 14,
+          "text": "Căci tot ceea ce este descoperit, lumină este. Pentru aceea zice: \"Deşteaptă-te cel ce dormi şi te scoală din morţi şi te va lumina Hristos\"."
+        },
+        {
+          "verse": 15,
+          "text": "Deci luaţi seama cu grijă, cum umblaţi, nu ca nişte neînţelepţi, ci ca cei înţelepţi,"
+        },
+        {
+          "verse": 16,
+          "text": "Răscumpărând vremea, căci zilele rele sunt."
+        },
+        {
+          "verse": 17,
+          "text": "Drept aceea, nu fiţi fără de minte, ci înţelegeţi care este voia Domnului."
+        },
+        {
+          "verse": 18,
+          "text": "Şi nu vă îmbătaţi de vin, în care este pierzare, ci vă umpleţi de Duhul."
+        },
+        {
+          "verse": 19,
+          "text": "Vorbiţi între voi în psalmi şi în laude şi în cântări duhovniceşti, lăudând şi cântând Domnului, în inimile voastre,"
+        },
+        {
+          "verse": 20,
+          "text": "Mulţumind totdeauna pentru toate întru numele Domnului nostru Iisus Hristos, lui Dumnezeu (şi) Tatăl."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Ephesians_05_02",
+      "chapter": 5,
+      "pericope_num": "02",
+      "title_en": "The Christian Household",
+      "title_ro": "Familia creștină",
+      "start_verse": 21,
+      "end_verse": 33,
+      "verse_count": 13,
+      "verses": [
+        {
+          "verse": 21,
+          "text": "Supuneţi-vă unul altuia, întru frica lui Hristos."
+        },
+        {
+          "verse": 22,
+          "text": "Femeile să se supună bărbaţilor lor ca Domnului,"
+        },
+        {
+          "verse": 23,
+          "text": "Pentru că bărbatul este cap femeii, precum şi Hristos este cap Bisericii, trupul Său, al cărui mântuitor şi este."
+        },
+        {
+          "verse": 24,
+          "text": "Ci precum Biserica se supune lui Hristos, aşa şi femeile bărbaţilor lor, întru totul."
+        },
+        {
+          "verse": 25,
+          "text": "Bărbaţilor, iubiţi pe femeile voastre, după cum şi Hristos a iubit Biserica, şi S-a dat pe Sine pentru ea,"
+        },
+        {
+          "verse": 26,
+          "text": "Ca s-o sfinţească, curăţind-o cu baia apei prin cuvânt,"
+        },
+        {
+          "verse": 27,
+          "text": "Şi ca s-o înfăţişeze Sieşi, Biserică slăvită, neavând pată sau zbârcitură, ori altceva de acest fel, ci ca să fie sfântă şi fără de prihană."
+        },
+        {
+          "verse": 28,
+          "text": "Aşadar, bărbaţii sunt datori să-şi iubească femeile ca pe înseşi trupurile lor. Cel ce-şi iubeşte femeia pe sine se iubeşte."
+        },
+        {
+          "verse": 29,
+          "text": "Căci nimeni vreodată nu şi-a urât trupul său, ci fiecare îl hrăneşte şi îl încălzeşte, precum şi Hristos Biserica,"
+        },
+        {
+          "verse": 30,
+          "text": "Pentru că suntem mădulare ale trupului Lui, din carnea Lui şi din oasele Lui."
+        },
+        {
+          "verse": 31,
+          "text": "De aceea, va lăsa omul pe tatăl său şi pe mama sa şi se va alipi de femeia sa şi vor fi amândoi un trup."
+        },
+        {
+          "verse": 32,
+          "text": "Taina aceasta mare este; iar eu zic în Hristos şi în Biserică."
+        },
+        {
+          "verse": 33,
+          "text": "Astfel şi voi, fiecare aşa să-şi iubească femeia ca pe sine însuşi; iar femeia să se teamă de bărbat."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Ephesians_06_01",
+      "chapter": 6,
+      "pericope_num": "01",
+      "title_en": "Children and Parents",
+      "title_ro": "Copii și părinți",
+      "start_verse": 1,
+      "end_verse": 6,
+      "verse_count": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Copii, ascultaţi pe părinţii voştri în Domnul că aceasta este cu dreptate."
+        },
+        {
+          "verse": 2,
+          "text": "\"Cinsteşte pe tatăl tău şi pe mama ta, care este porunca cea dintâi cu făgăduinţa:"
+        },
+        {
+          "verse": 3,
+          "text": "Ca să-ţi fie ţie bine şi să trăieşti ani mulţi pe pământ\"."
+        },
+        {
+          "verse": 4,
+          "text": "Şi voi, părinţilor, nu întărâtaţi la mânie pe copiii voştri, ci creşteţi-i întru învăţătura şi certarea Domnului."
+        },
+        {
+          "verse": 5,
+          "text": "Slugilor, ascultaţi de stăpânii voştri cei după trup, cu frică şi cu cutremur, întru curăţia inimii voastre, ca şi de Hristos,"
+        },
+        {
+          "verse": 6,
+          "text": "Nu slujind numai când sunt cu ochii pe voi, ca cei ce caută să placă oamenilor, ci ca slugile lui Hristos, făcând din suflet voia lui Dumnezeu,"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Ephesians_06_02",
+      "chapter": 6,
+      "pericope_num": "02",
+      "title_en": "Slaves and Masters",
+      "title_ro": "Robi și stăpâni",
+      "start_verse": 5,
+      "end_verse": 9,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 5,
+          "text": "Slugilor, ascultaţi de stăpânii voştri cei după trup, cu frică şi cu cutremur, întru curăţia inimii voastre, ca şi de Hristos,"
+        },
+        {
+          "verse": 6,
+          "text": "Nu slujind numai când sunt cu ochii pe voi, ca cei ce caută să placă oamenilor, ci ca slugile lui Hristos, făcând din suflet voia lui Dumnezeu,"
+        },
+        {
+          "verse": 7,
+          "text": "Slujind cu bunăvoinţă, ca şi Domnului şi nu ca oamenilor,"
+        },
+        {
+          "verse": 8,
+          "text": "Ştiind fiecare, fie rob, fie de sine stăpân, că faptele bune pe care le va face, pe acelea le va lua ca plată de la Domnul."
+        },
+        {
+          "verse": 9,
+          "text": "Iar voi, stăpânilor, faceţi tot aşa faţă de ei, lăsând la o parte ameninţarea, ştiind că Domnul lor şi al vostru este în ceruri şi că la El nu încape părtinire."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Ephesians_06_03",
+      "chapter": 6,
+      "pericope_num": "03",
+      "title_en": "The Whole Armor of God",
+      "title_ro": "Toată armătura lui Dumnezeu",
+      "start_verse": 10,
+      "end_verse": 20,
+      "verse_count": 11,
+      "verses": [
+        {
+          "verse": 10,
+          "text": "În sfârşit, fraţilor, întăriţi-vă în Domnul şi întru puterea tăriei Lui."
+        },
+        {
+          "verse": 11,
+          "text": "Îmbrăcaţi-vă cu toate armele lui Dumnezeu, ca să puteţi sta împotriva uneltirilor diavolului."
+        },
+        {
+          "verse": 12,
+          "text": "Căci lupta noastră nu este împotriva trupului şi a sângelui, ci împotriva începătoriilor, împotriva stăpâniilor, împotriva stăpânitorilor întunericului acestui veac, împotriva duhurilor răutăţii, care sunt în văzduh."
+        },
+        {
+          "verse": 13,
+          "text": "Pentru aceea, luaţi toate armele lui Dumnezeu, ca să puteţi sta împotrivă în ziua cea rea, şi, toate biruindu-le, să rămâneţi în picioare."
+        },
+        {
+          "verse": 14,
+          "text": "Staţi deci tari, având mijlocul vostru încins cu adevărul şi îmbrăcându-vă cu platoşa dreptăţii,"
+        },
+        {
+          "verse": 15,
+          "text": "Şi încălţaţi picioarele voastre, gata fiind pentru Evanghelia păcii."
+        },
+        {
+          "verse": 16,
+          "text": "În toate luaţi pavăza credinţei, cu care veţi putea să stingeţi toate săgeţile cele arzătoare ale vicleanului."
+        },
+        {
+          "verse": 17,
+          "text": "Luaţi şi coiful mântuirii şi sabia Duhului, care este cuvântul lui Dumnezeu."
+        },
+        {
+          "verse": 18,
+          "text": "Faceţi în toată vremea, în Duhul, tot felul de rugăciuni şi de cereri, şi întru aceasta priveghind cu toată stăruinţa şi rugăciunea pentru toţi sfinţii."
+        },
+        {
+          "verse": 19,
+          "text": "Rugaţi-vă şi pentru mine, ca să mi se dea mie cuvânt, când voi deschide gura mea, să fac cunoscută cu îndrăzneală taina Evangheliei,"
+        },
+        {
+          "verse": 20,
+          "text": "Pe care o binevestesc, în lanţuri, ca să vorbesc despre Evanghelie, fără sfială, precum şi trebuie să vorbesc."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Ephesians_06_04",
+      "chapter": 6,
+      "pericope_num": "04",
+      "title_en": "Personal Matters and Benediction",
+      "title_ro": "Chestiuni personale și binecuvântare",
+      "start_verse": 21,
+      "end_verse": 24,
+      "verse_count": 4,
+      "verses": [
+        {
+          "verse": 21,
+          "text": "Iar ca să ştiţi şi voi cele despre mine şi ce fac, Tihic, iubitul frate şi credinciosul slujitor întru Domnul, vi le va aduce la cunoştinţă pe toate;"
+        },
+        {
+          "verse": 22,
+          "text": "L-am trimis pe el la voi, pentru aceasta, ca să aflaţi cele despre noi şi să mângâie inimile voastre."
+        },
+        {
+          "verse": 23,
+          "text": "Pace fraţilor şi dragoste, cu credinţă de la Dumnezeu-Tatăl şi de la Domnul Iisus Hristos."
+        },
+        {
+          "verse": 24,
+          "text": "Harul fie cu toţi care iubesc pe Domnul nostru Iisus Hristos întru curăţie."
+        }
+      ]
+    }
+  ]
+}

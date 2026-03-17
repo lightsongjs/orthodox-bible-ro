@@ -1,0 +1,800 @@
+{
+  "id": 29,
+  "book_number": 60,
+  "name_en": "Galatians",
+  "name_ro": "Galateni",
+  "testament": "NT",
+  "chapter_count": 6,
+  "pericope_count": 16,
+  "url": "https://www.bibliaortodoxa.ro/carte.php?id=29",
+  "pericopes": [
+    {
+      "pericope_id": "Galatians_01_01",
+      "chapter": 1,
+      "pericope_num": "01",
+      "title_en": "Salutation",
+      "title_ro": "Salutare",
+      "start_verse": 1,
+      "end_verse": 5,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Pavel, apostol nu de la oameni, nici prin vreun om, ci prin Iisus Hristos şi prin Dumnezeu-Tatăl, Care L-a înviat pe El din morţi."
+        },
+        {
+          "verse": 2,
+          "text": "Şi toţi fraţii care sunt împreună cu mine - Bisericilor Galatiei:"
+        },
+        {
+          "verse": 3,
+          "text": "Har vouă şi pace de la Dumnezeu-Tatăl şi de la Domnul nostru Iisus Hristos,"
+        },
+        {
+          "verse": 4,
+          "text": "Cel ce S-a dat pe Sine pentru păcatele noastre, ca să ne scoată pe noi din acest veac rău de acum, după voia lui Dumnezeu şi a Tatălui nostru,"
+        },
+        {
+          "verse": 5,
+          "text": "Căruia fie slava în vecii vecilor. Amin!"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Galatians_01_02",
+      "chapter": 1,
+      "pericope_num": "02",
+      "title_en": "There Is No Other Gospel",
+      "title_ro": "Nu există altă Evanghelie",
+      "start_verse": 6,
+      "end_verse": 10,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 6,
+          "text": "Mă mir că aşa degrabă treceţi de la cel ce v-a chemat pe voi, prin harul lui Hristos, la altă Evanghelie,"
+        },
+        {
+          "verse": 7,
+          "text": "Care nu este alta, decât că sunt unii care vă tulbură şi voiesc să schimbe Evanghelia lui Hristos."
+        },
+        {
+          "verse": 8,
+          "text": "Dar chiar dacă noi sau un înger din cer v-ar vesti altă Evanghelie decât aceea pe care v-am vestit-o - să fie anatema!"
+        },
+        {
+          "verse": 9,
+          "text": "Precum v-am spus mai înainte, şi acum vă spun iarăşi: Dacă vă propovăduieşte cineva altceva decât aţi primit - să fie anatema!"
+        },
+        {
+          "verse": 10,
+          "text": "Căci acum caut bunăvoinţa oamenilor sau pe a lui Dumnezeu? Sau caut să plac oamenilor? Dacă aş plăcea însă oamenilor, n-aş fi rob al lui Hristos."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Galatians_01_03",
+      "chapter": 1,
+      "pericope_num": "03",
+      "title_en": "Paul's Vindication of His Apostleship",
+      "title_ro": "Pavel își apără apostolia",
+      "start_verse": 11,
+      "end_verse": 24,
+      "verse_count": 14,
+      "verses": [
+        {
+          "verse": 11,
+          "text": "Dar vă fac cunoscut, fraţilor, că Evanghelia cea binevestită de mine nu este după om;"
+        },
+        {
+          "verse": 12,
+          "text": "Pentru că nici eu n-am primit-o de la om, nici n-am învăţat-o, ci prin descoperirea lui Iisus Hristos."
+        },
+        {
+          "verse": 13,
+          "text": "Căci aţi auzit despre purtarea mea de altădată întru iudaism, că prigoneam peste măsură Biserica lui Dumnezeu şi o pustiiam."
+        },
+        {
+          "verse": 14,
+          "text": "Şi spoream în iudaism mai mult decât mulţi dintre cei care erau de vârsta mea în neamul meu, fiind mult râvnitor al datinilor mele părinteşti."
+        },
+        {
+          "verse": 15,
+          "text": "Dar când a binevoit Dumnezeu Care m-a ales din pântecele mamei mele şi m-a chemat prin harul Său,"
+        },
+        {
+          "verse": 16,
+          "text": "Să descopere pe Fiul Său întru mine, pentru ca să-L binevestesc la neamuri, îndată nu am primit sfat de la trup şi de la sânge,"
+        },
+        {
+          "verse": 17,
+          "text": "Nici nu m-am suit la Ierusalim, la Apostolii cei dinainte de mine, ci m-am dus în Arabia şi m-am întors iarăşi la Damasc."
+        },
+        {
+          "verse": 18,
+          "text": "Apoi, după trei ani, m-am suit la Ierusalim, ca să-l cunosc pe Chefa şi am rămas la el cincisprezece zile."
+        },
+        {
+          "verse": 19,
+          "text": "Iar pe altul din apostoli n-am văzut decât numai pe Iacov, fratele Domnului."
+        },
+        {
+          "verse": 20,
+          "text": "Dar cele ce vă scriu, iată (spun) înaintea lui Dumnezeu, că nu vă mint."
+        },
+        {
+          "verse": 21,
+          "text": "După aceea am venit în ţinuturile Siriei şi ale Ciliciei."
+        },
+        {
+          "verse": 22,
+          "text": "Şi după faţă eram necunoscut Bisericilor lui Hristos celor din Iudeea."
+        },
+        {
+          "verse": 23,
+          "text": "Ci numai auziseră că cel ce ne prigonea pe noi, odinioară, acum binevesteşte credinţa pe care altădată o nimicea;"
+        },
+        {
+          "verse": 24,
+          "text": "Şi slăveau pe Dumnezeu în mine."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Galatians_02_01",
+      "chapter": 2,
+      "pericope_num": "01",
+      "title_en": "Paul and the Other Apostles",
+      "title_ro": "Pavel și ceilalți apostoli",
+      "start_verse": 1,
+      "end_verse": 10,
+      "verse_count": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Apoi, după paisprezece ani, m-am suit iarăşi la Ierusalim cu Barnaba, luând cu mine şi pe Tit."
+        },
+        {
+          "verse": 2,
+          "text": "M-am suit, potrivit unei descoperiri, şi le-am arătat Evanghelia pe care o propovăduiesc la neamuri, îndeosebi celor mai de seamă, ca nu cumva să alerg sau să fi alergat în zadar."
+        },
+        {
+          "verse": 3,
+          "text": "Dar nici Tit, care era cu mine şi care era elin, n-a fost silit să se taie împrejur,"
+        },
+        {
+          "verse": 4,
+          "text": "Din cauza fraţilor mincinoşi, care veniseră, furişându-se, să iscodească libertatea noastră, pe care o avem în Hristos Iisus, ca să ne robească,"
+        },
+        {
+          "verse": 5,
+          "text": "Cărora nici măcar un ceas nu ne-am plecat cu supunere, pentru ca adevărul Evangheliei să rămână neclintit la voi."
+        },
+        {
+          "verse": 6,
+          "text": "Iar de cei ce sunt mai de seamă - oricine ar fi fost ei cândva, nu mă priveşte; Dumnezeu nu caută la faţa omului, - cei mai de seamă n-au adăugat nimic la Evanghelia mea,"
+        },
+        {
+          "verse": 7,
+          "text": "Ci dimpotrivă, văzând că mie mi-a fost încredinţată Evanghelia pentru cei netăiaţi împrejur, după cum lui Petru, Evanghelia pentru cei tăiaţi împrejur,"
+        },
+        {
+          "verse": 8,
+          "text": "Căci Cel ce a lucrat prin Petru în apostolia tăierii împrejur a lucrat şi prin mine la neamuri;"
+        },
+        {
+          "verse": 9,
+          "text": "Şi cunoscând harul ce mi-a fost dat mie, Iacov şi Chefa şi Ioan, cei socotiţi a fi stâlpi, mi-au dat mie şi lui Barnaba dreapta spre unire cu ei, pentru ca noi să binevestim la neamuri, iar ei la cei tăiaţi împrejur,"
+        },
+        {
+          "verse": 10,
+          "text": "Numai să ne aducem aminte de săraci, ceea ce tocmai m-am şi silit să fac."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Galatians_02_02",
+      "chapter": 2,
+      "pericope_num": "02",
+      "title_en": "Paul Rebukes Peter at Antioch",
+      "title_ro": "Pavel îl mustră pe Petru la Antiohia",
+      "start_verse": 11,
+      "end_verse": 14,
+      "verse_count": 4,
+      "verses": [
+        {
+          "verse": 11,
+          "text": "Iar când Chefa a venit în Antiohia, pe faţă i-am stat împotrivă, căci era vrednic de înfruntare."
+        },
+        {
+          "verse": 12,
+          "text": "Căci înainte de a veni unii de la Iacov, el mânca cu cei dintre neamuri; dar când au venit ei, se ferea şi se osebea, temându-se de cei din tăierea împrejur."
+        },
+        {
+          "verse": 13,
+          "text": "Şi, împreună cu el, s-au făţărnicit şi ceilalţi iudei, încât şi Barnaba a fost atras în făţărnicia lor."
+        },
+        {
+          "verse": 14,
+          "text": "Dar când am văzut că ei nu calcă drept, după adevărul Evangheliei, am zis lui Chefa, înaintea tuturor: Dacă tu, care eşti iudeu, trăieşti ca păgânii şi nu ca iudeii, de ce sileşti pe păgâni să trăiască ca iudeii?"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Galatians_02_03",
+      "chapter": 2,
+      "pericope_num": "03",
+      "title_en": "Jews and Gentiles Are Saved by Faith",
+      "title_ro": "Iudeii și neamurile sunt mântuiți prin credință",
+      "start_verse": 15,
+      "end_verse": 21,
+      "verse_count": 7,
+      "verses": [
+        {
+          "verse": 15,
+          "text": "Noi suntem din fire iudei, iar nu păcătoşi dintre neamuri."
+        },
+        {
+          "verse": 16,
+          "text": "Ştiind însă că omul nu se îndreptează din faptele Legii, ci prin credinţa în Hristos Iisus, am crezut şi noi în Hristos Iisus, ca să ne îndreptă din credinţa în Hristos, iar nu din faptele Legii, căci din faptele Legii, nimeni nu se va îndrepta."
+        },
+        {
+          "verse": 17,
+          "text": "Dacă însă, căutând să ne îndreptăm în Hristos, ne-am aflat şi noi înşine păcătoşi, este, oare, Hristos slujitor al păcatului? Nicidecum!"
+        },
+        {
+          "verse": 18,
+          "text": "Căci dacă zidesc iarăşi ceea ce am dărâmat, mă arăt pe mine însumi călcător (de poruncă)."
+        },
+        {
+          "verse": 19,
+          "text": "Căci, eu, prin Lege, am murit faţă de Lege, ca să trăiesc lui Dumnezeu."
+        },
+        {
+          "verse": 20,
+          "text": "M-am răstignit împreună cu Hristos; şi nu eu mai trăiesc, ci Hristos trăieşte în mine. Şi viaţa de acum, în trup, o trăiesc în credinţa în Fiul lui Dumnezeu, Care m-a iubit şi S-a dat pe Sine însuşi pentru mine."
+        },
+        {
+          "verse": 21,
+          "text": "Nu lepăd harul lui Dumnezeu; căci dacă dreptatea vine prin Lege, atunci Hristos a murit în zadar."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Galatians_03_01",
+      "chapter": 3,
+      "pericope_num": "01",
+      "title_en": "Law or Faith",
+      "title_ro": "Legea sau credința",
+      "start_verse": 1,
+      "end_verse": 14,
+      "verse_count": 14,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "O, galateni fără de minte, cine v-a ademenit pe voi, să nu vă încredeţi adevărului, - pe voi, în ochii cărora a fost zugrăvit Iisus Hristos răstignit?"
+        },
+        {
+          "verse": 2,
+          "text": "Numai aceasta voiesc să aflu de la voi: Din faptele Legii primit-aţi voi Duhul, sau din ascultarea credinţei?"
+        },
+        {
+          "verse": 3,
+          "text": "Atât de fără de minte sunteţi? După ce aţi început în Duh, sfârşiţi acum în trup?"
+        },
+        {
+          "verse": 4,
+          "text": "Aţi pătimit atâtea în zadar? - dacă a fost în zadar, cu adevărat."
+        },
+        {
+          "verse": 5,
+          "text": "Deci Cel care vă dă vouă Duhul şi săvârşeşte minuni la voi, le face, oare, din faptele Legii, sau din ascultarea credinţei?"
+        },
+        {
+          "verse": 6,
+          "text": "Precum şi Avraam a crezut în Dumnezeu şi i s-a socotit lui ca dreptate."
+        },
+        {
+          "verse": 7,
+          "text": "Să ştiţi, deci, că cei ce sunt din credinţă, aceştia sunt fii ai lui Avraam."
+        },
+        {
+          "verse": 8,
+          "text": "Iar Scriptura, văzând dinainte că Dumnezeu îndreptează neamurile din credinţă, dinainte a binevestit lui Avraam: \"Că se vor binecuvânta în tine toate neamurile\"."
+        },
+        {
+          "verse": 9,
+          "text": "Deci cei ce sunt din credinţă se binecuvintează împreună cu credinciosul Avraam."
+        },
+        {
+          "verse": 10,
+          "text": "Căci toţi câţi sunt din faptele Legii sub blestem sunt, că scris este: \"Blestemat este oricine nu stăruie întru toate cele scrise în cartea Legii, ca să le facă\"."
+        },
+        {
+          "verse": 11,
+          "text": "Iar acum că, prin Lege, nu se îndreptează nimeni înaintea lui Dumnezeu este lucru lămurit, deoarece \"dreptul din credinţă va fi viu\"."
+        },
+        {
+          "verse": 12,
+          "text": "Legea însă nu este din credinţă, dar cel care va face acestea, va fi viu prin ele."
+        },
+        {
+          "verse": 13,
+          "text": "Hristos ne-a răscumpărat din blestemul Legii, făcându-Se pentru noi blestem; pentru că scris este: \"Blestemat este tot cel spânzurat pe lemn\"."
+        },
+        {
+          "verse": 14,
+          "text": "Ca, prin Hristos Iisus, să vină la neamuri binecuvântarea lui Avraam, ca să primim, prin credinţă, făgăduinţa Duhului."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Galatians_03_02",
+      "chapter": 3,
+      "pericope_num": "02",
+      "title_en": "The Promise to Abraham",
+      "title_ro": "Făgăduința dată lui Avraam",
+      "start_verse": 15,
+      "end_verse": 18,
+      "verse_count": 4,
+      "verses": [
+        {
+          "verse": 15,
+          "text": "Fraţilor, ca un om grăiesc; că şi testamentul întărit al unui om nimeni nu-l strică, sau îi mai adaugă ceva."
+        },
+        {
+          "verse": 16,
+          "text": "Făgăduinţele au fost rostite lui Avraam şi urmaşului său. Nu zice: \"şi urmaşilor\", - ca de mai mulţi, - ci ca de unul singur: \"şi Urmaşului tău\", Care este Hristos."
+        },
+        {
+          "verse": 17,
+          "text": "Aceasta zic dar: Un testament întărit dinainte de Dumnezeu în Hristos nu desfiinţează Legea, care a venit după patru sute treizeci de ani, ca să desfiinţeze făgăduinţa."
+        },
+        {
+          "verse": 18,
+          "text": "Căci dacă moştenirea este din Lege, nu mai este din făgăduinţă, dar Dumnezeu i-a dăruit lui Avraam moştenirea prin făgăduinţă."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Galatians_03_03",
+      "chapter": 3,
+      "pericope_num": "03",
+      "title_en": "The Purpose of the Law",
+      "title_ro": "Scopul Legii",
+      "start_verse": 19,
+      "end_verse": 29,
+      "verse_count": 11,
+      "verses": [
+        {
+          "verse": 19,
+          "text": "Deci ce este Legea? Ea a fost adăugată pentru călcările de lege, până când era să vină Urmaşul, Căruia I s-a dat făgăduinţa, şi a fost rânduită prin îngeri, în mâna unui Mijlocitor."
+        },
+        {
+          "verse": 20,
+          "text": "Mijlocitorul însă nu este al unuia singur, iar Dumnezeu este unul."
+        },
+        {
+          "verse": 21,
+          "text": "Este deci Legea împotriva făgăduinţelor lui Dumnezeu? Nicidecum! Căci dacă s-ar fi dat Lege, care să poată da viaţă, cu adevărat dreptatea ar veni din Lege."
+        },
+        {
+          "verse": 22,
+          "text": "Dar Scriptura a închis toate sub păcat, pentru ca făgăduinţa să se dea din credinţa în Iisus Hristos celor ce cred."
+        },
+        {
+          "verse": 23,
+          "text": "Iar înainte de venirea credinţei, noi eram păziţi sub Lege, fiind închişi pentru credinţa care avea să se descopere."
+        },
+        {
+          "verse": 24,
+          "text": "Astfel că Legea ne-a fost călăuză spre Hristos, pentru ca să ne îndreptăm din credinţă."
+        },
+        {
+          "verse": 25,
+          "text": "Iar dacă a venit credinţa, nu mai suntem sub călăuză."
+        },
+        {
+          "verse": 26,
+          "text": "Căci toţi sunteţi fii ai lui Dumnezeu prin credinţa în Hristos Iisus."
+        },
+        {
+          "verse": 27,
+          "text": "Căci, câţi în Hristos v-aţi botezat, în Hristos v-aţi îmbrăcat."
+        },
+        {
+          "verse": 28,
+          "text": "Nu mai este iudeu, nici elin; nu mai este nici rob, nici liber; nu mai este parte bărbătească şi parte femeiască, pentru că voi toţi una sunteţi în Hristos Iisus."
+        },
+        {
+          "verse": 29,
+          "text": "Iar dacă voi sunteţi ai lui Hristos, sunteţi deci urmaşii lui Avraam, moştenitori după făgăduinţă."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Galatians_04_01",
+      "chapter": 4,
+      "pericope_num": "01",
+      "title_en": "Paul Reproves the Galatians",
+      "title_ro": "Pavel îi mustră pe galateni",
+      "start_verse": 1,
+      "end_verse": 20,
+      "verse_count": 20,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Zic însă: Câtă vreme moştenitorul este copil, nu se deosebeşte cu nimic de rob, deşi este stăpân peste toate;"
+        },
+        {
+          "verse": 2,
+          "text": "Ci este sub epitropi şi iconomi, până la vremea rânduită de tatăl său."
+        },
+        {
+          "verse": 3,
+          "text": "Tot aşa şi noi, când eram copii, eram robi înţelesurilor celor slabe ale lumii;"
+        },
+        {
+          "verse": 4,
+          "text": "Iar când a venit plinirea vremii, Dumnezeu, a trimis pe Fiul Său, născut din femeie, născut sub Lege,"
+        },
+        {
+          "verse": 5,
+          "text": "Ca pe cei de sub Lege să-i răscumpere, ca să dobândim înfierea."
+        },
+        {
+          "verse": 6,
+          "text": "Şi pentru că sunteţi fii, a trimis Dumnezeu pe Duhul Fiului Său în inimile noastre, care strigă: Avva, Părinte!"
+        },
+        {
+          "verse": 7,
+          "text": "Astfel dar, nu mai eşti rob, ci fiu; iar de eşti fiu, eşti şi moştenitor al lui Dumnezeu, prin Iisus Hristos."
+        },
+        {
+          "verse": 8,
+          "text": "Dar atunci necunoscând pe Dumnezeu, slujeaţi celor ce din fire nu sunt dumnezei;"
+        },
+        {
+          "verse": 9,
+          "text": "Acum însă, după ce aţi cunoscut pe Dumnezeu, sau mai degrabă după ce aţi fost cunoscuţi de Dumnezeu, cum vă întoarceţi iarăşi la înţelesurile cele slabe şi sărace, cărora iarăşi voiţi să le slujiţi ca înainte?"
+        },
+        {
+          "verse": 10,
+          "text": "Ţineţi zile şi luni şi timpuri şi ani?"
+        },
+        {
+          "verse": 11,
+          "text": "Mă tem de voi, să nu mă fi ostenit la voi, în zadar."
+        },
+        {
+          "verse": 12,
+          "text": "Fiţi, vă rog, fraţilor, precum sunt eu, că şi eu am fost precum sunteţi voi. Nu mi-aţi făcut nici un rău;"
+        },
+        {
+          "verse": 13,
+          "text": "Dar ştiţi că din cauza unei slăbiciuni a trupului, am binevestit vouă mai întâi,"
+        },
+        {
+          "verse": 14,
+          "text": "Şi voi nu aţi dispreţuit încercarea mea, ce era în trupul meu, nici nu v-aţi scârbit, ci m-aţi primit ca pe un înger al lui Dumnezeu, ca pe Hristos Iisus."
+        },
+        {
+          "verse": 15,
+          "text": "Unde este deci fericirea voastră? Căci vă mărturisesc că, de ar fi fost cu putinţă, v-aţi fi scos ochii voştri şi mi i-aţi fi dat mie."
+        },
+        {
+          "verse": 16,
+          "text": "Am ajuns deci vrăjmaşul vostru spunându-vă adevărul?"
+        },
+        {
+          "verse": 17,
+          "text": "Aceia vă râvnesc, dar nu cu gând bun; ci vor să vă despartă (de mine), ca să-i iubiţi pe ei."
+        },
+        {
+          "verse": 18,
+          "text": "Dar e bine să râvniţi totdeauna binele, şi nu numai atunci când eu sunt de faţă la voi."
+        },
+        {
+          "verse": 19,
+          "text": "O, copiii mei, pentru care sufăr iarăşi durerile naşterii, până ce Hristos va lua chip în voi!"
+        },
+        {
+          "verse": 20,
+          "text": "Aş vrea acum să mă găsesc la voi şi glasul să mi-l schimb, căci nu ştiu ce să cred despre voi!"
+        }
+      ]
+    },
+    {
+      "pericope_id": "Galatians_04_02",
+      "chapter": 4,
+      "pericope_num": "02",
+      "title_en": "The Allegory of Hagar and Sarah",
+      "title_ro": "Alegoria Agarei și Sarei",
+      "start_verse": 21,
+      "end_verse": 31,
+      "verse_count": 11,
+      "verses": [
+        {
+          "verse": 21,
+          "text": "Spuneţi-mi voi, care vreţi să fiţi sub Lege, nu auziţi Legea?"
+        },
+        {
+          "verse": 22,
+          "text": "Căci scris este că Avraam a avut doi fii: unul din femeia roabă şi altul din femeia liberă."
+        },
+        {
+          "verse": 23,
+          "text": "Dar cel din roabă s-a născut după trup, iar cel din cea liberă s-a născut după făgăduinţă."
+        },
+        {
+          "verse": 24,
+          "text": "Unele ca acestea au altă însemnare, căci acestea (femei) sunt două testamente: Unul de la Muntele Sinai, în Arabia, şi răspunde Ierusalimului de acum, care zace în robie cu copiii lui;"
+        },
+        {
+          "verse": 25,
+          "text": "Căci Agar este Muntele Sinai, în Arabia, şi răspunde Ierusalimului de acum, care zace în robie cu copiii lui;"
+        },
+        {
+          "verse": 26,
+          "text": "Iar cea liberă este Ierusalimul cel de sus, care este mama noastră."
+        },
+        {
+          "verse": 27,
+          "text": "Căci scris este: \"Veseleşte-te, tu, cea stearpă, care nu naşti! Izbucneşte de bucurie şi strigă, tu care nu ai durerile naşterii, căci mulţi sunt copiii celei părăsite, mai mulţi decât ai celei care are bărbat\"."
+        },
+        {
+          "verse": 28,
+          "text": "Iar noi, fraţilor, suntem după Isaac, fii ai făgăduinţei."
+        },
+        {
+          "verse": 29,
+          "text": "Ci precum atunci cel ce se născuse după trup prigonea pe cel ce se născuse după Duh, tot aşa şi acum."
+        },
+        {
+          "verse": 30,
+          "text": "Dar ce zice Scriptura? \"Izgoneşte pe roabă şi fiul ei, căci nu va moşteni fiul roabei, împreună cu fiul celei libere\"."
+        },
+        {
+          "verse": 31,
+          "text": "Deci, fraţilor, nu suntem copii ai roabei, ci copii ai celei libere."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Galatians_05_01",
+      "chapter": 5,
+      "pericope_num": "01",
+      "title_en": "The Nature of Christian Freedom",
+      "title_ro": "Natura libertății creștine",
+      "start_verse": 1,
+      "end_verse": 15,
+      "verse_count": 15,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Staţi deci tari în libertatea cu care Hristos ne-a făcut liberi şi nu vă prindeţi iarăşi în jugul robiei."
+        },
+        {
+          "verse": 2,
+          "text": "Iată eu, Pavel, vă spun vouă: Că de vă veţi tăia împrejur, Hristos nu vă va folosi la nimic."
+        },
+        {
+          "verse": 3,
+          "text": "Şi mărturisesc, iarăşi, oricărui om ce se taie împrejur, că el este dator să împlinească toată Legea."
+        },
+        {
+          "verse": 4,
+          "text": "Cei ce voiţi să vă îndreptaţi prin Lege v-aţi îndepărtat de Hristos, aţi căzut din har;"
+        },
+        {
+          "verse": 5,
+          "text": "Căci noi aşteptăm în Duh nădejdea dreptăţii din credinţă."
+        },
+        {
+          "verse": 6,
+          "text": "Căci în Hristos Iisus, nici tăierea împrejur nu poate ceva, nici netăierea împrejur, ci credinţa care este lucrătoare prin iubire."
+        },
+        {
+          "verse": 7,
+          "text": "Voi alergaţi bine. Cine v-a oprit ca să nu vă supuneţi adevărului?"
+        },
+        {
+          "verse": 8,
+          "text": "Înduplecarea aceasta nu este de la cel care vă cheamă."
+        },
+        {
+          "verse": 9,
+          "text": "Puţin aluat dospeşte toată frământătura."
+        },
+        {
+          "verse": 10,
+          "text": "Eu am încredere în voi, întru Domnul, că nimic altceva nu veţi cugeta; dar cel ce vă tulbură pe voi îşi va purta osânda, oricine ar fi el."
+        },
+        {
+          "verse": 11,
+          "text": "Dar eu, fraţilor, dacă propovăduiesc încă tăierea împrejur, pentru ce mai sunt prigonit? Deci, sminteala crucii a încetat!"
+        },
+        {
+          "verse": 12,
+          "text": "O, de s-ar tăia de tot cei ce vă răzvrătesc pe voi!"
+        },
+        {
+          "verse": 13,
+          "text": "Căci voi, fraţilor, aţi fost chemaţi la libertate; numai să nu folosiţi libertatea ca prilej de a sluji trupului, ci slujiţi unul altuia prin iubire."
+        },
+        {
+          "verse": 14,
+          "text": "Căci toată Legea se cuprinde într-un singur cuvânt, în acesta: Iubeşte pe aproapele tău ca pe tine însuţi."
+        },
+        {
+          "verse": 15,
+          "text": "Iar dacă vă muşcaţi unul pe altul şi vă mâncaţi, vedeţi să nu vă nimiciţi voi între voi."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Galatians_05_02",
+      "chapter": 5,
+      "pericope_num": "02",
+      "title_en": "The Works of the Flesh",
+      "title_ro": "Faptele trupului",
+      "start_verse": 16,
+      "end_verse": 21,
+      "verse_count": 6,
+      "verses": [
+        {
+          "verse": 16,
+          "text": "Zic dar: În Duhul să umblaţi şi să nu împliniţi pofta trupului."
+        },
+        {
+          "verse": 17,
+          "text": "Căci trupul pofteşte împotriva duhului, iar duhul împotriva trupului; căci acestea se împotrivesc unul altuia, ca să nu faceţi cele ce aţi voi."
+        },
+        {
+          "verse": 18,
+          "text": "Iar de vă purtaţi în Duhul nu sunteţi sub Lege."
+        },
+        {
+          "verse": 19,
+          "text": "Iar faptele trupului sunt cunoscute, şi ele sunt: adulter, desfrânare, necurăţie, destrăbălare,"
+        },
+        {
+          "verse": 20,
+          "text": "Închinare la idoli, fermecătorie, vrajbe, certuri, zavistii, mânii, gâlcevi, dezbinări, eresuri,"
+        },
+        {
+          "verse": 21,
+          "text": "Pizmuiri, ucideri, beţii, chefuri şi cele asemenea acestora, pe care vi le spun dinainte, precum dinainte v-am şi spus, că cei ce fac unele ca acestea nu vor moşteni împărăţia lui Dumnezeu."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Galatians_05_03",
+      "chapter": 5,
+      "pericope_num": "03",
+      "title_en": "The Fruit of the Spirit",
+      "title_ro": "Roada Duhului",
+      "start_verse": 22,
+      "end_verse": 26,
+      "verse_count": 5,
+      "verses": [
+        {
+          "verse": 22,
+          "text": "Iar roada Duhului este dragostea, bucuria, pacea, îndelungă-răbdarea, bunătatea, facerea de bine, credinţa,"
+        },
+        {
+          "verse": 23,
+          "text": "Blândeţea, înfrânarea, curăţia; împotriva unora ca acestea nu este lege."
+        },
+        {
+          "verse": 24,
+          "text": "Iar cei ce sunt ai lui Hristos Iisus şi-au răstignit trupul împreună cu patimile şi cu poftele."
+        },
+        {
+          "verse": 25,
+          "text": "Dacă trăim în Duhul, în Duhul să şi umblăm."
+        },
+        {
+          "verse": 26,
+          "text": "Să nu fim iubitori de mărire deşartă, supărându-ne unii pe alţii şi pizmuindu-ne unii pe alţii."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Galatians_06_01",
+      "chapter": 6,
+      "pericope_num": "01",
+      "title_en": "Bear One Another's Burdens",
+      "title_ro": "Purtați-vă sarcinile unii altora",
+      "start_verse": 1,
+      "end_verse": 10,
+      "verse_count": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Fraţilor, chiar de va cădea un om în vreo greşeală, voi cei duhovniceşti îndreptaţi-l, pe unul ca acesta cu duhul blândeţii, luând seama la tine însuţi, ca să nu cazi şi tu în ispită."
+        },
+        {
+          "verse": 2,
+          "text": "Purtaţi-vă sarcinile unii altora şi aşa veţi împlini legea lui Hristos."
+        },
+        {
+          "verse": 3,
+          "text": "Căci de se socoteşte cineva că este ceva, deşi nu este nimic, se înşeală pe sine însuşi."
+        },
+        {
+          "verse": 4,
+          "text": "Iar fapta lui însuşi să şi-o cerceteze fiecare şi atunci va avea laudă, dar numai faţă de sine însuşi şi nu faţă de altul."
+        },
+        {
+          "verse": 5,
+          "text": "Căci fiecare îşi va purta sarcina sa."
+        },
+        {
+          "verse": 6,
+          "text": "Cel care primeşte cuvântul învăţăturii să facă parte învăţătorului său din toate bunurile."
+        },
+        {
+          "verse": 7,
+          "text": "Nu vă amăgiţi: Dumnezeu nu Se lasă batjocorit; căci ce va semăna omul, aceea va şi secera."
+        },
+        {
+          "verse": 8,
+          "text": "Cel ce seamănă în trupul său însuşi, din trup va secera stricăciune; iar cel ce seamănă în Duhul, din Duh va secera viaţă veşnică."
+        },
+        {
+          "verse": 9,
+          "text": "Să nu încetăm de a face binele, căci vom secera la timpul său, dacă nu ne vom lenevi."
+        },
+        {
+          "verse": 10,
+          "text": "Deci, dar, până când avem vreme, să facem binele către toţi, dar mai ales către cei de o credinţă cu noi."
+        }
+      ]
+    },
+    {
+      "pericope_id": "Galatians_06_02",
+      "chapter": 6,
+      "pericope_num": "02",
+      "title_en": "Final Admonitions and Benediction",
+      "title_ro": "Îndemnuri finale și binecuvântare",
+      "start_verse": 11,
+      "end_verse": 18,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 11,
+          "text": "Vedeţi cu ce fel de litere v-am scris eu, cu mâna mea."
+        },
+        {
+          "verse": 12,
+          "text": "Câţi vor să placă în trup, aceia vă silesc să vă tăiaţi împrejur, numai ca să nu fie prigoniţi pentru crucea lui Hristos."
+        },
+        {
+          "verse": 13,
+          "text": "Căci nici ei singuri, cei ce se taie împrejur, nu păzesc Legea, ci voiesc să vă tăiaţi voi împrejur, ca să se laude ei în trupul vostru."
+        },
+        {
+          "verse": 14,
+          "text": "Iar mie, să nu-mi fie a mă lăuda, decât numai în crucea Domnului nostru Iisus Hristos, prin care lumea este răstignită pentru mine, şi eu pentru lume!"
+        },
+        {
+          "verse": 15,
+          "text": "Că în Hristos Iisus nici tăierea împrejur nu este ceva, nici netăierea împrejur, ci făptura cea nouă."
+        },
+        {
+          "verse": 16,
+          "text": "Şi câţi vor umbla după dreptarul acesta, - pace şi milă asupra lor şi asupra Israelului lui Dumnezeu!"
+        },
+        {
+          "verse": 17,
+          "text": "De acum înainte, nimeni să nu-mi mai facă supărare, căci eu port în trupul meu, semnele Domnului Iisus."
+        },
+        {
+          "verse": 18,
+          "text": "Harul Domnului nostru Iisus Hristos să fie cu duhul vostru, fraţilor! Amin."
+        }
+      ]
+    }
+  ]
+}

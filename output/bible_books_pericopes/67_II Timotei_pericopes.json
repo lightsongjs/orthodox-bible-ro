@@ -1,0 +1,440 @@
+{
+  "id": 79,
+  "book_number": 67,
+  "name_en": "2 Timothy",
+  "name_ro": "II Timotei",
+  "testament": "NT",
+  "chapter_count": 4,
+  "pericope_count": 8,
+  "url": "https://www.bibliaortodoxa.ro/carte.php?id=79",
+  "pericopes": [
+    {
+      "pericope_id": "2_Timothy_01_01",
+      "chapter": 1,
+      "pericope_num": "01",
+      "title_en": "Salutation",
+      "title_ro": "Salutare",
+      "start_verse": 1,
+      "end_verse": 2,
+      "verse_count": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Pavel, apostolul lui Hristos Iisus, prin voia lui Dumnezeu, după făgăduinţa vieţii care este în Hristos Iisus,"
+        },
+        {
+          "verse": 2,
+          "text": "Lui Timotei, iubitului fiu: Har, milă, pace de la Dumnezeu-Tatăl şi de la Hristos Iisus, Domnul nostru!"
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Timothy_01_02",
+      "chapter": 1,
+      "pericope_num": "02",
+      "title_en": "Thanksgiving and Encouragement",
+      "title_ro": "Mulțumire și îmbărbătare",
+      "start_verse": 3,
+      "end_verse": 18,
+      "verse_count": 16,
+      "verses": [
+        {
+          "verse": 3,
+          "text": "Mulţumesc lui Dumnezeu, Căruia Îi slujesc din strămoşi, cu cuget curat, că te pomenesc neîncetat, zi şi noapte, în rugăciunile mele."
+        },
+        {
+          "verse": 4,
+          "text": "Şi pentru că îmi aduc aminte de lacrimile tale, doresc mult să te văd, ca să mă umplu de bucurie;"
+        },
+        {
+          "verse": 5,
+          "text": "Îmi aduc iarăşi aminte de credinţa ta neprefăcută, care, precum s-a sălăşluit întâi în bunica ta Loida şi în mama Eunichi, tot aşa, sunt încredinţat, că şi întru tine."
+        },
+        {
+          "verse": 6,
+          "text": "Din această pricină, îţi amintesc să aprinzi şi mai mult din nou harul lui Dumnezeu, care este în tine, prin punerea mâinilor mele."
+        },
+        {
+          "verse": 7,
+          "text": "Căci Dumnezeu nu ne-a dat duhul temerii, ci al puterii şi al dragostei şi al înţelepciunii."
+        },
+        {
+          "verse": 8,
+          "text": "Deci, nu te ruşina de a mărturisi pe Domnul nostru, nici de mine, cel pus în lanţuri pentru El, ci pătimeşte împreună cu mine pentru Evanghelie după puterea de la Dumnezeu."
+        },
+        {
+          "verse": 9,
+          "text": "El ne-a mântuit şi ne-a chemat cu chemare sfântă, nu după faptele noastre, ci după a Sa hotărâre şi după harul ce ne-a fost dat în Hristos Iisus, mai înainte de începutul veacurilor,"
+        },
+        {
+          "verse": 10,
+          "text": "Iar acum s-a dat pe faţă prin arătarea Mântuitorului nostru Iisus Hristos, Cel ce a nimicit moartea şi a adus la lumină viaţa şi nemurirea, prin Evanghelie."
+        },
+        {
+          "verse": 11,
+          "text": "Spre aceasta am fost pus eu propovăduitor şi apostol şi învăţător al neamurilor."
+        },
+        {
+          "verse": 12,
+          "text": "Din această pricină şi sufăr toate acestea, dar nu mă ruşinez, că ştiu în cine am crezut şi sunt încredinţat că puternic este să păzească comoara ce mi-a încredinţat, până în ziua aceea."
+        },
+        {
+          "verse": 13,
+          "text": "Ţine dreptarul cuvintelor sănătoase pe care le-ai auzit de la mine, cu credinţa şi cu iubirea ce este în Hristos Iisus."
+        },
+        {
+          "verse": 14,
+          "text": "Comoara cea bună ce ţi s-a încredinţat, păzeşte-o cu ajutorul Sfântului Duh, Care sălăşluieşte întru noi."
+        },
+        {
+          "verse": 15,
+          "text": "Tu ştii că toţi cei din Asia s-au lepădat de mine, între care Fighel şi Ermoghen."
+        },
+        {
+          "verse": 16,
+          "text": "Domnul să aibă milă de casa lui Onisifor, căci de multe ori m-a însufleţit şi de lanţurile mele nu s-a ruşinat,"
+        },
+        {
+          "verse": 17,
+          "text": "Ci venind în Roma, cu multă osârdie m-a căutat şi m-a găsit."
+        },
+        {
+          "verse": 18,
+          "text": "Să-i dea Domnul ca, în ziua aceea, el să afle milă de la Domnul. Şi cât de mult mi-a slujit el în Efes, tu ştii prea bine."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Timothy_02_01",
+      "chapter": 2,
+      "pericope_num": "01",
+      "title_en": "A Good Soldier of Christ Jesus",
+      "title_ro": "Un bun ostaș al lui Iisus Hristos",
+      "start_verse": 1,
+      "end_verse": 13,
+      "verse_count": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Tu, deci, fiul meu, întăreşte-te în harul care e în Hristos Iisus,"
+        },
+        {
+          "verse": 2,
+          "text": "Şi cele ce ai auzit de la mine, cu mulţi martori de faţă, acestea le încredinţează la oameni credincioşi, care vor fi destoinici să înveţe şi pe alţii."
+        },
+        {
+          "verse": 3,
+          "text": "Suferă împreună cu mine, ca un bun ostaş al lui Hristos Iisus."
+        },
+        {
+          "verse": 4,
+          "text": "Nici un ostaş nu se încurcă cu treburile vieţii, ca să fie pe plac celui care strânge oaste."
+        },
+        {
+          "verse": 5,
+          "text": "Iar când se luptă cineva, la jocuri, nu ia cununa, dacă nu s-a luptat după regulile jocului."
+        },
+        {
+          "verse": 6,
+          "text": "Cuvine-se ca plugarul ce se osteneşte să mănânce el mai întâi din roade."
+        },
+        {
+          "verse": 7,
+          "text": "Înţelege cele ce-ţi grăiesc, căci Domnul îţi va da pricepere în toate."
+        },
+        {
+          "verse": 8,
+          "text": "Adu-ţi aminte de Iisus Hristos, Care a înviat din morţi, din neamul lui David, după Evanghelia mea,"
+        },
+        {
+          "verse": 9,
+          "text": "Pentru Care sufăr până şi lanţuri ca un făcător de rele, dar cuvântul lui Dumnezeu nu se leagă."
+        },
+        {
+          "verse": 10,
+          "text": "De aceea toate le rabd, pentru cei aleşi, ca şi ei să aibă parte de mântuirea care este întru Hristos Iisus şi de slava veşnică."
+        },
+        {
+          "verse": 11,
+          "text": "Vrednic de crezare este cuvântul: căci dacă am murit împreună cu El, vom şi învia împreună cu El."
+        },
+        {
+          "verse": 12,
+          "text": "Dacă rămânem întru El, vom şi împărăţi împreună cu El; de-L vom tăgădui, şi El ne va tăgădui pe noi."
+        },
+        {
+          "verse": 13,
+          "text": "Dacă nu-I suntem credincioşi, El rămâne credincios, căci nu poate să Se tăgăduiască pe Sine însuşi."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Timothy_02_02",
+      "chapter": 2,
+      "pericope_num": "02",
+      "title_en": "A Worker Approved by God",
+      "title_ro": "Un lucrător încercat de Dumnezeu",
+      "start_verse": 14,
+      "end_verse": 26,
+      "verse_count": 13,
+      "verses": [
+        {
+          "verse": 14,
+          "text": "Aminteşte-le acestea şi îndeamnă stăruitor înaintea lui Dumnezeu să nu se certe pe cuvinte, ceea ce la nimic nu foloseşte, decât la pierzarea ascultătorilor."
+        },
+        {
+          "verse": 15,
+          "text": "Sileşte-te să te arăţi încercat, înaintea lui Dumnezeu lucrător cu faţa curată, drept învăţând cuvântul adevărului."
+        },
+        {
+          "verse": 16,
+          "text": "Iar de deşartele vorbiri lumeşti fereşte-te, căci ele vor spori nelegiuirea tot mai mult."
+        },
+        {
+          "verse": 17,
+          "text": "Cuvântul lor va roade ca o cangrenă. Dintre ei sunt Imeneu şi Filet,"
+        },
+        {
+          "verse": 18,
+          "text": "Care au rătăcit de la adevăr, zicând că învierea s-a şi petrecut, şi răstoarnă credinţa unora."
+        },
+        {
+          "verse": 19,
+          "text": "Dar temelia cea tare a lui Dumnezeu stă neclintită, având pecetea aceasta: \"Cunoscut-a Domnul pe cei ce sunt ai Săi\"; şi \"să se depărteze de la nedreptate oricine cheamă numele Domnului\"."
+        },
+        {
+          "verse": 20,
+          "text": "Iar într-o casă mare nu sunt numai vase de aur şi de argint, ci şi de lemn şi de lut; şi unele sunt spre cinste, iar altele spre necinste."
+        },
+        {
+          "verse": 21,
+          "text": "Deci, de se va curăţi cineva pe sine de acestea, va fi vas de cinste, sfinţit, de bună trebuinţă stăpânului, potrivit pentru tot lucrul bun."
+        },
+        {
+          "verse": 22,
+          "text": "Fugi de poftele tinereţilor şi urmează dreptatea, credinţa, dragostea, pacea cu cei ce cheamă pe Domnul din inimă curată."
+        },
+        {
+          "verse": 23,
+          "text": "Fereşte-te de întrebările nebuneşti, ştiind că dau prilej de ceartă."
+        },
+        {
+          "verse": 24,
+          "text": "Un slujitor al Domnului nu trebuie să se certe, ci să fie blând faţă cu toţi, destoinic să dea învăţătură, îngăduitor,"
+        },
+        {
+          "verse": 25,
+          "text": "Certând cu blândeţe pe cei ce stau împotrivă, ca doar le va da Dumnezeu pocăinţă spre cunoaşterea adevărului,"
+        },
+        {
+          "verse": 26,
+          "text": "Şi ei să scape din cursa diavolului, de care sunt prinşi, pentru a-i face voia."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Timothy_03_01",
+      "chapter": 3,
+      "pericope_num": "01",
+      "title_en": "Godlessness in the Last Days",
+      "title_ro": "Necredința în zilele din urmă",
+      "start_verse": 1,
+      "end_verse": 9,
+      "verse_count": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Şi aceasta să ştii că, în zilele din urmă, vor veni vremuri grele;"
+        },
+        {
+          "verse": 2,
+          "text": "Că vor fi oameni iubitori de sine, iubitori de arginţi, lăudăroşi, trufaşi, hulitori, neascultători de părinţi, nemulţumitori, fără cucernicie,"
+        },
+        {
+          "verse": 3,
+          "text": "Lipsiţi de dragoste, neînduplecaţi, clevetitori, neînfrânaţi, cruzi, neiubitori de bine,"
+        },
+        {
+          "verse": 4,
+          "text": "Trădători, necuviincioşi, îngâmfaţi, iubitori de desfătări mai mult decât iubitori de Dumnezeu,"
+        },
+        {
+          "verse": 5,
+          "text": "Având înfăţişarea adevăratei credinţe, dar tăgăduind puterea ei. Depărtează-te şi de aceştia."
+        },
+        {
+          "verse": 6,
+          "text": "Căci dintre aceştia sunt cei ce se vâră prin case şi robesc femeiuşti împovărate de păcate şi purtate de multe feluri de pofte,"
+        },
+        {
+          "verse": 7,
+          "text": "Mereu învăţând şi neputând niciodată să ajungă la cunoaşterea adevărului."
+        },
+        {
+          "verse": 8,
+          "text": "După cum Iannes şi Iambres s-au împotrivit lui Moise, aşa şi aceştia stau împotriva adevărului, oameni stricaţi la minte şi netrebnici pentru credinţă."
+        },
+        {
+          "verse": 9,
+          "text": "Dar nu vor merge mai departe, pentru că nebunia lor va fi vădită tuturor, precum a fost şi a acelora."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Timothy_03_02",
+      "chapter": 3,
+      "pericope_num": "02",
+      "title_en": "Paul's Charge to Timothy",
+      "title_ro": "Îndemnul lui Pavel către Timotei",
+      "start_verse": 10,
+      "end_verse": 17,
+      "verse_count": 8,
+      "verses": [
+        {
+          "verse": 10,
+          "text": "Tu însă mi-ai urmat în învăţătură, în purtare, în năzuinţă, în credinţă, în îndelungă răbdare, în dragoste, în stăruinţă,"
+        },
+        {
+          "verse": 11,
+          "text": "În prigonirile şi suferinţele care mi s-au făcut în Antiohia, în Iconiu, în Listra; câte prigoniri am răbdat! şi din toate m-a izbăvit Domnul."
+        },
+        {
+          "verse": 12,
+          "text": "Şi toţi care voiesc să trăiască cucernic în Hristos Iisus vor fi prigoniţi."
+        },
+        {
+          "verse": 13,
+          "text": "Iar oamenii răi şi amăgitori vor merge spre tot mai rău, rătăcind pe alţii şi rătăciţi fiind ei înşişi."
+        },
+        {
+          "verse": 14,
+          "text": "Tu însă rămâi în cele ce ai învăţat şi de care eşti încredinţat, deoarece ştii de la cine le-ai învăţat,"
+        },
+        {
+          "verse": 15,
+          "text": "Şi fiindcă de mic copil cunoşti Sfintele Scripturi, care pot să te înţelepţească spre mântuire, prin credinţa cea întru Hristos Iisus."
+        },
+        {
+          "verse": 16,
+          "text": "Toată Scriptura este insuflată de Dumnezeu şi de folos spre învăţătură, spre mustrare, spre îndreptare, spre înţelepţirea cea întru dreptate,"
+        },
+        {
+          "verse": 17,
+          "text": "Astfel ca omul lui Dumnezeu să fie desăvârşit, bine pregătit pentru orice lucru bun."
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Timothy_04_01",
+      "chapter": 4,
+      "pericope_num": "01",
+      "title_en": "Personal Instructions",
+      "title_ro": "Îndrumări personale",
+      "start_verse": 1,
+      "end_verse": 18,
+      "verse_count": 18,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Eu te îndemn deci stăruitor în faţa lui Dumnezeu şi a lui Hristos Iisus, Care va să judece viii şi morţii, la arătarea Lui şi în împărăţia Lui;"
+        },
+        {
+          "verse": 2,
+          "text": "Propovăduieşte cuvântul, stăruieşte cu timp şi fără de timp, mustră, ceartă, îndeamnă, cu toată îndelunga-răbdare şi învăţătura."
+        },
+        {
+          "verse": 3,
+          "text": "Căci va veni o vreme când nu vor mai suferi învăţătura sănătoasă, ci - dornici să-şi desfăteze auzul - îşi vor grămădi învăţători după poftele lor,"
+        },
+        {
+          "verse": 4,
+          "text": "Şi îşi vor întoarce auzul de la adevăr şi se vor abate către basme."
+        },
+        {
+          "verse": 5,
+          "text": "Tu fii treaz în toate, suferă răul, fă lucru de evanghelist, slujba ta fă-o deplin!"
+        },
+        {
+          "verse": 6,
+          "text": "Că eu de-acum mă jertfesc şi vremea despărţirii mele s-a apropiat."
+        },
+        {
+          "verse": 7,
+          "text": "Lupta cea bună m-am luptat, călătoria am săvârşit, credinţa am păzit."
+        },
+        {
+          "verse": 8,
+          "text": "De acum mi s-a gătit cununa dreptăţii, pe care Domnul îmi va da-o în ziua aceea, El, Dreptul Judecător, şi nu numai mie, ci şi tuturor celor ce au iubit arătarea Lui."
+        },
+        {
+          "verse": 9,
+          "text": "Sileşte-te să vii curând la mine,"
+        },
+        {
+          "verse": 10,
+          "text": "Că Dimas, iubind veacul de acum, m-a lăsat şi s-a dus la Tesalonic, Crescent în Galatia, Tit în Dalmaţia;"
+        },
+        {
+          "verse": 11,
+          "text": "Numai Luca este cu mine. Ia pe Marcu şi adu-l cu tine, căci îmi este de folos în slujire."
+        },
+        {
+          "verse": 12,
+          "text": "Pe Tihic l-am trimis la Efes."
+        },
+        {
+          "verse": 13,
+          "text": "Când vei veni, adu-mi felonul pe care l-am lăsat în Troada, la Carp, precum şi cărţile, mai ales pergamentele."
+        },
+        {
+          "verse": 14,
+          "text": "Alexandru arămarul mi-a făcut multe rele; Domnul să-i răsplătească după faptele lui."
+        },
+        {
+          "verse": 15,
+          "text": "Păzeşte-te şi tu de el, căci s-a împotrivit foarte mult cuvântărilor noastre."
+        },
+        {
+          "verse": 16,
+          "text": "La întâia mea apărare, nimeni nu mi-a venit într-ajutor, ci toţi m-au părăsit. Să nu li se ţină în socoteală!"
+        },
+        {
+          "verse": 17,
+          "text": "Dar Domnul mi-a stat într-ajutor şi m-a întărit, pentru ca, prin mine, Evanghelia să fie pe deplin vestită şi s-o audă toate neamurile; iar eu am fost izbăvit din gura leului."
+        },
+        {
+          "verse": 18,
+          "text": "Domnul mă va izbăvi de orice lucru rău şi mă va mântui, în împărăţia Sa cerească. Lui fie slava în vecii vecilor. Amin!"
+        }
+      ]
+    },
+    {
+      "pericope_id": "2_Timothy_04_02",
+      "chapter": 4,
+      "pericope_num": "02",
+      "title_en": "Final Greetings and Benediction",
+      "title_ro": "Salutări finale și binecuvântare",
+      "start_verse": 19,
+      "end_verse": 22,
+      "verse_count": 4,
+      "verses": [
+        {
+          "verse": 19,
+          "text": "Îmbrăţişează pe Priscila şi pe Acvila şi casa lui Onisifor."
+        },
+        {
+          "verse": 20,
+          "text": "Erast a rămas în Corint; pe Trofim l-am lăsat în Milet, fiind bolnav."
+        },
+        {
+          "verse": 21,
+          "text": "Sileşte-te să vii mai înainte de începutul iernii. Te îmbrăţişează Eubul şi Pudenţiu şi Linos şi Claudia şi fraţii toţi."
+        },
+        {
+          "verse": 22,
+          "text": "Domnul Iisus Hristos să fie cu duhul tău! Harul fie cu voi! Amin."
+        }
+      ]
+    }
+  ]
+}
