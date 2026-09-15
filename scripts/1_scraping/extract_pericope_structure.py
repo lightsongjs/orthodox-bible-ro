@@ -3,12 +3,21 @@ import re
 import json
 from collections import defaultdict
 
-def parse_verse_numbers(content):
+def parse_verse_numbers(content, chapter_num=None, pericope_num=None):
     """
     Extract verse numbers from pericope content
 
+    BibleGateway prints the CHAPTER number in place of verse 1 at the start of a
+    chapter, so the first pericope of a chapter reads e.g. "12. Now concerning
+    spiritual gifts" for 1 Corinthians 12:1. Taking min()/max() blindly then
+    yields start=2, end=12 instead of 1-11, which makes the pericope swallow the
+    whole chapter. When the first numbered line carries the chapter number we
+    treat it as verse 1.
+
     Args:
         content: Text content from markdown file
+        chapter_num: Chapter this pericope belongs to, used to spot the marker
+        pericope_num: Pericope number; only the first one carries the marker
 
     Returns:
         tuple: (start_verse, end_verse) as integers
@@ -29,6 +38,17 @@ def parse_verse_numbers(content):
 
     if not verse_numbers:
         return None, None
+
+    # Chapter marker standing in for verse 1. Only the chapter's first pericope
+    # can carry it, and the marker always replaces verse 1, so the line after it
+    # must be verse 2 - without that check a later pericope legitimately opening
+    # at the verse whose number equals the chapter (Luke 6 pericope 2 starts at
+    # verse 6) would be rewritten to verse 1.
+    if (chapter_num is not None
+            and str(pericope_num).lstrip('0') in ('1', '')
+            and verse_numbers[0] == chapter_num
+            and (len(verse_numbers) == 1 or verse_numbers[1] == 2)):
+        verse_numbers[0] = 1
 
     return min(verse_numbers), max(verse_numbers)
 
@@ -79,7 +99,7 @@ def extract_book_structure(testament_dir, book_name):
         with open(filepath, 'r', encoding='utf-8') as f:
             content = f.read()
 
-        start_verse, end_verse = parse_verse_numbers(content)
+        start_verse, end_verse = parse_verse_numbers(content, chapter_num, pericope_num)
 
         if start_verse is None:
             print(f"  Warning: Could not extract verses from: {filename}")

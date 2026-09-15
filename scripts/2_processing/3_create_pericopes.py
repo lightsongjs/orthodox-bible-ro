@@ -205,9 +205,14 @@ class PericopeConverter:
                 start_verse = pericope['start_verse']
                 end_verse = pericope['end_verse']
 
-                # FIX: If this is the first pericope in the chapter and starts after verse 1,
-                # automatically include verse 1 (common issue with pericope structures)
+                # The chapter marker that used to make every first pericope start at
+                # verse 2 is now handled in extract_pericope_structure.py. A first
+                # pericope that still starts after verse 1 means the structure really
+                # does not cover the opening verses, so extend it but say so out loud
+                # instead of silently papering over it.
                 if idx == 0 and start_verse > 1:
+                    print(f"  Note: {english_book_name} {chapter_num} pericope 1 starts at "
+                          f"v{start_verse}; extending to v1 so no verse is dropped.")
                     start_verse = 1
 
                 # Extract verses
