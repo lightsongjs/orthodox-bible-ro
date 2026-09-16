@@ -356,6 +356,20 @@
       "name_ro": "Manase",
       "chapters": 1,
       "url": "https://www.bibliaortodoxa.ro/carte.php?id=54"
+    },
+    {
+      "id": 7,
+      "name_en": "Bel and the Dragon",
+      "name_ro": "Bel și balaurul",
+      "chapters": 1,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=7"
+    },
+    {
+      "id": 20,
+      "name_en": "Letter of Jeremiah",
+      "name_ro": "Epistola lui Ieremia",
+      "chapters": 1,
+      "url": "https://www.bibliaortodoxa.ro/carte.php?id=20"
     }
   ],
   "new_testament": [
